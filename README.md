@@ -52,3 +52,9 @@ Pull requests are welcome for:
 - improving station metadata
 
 Please try to keep the JSON format consistent with the existing files.
+
+## Copyright Notice
+
+SoundlyFM does not host, store, or distribute any audio content. This repository only contains publicly available station metadata and stream links collected from open sources.
+
+If you believe any entry infringes your rights, please open an issue or contact us to request removal, and it will be reviewed and handled as soon as possible.
