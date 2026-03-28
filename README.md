@@ -8,7 +8,7 @@ Most station entries were originally initialized from [radio-browser.info](https
 
 If you use SoundlyFM and would like to:
 
-- add a new country
+- add a new country or region
 - add new radio stations
 - update broken streams
 - remove duplicate entries
@@ -19,7 +19,7 @@ This dataset is public and not limited to SoundlyFM users. You are welcome to us
 
 ## Data Structure
 
-Each country is stored as a JSON file inside `station_source/`.
+Each country or region is stored as a JSON file inside `station_source/`.
 
 Example:
 
@@ -45,7 +45,7 @@ Example:
 
 Pull requests are welcome for:
 
-- new countries
+- new countries or regions
 - new stations
 - fixing unavailable streams
 - removing duplicates
