@@ -1,0 +1,285 @@
+[
+  {
+    "id": "edbe11ac",
+    "name": "RTHK Radio 1",
+    "url": "https://stm1.rthk.hk/radio1",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2f46d207",
+    "name": "RTHK Radio 2",
+    "url": "https://stm2.rthk.hk/radio2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "efa92a7a",
+    "name": "凤凰卫视中文台",
+    "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "88a153f1",
+    "name": "RTHK Radio 5",
+    "url": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "23ef1fb9",
+    "name": "香港普通话台",
+    "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b6efb820",
+    "name": "AXR Hong Kong",
+    "url": "https://28163.live.streamtheworld.com:443/AXR_HONGKONGAAC.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "3c499012",
+    "name": "Fing Radio",
+    "url": "https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "b086fce8",
+    "name": "RTHK Radio 2",
+    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0f320e42",
+    "name": "第四台",
+    "url": "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "05141fbe",
+    "name": "RTHK radio 3",
+    "url": "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c3c9aece",
+    "name": "RTHK Radio 8 央廣粵港澳大灣區之聲",
+    "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "cc5887b4",
+    "name": "Radio Disney Asia FM 100.7",
+    "url": "https://listen.radioking.com/radio/453221/stream/508076",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "66b44553",
+    "name": "La French Radio Honk-Kong et Macao",
+    "url": "https://listen.radioking.com/radio/333865/stream/382282",
+    "tags": []
+  },
+  {
+    "id": "b1c4ce2c",
+    "name": "RTHK Radio 6 央廣香港之聲",
+    "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "f2a22c3f",
+    "name": "面包台",
+    "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5adde972",
+    "name": "熱血時報",
+    "url": "https://ptmirror3.passiontimes.hk/hls3/stream.m3u8",
+    "tags": []
+  },
+  {
+    "id": "31a5279e",
+    "name": "CMC加州音乐",
+    "url": "https://cmc-ono.amagi.tv/playlist720_p.m3u8",
+    "tags": []
+  },
+  {
+    "id": "cd793446",
+    "name": "中央人民廣播電台 中國之聲",
+    "url": "https://zbbf2.ahbztv.com/live/4f3.m3u8",
+    "tags": []
+  },
+  {
+    "id": "349aac9c",
+    "name": "Radio Lantau",
+    "url": "https://radio.dripfeed.net/listen/radiolantau/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9876b15e",
+    "name": "CNR-14 香港之声",
+    "url": "https://ngcdn002.cnr.cn/live/xgzs/index.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "aecd056b",
+    "name": "radio 1",
+    "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c3310fd9",
+    "name": "ZENO FM 良友同行频道",
+    "url": "https://stream-153.zeno.fm/2uvcyzjw38ivv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIydXZjeXpqdzM4aXZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia2dBMjY3Q0lST0M2aUVUeHBMT0ZNQSIsImlhdCI6MTc2MzEwODk5NSwiZXhwIjoxNzYzMTA5MDU1fQ.RGcd4u1edF2gLmCQGbHdamfGlM5Q3WzACtr6o9NniUo",
+    "tags": []
+  },
+  {
+    "id": "b9efcbed",
+    "name": "中央人民廣播電台 經濟之聲",
+    "url": "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "acf61c4e",
+    "name": "深圳新聞廣播",
+    "url": "https://lhttp.qingting.fm/live/1270/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "5654b6b8",
+    "name": "深圳音樂廣播",
+    "url": "https://ls.qingting.fm/live/1271.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7fbba68d",
+    "name": "源声态汽车音乐电台",
+    "url": "https://lhttp-hw.qtfm.cn/live/20500021/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "2e7c4db9",
+    "name": "台山電台",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "77178de6",
+    "name": "陽光衛視",
+    "url": "https://stream.chinasuntv.com/680k/mid_video_index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "4aab38c6",
+    "name": "澳门绿邨电台",
+    "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a8f1efcb",
+    "name": "深圳交通廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "d70124db",
+    "name": "中山環保旅遊之聲",
+    "url": "https://lhttp.qingting.fm/live/1278/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "6543fd2b",
+    "name": "珠海資訊廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/5021725/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "d08f5049",
+    "name": "中山綜合廣播",
+    "url": "https://lhttp.qingting.fm/live/1277/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "898ffd11",
+    "name": "珠海綜合廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1274/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "1fb42ab5",
+    "name": "珠海環保經濟廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1275/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "eb8385c1",
+    "name": "CNR-14 香港之聲",
+    "url": "https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "67397519",
+    "name": "大連新聞綜合廣播",
+    "url": "https://live.xmcdn.com/live/2732/64.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a2ea66da",
+    "name": "大連都市之聲廣播",
+    "url": "https://lhttp-hw.qtfm.cn/live/1086/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "5c8d6477",
+    "name": "大連交通廣播",
+    "url": "https://live.ximalaya.com/radio-first-page-app/live/2817/64.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d6ab0329",
+    "name": "大連少兒廣播",
+    "url": "https://lhttp.qtfm.cn/live/1084/64k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fddec6e4",
+    "name": "Highfun Radios ( shows)",
+    "url": "https://stream-177.zeno.fm/vzgtzzs0x68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2emd0enpzMHg2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWVdVOVI5MHRTdHFPRnRCWVVRaG9oZyIsImlhdCI6MTc2MzEzMTg4MCwiZXhwIjoxNzYzMTMxOTQwfQ.EwpdAzNF4lwx-9NSTVKfkSSJyzOyk7FoETCi_QFfq7Q",
+    "tags": []
+  },
+  {
+    "id": "f2cfec50",
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "tags": []
+  }
+]

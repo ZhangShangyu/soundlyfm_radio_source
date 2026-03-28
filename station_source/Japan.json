@@ -1,0 +1,814 @@
+[
+  {
+    "id": "f2d119d8",
+    "name": "Jazz Sakura (asia dream radio)",
+    "url": "https://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6636523a",
+    "name": "Anime Para Ti",
+    "url": "https://stream-156.zeno.fm/qpn8mkt8c4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcG44bWt0OGM0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibmVvTTF4RThUanFxVnVqQnpicC1NdyIsImlhdCI6MTc2MDg2NDg5NiwiZXhwIjoxNzYwODY0OTU2fQ.6Rd3ul2FjTqjKYG517VS3rQ0Zb2_7tWH5VZFS5jubf4",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cc81889b",
+    "name": "Listen.Moe JPop Vorbis",
+    "url": "https://listen.moe/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9ab61643",
+    "name": "Gensokyo Radio",
+    "url": "https://stream.gensokyoradio.net/3/",
+    "tags": []
+  },
+  {
+    "id": "3f21edab",
+    "name": "R/a/dio",
+    "url": "https://relay0.r-a-d.io/main.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fe3d3457",
+    "name": "Shonan Beach FM 78.9",
+    "url": "https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "994bf142",
+    "name": "Free FM Tokyo",
+    "url": "https://rocafmadrid.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ac39b543",
+    "name": "Free FM 80 Tokyo",
+    "url": "https://freefm80.radioca.st/",
+    "tags": []
+  },
+  {
+    "id": "dd0f7c63",
+    "name": "Nightwave Plaza OPUS 96",
+    "url": "https://radio.plaza.one/opus",
+    "tags": []
+  },
+  {
+    "id": "9d92d7f6",
+    "name": "Ottava",
+    "url": "https://ottava2.out.airtime.pro:8000/ottava2_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "26ac1d26",
+    "name": "Voice of the Planet Ottava",
+    "url": "https://voiceoftheplanet.out.airtime.pro:8000/voiceoftheplanet_a",
+    "tags": []
+  },
+  {
+    "id": "40a01ee9",
+    "name": "Súper Tokio Radio",
+    "url": "https://streamer.radio.co/s83eb8ff39/listen",
+    "tags": []
+  },
+  {
+    "id": "c4e17ff0",
+    "name": "Big B Radio - Jpop",
+    "url": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9661e937",
+    "name": "Fred Film Radio(日本語)",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
+    "tags": []
+  },
+  {
+    "id": "b7d6193c",
+    "name": "Chofu FM",
+    "url": "https://mtist.as.smartstream.ne.jp/30039/livestream/chunklist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "51c173fe",
+    "name": "Nightwave Plaza MP3 182",
+    "url": "https://radio.plaza.one/mp3",
+    "tags": []
+  },
+  {
+    "id": "ea71b275",
+    "name": "BAN-BANラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30078/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "7989ae0e",
+    "name": "BOX : Japan City Pop - 日本のシティポップ",
+    "url": "https://boxradio-edge-00.streamafrica.net/jpopchill",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e57ebf79",
+    "name": "Listen.moe J-Pop (MP3)",
+    "url": "https://listen.moe/fallback",
+    "tags": []
+  },
+  {
+    "id": "209c9151",
+    "name": "J-Rock Powerplay(Asia DREAM Radio)",
+    "url": "https://kathy.torontocast.com:3340/;?shoutcast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b347709a",
+    "name": "かわさきＦＭ",
+    "url": "https://mtist.as.smartstream.ne.jp/30046/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2864d944",
+    "name": "J-Pop Powerplay Kawaii(asia dream radio)",
+    "url": "https://kathy.torontocast.com:3060/;?shoutcast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b826eb5d",
+    "name": "FM那覇 (FM Naha)",
+    "url": "https://mtist.as.smartstream.ne.jp/30068/livestream/chunklist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "366e9752",
+    "name": "Vaporwave",
+    "url": "https://radio.plaza.one/ogg",
+    "tags": []
+  },
+  {
+    "id": "571d52d9",
+    "name": "J1 HITS",
+    "url": "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325",
+    "tags": []
+  },
+  {
+    "id": "070e6f31",
+    "name": "OnlyHits Japan",
+    "url": "https://ais-sa3.cdnstream1.com/2629_128.mp3",
+    "tags": []
+  },
+  {
+    "id": "b6f4ba85",
+    "name": "Real Love Music - Radio Future Funk",
+    "url": "https://stream-178.zeno.fm/48533y95cnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ODUzM3k5NWNucnV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRm84VUZvVkVSM3FmWHlxQVU4UjhudyIsImlhdCI6MTc2MDgzMzc3MSwiZXhwIjoxNzYwODMzODMxfQ.KmnAA_a3QyJvG8ZQya6uw5gldIrikNSoyuhOzvc1Dpc",
+    "tags": []
+  },
+  {
+    "id": "7024e00a",
+    "name": "Tokyo Star Radio(八王子FM)",
+    "url": "https://mtist.as.smartstream.ne.jp/30081/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e54ea5d2",
+    "name": "エフエム椿台",
+    "url": "https://mtist.as.smartstream.ne.jp/30014/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bd342523",
+    "name": "エフエム世田谷",
+    "url": "https://mtist.as.smartstream.ne.jp/30027/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "79b1f8da",
+    "name": "Hitsujikai Radio",
+    "url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "tags": []
+  },
+  {
+    "id": "264d46ff",
+    "name": "FM世田谷",
+    "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e788d779",
+    "name": "Jazz Sakura",
+    "url": "https://kathy.torontocast.com:3330/;",
+    "tags": []
+  },
+  {
+    "id": "f53ff575",
+    "name": "WVVV V96.9",
+    "url": "https://ice5.securenetsystems.net/WVVVFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dddbd450",
+    "name": "京都三条ラジオカフェ",
+    "url": "https://mtist.as.smartstream.ne.jp/30082/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "cbf455df",
+    "name": "tilderadio",
+    "url": "https://azuracast.tilderadio.org/radio/8000/radio.ogg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3fd0bcf4",
+    "name": "Patchwork Archive - VTuber Songs and Covers",
+    "url": "https://a4.asurahosting.com:6930/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "392cc7d8",
+    "name": "J-Pop Powerplay Kawaii",
+    "url": "https://kathy.torontocast.com:3060/;",
+    "tags": []
+  },
+  {
+    "id": "13939222",
+    "name": "Opening Radio",
+    "url": "https://stream-176.zeno.fm/tza2ayy47qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0emEyYXl5NDdxcnV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMy1hdjV0azdTMVNrNHBPazRDX242QSIsImlhdCI6MTc2MDgyODc2MSwiZXhwIjoxNzYwODI4ODIxfQ.yI2f3h94-rUaZVe4muB2oBHz2EVIMoCnJ9h0bvP5c38",
+    "tags": []
+  },
+  {
+    "id": "6e1a1001",
+    "name": "FM RADIO3 (ラジオ3)",
+    "url": "https://mtist.as.smartstream.ne.jp/30007/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "640f1ffb",
+    "name": "FMメイプル",
+    "url": "https://mtist.as.smartstream.ne.jp/30015/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d140856f",
+    "name": "WREP",
+    "url": "https://c13.radioboss.fm:8200/stream",
+    "tags": []
+  },
+  {
+    "id": "30f6c6b6",
+    "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+    "url": "https://s3.radio.co/sc8d895604/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1fbd11f0",
+    "name": "AFN GO TOKYO",
+    "url": "https://24933.live.streamtheworld.com/AFNP_TKO_SC",
+    "tags": []
+  },
+  {
+    "id": "d3617766",
+    "name": "775ライブリーFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30026/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bf26aa25",
+    "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
+    "url": "https://kathy.torontocast.com:3350/;?shoutcast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2776b912",
+    "name": "Friends Forever 128kbps MP3",
+    "url": "https://s5.radio.co/s6140c7241/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "36a5106d",
+    "name": "FMひたち",
+    "url": "https://mtist.as.smartstream.ne.jp/30023/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2349da76",
+    "name": "fmいずみ",
+    "url": "https://mtist.as.smartstream.ne.jp/30018/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a1aa53a2",
+    "name": "ラジオカロスサッポロ FM78.1",
+    "url": "https://mtist.as.smartstream.ne.jp/30034/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "61c5fb77",
+    "name": "J-Club Club Bandstand",
+    "url": "https://cast1.torontocast.com:2060/;.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e4751943",
+    "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
+    "url": "https://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+    "tags": []
+  },
+  {
+    "id": "bd4bad06",
+    "name": "Radio Mix Kyoto FM87.0",
+    "url": "https://mtist.as.smartstream.ne.jp/30071/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e5928244",
+    "name": "レインボータウンFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30036/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "9c144f85",
+    "name": "BAY WAVE 塩竈のラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30056/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b7b3f422",
+    "name": "FMおたる",
+    "url": "https://mtist.as.smartstream.ne.jp/30025/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "06b9a221",
+    "name": "FMたちかわ",
+    "url": "https://mtist.as.smartstream.ne.jp/30033/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e7f5db91",
+    "name": "FM Kawaguchi 856 studio (FM川口)",
+    "url": "https://mtist.as.smartstream.ne.jp/30035/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a7b7b1f9",
+    "name": "Rainwave All",
+    "url": "https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d",
+    "tags": []
+  },
+  {
+    "id": "0ca0d393",
+    "name": "AIR STATION HIBIKI",
+    "url": "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6521f802",
+    "name": "大富ラジオ",
+    "url": "https://stream-178.zeno.fm/oaxp6mswcqltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXhwNm1zd2NxbHR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY0dzVGE0VkpSM09NVUdJQ3RpWFBxZyIsImlhdCI6MTc2MDg0MDk0OSwiZXhwIjoxNzYwODQxMDA5fQ.8OgvpHUCErBkDbOVt0U_75GvipC04LWmeXqQnDEyHxY",
+    "tags": []
+  },
+  {
+    "id": "6795b637",
+    "name": "エフエムたつごう",
+    "url": "https://mtist.as.smartstream.ne.jp/30072/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c31c6d09",
+    "name": "まえばしCITYエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30043/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "609b3b2d",
+    "name": "FMおとくに",
+    "url": "https://mtist.as.smartstream.ne.jp/30063/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6e1e72da",
+    "name": "ぎのわんシティFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b4821ced",
+    "name": "FMアップル",
+    "url": "https://mtist.as.smartstream.ne.jp/30090/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "8aa70786",
+    "name": "J-Rock PowerPlay",
+    "url": "https://kathy.torontocast.com:3340/stream",
+    "tags": []
+  },
+  {
+    "id": "daf17df2",
+    "name": "KOCOラジ",
+    "url": "https://mtist.as.smartstream.ne.jp/30020/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "01bc63b6",
+    "name": "FM N1",
+    "url": "https://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ca1e4fa6",
+    "name": "ハローハッピー・こしがやエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30096/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b68ac1c3",
+    "name": "FMいしがきサンサンラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30069/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "64143c84",
+    "name": "DARAZ FM",
+    "url": "https://mtist.as.smartstream.ne.jp/30053/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d3365222",
+    "name": "FMふっかちゃん",
+    "url": "https://mtist.as.smartstream.ne.jp/30047/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "99270cd6",
+    "name": "FMたんご",
+    "url": "https://mtist.as.smartstream.ne.jp/30073/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e933d4cc",
+    "name": "なとらじ801",
+    "url": "https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "52c12bce",
+    "name": "FMやんばる",
+    "url": "https://mtist.as.smartstream.ne.jp/30095/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6d8ad6c5",
+    "name": "Otaku Music Radio",
+    "url": "https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882",
+    "tags": []
+  },
+  {
+    "id": "36896ebf",
+    "name": "FMいわき",
+    "url": "https://mtist.as.smartstream.ne.jp/30009/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6df43314",
+    "name": "FM Mot.com",
+    "url": "https://mtist.as.smartstream.ne.jp/30019/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "20804fb6",
+    "name": "Gensokyo Radio (Original)",
+    "url": "https://stream.gensokyoradio.net/1/",
+    "tags": []
+  },
+  {
+    "id": "d51f1caf",
+    "name": "チョクラジ",
+    "url": "https://mtist.as.smartstream.ne.jp/30085/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "080ce874",
+    "name": "カシオペアFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30050/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3b422a4e",
+    "name": "wi-radio",
+    "url": "https://mtist.as.smartstream.ne.jp/30087/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2340effc",
+    "name": "FMとよみ",
+    "url": "https://mtist.as.smartstream.ne.jp/30083/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "162f01ed",
+    "name": "BeFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30079/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bde29b3b",
+    "name": "J-Club Powerplay HipHop",
+    "url": "https://kathy.torontocast.com:3350/;",
+    "tags": []
+  },
+  {
+    "id": "d24baba5",
+    "name": "敦賀FM",
+    "url": "https://mtist.as.smartstream.ne.jp/30012/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "363f7cf1",
+    "name": "ラヂオもりおか FM76.9",
+    "url": "https://mtist.as.smartstream.ne.jp/30017/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2de29ca1",
+    "name": "鹿角きりたんぽFM",
+    "url": "https://mtist.as.smartstream.ne.jp/30089/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3f609b65",
+    "name": "みやこハーバーラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30097/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "dc494042",
+    "name": "フラワーラジオ",
+    "url": "https://mtist.as.smartstream.ne.jp/30002/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "fbd8d6f8",
+    "name": "B･FM791",
+    "url": "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "9e27a845",
+    "name": "あまみエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30054/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2b97c705",
+    "name": "REDS WAVE",
+    "url": "https://mtist.as.smartstream.ne.jp/30008/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ef62f81f",
+    "name": " Kamakura FM",
+    "url": "https://kamakura.stream.laut.fm/kamakura?t302=2025-10-19_03-21-59&uuid=0bbccc3b-f407-4361-9ff3-cacb313fb6e5",
+    "tags": []
+  },
+  {
+    "id": "905c219b",
+    "name": "FMゆーとぴあ",
+    "url": "https://mtist.as.smartstream.ne.jp/30030/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6dde2f32",
+    "name": "Friends Forever 64kbps AAC",
+    "url": "https://s5.radio.co/s6140c7241/low",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "68a7fd26",
+    "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
+    "url": "https://streaming.radio.co/se4a8e6a93/low",
+    "tags": []
+  },
+  {
+    "id": "2c787e2b",
+    "name": "SOUND UP STATION NFRS",
+    "url": "https://stream2.rcast.net/70945",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9c6f565a",
+    "name": "CGNTV日本台",
+    "url": "https://cgntvlive-944.acs.wecandeo.com/ms/2850/944/index_1.m3u8",
+    "tags": []
+  },
+  {
+    "id": "28c2a1e3",
+    "name": "FMのべおか",
+    "url": "https://mtist.as.smartstream.ne.jp/30088/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "42e45b69",
+    "name": "FMぱるるん",
+    "url": "https://mtist.as.smartstream.ne.jp/30022/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b11385f8",
+    "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
+    "url": "https://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
+    "tags": []
+  },
+  {
+    "id": "376f70d8",
+    "name": "Nightwave Plaza (Opus 64)",
+    "url": "https://radio.plaza.one/ogg_low",
+    "tags": []
+  },
+  {
+    "id": "872868ac",
+    "name": "FM ジャングル",
+    "url": "https://mtist.as.smartstream.ne.jp/30013/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e755b836",
+    "name": "FMぎのわん",
+    "url": "https://mtist.as.smartstream.ne.jp/30093/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "8c084bf4",
+    "name": "ラジオ・ミュー",
+    "url": "https://mtist.as.smartstream.ne.jp/30006/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "af57c015",
+    "name": "ラヂオ気仙沼",
+    "url": "https://mtist.as.smartstream.ne.jp/30094/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "9cc8886c",
+    "name": "横手かまくらエフエム",
+    "url": "https://mtist.as.smartstream.ne.jp/30076/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3367eb2e",
+    "name": "FMはまなすジャパン",
+    "url": "https://mtist.as.smartstream.ne.jp/30004/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "fbf859bc",
+    "name": ".quran",
+    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e5ccf67b",
+    "name": "FMうしくうれしく放送",
+    "url": "https://mtist.as.smartstream.ne.jp/30021/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6ed8345d",
+    "name": "ＦＭカオン",
+    "url": "https://mtist.as.smartstream.ne.jp/30057/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "42b6480a",
+    "name": "ラジオスイート",
+    "url": "https://mtist.as.smartstream.ne.jp/30061/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "208b1517",
+    "name": "ラジオ石巻",
+    "url": "https://mtist.as.smartstream.ne.jp/30037/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a3d719a5",
+    "name": "Moon Mission Recordings, Tokyo Deep and Electronic",
+    "url": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream;",
+    "tags": []
+  },
+  {
+    "id": "2df39a24",
+    "name": "Radio Eigekai Indies TYO",
+    "url": "https://n0b.radiojar.com/66zgtscuc1duv?rj-ttl=5&rj-tok=AAABmfmLZxUA9zNvq-ie1O1-vQ",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "325d73fe",
+    "name": "Gensokyo Radio (OGG)",
+    "url": "https://stream.gensokyoradio.net/2/",
+    "tags": []
+  },
+  {
+    "id": "e6ba5d13",
+    "name": "FMりべーる",
+    "url": "https://mtist.as.smartstream.ne.jp/30074/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "cdac3493",
+    "name": "Miku Radio",
+    "url": "https://miku.fm/listen/miku/mp3-320",
+    "tags": []
+  },
+  {
+    "id": "5e172f55",
+    "name": "J-Pop Powerplay",
+    "url": "https://kathy.torontocast.com:3560/;",
+    "tags": []
+  },
+  {
+    "id": "21bbed3f",
+    "name": "FMわたらせ",
+    "url": "https://mtist.as.smartstream.ne.jp/30048/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "9da8d19b",
+    "name": "Nonstop Casiopea",
+    "url": "https://nonstopcasiopea.radioca.st/",
+    "tags": []
+  },
+  {
+    "id": "3901c71b",
+    "name": "Nightwave Plaza (HLS)",
+    "url": "https://radio.plaza.one/hls",
+    "tags": []
+  },
+  {
+    "id": "dfc5e50a",
+    "name": "BadRadio",
+    "url": "https://s2.radio.co/s2b2b68744/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "116bb974",
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "9c15622a",
+    "name": "Gotanno FM 89.2",
+    "url": "https://radio.gotanno.love/;",
+    "tags": [
+      "music"
+    ]
+  }
+]

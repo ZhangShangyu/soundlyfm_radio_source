@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "f29b60fc",
+    "name": "BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9dde3114",
+    "name": "Classic FM UK",
+    "url": "https://ice-the.musicradio.com/ClassicFMMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8a1af0c8",
+    "name": "LBC Radio",
+    "url": "https://media-sov.musicradio.com/LBC973MP3Low",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a2915339",
+    "name": "talkSPORT",
+    "url": "https://radio.talksport.com/stream?aisGetOriginalStream=true",
+    "tags": []
+  },
+  {
+    "id": "9c6a1498",
+    "name": "Capital FM London",
+    "url": "https://media-ice.musicradio.com/CapitalMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e4f7d3c8",
+    "name": "Heart London 106.2 [MP3]",
+    "url": "https://ice-sov.musicradio.com/HeartLondonMP3",
+    "tags": []
+  },
+  {
+    "id": "46a7fc5d",
+    "name": "Heart 80s",
+    "url": "https://media-ssl.musicradio.com/Heart80sMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "de45b12e",
+    "name": "LBC UK",
+    "url": "https://media-ice.musicradio.com/LBCUK",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d393fd8b",
+    "name": "Smooth Radio",
+    "url": "https://media-the.musicradio.com/SmoothEastMids",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "543fe705",
+    "name": "TMM 1",
+    "url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "22616095",
+    "name": "Virgin Radio UK",
+    "url": "https://radio.virginradio.co.uk/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "2b7a35c2",
+    "name": "LBC London (National stream)",
+    "url": "https://media-ice.musicradio.com/LBCUKMP3Low",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7f223764",
+    "name": "Heart 70s",
+    "url": "https://media-ssl.musicradio.com/Heart70sMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "53bfa1b6",
+    "name": "talkRADIO",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "82fdfabf",
+    "name": "Gold",
+    "url": "https://media-ssl.musicradio.com/GoldMP3",
+    "tags": []
+  },
+  {
+    "id": "3810e490",
+    "name": "Classic FM",
+    "url": "https://media-ice.musicradio.com/ClassicFMMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2b6b4726",
+    "name": "Smooth Chill",
+    "url": "https://media-ssl.musicradio.com/ChillMP3",
+    "tags": []
+  },
+  {
+    "id": "e2eb1334",
+    "name": "Jazz London Radio",
+    "url": "https://radio.canstream.co.uk:8075/live.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "261b3379",
+    "name": "TMM 2",
+    "url": "https://listen-msmn.sharp-stream.com/nme2.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3b519442",
+    "name": "Heart Dance",
+    "url": "https://media-ssl.musicradio.com/HeartDanceMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f0b9b037",
+    "name": "Heart 90s",
+    "url": "https://media-ssl.musicradio.com/Heart90sMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "12735a1c",
+    "name": "Times Radio UK",
+    "url": "https://timesradio.wireless.radio/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "ca856a10",
+    "name": "talkRADIO",
+    "url": "https://radio.talkradio.co.uk/stream-mobile?ref=rf",
+    "tags": []
+  },
+  {
+    "id": "f260aa3e",
+    "name": "RadioX UK",
+    "url": "https://icecast.thisisdax.com/RadioXUKMP3",
+    "tags": []
+  },
+  {
+    "id": "1112d462",
+    "name": "LBC London (London stream) AAC",
+    "url": "https://media-sov.musicradio.com/LBCLondon",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1faf482f",
+    "name": "Classic FM Relax",
+    "url": "https://media-the.musicradio.com/ClassicFM-M-Relax",
+    "tags": []
+  },
+  {
+    "id": "274c3bf3",
+    "name": "LBC London News",
+    "url": "https://media-ice.musicradio.com/LBC1152",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "da8761f8",
+    "name": "Sky News Radio Latest News UK",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cdcefcf4",
+    "name": "Classic FM UK",
+    "url": "https://media-the.musicradio.com/ClassicFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a649aee4",
+    "name": "talkSPORT 2",
+    "url": "https://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;",
+    "tags": []
+  },
+  {
+    "id": "7103c750",
+    "name": "Heart UK",
+    "url": "https://media-ice.musicradio.com/HeartUKMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7babe91f",
+    "name": "Heart London 106.2 [AAC]",
+    "url": "https://media-ice.musicradio.com/HeartLondon",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "47b821e5",
+    "name": "LBC London (London stream) MP3",
+    "url": "https://media-ice.musicradio.com/LBCLondonMP3Low",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "18edf5cd",
+    "name": "Techno.FM",
+    "url": "https://stream.techno.fm/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "8dbb327a",
+    "name": "1Mix Radio Trance",
+    "url": "https://fr2.1mix.co.uk:8060/192",
+    "tags": []
+  },
+  {
+    "id": "01fe3080",
+    "name": "Radio X",
+    "url": "https://media-the.musicradio.com/RadioXUK",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "17dcc69f",
+    "name": "LOVE.radio Only Love Songs 70s80s90s",
+    "url": "https://loveradio.streamingmedia.it/england",
+    "tags": []
+  },
+  {
+    "id": "7783c626",
+    "name": "Radio X Manchester",
+    "url": "https://media-the.musicradio.com/RadioXManchester",
+    "tags": []
+  },
+  {
+    "id": "e365cf52",
+    "name": "TalkSPORT",
+    "url": "https://radio.talksport.com/stream",
+    "tags": []
+  },
+  {
+    "id": "2a0a2ba5",
+    "name": "Classic FM at the Movies",
+    "url": "https://media-sov.musicradio.com/ClassicFM-M-Movies",
+    "tags": []
+  },
+  {
+    "id": "f9779142",
+    "name": "BBC Radio 4 (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8367efcf",
+    "name": "Heart 80s",
+    "url": "https://media-ice.musicradio.com/Heart80sMP3",
+    "tags": []
+  },
+  {
+    "id": "997c36ca",
+    "name": "GBNews",
+    "url": "https://listen-gbnews.sharp-stream.com/gbnews.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9ce14984",
+    "name": "Exclusively Dire Straits",
+    "url": "https://nl4.mystreaming.net:443/er/direstraits/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cdfa3b04",
+    "name": "Virgin Radio Chilled",
+    "url": "https://virgin.live.stream.broadcasting.news/stream-chilled",
+    "tags": []
+  },
+  {
+    "id": "66c979ac",
+    "name": "Chillout Ibiza FM",
+    "url": "https://edge3.peta.live365.net/b05055_128mp3",
+    "tags": []
+  },
+  {
+    "id": "e895df3f",
+    "name": "Gold AM 1548 London",
+    "url": "https://media-ice.musicradio.com/GoldMP3",
+    "tags": []
+  },
+  {
+    "id": "fd07f0cd",
+    "name": "Capital Dance",
+    "url": "https://icecast.thisisdax.com/CapitalDanceMP3",
+    "tags": []
+  },
+  {
+    "id": "21cf42dc",
+    "name": "BBC World Service for East Asia",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b7ec9561",
+    "name": "Smooth Radio London 102.2",
+    "url": "https://media-the.musicradio.com/SmoothLondonMP3",
+    "tags": []
+  },
+  {
+    "id": "48d49fd4",
+    "name": "BBC News HD (720P)",
+    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d09f5b88",
+    "name": "Radio X London (MP3)",
+    "url": "https://media-the.musicradio.com/RadioXLondonMP3",
+    "tags": []
+  },
+  {
+    "id": "d3b14ad5",
+    "name": "TruckersFM",
+    "url": "https://radio.truckers.fm/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d6d025fe",
+    "name": "Worldwide FM",
+    "url": "https://worldwidefm.out.airtime.pro:8000/worldwidefm_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c17cdade",
+    "name": "Радио Сева (Radio Seva Novgorodsev)",
+    "url": "https://seva.ru/radio/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "b9a2a71c",
+    "name": "BBC Radio 6 Music",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9fa742c4",
+    "name": "Heart",
+    "url": "https://media-the.musicradio.com/HeartNorthLancsCumbria",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4263d1b1",
+    "name": "NTS Radio 1",
+    "url": "https://stream-relay-geo.ntslive.net/stream",
+    "tags": []
+  },
+  {
+    "id": "735df625",
+    "name": "Chill",
+    "url": "https://media-ice.musicradio.com/ChillMP3",
+    "tags": []
+  },
+  {
+    "id": "325ddece",
+    "name": "BBC Radio 5 Live (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1d390b0e",
+    "name": "Times Radio (UK) 48k AAC",
+    "url": "https://timesradio.wireless.radio/stream-mobile?ref=rf",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "08c14725",
+    "name": "BBC Radio 2",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.norewind.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7de09276",
+    "name": "BSJ.FM Best Smooth Jazz",
+    "url": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
+    "tags": []
+  },
+  {
+    "id": "636f75e9",
+    "name": "BritCom 2 - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/britcom2/stream",
+    "tags": []
+  },
+  {
+    "id": "ff65b0b3",
+    "name": "London Soul Radio",
+    "url": "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "78277c06",
+    "name": "Exclusively Supertramp",
+    "url": "https://nl4.mystreaming.net:443/er/supertramp/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "26e709cf",
+    "name": "TMM 2 (HQ)",
+    "url": "https://listen-msmn.sharp-stream.com/nme2high.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f44c5b35",
+    "name": "NTS Radio 2",
+    "url": "https://stream-relay-geo.ntslive.net/stream2",
+    "tags": []
+  },
+  {
+    "id": "97e27411",
+    "name": "Exclusively AC/DC",
+    "url": "https://nl4.mystreaming.net:443/er/acdc/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "891016e8",
+    "name": "Energy FM - Non Stop Mixes",
+    "url": "https://radio.streemlion.com:2365/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "150a1bfb",
+    "name": "BBC Radio 3 (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "61c561bb",
+    "name": "Radio X London",
+    "url": "https://media-the.musicradio.com/RadioXLondon",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c1217e8",
+    "name": "SOUL RADIO Only Classic Soul",
+    "url": "https://listen.soulradio.uk/uk",
+    "tags": []
+  },
+  {
+    "id": "1aa23d57",
+    "name": "England - Heart London Radio",
+    "url": "https://ice-the.musicradio.com/HeartLondonMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "935ed7d8",
+    "name": "LBC News",
+    "url": "https://media-ssl.musicradio.com/LBCNewsUK",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5b552c5c",
+    "name": "House Nation UK",
+    "url": "https://streaming.radio.co/s06bd9d805/listen",
+    "tags": []
+  },
+  {
+    "id": "87432af6",
+    "name": "Boom Radio",
+    "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+    "tags": []
+  },
+  {
+    "id": "85497dd5",
+    "name": "Techno.FM (320 kbit)",
+    "url": "https://stream.techno.fm/radio320.mp3",
+    "tags": []
+  },
+  {
+    "id": "335743ca",
+    "name": "Teenage Kicks Radio",
+    "url": "https://evcast.mediacp.eu:1165/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8f67f40b",
+    "name": "Strange Radio - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/strangeradio/stream",
+    "tags": []
+  },
+  {
+    "id": "e6734629",
+    "name": "Happy Hardcore",
+    "url": "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c47fad1",
+    "name": "BritCom 1 - British Comedy Radio  (Pumpkin FM OTRN)",
+    "url": "https://cast2.asurahosting.com/proxy/britcom1/stream",
+    "tags": []
+  },
+  {
+    "id": "1ff660ed",
+    "name": "BBC Radio 4 Extra (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3871fe0c",
+    "name": "Kniteforce Radio",
+    "url": "https://kniteforce.out.airtime.pro/kniteforce_a",
+    "tags": []
+  },
+  {
+    "id": "86b5646d",
+    "name": "Radio X Classic Rock",
+    "url": "https://media-ice.musicradio.com/RadioXClassicRockMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d0c795e6",
+    "name": "Heart Dance",
+    "url": "https://media-ssl.musicradio.com/HeartDance",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d6401b62",
+    "name": "Paranormal UK Radio",
+    "url": "https://s6.citrus3.com:8014/stream",
+    "tags": []
+  },
+  {
+    "id": "d8680c31",
+    "name": "Slow Focus | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape",
+    "tags": []
+  },
+  {
+    "id": "f52fcf57",
+    "name": "BBC中文电台",
+    "url": "https://stream-176.zeno.fm/vmnqf6bplmfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2bW5xZjZicGxtZnZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaHNhNkxwREtSM3V5WHdtZHVDNGR5USIsImlhdCI6MTc2MDgyODk1OSwiZXhwIjoxNzYwODI5MDE5fQ.Ej_HJrXb0y3uNPPWODBTx4fi6POzlbjfCR24dIEGhYM",
+    "tags": []
+  },
+  {
+    "id": "6c65e397",
+    "name": "Heart Xmas",
+    "url": "https://icecast.thisisdax.com/HeartXmasMP3",
+    "tags": []
+  },
+  {
+    "id": "df3dff18",
+    "name": "Resonance FM 104.4 - London",
+    "url": "https://stream.resonance.fm/resonance",
+    "tags": []
+  },
+  {
+    "id": "0663f127",
+    "name": "sky news UK",
+    "url": "https://tunein.cdnstream1.com/3688_96.mp3?aw_0_1st.skey=1718490659&aw_0_1st.abtest=&aw_0_1st.stationId=s2583&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en",
+    "tags": []
+  },
+  {
+    "id": "eaee1d20",
+    "name": "Fun Kids",
+    "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+    "tags": []
+  },
+  {
+    "id": "c1c0d7ce",
+    "name": "BritCom 3 - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/britcom3/stream",
+    "tags": []
+  },
+  {
+    "id": "9a3de2f7",
+    "name": "Bailiwick Radio Classics",
+    "url": "https://streaming.radio.co/s20224a067/listen",
+    "tags": []
+  },
+  {
+    "id": "78525d18",
+    "name": "talkSPORT 2",
+    "url": "https://radio.talksport.com/stream2",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "18a5411c",
+    "name": "UK Bass Radio",
+    "url": "https://s2.ssl-stream.com/listen/uk_bass_radio/stream",
+    "tags": []
+  },
+  {
+    "id": "10336d97",
+    "name": "ROKit Radio Science Fiction",
+    "url": "https://streaming05.liveboxstream.uk/proxy/roksta12/stream",
+    "tags": []
+  },
+  {
+    "id": "966366f9",
+    "name": "Heart FM Glasgow",
+    "url": "https://media-the.musicradio.com/HeartGlasgow?amsparams=playerid:UKRP;skey:1546958888&aw_0_req.gdpr=true&aw_0_1st.playerid=UKRP&amp;aw_0_1st.ts=1546958886&nmcuid=null&aw_0_1st.nmc=%5B%22%22%5D",
+    "tags": []
+  },
+  {
+    "id": "80e8700a",
+    "name": "Giants of Jazz Radio",
+    "url": "https://streaming.radio.co/s297e618a7/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "12eef4f4",
+    "name": "Capital Chill",
+    "url": "https://media-ssl.musicradio.com/CapitalChill",
+    "tags": []
+  },
+  {
+    "id": "bd794a8a",
+    "name": "Heart Suffolk",
+    "url": "https://ice-sov.musicradio.com/HeartSuffolkMP3",
+    "tags": []
+  },
+  {
+    "id": "bc09e69a",
+    "name": "DanceRadioUK - Dance UK",
+    "url": "https://dancestream.danceradiouk.com/stream/1/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1b4644d4",
+    "name": "box uk",
+    "url": "https://boxstream.danceradiouk.com/stream",
+    "tags": []
+  },
+  {
+    "id": "7c1d30d5",
+    "name": "Now 70s",
+    "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "1b808fee",
+    "name": "100% Hip Hop | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape2",
+    "tags": []
+  },
+  {
+    "id": "a51a7d7b",
+    "name": "Heart Essex 96.3 & 102.6",
+    "url": "https://ice-sov.musicradio.com/HeartEssexMP3",
+    "tags": []
+  },
+  {
+    "id": "c536f242",
+    "name": "Diva Radio - Funk & Disco Music Paradise",
+    "url": "https://stream.deevaradio.net:10443/divaradiofunk",
+    "tags": []
+  },
+  {
+    "id": "dc236f42",
+    "name": "MoE Lofi",
+    "url": "https://stream-178.zeno.fm/3u1qndyk8rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzdTFxbmR5azhyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHptOXo5bkJSaC1HcWttMC1KZDBldyIsImlhdCI6MTc2MDg2OTgwNiwiZXhwIjoxNzYwODY5ODY2fQ.drEU-rUl6kxcC11ddXIws86d3_zDop6CwlFi2Q1qUn8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5df27dae",
+    "name": "ROKit Radio : British Comedy 1",
+    "url": "https://streaming04.liveboxstream.uk/proxy/roksta14/stream",
+    "tags": []
+  },
+  {
+    "id": "c139643e",
+    "name": "House Music Radio",
+    "url": "https://uk4-vn.mixstream.net/:8128/listen.mp3",
+    "tags": []
+  },
+  {
+    "id": "caaef31b",
+    "name": "Eric Clapton ",
+    "url": "https://2.mystreaming.net:443/er/ericclapton/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "972993c3",
+    "name": "Nation 60s",
+    "url": "https://listen-nation.sharp-stream.com/nation60s.mp3",
+    "tags": []
+  },
+  {
+    "id": "16988030",
+    "name": "Kool FM",
+    "url": "https://admin.stream.rinse.fm/proxy/kool/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e81ccc23",
+    "name": "gb news",
+    "url": "https://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF",
+    "tags": []
+  },
+  {
+    "id": "301e31d9",
+    "name": "Virgin Radio Anthems",
+    "url": "https://virgin.live.stream.broadcasting.news/stream-legends",
+    "tags": []
+  },
+  {
+    "id": "de5d46fa",
+    "name": "Bbc tv",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service?s=1619733260&e=1619747660&h=f8bc47f18c4b24de16cf2efa7951f91d",
+    "tags": []
+  },
+  {
+    "id": "1151900c",
+    "name": "Street Sounds Radio",
+    "url": "https://streaming.broadcastradio.com:10525/streetsd",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5343f455",
+    "name": "ROKit Radio : British Comedy 2",
+    "url": "https://streaming05.liveboxstream.uk/proxy/jondreas/stream",
+    "tags": []
+  },
+  {
+    "id": "fee9a4b1",
+    "name": "FUNK2DISCO",
+    "url": "https://funk2disco.stream.laut.fm/funk2disco?t302=2025-10-19_06-31-45&uuid=44b111a7-3d03-4bf6-bec2-1947361f8769",
+    "tags": []
+  },
+  {
+    "id": "03273504",
+    "name": "Boom Radio UK",
+    "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192",
+    "tags": []
+  },
+  {
+    "id": "edfad4ee",
+    "name": "BBC Radio 1 Dance (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bc46da05",
+    "name": "London Music Radio",
+    "url": "https://radiobossrelay.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "d35c52e5",
+    "name": "Virgin Radio",
+    "url": "https://radio.virginradio.co.uk/stream?aw_0_1st.platform=vr-web",
+    "tags": []
+  },
+  {
+    "id": "056275e5",
+    "name": "talkSPORT spanish",
+    "url": "https://live.talksport.com/channel1m-es",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9477e9df",
+    "name": "HypeDem Reggae Radio",
+    "url": "https://mrwolfman2.radioca.st/;",
+    "tags": []
+  },
+  {
+    "id": "7f86ca9b",
+    "name": "BBC for Australasia",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c40f2eca",
+    "name": "Smooth Country",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f8db6f73",
+    "name": "Smooth Relax",
+    "url": "https://icecast.thisisdax.com/SmoothRelaxMP3",
+    "tags": []
+  },
+  {
+    "id": "93f5f0e2",
+    "name": "60 NORTH RADIO - FLAC",
+    "url": "https://r5.zetcast.net/flac",
+    "tags": []
+  },
+  {
+    "id": "4df13503",
+    "name": "BBC Live News (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4cdfe2d1",
+    "name": "Naim Jazz [flac]",
+    "url": "https://mscp3.live-streams.nl:8342/jazz-flac.flac",
+    "tags": []
+  },
+  {
+    "id": "cf94b62a",
+    "name": "BBC Radio London (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "6f70b390",
+    "name": "BBC Radio 1Xtra (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "48191280",
+    "name": "Resonance Extra",
+    "url": "https://stream.resonance.fm/resonance-extra",
+    "tags": []
+  },
+  {
+    "id": "a139da4a",
+    "name": "Radio X 90s",
+    "url": "https://media-ice.musicradio.com/RadioX90sMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "010fd86b",
+    "name": "Magic Radio UK",
+    "url": "https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "34ba0ec3",
+    "name": "Classic FM Calm",
+    "url": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "eb4088fa",
+    "name": "Classic FM",
+    "url": "https://ice-sov.musicradio.com/ClassicFMMP3",
+    "tags": []
+  },
+  {
+    "id": "260eafbd",
+    "name": "Energy FM - Dance Music Radio",
+    "url": "https://radio.streemlion.com:1875/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a26fbbf2",
+    "name": "45 Radio",
+    "url": "https://stream1.themediasite.co.uk:7009/stream",
+    "tags": []
+  },
+  {
+    "id": "4e4f2b26",
+    "name": "KICKS fm",
+    "url": "https://s6.citrus3.com:8452/stream",
+    "tags": []
+  },
+  {
+    "id": "0ff4e31d",
+    "name": "BBC America",
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c9469a37",
+    "name": "Intamixx 80s 90s Radio UK",
+    "url": "https://radio.intamixx.uk:8443/radio2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3bc8f359",
+    "name": "KISS UK",
+    "url": "https://live-kiss.sharp-stream.com/kiss100.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "358ddb86",
+    "name": "Expansions | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e70c2605",
+    "name": "Capital FM Manchester",
+    "url": "https://ice-the.musicradio.com/CapitalManchester",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "68ecabb2",
+    "name": "1940s Radio HS - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/1940sradio/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "94ba58a9",
+    "name": "Classic FM Essential Classical",
+    "url": "https://icecast.thisisdax.com/ClassicFM-M-Essential",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cedad4c6",
+    "name": "Funk2Disco",
+    "url": "https://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e4734-ae25-4995-bf64-11ae6ab5a169",
+    "tags": []
+  },
+  {
+    "id": "634582d5",
+    "name": "Davide of MIMIC",
+    "url": "https://streaming04.liveboxstream.uk/proxy/davideof?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d9f9b11e",
+    "name": "Rinse UK",
+    "url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "43acaa18",
+    "name": "Q Radio Belfast",
+    "url": "https://edge-audio-02-gos1.sharp-stream.com/qr967.mp3",
+    "tags": []
+  },
+  {
+    "id": "1f7196e9",
+    "name": "TruckStopRadio",
+    "url": "https://oreo.truckstopradio.co.uk/radio/8000/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "3b20b7ef",
+    "name": "Radio X Chilled",
+    "url": "https://media-ice.musicradio.com/RadioXChilledMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8d3fec03",
+    "name": "Box UK Radio",
+    "url": "https://boxstream.danceradiouk.com/stream/1/stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "48c3cc92",
+    "name": "The English 909 Radio",
+    "url": "https://listen.radioking.com/radio/425977/stream/479497",
+    "tags": []
+  },
+  {
+    "id": "dd69ba9c",
+    "name": "Groove London Radio",
+    "url": "https://eu10.fastcast4u.com/groovelondon",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "440d3fa7",
+    "name": "Lyca Radio",
+    "url": "https://ads-direct.sharp-stream.com/1458.mp3",
+    "tags": []
+  },
+  {
+    "id": "8a73c4cc",
+    "name": "BBC Radio Scotland (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "3626ec67",
+    "name": "Heart Torbay 96.4",
+    "url": "https://media-sov.musicradio.com/HeartTorbay",
+    "tags": []
+  },
+  {
+    "id": "882769d7",
+    "name": "4 To The Floor | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape5",
+    "tags": []
+  },
+  {
+    "id": "cc2df6f5",
+    "name": "Naim Radio [320k aac]",
+    "url": "https://mscp3.live-streams.nl:8362/high.aac",
+    "tags": []
+  },
+  {
+    "id": "59893e46",
+    "name": "Radio X",
+    "url": "https://media-ssl.musicradio.com/RadioXLondonMP3",
+    "tags": []
+  },
+  {
+    "id": "40c1630d",
+    "name": "Classic FM Movies",
+    "url": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c33f1033",
+    "name": "Classic FM HD",
+    "url": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "04d68d04",
+    "name": "HearMe - Classic Hard Rock",
+    "url": "https://radio.hearme.fm:8250/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fe7526a5",
+    "name": "GB News (UK) 48k eAAC+",
+    "url": "https://listen-gbnews.sharp-stream.com/gbnews.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6054dc63",
+    "name": "Poolside | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape4",
+    "tags": []
+  },
+  {
+    "id": "64cf9488",
+    "name": "Radio England - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/radioengland/stream",
+    "tags": []
+  },
+  {
+    "id": "4a98fffc",
+    "name": "Crime Incorporated - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/crimeinc/stream",
+    "tags": []
+  },
+  {
+    "id": "cb57d865",
+    "name": "Psychedelicized Radio",
+    "url": "https://cast1.asurahosting.com/proxy/psychedelicized/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "78f7acdd",
+    "name": "Tonic Ska Radio",
+    "url": "https://eu10.fastcast4u.com/tonicska",
+    "tags": []
+  },
+  {
+    "id": "f3881c74",
+    "name": "24-7 Disco",
+    "url": "https://antares.dribbcast.com/proxy/s8190/stream",
+    "tags": []
+  },
+  {
+    "id": "3847ec71",
+    "name": "BBC Radio 1 (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fa117987",
+    "name": "U105",
+    "url": "https://onic.belfast.live.stream.broadcasting.news/stream-u105?ref=rf",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e7f4415c",
+    "name": "camfm Cambridge University Student Radio",
+    "url": "https://stream.camfm.co.uk/camfm",
+    "tags": []
+  },
+  {
+    "id": "7cb2a4d5",
+    "name": "Greatest Hits Non-Stop",
+    "url": "https://s8.myradiostream.com:58238//listen.mp3",
+    "tags": []
+  },
+  {
+    "id": "8f42975d",
+    "name": "FSN World News",
+    "url": "https://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "20b45712",
+    "name": "ROKit Radio : Comedy Gold",
+    "url": "https://streaming06.liveboxstream.uk/proxy/rokstar8/stream",
+    "tags": []
+  },
+  {
+    "id": "31902f69",
+    "name": "Nation Radio Scotland",
+    "url": "https://edge-ads-02-thn.sharp-stream.com/nationscotlandi.aac",
+    "tags": []
+  },
+  {
+    "id": "386b5622",
+    "name": "Capital FM AAC",
+    "url": "https://ice-the.musicradio.com/Capital",
+    "tags": []
+  },
+  {
+    "id": "92f7ffcb",
+    "name": "Now 80s",
+    "url": "https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "323acc79",
+    "name": "ROKit Radio : Classic Old Time Radio Shows",
+    "url": "https://streaming04.liveboxstream.uk/proxy/roksta18/stream",
+    "tags": []
+  },
+  {
+    "id": "eeaf3d57",
+    "name": "Classic FM Video Game Music",
+    "url": "https://icecast.thisisdax.com/ClassicFM-M-Gaming",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f71dab5",
+    "name": "Smooth Radio (London, UK) 48k aac+",
+    "url": "https://media-the.musicradio.com/SmoothLondon",
+    "tags": []
+  },
+  {
+    "id": "e3c42954",
+    "name": "Gold London",
+    "url": "https://media-ssl.musicradio.com/Gold?isLoggedIn=false&dax_version=release_2019&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1612127423858_0.6253666805372976&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1612127423&aw_0_req.userConsentV2=CPA5x3uPA5x3uAGABCENBLCgAAAAAAAAAATIAAAAAAAA.YAAAAAAAAAAA",
+    "tags": []
+  },
+  {
+    "id": "f72c7154",
+    "name": "The Tube | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape26",
+    "tags": []
+  },
+  {
+    "id": "e4b09e0b",
+    "name": "Memory Lane | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "22f08e7c",
+    "name": "Radio Essex",
+    "url": "https://stream-14.aiir.com/ujzy590c3stvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1anp5NTkwYzNzdHZ2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZEx3YmZySFNRY0dxWkwyU18wUlNrdyIsImlhdCI6MTc2MDgzMTUzNCwiZXhwIjoxNzYwODMxNTk0fQ.8y6DRXVquc649YwcIG26vu0oKHDC1EVqyDD9aev5pJ8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4bffcb8b",
+    "name": "CruiseOne Radio",
+    "url": "https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "29ce234d",
+    "name": "Flashback Radio",
+    "url": "https://live.flashbackcentral.co.uk/radio/8000/apple",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "28ab9ef0",
+    "name": "Fun Kids Junior",
+    "url": "https://listen-funkids.sharp-stream.com/funkidsjunior.mp3",
+    "tags": []
+  },
+  {
+    "id": "e8d6ff2e",
+    "name": "Heart Sussex 102.4 &103.5",
+    "url": "https://media-ice.musicradio.com/HeartSussexMP3?.mp3",
+    "tags": []
+  },
+  {
+    "id": "e5d3d44d",
+    "name": "Dire Straits",
+    "url": "https://stream02.pcradio.biz/dire_straits-hi",
+    "tags": []
+  },
+  {
+    "id": "9eaf79c7",
+    "name": "Subtle Radio",
+    "url": "https://subtle.out.airtime.pro/subtle_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ffa83e84",
+    "name": "Aah Classical Radio - Bach",
+    "url": "https://radio.hearme.fm:9040/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "198940df",
+    "name": "Actual Radio",
+    "url": "https://securestreams.autopo.st:1174/;",
+    "tags": []
+  },
+  {
+    "id": "6073ac1b",
+    "name": "Just House Music",
+    "url": "https://justhousemusic.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "24f0352c",
+    "name": "ROKit Radio : Adventure Stories",
+    "url": "https://streaming06.liveboxstream.uk/proxy/rokstar7/stream",
+    "tags": []
+  },
+  {
+    "id": "07ba5b3f",
+    "name": "Smooth Chill (UK)",
+    "url": "https://icecast.thisisdax.com/SmoothChillMP3",
+    "tags": []
+  },
+  {
+    "id": "2fe5e559",
+    "name": "Totally 80s Radio",
+    "url": "https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "56ae8703",
+    "name": "Field Recordings | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape23",
+    "tags": []
+  },
+  {
+    "id": "6cf63555",
+    "name": "America's Greatest 70s Hits",
+    "url": "https://hydra.cdnstream.com/1823_128",
+    "tags": []
+  },
+  {
+    "id": "52c46683",
+    "name": "RadioArt: Just Blues",
+    "url": "https://live.radioart.com/fJust_blues.mp3",
+    "tags": []
+  },
+  {
+    "id": "908dfe83",
+    "name": "Soho Radio London",
+    "url": "https://sohoradiomusic.doughunt.co.uk:8010/128mp3",
+    "tags": []
+  },
+  {
+    "id": "b1d5731e",
+    "name": "Boogaloo Radio",
+    "url": "https://streams.radio.co/sb88c742f0/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "baa9c900",
+    "name": "Worldwide FM",
+    "url": "https://worldwidefm.out.airtime.pro/worldwidefm_b",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c738711",
+    "name": "House Fusion Radio (UK)",
+    "url": "https://housefusionradiouk.out.airtime.pro/housefusionradiouk_a",
+    "tags": []
+  },
+  {
+    "id": "973b6805",
+    "name": "FunkURadio",
+    "url": "https://furfmcou.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9b8dbdee",
+    "name": "Heart Norfolk 102.4",
+    "url": "https://ice-sov.musicradio.com/HeartNorfolkMP3",
+    "tags": []
+  },
+  {
+    "id": "c4431f50",
+    "name": "Gen X Radio",
+    "url": "https://s2.radio.co/sf25229e16/listen",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f0f60047",
+    "name": "Diva Radio Disco",
+    "url": "https://stream.deevaradio.net:10443/divaradiodisco",
+    "tags": []
+  },
+  {
+    "id": "62558e42",
+    "name": "talkSPORT 2",
+    "url": "https://radio.talksport.com/stream2?ref=rf",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "533ab3b8",
+    "name": "The British Home Front Radio Service",
+    "url": "https://solid24.streamupsolutions.com/proxy/mmpplqiv?mp=/;type=mp3",
+    "tags": []
+  },
+  {
+    "id": "9e9b8628",
+    "name": "Heart Musicals",
+    "url": "https://media-ice.musicradio.com/HeartMusicalsMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3fbf688a",
+    "name": "Labyrinth | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape31",
+    "tags": []
+  },
+  {
+    "id": "ae4ffcd5",
+    "name": "Capital FM South Coast 103.2",
+    "url": "https://media-ice.musicradio.com/CapitalSouthCoastMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9a12e170",
+    "name": "Nation Radio London",
+    "url": "https://edge-ads-dev-03-gos2.sharp-stream.com/thamesradio.mp3?",
+    "tags": []
+  },
+  {
+    "id": "83636ea4",
+    "name": "Radio Le Mans RS1",
+    "url": "https://edge-audio-07-gos2.sharp-stream.com/radioshow.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b7b673a2",
+    "name": "Heart Oxfordshire 102.6 & 97.4",
+    "url": "https://media-sov.musicradio.com/HeartOxfordshireMP3",
+    "tags": []
+  },
+  {
+    "id": "a263ecf9",
+    "name": "Radio Central 24",
+    "url": "https://casper.radioca.st/;",
+    "tags": []
+  },
+  {
+    "id": "3c933f80",
+    "name": "Magic FM London",
+    "url": "https://edge-bauermz-01-gos2.sharp-stream.com/magic1054.mp3?aw_0_1st.skey=1657298076",
+    "tags": []
+  },
+  {
+    "id": "2b40920f",
+    "name": "American Gold - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/americangold/stream",
+    "tags": []
+  },
+  {
+    "id": "8d10d6b4",
+    "name": "Mi-Soul ",
+    "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
+    "tags": []
+  },
+  {
+    "id": "5d71b8b3",
+    "name": "Big Beat Radio",
+    "url": "https://s4.citrus3.com:8366/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c71c5cee",
+    "name": "Neon Radio - 80s & 90s Pop & Dance",
+    "url": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e4ce9828",
+    "name": "Nation 90s",
+    "url": "https://listen-nation.sharp-stream.com/nationradio90s.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2f7c1483",
+    "name": "Heart South Wales",
+    "url": "https://media-ssl.musicradio.com/HeartSouthWalesMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "eef9f3e1",
+    "name": "I Like It Oldskool",
+    "url": "https://ilikeitoldskool.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aa53f55c",
+    "name": "The Voice Of Doom",
+    "url": "https://streaming.galaxywebsolutions.com:9046/stream",
+    "tags": []
+  },
+  {
+    "id": "62d7a1f4",
+    "name": "BBC World Service (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0b6ed04f",
+    "name": "Easy 50s",
+    "url": "https://2.mystreaming.net:443/uber/easy50/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "002595b0",
+    "name": "BBC Arabic ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "588ee25c",
+    "name": "Netil Radio",
+    "url": "https://netilradio.out.airtime.pro/netilradio_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "618abeb0",
+    "name": "BFBS Beats",
+    "url": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "145b9a1f",
+    "name": "Islands FM",
+    "url": "https://radio.canstream.co.uk:8040/live.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5075602c",
+    "name": "Hot Radio",
+    "url": "https://stream1.hippynet.co.uk/stream/hotradio/dorset",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "1151f0a9",
+    "name": "Capital FM Edinburgh",
+    "url": "https://ice-sov.musicradio.com/CapitalEdinburghMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "121fa108",
+    "name": "Heart Xmas",
+    "url": "https://media-ssl.musicradio.com/HeartXmas",
+    "tags": []
+  },
+  {
+    "id": "802f9b59",
+    "name": "BBC Asian Network (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "88c324be",
+    "name": "CNN UK",
+    "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "a6d24670",
+    "name": "Bloomberg DAB Digital Radio London",
+    "url": "https://bloomberg-live-prod-us-east-1.s3.amazonaws.com/rad/Channel-RAD-AWS-virginia-1/Source-RadUK-96-1_live.m3u8",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "46d56522",
+    "name": "Classic FM Hall of Fame",
+    "url": "https://icecast.thisisdax.com/ClassicFM-M-HOF",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "18b0a7b7",
+    "name": "Strictly Ragga Junge",
+    "url": "https://ssl.aloncast.com:1670/",
+    "tags": []
+  },
+  {
+    "id": "75082b2d",
+    "name": "Capital UK",
+    "url": "https://icecast.thisisdax.com/CapitalUKMP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05d33724",
+    "name": "Sun FM",
+    "url": "https://edge-ads-03-gos2.sharp-stream.com/sunfmi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5af66362",
+    "name": "Trancetechnic Radio ",
+    "url": "https://s11.ssl-stream.com/ssl/trancete?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "276263db",
+    "name": "Smooth scotland",
+    "url": "https://media-the.musicradio.com/SmoothScotland",
+    "tags": []
+  },
+  {
+    "id": "10991d5a",
+    "name": "Cosmic FuzzFm",
+    "url": "https://15113.live.streamtheworld.com:443/SAM04AAC335.mp3",
+    "tags": []
+  },
+  {
+    "id": "50dd806a",
+    "name": "Feelings | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape27",
+    "tags": []
+  },
+  {
+    "id": "ef3b228b",
+    "name": "Select Radio",
+    "url": "https://streaming05.liveboxstream.uk/proxy/selectr1/stream",
+    "tags": []
+  },
+  {
+    "id": "3af8c0b7",
+    "name": "Total Soul (UK) 192kb mp3",
+    "url": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
+    "tags": []
+  },
+  {
+    "id": "4da19a21",
+    "name": "Heart FM (Birmingham)",
+    "url": "https://media-ssl.musicradio.com/HeartWestMids?isLoggedIn=true&dax_version=release_4140&dax_player=GlobalPlayer&dax_platform=Web&delivery_type=streaming&aw_0_req.userConsentV2=CPytTYAPytTYAAGABCENATEoAP_AAAGAAAwIGMpF7D5VZWFC-OZ5YKsAMYhXQMCAIuQQCASAA-ABCAKQIIQGgmAQFASgBAAKAQAAIAJBAAIECAAQCQAAAAAAAACAAAAABAAIAAAAgAAAAAAIAAAGAAAAAAAIgAAAEAAAmAwAAIIAAADgkBkABAACwAKgAcAA8ACAAGQANAAeQBDAEQAJgATwAqgB-AEIAKUAW4AwwB7AD9AIGAVcAxQCkQF5hAAoADwASAA_AHOApsMABAU2IAAgAkFQAQAhjIAIAQx0BwABYAFQAOAAgABkADQAHkAQwBEACYAE8AKoAXQAxAB-AFGAKUAW4AwwBogD2AH6AQMAjoBVwCxAGKAReAvMcAOAAQAA8AC4AJAAcgA_AHOAQgAiIBFgCMgKQAU2AvohAIAAWAEMAJgAVQAxAClAKuAYogADAAQAOcAsRKAcAAgABYAHAAeABEACYAFUAMQAowBbgFXAMUAi8BeZIAIABcAHIA1ADMlIC4ACwAKgAcABAADIAGgAPIAhgCIAEwAJ4AUgAqgBiAD8AKMAUoAtwBogD9AI6AVcBF4C8ygA8AC4AJAAcgA_ADaANQAc4BFgCxAF1AMUAa8BSACmwF9A.YAAAAAAAAAAA&dax_listenerid=824C2FA8EC1A06EF990BEDF6BE300A70&gigya_id=aca49a64b4254a8ab5a088cd031e7efe&nlsid=1c499bb707f2fc48cfd210acda4433d0",
+    "tags": []
+  },
+  {
+    "id": "81d91c07",
+    "name": "Capital Liverpool",
+    "url": "https://media-ice.musicradio.com/CapitalLiverpoolMP3",
+    "tags": []
+  },
+  {
+    "id": "91578b8a",
+    "name": "Dubplate.fm Dub &Bass",
+    "url": "https://sc2.dubplate.fm/radio/8000/dubandbass/uhifi",
+    "tags": []
+  },
+  {
+    "id": "c8a09f0a",
+    "name": "Smooth Radio (Suffolk)",
+    "url": "https://media-ssl.musicradio.com/SmoothSuffolk",
+    "tags": []
+  },
+  {
+    "id": "ba3d8edd",
+    "name": "RadioArt: Greek Art for Kids",
+    "url": "https://live.radioart.com/fGreek_art_for_kids.mp3",
+    "tags": []
+  },
+  {
+    "id": "b77b70b3",
+    "name": "Mystery Train Radio ",
+    "url": "https://streamer.radio.co/sf662f27c0/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4bff792b",
+    "name": "Shetland Islands Broadcasting Company (SIBC) 96.2 & 102.2",
+    "url": "https://tx9.zetcast.net:8100/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "360349fe",
+    "name": "ROKit Radio : Classic Crime and Suspense",
+    "url": "https://streaming04.liveboxstream.uk/proxy/roksta17/stream",
+    "tags": []
+  },
+  {
+    "id": "ae6fcdb6",
+    "name": "DnBRadio.com",
+    "url": "https://fw.dnbradio.com/dnbradio_main.mp3",
+    "tags": []
+  },
+  {
+    "id": "316b52b9",
+    "name": "Radio Bloodstream",
+    "url": "https://uk1.internet-radio.com/proxy/bloodstream?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8ef53990",
+    "name": "Capital FM Cymru",
+    "url": "https://media-ice.musicradio.com/CapitalCymru",
+    "tags": []
+  },
+  {
+    "id": "17332f94",
+    "name": "Forest Gold",
+    "url": "https://c2.prostream365.com:8000/live",
+    "tags": []
+  },
+  {
+    "id": "ef3aa5e8",
+    "name": "Malvern Radio International - Pumpkin FM",
+    "url": "https://cast2.asurahosting.com/proxy/radiomalvernint/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f7599e6a",
+    "name": "BFBS Canada",
+    "url": "https://edge-audio-07-gos2.sharp-stream.com/ssvcbfbs12.aac",
+    "tags": []
+  },
+  {
+    "id": "8bf5fee7",
+    "name": "Drive 105",
+    "url": "https://icecast.easystream.co.uk:8000/drive105",
+    "tags": []
+  },
+  {
+    "id": "0b414c5e",
+    "name": "Chocolate Radio",
+    "url": "https://stream.radio.co/sa7336b687/listen?ver=712690",
+    "tags": []
+  },
+  {
+    "id": "1bc18193",
+    "name": "Nation Radio Wales",
+    "url": "https://edge-ads-05-gos2.sharp-stream.com/tcnationi.aac",
+    "tags": []
+  },
+  {
+    "id": "ce2d65f5",
+    "name": "Manx Radio AM",
+    "url": "https://edge-audio-04-thn.sharp-stream.com/manxradioam.mp3",
+    "tags": []
+  },
+  {
+    "id": "e46b272f",
+    "name": "Mazoozie",
+    "url": "https://stream-mazoozie.creativedork.com/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e7b6a81a",
+    "name": "TWR UK",
+    "url": "https://direct.sharp-stream.com/twruk.mp3",
+    "tags": []
+  },
+  {
+    "id": "7babd15d",
+    "name": "Discover Trance Radio",
+    "url": "https://uk01.discovertrance.com/;.mp3",
+    "tags": []
+  },
+  {
+    "id": "a3235014",
+    "name": " Techno - FM - Channel",
+    "url": "https://stream.techno.fm/radio1-320k.mp3",
+    "tags": []
+  },
+  {
+    "id": "1ece0bd4",
+    "name": "Smooth Chill (UK) 48k AAC+",
+    "url": "https://icecast.thisisdax.com/SmoothChill",
+    "tags": []
+  },
+  {
+    "id": "f1c546bd",
+    "name": "Nu Disco Funk Radio",
+    "url": "https://my.radiolize.com/radio/8090/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "38bfe61e",
+    "name": "Sweat | NTS",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape24",
+    "tags": []
+  },
+  {
+    "id": "f9b26d78",
+    "name": "Heart North West 105.4",
+    "url": "https://media-the.musicradio.com/HeartNorthWest",
+    "tags": []
+  },
+  {
+    "id": "a1b4808f",
+    "name": "Ozzy Osbourne",
+    "url": "https://stream02.pcradio.biz/ozzy_osbourne-hi",
+    "tags": []
+  },
+  {
+    "id": "c87cfd1f",
+    "name": "Boot Boy Radio",
+    "url": "https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "28e4acbb",
+    "name": "Gold",
+    "url": "https://media-ssl.musicradio.com/Gold",
+    "tags": []
+  },
+  {
+    "id": "d7c72dd4",
+    "name": "Peoples Radio",
+    "url": "https://s3.myradiostream.com:14498/;",
+    "tags": []
+  },
+  {
+    "id": "91943ff6",
+    "name": "Gem Radio Gold",
+    "url": "https://gemradio.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5292ad5d",
+    "name": "JFSR - Jazz Funk Soul Radio",
+    "url": "https://s2.radio.co/s22ae5a8a6/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2946ba67",
+    "name": "HOUSE HEADS UK ",
+    "url": "https://s36.myradiostream.com:13028/;",
+    "tags": []
+  },
+  {
+    "id": "46cfefc3",
+    "name": "Psychedelic Secret radio",
+    "url": "https://solid48.streamupsolutions.com/proxy/bglsokon?mp=/=stream",
+    "tags": []
+  },
+  {
+    "id": "06ea81d7",
+    "name": "Heart Cambridge 103.0",
+    "url": "https://ice-sov.musicradio.com/HeartCambridgeMP3",
+    "tags": []
+  },
+  {
+    "id": "3f58b324",
+    "name": "BRMB Radio",
+    "url": "https://radio.canstream.co.uk:8147/live.mp3",
+    "tags": []
+  },
+  {
+    "id": "ed73ccf0",
+    "name": "Pink Floyd",
+    "url": "https://stream02.pcradio.biz/Pink_Floyd-hi",
+    "tags": []
+  },
+  {
+    "id": "520e7e91",
+    "name": "Bolton FM",
+    "url": "https://radio.canstream.co.uk:8083/live.mp3",
+    "tags": []
+  },
+  {
+    "id": "a28ee36a",
+    "name": "Foundation FM",
+    "url": "https://streamer.radio.co/s0628bdd53/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0563eb34",
+    "name": "Heart South Coast 96.7 & 97.5",
+    "url": "https://media-sov.musicradio.com/HeartHampshire",
+    "tags": []
+  },
+  {
+    "id": "a774d844",
+    "name": "Divine Radio London",
+    "url": "https://uk2.internet-radio.com/proxy/divinestream?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4d497cb8",
+    "name": "Rewind Radio",
+    "url": "https://s4.radio.co/s2eaa194f6/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9bdeceaf",
+    "name": "Raven's Cave Radio",
+    "url": "https://s5.citrus3.com:8270/stream",
+    "tags": []
+  },
+  {
+    "id": "da039973",
+    "name": "BFBS Brunei",
+    "url": "https://edge-audio-07-gos2.sharp-stream.com/ssvcbfbs10.aac",
+    "tags": []
+  },
+  {
+    "id": "e9389353",
+    "name": "Capital FM Glasgow",
+    "url": "https://media-the.musicradio.com/CapitalGlasgow?amsparams=playerid:UKRP;skey:1546958702&aw_0_req.gdpr=true&aw_0_1st.playerid=UKRP&amp;aw_0_1st.ts=1546958679&nmcuid=null&aw_0_1st.nmc=%5B%22%22%5D",
+    "tags": []
+  },
+  {
+    "id": "59d4be95",
+    "name": "London Music Radio 32k",
+    "url": "https://stream.londonmusicradio.com:8005/mobile",
+    "tags": []
+  },
+  {
+    "id": "f26d312f",
+    "name": "BBC Radio Ulster (128k)",
+    "url": "https://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "25dbee00",
+    "name": "4TunesFM",
+    "url": "https://c30.radioboss.fm:18274/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e56cc4d5",
+    "name": "HearMe-Beethoven",
+    "url": "https://radio.hearme.fm:9050/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6a5f4a55",
+    "name": "Rockin50s Radio",
+    "url": "https://eu10.fastcast4u.com/rockin50s",
+    "tags": []
+  },
+  {
+    "id": "b1cdea36",
+    "name": "Ram FM 80s Hit Radio",
+    "url": "https://usa1-vn.mixstream.net/:8084/listen.mp3",
+    "tags": []
+  },
+  {
+    "id": "bbd76d62",
+    "name": "Capital XTRA",
+    "url": "https://media-the.musicradio.com/CapitalXTRALondonMP3",
+    "tags": []
+  },
+  {
+    "id": "0ca0a7e0",
+    "name": "Radio Le Mans RS2",
+    "url": "https://edge-audio-08-thn.sharp-stream.com/radioshow2.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cff38e91",
+    "name": "Solar Radio",
+    "url": "https://listen-msmn.sharp-stream.com/solarlow.mp3",
+    "tags": []
+  },
+  {
+    "id": "e3e5ef39",
+    "name": "SWU FM",
+    "url": "https://admin.stream.rinse.fm/proxy/swu/stream",
+    "tags": []
+  },
+  {
+    "id": "41eeba49",
+    "name": "Monocle Radio",
+    "url": "https://27823.live.streamtheworld.com:443/MONOCLE_24.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e00f8f46",
+    "name": "Guerilla Cricket",
+    "url": "https://s3.voscast.com:11173/1",
+    "tags": []
+  }
+]

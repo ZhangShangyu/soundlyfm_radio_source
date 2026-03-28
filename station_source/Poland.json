@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "4786ea0d",
+    "name": "Radio Zet",
+    "url": "https://zt03.cdn.eurozet.pl/zet-old.mp3?redirected=03",
+    "tags": []
+  },
+  {
+    "id": "87f83bcc",
+    "name": "Radio RMF MAXXX",
+    "url": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+    "tags": []
+  },
+  {
+    "id": "aad3c73a",
+    "name": "Radio ZET",
+    "url": "https://n-11-22.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+    "tags": []
+  },
+  {
+    "id": "8e04336b",
+    "name": "TOK FM",
+    "url": "https://radiostream.pl/tuba10-1.mp3#TOK_FM",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6b62f849",
+    "name": "Radio 357",
+    "url": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
+    "tags": []
+  },
+  {
+    "id": "2282f1d8",
+    "name": "ESKA ROCK",
+    "url": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
+    "tags": []
+  },
+  {
+    "id": "2f0ac1cf",
+    "name": "Radio RMF24.pl",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "b2a50377",
+    "name": "Radio Nowy Świat 256k",
+    "url": "https://go-audio.toya.net.pl/63214",
+    "tags": []
+  },
+  {
+    "id": "5f8e2e3a",
+    "name": "Antyradio",
+    "url": "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+    "tags": []
+  },
+  {
+    "id": "e9cda8d7",
+    "name": "Radioparty.pl Vocal Trance",
+    "url": "https://s2.radioparty.pl:8025/vocaltrance",
+    "tags": []
+  },
+  {
+    "id": "24d476a8",
+    "name": "Rock Radio",
+    "url": "https://radiostream.pl/tuba8-1.mp3?cache=1650763965",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8dfbdbea",
+    "name": "Wnet.fm",
+    "url": "https://media.wnet.fm/wnet.fm",
+    "tags": []
+  },
+  {
+    "id": "137acb39",
+    "name": "Radioparty.pl Energy 2000 AAC+",
+    "url": "https://s2.radioparty.pl:8040/energy2000",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d015f655",
+    "name": "Radio Plus",
+    "url": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
+    "tags": []
+  },
+  {
+    "id": "fd081a14",
+    "name": "VOX FM",
+    "url": "https://ic2.smcdn.pl/3990-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "bea0de3f",
+    "name": "Vox Fm",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e543162f",
+    "name": "Chilli Zet",
+    "url": "https://ch03.cdn.eurozet.pl/chi-net.mp3?redirected=03",
+    "tags": []
+  },
+  {
+    "id": "78a181c8",
+    "name": "Eska Wrocław",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2180-1.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3985507d",
+    "name": "Radio FTB Disco Polo",
+    "url": "https://play.radioftb.net:8022/stream",
+    "tags": []
+  },
+  {
+    "id": "cf0be736",
+    "name": "Radio RMF24.PL",
+    "url": "https://rs201-krk.rmfstream.pl/RMF24",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "d1e6791c",
+    "name": "Radio Eska Kraków",
+    "url": "https://ic1.smcdn.pl/2070-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4ff98d0f",
+    "name": "RadioFEST",
+    "url": "https://play.radiofest.pl:8443/fest",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "06bcec1f",
+    "name": "ESKA GORĄCA 100 ",
+    "url": "https://ic1.smcdn.pl/6120-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "b2b85cbf",
+    "name": "Radio Pogoda Poznań",
+    "url": "https://stream30.radiostream.pl/tuba138-1.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "57e7fb32",
+    "name": "SmoothJazz.com.pl 320k MP3",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b7c00ee4",
+    "name": "Radio 7",
+    "url": "https://stream.radio7.pl:443/radio7.mp3",
+    "tags": []
+  },
+  {
+    "id": "25b6198a",
+    "name": "Radio RMF FM",
+    "url": "https://rs102-krk-cyfronet.rmfstream.pl/rmf_fm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e36ab314",
+    "name": "Radio Ziemii Wieluńskiej",
+    "url": "https://stream2.nadaje.com:8023/;stream",
+    "tags": []
+  },
+  {
+    "id": "083bb9ce",
+    "name": "ESKA - Do Pracy",
+    "url": "https://ic1.smcdn.pl/6140-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6092d1cf",
+    "name": "ESKA Łódź",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2100-1.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0e140bdd",
+    "name": "Radio Złote Przeboje Białystok",
+    "url": "https://radiostream.pl/tuba8900-1.mp3?cache=1647512038",
+    "tags": []
+  },
+  {
+    "id": "2d425994",
+    "name": "Paranormalium",
+    "url": "https://shoutcast.paranormalium.pl:8000/5",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "be5f81a5",
+    "name": "357",
+    "url": "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
+    "tags": []
+  },
+  {
+    "id": "73bfa5c3",
+    "name": "Radio Party - Kanał Główny",
+    "url": "https://s2.radioparty.pl:8015/stream?nocache=4171",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3379b6a8",
+    "name": "ChilliZet Covers",
+    "url": "https://ch01.cdn.eurozet.pl/CHICOV.mp3",
+    "tags": []
+  },
+  {
+    "id": "8f1ca559",
+    "name": "radio złote przeboje",
+    "url": "https://radiostream.pl/tuba8928-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "95700a1a",
+    "name": "Radio Mirage - Italo Dance",
+    "url": "https://ssl-1.radiohost.pl:9569/stream",
+    "tags": []
+  },
+  {
+    "id": "8ef91c76",
+    "name": "ESKA POZNAŃ ",
+    "url": "https://ic2.smcdn.pl/2140-1.aac",
+    "tags": []
+  },
+  {
+    "id": "abca0ef6",
+    "name": "ESKA IMPRESKA ",
+    "url": "https://ic1.smcdn.pl/6030-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e307421f",
+    "name": "Radio Republika",
+    "url": "https://ssl-1.radiotvrepublika.pl:12698/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2c934a6c",
+    "name": " Radio ZET Chilli ",
+    "url": "https://ch01.cdn.eurozet.pl/chi-net.mp3?redirected=01",
+    "tags": []
+  },
+  {
+    "id": "f58845f5",
+    "name": "Eska Śląskie",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2220-1.aac/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "42ebd93d",
+    "name": "Złote Przeboje Poznań",
+    "url": "https://radiostream.pl/tuba8926-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "e081c5a7",
+    "name": "VOX FM DISCO 90",
+    "url": "https://ic1.smcdn.pl/6170-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "24754837",
+    "name": "Radioparty.pl Trance Party",
+    "url": "https://s2.radioparty.pl:8020",
+    "tags": []
+  },
+  {
+    "id": "6c5c1456",
+    "name": "ESKA - Gorąca 20",
+    "url": "https://ic1.smcdn.pl/6130-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b10d7f67",
+    "name": "Anty Radio",
+    "url": "https://an01.cdn.eurozet.pl/ant-web.mp3?t=1713710188361?redirected=01",
+    "tags": []
+  },
+  {
+    "id": "146f4aed",
+    "name": "Radioparty.pl ACC+",
+    "url": "https://s2.radioparty.pl:7000/stream64aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "da966aba",
+    "name": "EskaROCK",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/5380-1.aac/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6d5fa846",
+    "name": "PLUS",
+    "url": "https://pl06.cdn.eurozet.pl/plu-gdn.mp3?redirected=06",
+    "tags": []
+  },
+  {
+    "id": "e017d266",
+    "name": "Meloradio FM",
+    "url": "https://n-11-23.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8ea2b584",
+    "name": "Radio Eska Warszawa",
+    "url": "https://ic1.smcdn.pl/2380-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "22da3769",
+    "name": "Radio Złote Przeboje Wrocław",
+    "url": "https://radiostream.pl/tuba9-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2f9f2028",
+    "name": "Radio Plus 106.1 Kraków",
+    "url": "https://ic1.smcdn.pl/4070-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "1079824c",
+    "name": "Radio Disco Party - Disco Polo",
+    "url": "https://s1.slotex.pl:7432/stream/1/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d03db263",
+    "name": "Radio SAR - Studencka Agencja Radiowa",
+    "url": "https://stream.radiosar.pl/hdmain.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "087ad0c4",
+    "name": "Radio Zet",
+    "url": "https://n-11-27.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "86c3e475",
+    "name": "Antyradio Classic Rock",
+    "url": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e0caa44c",
+    "name": "Radio Kraków",
+    "url": "https://stream3.nadaje.com:9117/radiokrakow",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "143f36d2",
+    "name": "Radio TOP80",
+    "url": "https://top80.pl:8000/listen.mp3",
+    "tags": []
+  },
+  {
+    "id": "bde33637",
+    "name": "Chilli ZET Deep",
+    "url": "https://ch02.cdn.eurozet.pl/CHIDEP.mp3",
+    "tags": []
+  },
+  {
+    "id": "f72256f5",
+    "name": "Radio Rzeszów",
+    "url": "https://streaming.g-news.pl:8040/rzeszow",
+    "tags": []
+  },
+  {
+    "id": "c0e87e0f",
+    "name": "RMF MAXXX 99.7 Pomorze",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "be87e469",
+    "name": "Radio Eska Warszawa",
+    "url": "https://ic2.smcdn.pl/2380-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "a0191081",
+    "name": "DISCOPARTY.PL - Kanał Club",
+    "url": "https://s3.slotex.pl:7354/stream/1/",
+    "tags": []
+  },
+  {
+    "id": "24e3b1d0",
+    "name": "RMF Disco polo",
+    "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_disco_polo",
+    "tags": []
+  },
+  {
+    "id": "1244905a",
+    "name": "PR24",
+    "url": "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "29db012a",
+    "name": "Radio RDN Małopolska",
+    "url": "https://stream1.dabcom.pl/rdn_mpl",
+    "tags": []
+  },
+  {
+    "id": "1f393375",
+    "name": "SmoothJazz.com.pl 192k aac+",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7d5760e0",
+    "name": "ZET DANCE ",
+    "url": "https://pl01.cdn.eurozet.pl/ZETDAN.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1641de43",
+    "name": "VOX FM HIT 22",
+    "url": "https://ic1.smcdn.pl/6020-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "efcaeb39",
+    "name": "Radio Eska - Warszawa",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2380-1.aac/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e50e7b84",
+    "name": "Radio Disco-Dance",
+    "url": "https://radiodd.cloud/radio/8000/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "d3c4f652",
+    "name": "Nasze Radio 104,7 FM,Nasze Radio",
+    "url": "https://online.nasze.fm:8443/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5a401755",
+    "name": "Radio 5",
+    "url": "https://streaming.radio5.com.pl:8888/radio5suwalki",
+    "tags": []
+  },
+  {
+    "id": "0e6f36e8",
+    "name": "Radio Silesia FM",
+    "url": "https://s1.slotex.pl:7926/stream/1/?sid=1",
+    "tags": []
+  },
+  {
+    "id": "46310d81",
+    "name": "Radio DHT (kanał główny)",
+    "url": "https://radiodht.com/stream_main/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "04abc752",
+    "name": "Radio Afera",
+    "url": "https://radio.afera.com.pl/afera128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1948ee7f",
+    "name": "Zloteprzeboje",
+    "url": "https://radiostream.pl/tuba8904-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "1ecee5de",
+    "name": "Nasze Radio 92,1 FM... nostalgicznie",
+    "url": "https://online.nasze.fm:9443/stream",
+    "tags": []
+  },
+  {
+    "id": "4ac35369",
+    "name": "VOX FM DISCO PARTY",
+    "url": "https://ic1.smcdn.pl/6180-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "765501cc",
+    "name": "SUPER NOWA RZESZÓW ",
+    "url": "https://ic1.smcdn.pl/1240-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9ad4b8b2",
+    "name": "MELORADIO HOT DANCE ",
+    "url": "https://ml02.cdn.eurozet.pl/MELHDN.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e49f3b26",
+    "name": "Radio RMF MAXX",
+    "url": "https://rs202-krk.rmfstream.pl/RMFMAXXX48",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ffa2877e",
+    "name": "Rmf Fm Polska",
+    "url": "https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48",
+    "tags": []
+  },
+  {
+    "id": "acaf4e3b",
+    "name": "Radio BonTon",
+    "url": "https://streaming.inten.pl:8020/bonton.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "82fdfca8",
+    "name": "Meloradio Delicate",
+    "url": "https://ml06.cdn.eurozet.pl/MELDEL.mp3?redirected=06",
+    "tags": []
+  },
+  {
+    "id": "d8800402",
+    "name": "Radio Centrum Lublin",
+    "url": "https://stream12.hosterion.pl/stream/akademickieradiocentrum",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "56bbe686",
+    "name": "Radio Poland",
+    "url": "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2ebc40be",
+    "name": "Polskie Radio Czwórka",
+    "url": "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e2910be4",
+    "name": "Radio pejpal",
+    "url": "https://radio.pejpal.cloud/stream",
+    "tags": []
+  },
+  {
+    "id": "8c1de1cc",
+    "name": "TokFM",
+    "url": "https://stream30.radiostream.pl/tuba10-1.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1a256393",
+    "name": "Radio Kampus 97,1 FM",
+    "url": "https://stream.radiokampus.fm/kampus",
+    "tags": []
+  },
+  {
+    "id": "1a0db2a9",
+    "name": "Radio Zlote Przeboje Wroclaw",
+    "url": "https://radiostream.pl/tuba8940-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "9554a121",
+    "name": "ESKA 2 KULTOWE  POLSKIE ",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/6040-1.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "268207b8",
+    "name": "Radio Leliwa",
+    "url": "https://streaming.g-news.pl:8050/leliwa",
+    "tags": []
+  },
+  {
+    "id": "12d42048",
+    "name": "RMF 70s disco",
+    "url": "https://rs202-krk.rmfstream.pl/rmf_70s_disco",
+    "tags": []
+  },
+  {
+    "id": "caa51e1f",
+    "name": "R357",
+    "url": "https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2d05b940",
+    "name": "Radio RMF",
+    "url": "https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY?listenerid=22faa5bd029362874d207dd68f5e4954&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.skey=1649088434&aw_0_req.gdpr=false&aw_0_req.userConsentV2=CPW7rKhPW7rKhFKACAPLCHCgAAAAAEPAAB5YAAARTAJMNS8gC7EscGRaNKoUQIwrCQqgUAFFAMLREYAODgp2VgEuoAWACAVARgRAgxBRgwCAAQCAJCIgJACwQCIAiAAAAgARgIQAETAILACwMAgAFANCxACgAECQgyOCo5TAgIkWiglsrEEoK9hTCAMssAKBRGRUACJAgAWBkJCwcxwBICXCyQJMELxACMAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true",
+    "tags": []
+  },
+  {
+    "id": "2dc0cb91",
+    "name": "Radia Zet ",
+    "url": "https://zt04.cdn.eurozet.pl/zet-old.mp3?redirected=04",
+    "tags": []
+  },
+  {
+    "id": "fe7ea1ab",
+    "name": "Radio Misiek",
+    "url": "https://stream-156.zeno.fm/5hfdntgf8yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1aGZkbnRnZjh5enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicFRBNnA1bDFSd0czZFFNSDJCcGJfQSIsImlhdCI6MTc2MDg3MTM1NiwiZXhwIjoxNzYwODcxNDE2fQ.g_1S8XBc_oPAS_M_IG9nr58hJyDOLefwcHGeeXZF1Fo",
+    "tags": []
+  },
+  {
+    "id": "7ba165bc",
+    "name": "Wasze Radio FM",
+    "url": "https://sluchaj.link:5443/wasze",
+    "tags": []
+  },
+  {
+    "id": "d975ba53",
+    "name": "Eska Trójmiasto",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2170-1.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "240e6d39",
+    "name": "Radio Lublin",
+    "url": "https://streaming.radio.lublin.pl:8843/128k",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "bdbad74d",
+    "name": "Katolickie Radio Diecezji Plockiej",
+    "url": "https://s1.slotex.pl:7760/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c2c2255b",
+    "name": "ZET Same Hity",
+    "url": "https://zt01.cdn.eurozet.pl/ZETHIT.mp3?redirected=01",
+    "tags": []
+  },
+  {
+    "id": "17a469ab",
+    "name": "Radio Plus Krakow",
+    "url": "https://ic2.smcdn.pl/4070-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d8db7c7c",
+    "name": "Radio Mirage - Space",
+    "url": "https://ssl-1.radiohost.pl:9563/stream?ver=987766",
+    "tags": []
+  },
+  {
+    "id": "144d6dfd",
+    "name": "Antyradio Made In Poland",
+    "url": "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "594e0f05",
+    "name": "Antyradio Covers",
+    "url": "https://an01.cdn.eurozet.pl/ANTCOV.mp3?redirected=01",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9335b971",
+    "name": "Radio Pogoda",
+    "url": "https://radiostream.pl/tuba140-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "d34d20cb",
+    "name": "RMF Najwieksze Polskie Przeboje",
+    "url": "https://rs101-krk.rmfstream.pl/npp_rmf_on",
+    "tags": []
+  },
+  {
+    "id": "dcce9941",
+    "name": "Radio Mbox - Disco Polo",
+    "url": "https://s3.slotex.pl:7222/stream",
+    "tags": []
+  },
+  {
+    "id": "a6f1a342",
+    "name": "Eska zamość 128",
+    "url": "https://ic2.smcdn.pl/2230-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "41a32ffc",
+    "name": "ESKA2 POLSKIE NA CZASIE ",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/6230-1.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3bbe3f80",
+    "name": "PLANETA FM",
+    "url": "https://pl01.cdn.eurozet.pl/pla-net.mp3",
+    "tags": []
+  },
+  {
+    "id": "c37af565",
+    "name": "Meloradio Wrocław",
+    "url": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0eef8eca",
+    "name": "RMF Classic Rock",
+    "url": "https://rs201-krk.rmfstream.pl/rmf_classic_rock",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7997528a",
+    "name": "supernova",
+    "url": "https://ic1.smcdn.pl/1510-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "4a54f8de",
+    "name": "ZET Impreza",
+    "url": "https://zt06.cdn.eurozet.pl/ZETPAR.mp3?redirected=06",
+    "tags": []
+  },
+  {
+    "id": "7a88649f",
+    "name": "Radio Plus Koszalin",
+    "url": "https://ic1.smcdn.pl/4270-1.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8275db6e",
+    "name": "Eska - Rzeszów",
+    "url": "https://ic1.smcdn.pl/2240-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "93bd3041",
+    "name": "Radio Mirage - Prywatka",
+    "url": "https://ssl-1.radiohost.pl:7214/stream?ver=661798",
+    "tags": []
+  },
+  {
+    "id": "1dab12a2",
+    "name": "Radio ESKA Warszawa",
+    "url": "https://ic2.smcdn.pl/2380-2.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d3e3ebde",
+    "name": "Radio Kielce",
+    "url": "https://streaming.g-news.pl:8030/rk2",
+    "tags": []
+  },
+  {
+    "id": "f093658f",
+    "name": "Radio Chrzescijanin Biblia",
+    "url": "https://s1.slotex.pl:7116/;",
+    "tags": []
+  },
+  {
+    "id": "56e1dba7",
+    "name": "VOX FM BEST LISTA ",
+    "url": "https://ic1.smcdn.pl/6100-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "39ae7ff5",
+    "name": "Śląskie Radio",
+    "url": "https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3",
+    "tags": []
+  },
+  {
+    "id": "3adf7dac",
+    "name": "4 Fun TV",
+    "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c4933666",
+    "name": "Radio Zet na Rower -om",
+    "url": "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "01672290",
+    "name": "supernova",
+    "url": "https://ic1.smcdn.pl/1070-2.aac",
+    "tags": []
+  },
+  {
+    "id": "dd4ac280",
+    "name": "Konin FM",
+    "url": "https://stream2.technologicznie.net/konin.fm",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "da1acf21",
+    "name": "Radio Plus Warszawa",
+    "url": "https://pl03.cdn.eurozet.pl/plu-waw.mp3?redirected=03",
+    "tags": []
+  },
+  {
+    "id": "315c58e8",
+    "name": "ESKA Białystok",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2020-1.aac/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "33845e37",
+    "name": "RMF Gold",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_gold",
+    "tags": []
+  },
+  {
+    "id": "c1ef016e",
+    "name": "ZET Pop Rock",
+    "url": "https://zt01.cdn.eurozet.pl/ZETPRK.mp3?redirected=01",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3d5d0618",
+    "name": "Rockserwis FM",
+    "url": "https://stream9.nadaje.com:8003/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cb1aead1",
+    "name": "RMF Muzyka Klasyczna",
+    "url": "https://rs201-krk-cyfronet.rmfstream.pl/rmf_muzyka_klasyczna",
+    "tags": []
+  },
+  {
+    "id": "8b440f59",
+    "name": "Radio Afera",
+    "url": "https://radio.afera.com.pl/afera128.ogg",
+    "tags": []
+  },
+  {
+    "id": "84c79104",
+    "name": "Radio Ostrowiec 95.2 FM",
+    "url": "https://s1.slotex.pl:7050/stream/1/;?type=http",
+    "tags": []
+  },
+  {
+    "id": "a4c2e64a",
+    "name": "Radio Plus Gdansk",
+    "url": "https://pl05.cdn.eurozet.pl/plu-gdn.mp3",
+    "tags": []
+  },
+  {
+    "id": "e252fd15",
+    "name": "Radio Disco Party - Disco Impreza",
+    "url": "https://s3.slotex.pl:7046/stream/1/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "555279ad",
+    "name": "Radio ZET",
+    "url": "https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01",
+    "tags": []
+  },
+  {
+    "id": "d6dfc985",
+    "name": "Radio Manhattan",
+    "url": "https://s1.slotex.pl:7780/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a0b2ec83",
+    "name": "CYBERStacja",
+    "url": "https://sc.cyberstacja.pl:8000/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5f01a3d0",
+    "name": "RADIO PLUS ",
+    "url": "https://ic1.smcdn.pl/4990-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0d859703",
+    "name": "SmoothJazz.com.pl 64k aac+",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl64aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "285a7d9d",
+    "name": "Antyradio Makak",
+    "url": "https://an03.cdn.eurozet.pl/ANTMAK.mp3?redirected=03",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3938a4eb",
+    "name": "Kiss FM Poland",
+    "url": "https://streaming.g-news.pl:8090/kissfm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e415a545",
+    "name": "RMF MAXXX KIELCE",
+    "url": "https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05e78cec",
+    "name": "Zet Radio",
+    "url": "https://n-11-29.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0363671a",
+    "name": "Radio Gold Live",
+    "url": "https://s1.slotex.pl:7062/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b72d15c2",
+    "name": "Plus Radio  Legnica.FM",
+    "url": "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3",
+    "tags": []
+  },
+  {
+    "id": "4d17685f",
+    "name": "Rock Radio Klasyka Rocka",
+    "url": "https://22603.live.streamtheworld.com:443/RADIO_ROCK.mp3",
+    "tags": []
+  },
+  {
+    "id": "d8291e38",
+    "name": "Radio Eska Wrocław",
+    "url": "https://ic2.smcdn.pl/2180-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "9b00f98d",
+    "name": "RMF 80s disco",
+    "url": "https://rs103-krk-cyfronet.rmfstream.pl/rmf_80s_disco",
+    "tags": []
+  },
+  {
+    "id": "d54822e3",
+    "name": "House of Funk",
+    "url": "https://houseoffunk.eu:8443/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f38e24c5",
+    "name": "Chilli ZET",
+    "url": "https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx",
+    "tags": []
+  },
+  {
+    "id": "c2f70008",
+    "name": "Kapitał",
+    "url": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
+    "tags": []
+  },
+  {
+    "id": "46c70444",
+    "name": "ZET Po Polsku",
+    "url": "https://zt04.cdn.eurozet.pl/ZETPL1.mp3?redirected=04",
+    "tags": []
+  },
+  {
+    "id": "6e58588d",
+    "name": "Punkowe Radio Underground",
+    "url": "https://s1.slotex.pl:7604/",
+    "tags": []
+  },
+  {
+    "id": "a2a13c32",
+    "name": "Zet 90s",
+    "url": "https://zt02.cdn.eurozet.pl/ZET090.mp3",
+    "tags": []
+  },
+  {
+    "id": "9a3e08b1",
+    "name": "Radio Elka Miedziowe",
+    "url": "https://rs102-krk.rmfstream.pl/audioxi_elka_glogow",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cc759495",
+    "name": "Radio Rekord",
+    "url": "https://stream3.nadaje.com:8007/radom2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dddef74e",
+    "name": "Radio Kraków Kultura",
+    "url": "https://stream4.nadaje.com:9777/RKKultura",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9f4a1375",
+    "name": "Eska Koszalin",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2270-1.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ae48b453",
+    "name": "Antyradio Warszawa",
+    "url": "https://an04.cdn.eurozet.pl/ant-web.mp3?t=1703697029993?redirected=04",
+    "tags": []
+  },
+  {
+    "id": "90cce353",
+    "name": "RMFmaxx",
+    "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_maxxx",
+    "tags": []
+  },
+  {
+    "id": "b094329a",
+    "name": "FTB Flash FM",
+    "url": "https://play.radioftb.net:8008/stream",
+    "tags": []
+  },
+  {
+    "id": "bd2a03ab",
+    "name": "Radio Chrzescijanin - 2",
+    "url": "https://s1.slotex.pl:7002/;",
+    "tags": []
+  },
+  {
+    "id": "3ada00bd",
+    "name": "SuperNova Rock",
+    "url": "https://ic1.smcdn.pl/6090-1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6e2ccf05",
+    "name": "MELORADIO POZNAŃ ",
+    "url": "https://ml03.cdn.eurozet.pl/mel-poz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b7e49b40",
+    "name": "Radio Vanessa",
+    "url": "https://s1.slotex.pl:7358/;;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0b8b7b8b",
+    "name": "Radio Plus",
+    "url": "https://ic2.smcdn.pl/4990-1.aac",
+    "tags": []
+  },
+  {
+    "id": "cec354ad",
+    "name": "Radio ZET - 2000",
+    "url": "https://zt04.cdn.eurozet.pl/ZET200.mp3",
+    "tags": []
+  },
+  {
+    "id": "7281964b",
+    "name": "Eska Lublin 128",
+    "url": "https://ic2.smcdn.pl/2130-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "57cb0644",
+    "name": "PR TRÓJKA ",
+    "url": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bdfa0148",
+    "name": "Radio Pogoda Gdańsk",
+    "url": "https://radiostream.pl/tuba145-1.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "55d0473a",
+    "name": "RMF 4 DANCE & RNB",
+    "url": "https://rs6-krk2.rmfstream.pl/rmf_4",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a077a6ee",
+    "name": "Radio FTB Retro DJ",
+    "url": "https://play.radioftb.net:8016/stream",
+    "tags": []
+  },
+  {
+    "id": "85ea254b",
+    "name": "RMF Polska prywatka",
+    "url": "https://rs101-krk.rmfstream.pl/rmf_polska_prywatka",
+    "tags": []
+  },
+  {
+    "id": "78e55967",
+    "name": "Eska Bydgoszcz",
+    "url": "https://radio.stream.smcdn.pl/timeradio-p/2030-2.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ffc576ad",
+    "name": "Jazzkultura",
+    "url": "https://stream.radio.co/s1136b59f3/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ae8c5f3a",
+    "name": "RMF MAXXX KROSNO ",
+    "url": "https://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "643429be",
+    "name": "Radio Marconi PL",
+    "url": "https://stream12.hosterion.pl/stream/radiomarconi",
+    "tags": []
+  },
+  {
+    "id": "d4494c0a",
+    "name": "Radio Chrześcijanin (Jakość dźwięku (MP3))",
+    "url": "https://s1.slotex.pl:7002/mountpoint",
+    "tags": []
+  },
+  {
+    "id": "b63d5070",
+    "name": "ZET Latino",
+    "url": "https://ch03.cdn.eurozet.pl/ZETLTN.mp3?redirected=03",
+    "tags": []
+  },
+  {
+    "id": "6dc57666",
+    "name": "Disco Party - Lata 90.",
+    "url": "https://s3.slotex.pl:7170/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5dab15dd",
+    "name": "Polmax Kolędy",
+    "url": "https://stream-177.zeno.fm/vorzdeodup8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2b3J6ZGVvZHVwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic3dmM0R3YzBRamFYZWt3ZlhiMGp3ZyIsImlhdCI6MTc2MDg2NjU4MiwiZXhwIjoxNzYwODY2NjQyfQ.DpQsHYbcSX_wEre2oUrF-QyzshHOhmuAj9KndsXSVmU",
+    "tags": []
+  },
+  {
+    "id": "5775c17b",
+    "name": "Radio Olsztyn",
+    "url": "https://rostr1.radioolsztyn.pl:8443/RO",
+    "tags": []
+  },
+  {
+    "id": "fff363fb",
+    "name": "Radio RMF Classic",
+    "url": "https://rs202-krk.rmfstream.pl/rmf_classic",
+    "tags": []
+  },
+  {
+    "id": "60c1d2d7",
+    "name": "Radio FTB Club",
+    "url": "https://play.radioftb.net:8000/stream",
+    "tags": []
+  },
+  {
+    "id": "085bf434",
+    "name": "RMF 50s",
+    "url": "https://rs101-krk.rmfstream.pl/50S",
+    "tags": []
+  },
+  {
+    "id": "beac6b33",
+    "name": "Rock Radio - Kraków",
+    "url": "https://radiostream.pl/tuba9000-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "e135a60e",
+    "name": "Leliwa",
+    "url": "https://streaming.g-news.pl/radio/8050/leliwa",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cde6a749",
+    "name": "Radio Elka Leszno",
+    "url": "https://rs103-krk.rmfstream.pl/audioxi_elka",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "3de9883f",
+    "name": "Antyradio Greatest",
+    "url": "https://an02.cdn.eurozet.pl/ANTGRE.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "76bc4131",
+    "name": "Radio Rodzina",
+    "url": "https://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3",
+    "tags": []
+  },
+  {
+    "id": "f9b0f7b8",
+    "name": "radio plus",
+    "url": "https://pl06.cdn.eurozet.pl/plu-waw.mp3?redirected=06",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9ccba89a",
+    "name": "Radio Safira",
+    "url": "https://stream12.hosterion.pl/stream/safira",
+    "tags": []
+  },
+  {
+    "id": "52540a3a",
+    "name": "DiscoParty.pl - Disco Impreza",
+    "url": "https://s3.slotex.pl:7046/stream/1/?sid=1",
+    "tags": []
+  },
+  {
+    "id": "d24d9fd5",
+    "name": "JEDYNKA.PL",
+    "url": "https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "73d771bc",
+    "name": "Radio RMF MAXX Warszawa",
+    "url": "https://rs202-krk.rmfstream.pl/MAXXXWAW",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c3c002e7",
+    "name": "Eska Szczecin",
+    "url": "https://ic1.smcdn.pl/2260-1.mp3",
+    "tags": []
+  }
+]

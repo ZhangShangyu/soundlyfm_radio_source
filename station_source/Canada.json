@@ -1,0 +1,2679 @@
+[
+  {
+    "id": "48f443b3",
+    "name": "REGGAE CHILL CAFE",
+    "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0554de3a",
+    "name": "Calm Radio - Solo Piano",
+    "url": "https://streams.calmradio.com:1228/",
+    "tags": []
+  },
+  {
+    "id": "85230d28",
+    "name": "680 News Toronto",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2f9a5c75",
+    "name": "Labgate - Progressive Rock",
+    "url": "https://s2.ssl-stream.com/radio/8180/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c6931c28",
+    "name": "ICI Radio-Canada Première Montréal",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "656b8cf9",
+    "name": "CBC Radio 1 Toronto",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "65a550fb",
+    "name": "100 GREATEST OF THE 80'S",
+    "url": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "80749147",
+    "name": "Nature Radio Rain",
+    "url": "https://maggie.torontocast.com:2020/stream/natureradiorain",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c412516",
+    "name": "Ancient FM",
+    "url": "https://mediaserv73.live-streams.nl:18058/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c9ea10cf",
+    "name": " # RdMix Classic Rock 70s 80s 90s",
+    "url": "https://cast1.torontocast.com:4610/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dd1d4d21",
+    "name": "Radio BluesFlac",
+    "url": "https://audio-edge-3mayu.fra.h.radiomast.io/radioblues-flac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3d9d92e8",
+    "name": "70 80 90 Vibrazioni Rock Radio",
+    "url": "https://maggie.torontocast.com:2020/stream/vibrazionirockradio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d2b2d31a",
+    "name": "Crucial Velocity Radio",
+    "url": "https://ais-sa2.cdnstream1.com/1369_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "06088420",
+    "name": "80's New Wave Radio",
+    "url": "https://puma.streemlion.com:2910/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "108fe2cc",
+    "name": "Calm Radio - Bach",
+    "url": "https://streams.calmradio.com:6828/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f74e5a0",
+    "name": "# 100 GREATEST HEAVY METAL",
+    "url": "https://cast1.torontocast.com:4660/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9ce9d375",
+    "name": "Labgate P.YG. Pink Floyd, Yes, Genesis",
+    "url": "https://s2.ssl-stream.com/radio/8160/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bfa26b67",
+    "name": "..tafsir coran",
+    "url": "https://qurango.net/radio/mukhtasartafsir",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "562a0b1f",
+    "name": "AIRPORT LOUNGE RADIO",
+    "url": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "820b40c1",
+    "name": "00-Radio Canada Montreal",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2173059b",
+    "name": "Gritty Rock Radio",
+    "url": "https://listen.radioking.com/radio/10713/stream/224413",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "57dfc45a",
+    "name": "Calm Radio - Baroque",
+    "url": "https://streams.calmradio.com:3328/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3d21b485",
+    "name": "Calm Radio - Mozart",
+    "url": "https://streams.calmradio.com:7328/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e2ca201c",
+    "name": "CIRV-HD4 88.9 \"Radio Arina\" (Farsi Stream) Toronto, ON",
+    "url": "https://s5.voscast.com:10205/stream",
+    "tags": []
+  },
+  {
+    "id": "0791dfb3",
+    "name": "加拿大中文电台FM.96.1",
+    "url": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "007a390b",
+    "name": "CILQ 107.1 \"Q107\" Toronto",
+    "url": "https://live.leanstream.co/CILQFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "67f67ed9",
+    "name": "70 80 90 ITALIA D'AUTORE",
+    "url": "https://maggie.torontocast.com:2020/stream/708090italiadautore",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1d48c9af",
+    "name": " # 70s 80s 90s RdMix Network",
+    "url": "https://cast1.torontocast.com:1830/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "90704620",
+    "name": "Clam Radio - Solo Piano & Guitar",
+    "url": "https://streams.calmradio.com:30228/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "52c09fb1",
+    "name": "Calm Radio - Violin",
+    "url": "https://streams.calmradio.com:4528/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "273b9bf5",
+    "name": " # RdMix DJSET 70s 80s 90s",
+    "url": "https://cast1.torontocast.com:4560/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "20fc87d8",
+    "name": "Blown",
+    "url": "https://ais-sa2.cdnstream1.com/1370_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e7582ad8",
+    "name": "THE LYNX SUPER 70S",
+    "url": "https://70s-lynxradio.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "9e4d2045",
+    "name": "Calm Radio - Gregorian",
+    "url": "https://streams.calmradio.com:4428/stream",
+    "tags": []
+  },
+  {
+    "id": "33a047b5",
+    "name": " # RdMix Italo Disco 80s",
+    "url": "https://cast1.torontocast.com:2130/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c66b3bf",
+    "name": "Calm Radio - Johann Strauss II",
+    "url": "https://streams.calmradio.com:8328/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d8455631",
+    "name": "SLOWLY RADIO",
+    "url": "https://listen.radioking.com/radio/421816/stream/476452",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a5b4a2db",
+    "name": "DKFM Shoegaze Radio",
+    "url": "https://kathy.torontocast.com:2005/stream",
+    "tags": []
+  },
+  {
+    "id": "1b1433ae",
+    "name": "CP24 Audio Channel - Toronto, ON",
+    "url": "https://18503.live.streamtheworld.com/TV_CP24AAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "85b8bfaf",
+    "name": "CHBM \"Boom 97.3\" Toronto, ON",
+    "url": "https://newcap.leanstream.co/CHBMFM",
+    "tags": []
+  },
+  {
+    "id": "0587281a",
+    "name": "DJFM.ca Toronto, ON",
+    "url": "https://mux.mtl.djfmradio.com/djfm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "399ccad1",
+    "name": "Business News Network Audio Channel",
+    "url": "https://22113.live.streamtheworld.com/TV_BNNAAC_SC",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "c32d2657",
+    "name": "radio classique quebec",
+    "url": "https://listen.radioking.com/radio/256885/stream/301510",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9f8a9fa4",
+    "name": "# 100 GREATEST JAZZ LOUNGE BAR",
+    "url": "https://cast1.torontocast.com:4640/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a76f5b16",
+    "name": "Guitar Calm Radio",
+    "url": "https://streams.calmradio.com:2728/",
+    "tags": []
+  },
+  {
+    "id": "2172e6a0",
+    "name": " #100 BEST IBIZA DEEP HOUSE",
+    "url": "https://stream-153.zeno.fm/lwv6zqgtv1dtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsd3Y2enFndHYxZHR2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSVdURmhNN0RSTS12dW83LVV1VlBJQSIsImlhdCI6MTc2MDgyMzE1NywiZXhwIjoxNzYwODIzMjE3fQ.sf55N6Q1J-Y_VRAR2zh4HgzwmDObR2eJELhWjs_rxhU",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "2c2ba453",
+    "name": "Calm Radio - Flute",
+    "url": "https://streams.calmradio.com:4828/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ee3ef390",
+    "name": "RDMIX ITALIAN VINTAGE 70 80 90",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "57513a21",
+    "name": "Calm Radio - Vivaldi",
+    "url": "https://streams.calmradio.com:8928/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ecd84563",
+    "name": "CKYC 93.7 \"Country 93\" Owen Sound, ON",
+    "url": "https://bayshore.leanstream.co/CKYCFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "143b4fbf",
+    "name": "Suite Jazz Radio",
+    "url": "https://jenny.torontocast.com:2000/stream/suitejazzradio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "da43763f",
+    "name": "RDMIX LOVE SONGS",
+    "url": "https://maggie.torontocast.com:8022/stream",
+    "tags": []
+  },
+  {
+    "id": "98d15ec9",
+    "name": "THE LYNX CLASSIC ROCK",
+    "url": "https://rock-lynxradio.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "573beee5",
+    "name": "# 100 GREATEST CLASSICAL MUSIC",
+    "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "3bec4816",
+    "name": "CFIQ 640 \"Global News Radio\" Toronto, ON",
+    "url": "https://corus.leanstream.co/CFIQAM-MP3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "402befcd",
+    "name": "CINA 1650 AM Mississauga, ON",
+    "url": "https://ice8.securenetsystems.net/CINA",
+    "tags": []
+  },
+  {
+    "id": "0fc4e3f5",
+    "name": "Calm Radio - Chamber Music",
+    "url": "https://streams.calmradio.com:7528/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e40704a3",
+    "name": "Choice Classic Rock",
+    "url": "https://streamer.radio.co/s66f2626b4/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e2722cbb",
+    "name": "CHUP \"Soft Rock 97.7\" Calgary, AB",
+    "url": "https://rawlco.leanstream.co/CHUPFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "edb95863",
+    "name": "Early 60's - Calm Radio",
+    "url": "https://streams.calmradio.com:16128/stream/1/",
+    "tags": []
+  },
+  {
+    "id": "7983613a",
+    "name": "Radio Quebec Country.com - Thetford Mines, QC",
+    "url": "https://play.quebec-country.com/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f0109d2e",
+    "name": "Calm Radio - Cello",
+    "url": "https://streams.calmradio.com:4628/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "503dc63c",
+    "name": "Indie88",
+    "url": "https://localradio.streamb.live/SB00348",
+    "tags": []
+  },
+  {
+    "id": "67167ef3",
+    "name": "Calm Radio-Opera",
+    "url": "https://streams.calmradio.com:1128/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bfb6b583",
+    "name": "CityNews Toronto",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/icy?environment=tunein&args=tunein_01",
+    "tags": []
+  },
+  {
+    "id": "e8c65004",
+    "name": "CFNY 102.1 \"The Edge\" Toronto, ON (MP3)",
+    "url": "https://live.leanstream.co/CFNYFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "db04ea32",
+    "name": "The Lynx Retro 80s",
+    "url": "https://80s-lynxradio.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "61066374",
+    "name": "CHMP 985 FM",
+    "url": "https://cdn.cogecolive.com/websites-public/stream_geoblocked_fr.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a8396407",
+    "name": "metalrock.fm",
+    "url": "https://kathy.torontocast.com:2820/;?type=http&nocache=1594751889",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a21b6e63",
+    "name": "CBC Radio 1 Toronto 99.1 FM",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/chunklist_ao.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d5687f38",
+    "name": "Middle East Radio",
+    "url": "https://s2.voscast.com:7387/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "db5f693b",
+    "name": "Calm Radio - Symphony",
+    "url": "https://streams.calmradio.com:1028/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "27811e76",
+    "name": "BPM sports 91.9",
+    "url": "https://icecast-cklx.rncm.ca/cklx.mp3",
+    "tags": []
+  },
+  {
+    "id": "84d4d89b",
+    "name": "CJCL Sportsnet 590 The Fan",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "eba7ce24",
+    "name": "CBC Radio 1 Vancouver",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c7f9d8dd",
+    "name": "Radio-Classique",
+    "url": "https://listen.radioking.com/radio/228241/stream/271810",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0cc91cf4",
+    "name": "Radio Italia Canada",
+    "url": "https://streaming.radiostreamlive.com/radioitaliacanada_devices",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "319770a1",
+    "name": "CHES 91.7 Erin Radio, ON",
+    "url": "https://streaming.radio.co/saa34f11f4/listen",
+    "tags": []
+  },
+  {
+    "id": "70a9ba0e",
+    "name": "BEAM FM",
+    "url": "https://ice1.streeemer.com:8030/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "08548259",
+    "name": "CJRK-FM 102.7 \"East FM\" Toronto, ON  ",
+    "url": "https://centova.radioservers.biz/proxy/eastfmc1/stream",
+    "tags": []
+  },
+  {
+    "id": "809cdb8a",
+    "name": "VOCM-AM 590 St. John's, NL",
+    "url": "https://newcap.leanstream.co/VOCMAM",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b814f810",
+    "name": " 101.9 ROCK",
+    "url": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7af62378",
+    "name": "Gritty Rock Radio",
+    "url": "https://listen.radioking.com/radio/10713/stream/21674",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "43453f4e",
+    "name": "Calm Radio - Schubert",
+    "url": "https://streams.calmradio.com:8228/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "133eac01",
+    "name": "WEFUNK",
+    "url": "https://s-00.wefunkradio.com:8443/wefunk64.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f51038c1",
+    "name": "CKOM News/Talk 650 (Saskatoon, SK)",
+    "url": "https://rawlco.leanstream.co/CKOMAM",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "631e8ff3",
+    "name": "CFOX 99.3 Vancouver, BC",
+    "url": "https://live.leanstream.co/CFOXFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "268f9c06",
+    "name": "Mirchi - Yo Punjabi",
+    "url": "https://28163.live.streamtheworld.com:443/YPB_PUJ_PSTAAC/HLS/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "72b41d1d",
+    "name": "Toronto Global Radio - Freestyle",
+    "url": "https://london-dedicated.myautodj.com:3199/proxy/freestyle/stream",
+    "tags": []
+  },
+  {
+    "id": "5ba1e2f9",
+    "name": "PunkRockRadio.ca",
+    "url": "https://stream.radio.co/s904013bb1/listen",
+    "tags": []
+  },
+  {
+    "id": "03b7bfbb",
+    "name": "CBC Radio One Montréal",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "267ca334",
+    "name": "J1 GOLD",
+    "url": "https://jenny.torontocast.com:2000/stream/J1GOLD",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1ca4f540",
+    "name": " #1 RdMix Love Songs",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmixlovesongs",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c1fa3158",
+    "name": "Lighthouse VOAR-FM",
+    "url": "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1",
+    "tags": []
+  },
+  {
+    "id": "f3ea48ee",
+    "name": "CHFI 98.1-Toronto",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "24858313",
+    "name": "CKGY \"Real Country 95.5\"  Red Deer, AB",
+    "url": "https://newcap.leanstream.co/CKGYFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ee09da25",
+    "name": "Cinemix HD",
+    "url": "https://kathy.torontocast.com:1825/stream",
+    "tags": []
+  },
+  {
+    "id": "0c2ac4a6",
+    "name": "CKYE-FM 93.1 \"Red FM\" Vancouver, BC  ",
+    "url": "https://ice24.securenetsystems.net/CKYE",
+    "tags": []
+  },
+  {
+    "id": "9254c7f2",
+    "name": "Calm Radio - Debussy",
+    "url": "https://streams.calmradio.com:10228/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a701e16b",
+    "name": "CFCO \"Country 92.9 & 630\" - Chatham, ON",
+    "url": "https://live.leanstream.co/CFCOFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "782efaa9",
+    "name": "CKDJ 107.9 Algonquin College, Ottawa",
+    "url": "https://live.leanstream.co/CKDJFM-MP3?tunein",
+    "tags": []
+  },
+  {
+    "id": "2c72df27",
+    "name": "100% ACID JAZZ",
+    "url": "https://mpc1.mediacp.eu:8356/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a95d5c04",
+    "name": "CFVR \"Mix 103.7\" Fort McMurray, AB",
+    "url": "https://ais-sa1.streamon.fm/7253_64k.aac",
+    "tags": []
+  },
+  {
+    "id": "c29a9360",
+    "name": "Power92 FM",
+    "url": "https://s12.myradiostream.com:5608/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3b6be895",
+    "name": "Radio Pakistan Toronto",
+    "url": "https://s3.radio.co/s3b10a57ef/listen",
+    "tags": []
+  },
+  {
+    "id": "353eabd4",
+    "name": "CHED 630 (Edmonton, AB)",
+    "url": "https://live.leanstream.co/CHEDAM",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a1944765",
+    "name": "CKWX \"News 1130\" Vancouver, BC",
+    "url": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cd4fda4b",
+    "name": "Calm Radio - Tchaikovsky",
+    "url": "https://streams.calmradio.com:8728/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3b901738",
+    "name": "Labgate - Alt Rock Grunge",
+    "url": "https://s2.ssl-stream.com/radio/8190/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6b2129ba",
+    "name": "Lapfox Radio (FLAC)",
+    "url": "https://radio.lapfoxradio.com/radio/8000/stream-flac.flac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d09f5813",
+    "name": "Ottawa Hot 89.9 (CIHTFM)",
+    "url": "https://newcap.leanstream.co/CIHTFM?args=web_01",
+    "tags": []
+  },
+  {
+    "id": "6302c4a2",
+    "name": "RetroSouvenirs",
+    "url": "https://listen.radioking.com/radio/108/stream/61183",
+    "tags": []
+  },
+  {
+    "id": "493368ec",
+    "name": "CKRY 105.1 \"Country 105\" Calgary, AB",
+    "url": "https://live.leanstream.co/CKRYFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1e2d933c",
+    "name": "CJOT \"Boom 99.7\" Ottawa, ON",
+    "url": "https://live.leanstream.co/CJOTFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "18e79548",
+    "name": "toronto global radio - euro",
+    "url": "https://london-dedicated.myautodj.com:3199/proxy/euro/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5c2f9ed3",
+    "name": "Oye india",
+    "url": "https://hbhamra4.radioca.st/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2f4be7fc",
+    "name": "Calm Radio - Wagner",
+    "url": "https://streams.calmradio.com:11428/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1373d9c5",
+    "name": "CKNW 980 New Westminster, BC",
+    "url": "https://live.leanstream.co/CKNWAM",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a9b17e37",
+    "name": "DKFM Edge",
+    "url": "https://radio.streemlion.com:4405/stream",
+    "tags": []
+  },
+  {
+    "id": "83dfceaf",
+    "name": "Cladrite Radio at Live365",
+    "url": "https://das-edge13-live365-dal02.cdnstream.com/a43564",
+    "tags": []
+  },
+  {
+    "id": "bace9c5a",
+    "name": "CJAX \"Jack 96.9\"  Vancouver, BC",
+    "url": "https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ca5a0b56",
+    "name": "CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "47c9c655",
+    "name": "QUB Radio",
+    "url": "https://14223.live.streamtheworld.com/QUB_RADIOAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7bfb96ba",
+    "name": "CBC Radio One - Ottawa, ON (MP3 stream)",
+    "url": "https://26283.live.streamtheworld.com/CBOFM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "84296bd1",
+    "name": "CBC Radio 1 Ottawa (CBO-FM)",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2a7f789a",
+    "name": "CJDJ 102.1 \"Rock 102\" Saskatoon, SK",
+    "url": "https://rawlco.leanstream.co/CJDJFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5aaf63c3",
+    "name": "CFCW \"New Country 98.1\" Camrose, AB",
+    "url": "https://newcap.leanstream.co/CFCWFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d6ea7e60",
+    "name": "CIRK 97.3 \"K-97\" Edmonton, AB",
+    "url": "https://newcap.leanstream.co/CIRKFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e95f2b41",
+    "name": "The Oasis Modern Easy Listening",
+    "url": "https://jenny.torontocast.com:2000/stream/the-oasis/stream",
+    "tags": []
+  },
+  {
+    "id": "d0b79897",
+    "name": "SMOOTH JAZZ DELUXE",
+    "url": "https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c4d2ba2f",
+    "name": "Calm Radio - Oboe",
+    "url": "https://streams.calmradio.com:25028/stream/1/Calm%20Radio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "373231fd",
+    "name": "Red FM 88.9",
+    "url": "https://ice9.securenetsystems.net/CIRVFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "69ae5a52",
+    "name": "CIWW CityNews Ottawa",
+    "url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9457a5f2",
+    "name": "CJRQ-FM \"92.7 Rock\" Sudbury, ON",
+    "url": "https://rogers-hls.leanstream.co/rogers/sud927.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1ad8de56",
+    "name": "CHQR 770 Global News Radio - Calgary, AB",
+    "url": "https://live.leanstream.co/CHQRAM-MP3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6d93e76f",
+    "name": "Labgate - Classic Rock",
+    "url": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fe9a8627",
+    "name": "Boom Tamil",
+    "url": "https://s20.reliastream.com:8050/stream",
+    "tags": []
+  },
+  {
+    "id": "3b5672bc",
+    "name": "CIGV \"New Country 100.7\" Penticton, BC",
+    "url": "https://newcap.leanstream.co/CIGVFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d88fab40",
+    "name": "MetalRock.FM",
+    "url": "https://kathy.torontocast.com:1485/stream",
+    "tags": []
+  },
+  {
+    "id": "b3769c78",
+    "name": "CHKT AM1430 FairChild",
+    "url": "https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b817d3a3",
+    "name": "Jazz FM CJRT",
+    "url": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup&uid=503beb0b-556c-4002-9ed8-cb847eb6402c&user_hash=9dctTbLqKqhACbI8GuosOLT2EbVMS0Oi&gdpr=true&aw_0_req.gdpr=true&listenerid=3f1526922470a8b11f0ebcf5ed4a4b03&awparams=companionAds%3Atrue",
+    "tags": []
+  },
+  {
+    "id": "5d36b7ba",
+    "name": "CKBT 91.5 \"The Beat\" Kitchener, ON",
+    "url": "https://live.leanstream.co/CKBTFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "d67b1a41",
+    "name": "CKCK \"Jack FM 94.5\" Regina, SK",
+    "url": "https://rawlco.leanstream.co/CKCKFM",
+    "tags": []
+  },
+  {
+    "id": "783b4482",
+    "name": "HAIR BAND RADIO",
+    "url": "https://quincy.torontocast.com:3115/stream?x=1703514162706",
+    "tags": []
+  },
+  {
+    "id": "5c84de7d",
+    "name": "SENSUAL LOUNGE RADIO",
+    "url": "https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "40b558b1",
+    "name": "CKTB News/Talk 610 (St. Catharines, ON)",
+    "url": "https://26433.live.streamtheworld.com/CKTBAMAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "13fcdc84",
+    "name": "exclusively Erasure",
+    "url": "https://2.mystreaming.net:443/er/erasure/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "5db7478b",
+    "name": "irock24/7",
+    "url": "https://streamer.radio.co/s493283a7e/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cec10dab",
+    "name": "CJOB 680 Winnipeg, MB",
+    "url": "https://live.leanstream.co/CJOBAM-MP3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "75fcbd9b",
+    "name": "CFFM \"The Goat\" 97.5 Williams Lake, 99.7 100 Mile House, 94.9 Quesnel, BC",
+    "url": "https://vistaradio.streamb.live/SB00074",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0c342bc8",
+    "name": "CIBU \"Classic Rock 94.5\" Wingham, ON",
+    "url": "https://live.leanstream.co/CIBUFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c4577ce6",
+    "name": "A MISSISSIPPI BLUES",
+    "url": "https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "232c7db7",
+    "name": "CFXL 103.1 \"XL103\" Calgary, AB",
+    "url": "https://newcap.leanstream.co/CFXLFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "d2831187",
+    "name": "CHQR 770 (Calgary, AB)",
+    "url": "https://live.leanstream.co/CHQRAM",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "1edb911e",
+    "name": "CFFR \"660 News\" Calgary, AB",
+    "url": "https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6ab3b2a5",
+    "name": "Calm Radio - Brahms - Sampler",
+    "url": "https://streams.calmradio.com:7128/stream/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b8883eb4",
+    "name": "CKDQ \"910 CFCW\"  Drumheller, AB",
+    "url": "https://newcap.leanstream.co/CKDQAM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "31a5612b",
+    "name": "Irish Radio Canada",
+    "url": "https://c5.radioboss.fm:18213/stream",
+    "tags": []
+  },
+  {
+    "id": "a2a75630",
+    "name": "CBC Radio One - Vancouver, BC (MP3 stream)",
+    "url": "https://26373.live.streamtheworld.com/CBU2FM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b594d54a",
+    "name": "CKDK 103.9 \"Country 104\" Woodstock, ON",
+    "url": "https://live.leanstream.co/CKDKFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a0d8a5ee",
+    "name": "Fusion 101",
+    "url": "https://quincy.torontocast.com:2040/stream",
+    "tags": []
+  },
+  {
+    "id": "0379500d",
+    "name": "KISS 92.5",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "f8a4971e",
+    "name": "Epic Rock Radio TorontoCast",
+    "url": "https://443-1.autopo.st/107/stream/",
+    "tags": []
+  },
+  {
+    "id": "cca7c4f6",
+    "name": "CIZZ \"Z 98.9\" Red Deer, AB",
+    "url": "https://newcap.leanstream.co/CIZZFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1932f4a8",
+    "name": "CJYC 98.9 \"Kool 98\" Saint John, NB",
+    "url": "https://mbsradio.leanstream.co/CJYCFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "82aa8e11",
+    "name": "CHLG 104.3 \"LG104\" Vancouver, BC",
+    "url": "https://newcap.leanstream.co/CHLGFM",
+    "tags": []
+  },
+  {
+    "id": "23d5ab38",
+    "name": "Rock 95",
+    "url": "https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c930ba2",
+    "name": "CKYR-FM 106.7 \"Red FM\" Calgary, AB",
+    "url": "https://ice10.securenetsystems.net/CKYR",
+    "tags": []
+  },
+  {
+    "id": "078109f6",
+    "name": "CKQB \"JUMP! 106.9\" Ottawa, ON",
+    "url": "https://live.leanstream.co/CKQBFM",
+    "tags": []
+  },
+  {
+    "id": "d040f864",
+    "name": "CALMRADIO.COM - Sleep Channel",
+    "url": "https://streams.calmradio.com:30628/stream",
+    "tags": []
+  },
+  {
+    "id": "ae8c9b59",
+    "name": "Royalty Free Music 24/7 - Ogg FLAC - Lossless Stereo",
+    "url": "https://audio-edge-hy4wy.blr.d.radiomast.io/ref-lossless-ogg-flac-stereo",
+    "tags": []
+  },
+  {
+    "id": "8277ad4d",
+    "name": "Labgate Pop Rock",
+    "url": "https://s2.ssl-stream.com/radio/8200/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a5493af1",
+    "name": "Calm Radio - Richard Strauss",
+    "url": "https://streams.calmradio.com:19328/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "08a77d95",
+    "name": "J-Pop Powerplay Kawaii",
+    "url": "https://kathy.torontocast.com:3060/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "23fc9819",
+    "name": "Radio Canada Ici Musique - Montréal, QC",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4ae7e285",
+    "name": "CJME News/Talk 980 (Regina, SK)",
+    "url": "https://rawlco.leanstream.co/CJMEAM-MP3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "adf5abfc",
+    "name": "MyRadio 580am",
+    "url": "https://ais-sa1.streamon.fm/7681_64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "cbc528b5",
+    "name": "CKNG \"Fresh Radio 92.5\" Edmonton, AB",
+    "url": "https://live.leanstream.co/CKNGFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "05821693",
+    "name": "CISM 89,3 MHz FM Université de Montréal, QC",
+    "url": "https://stream03.ustream.ca/cism128.mp3",
+    "tags": []
+  },
+  {
+    "id": "838a9cd3",
+    "name": "CFAX 1070 (Victoria, BC)",
+    "url": "https://14013.live.streamtheworld.com/CFAXAMAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9f52f81d",
+    "name": "CKRA 96.3 \"Capital 96.3\" Edmonton, AB",
+    "url": "https://newcap.leanstream.co/CKRAFM",
+    "tags": []
+  },
+  {
+    "id": "e632f86e",
+    "name": "ICI Musique Classique (Alberta)",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2007000/MUSE/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fda4d448",
+    "name": "CINA-FM 102.3 (Radio CINA Arabic Hits Stream)  Windsor, ON",
+    "url": "https://ice9.securenetsystems.net/CINAFM3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0fb4410f",
+    "name": "CFQM 103.9 \"MAX FM\" Moncton, NB",
+    "url": "https://mbsradio.leanstream.co/CFQMFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "480f4a43",
+    "name": "CFRK \"New Country 92.3\" Fredericton, NB",
+    "url": "https://newcap.leanstream.co/CFRKFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b9ca1d29",
+    "name": "CJJR 93.7 \"JR Country\" Vancouver, BC ",
+    "url": "https://stream.jpbgdigital.com/CJJR/HEAAC/48k/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "65e51277",
+    "name": "CKZZ \"Z95.3\" Vancouver, BC",
+    "url": "https://newcap.leanstream.co/CKZZFM",
+    "tags": []
+  },
+  {
+    "id": "83afa7eb",
+    "name": "CKUA Radio Network",
+    "url": "https://ais-sa1.streamon.fm/7000_48k.aac",
+    "tags": []
+  },
+  {
+    "id": "3ce97b00",
+    "name": "CJVB-AM 1470 \"Fairchild Radio\"  Vancouver, BC",
+    "url": "https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8c4bf980",
+    "name": "CISS - Kiss FM 105.3 Ottawa",
+    "url": "https://rogers.leanstream.co/rogers/ott1053.stream/icy",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "334a250e",
+    "name": "Calm Radio - Zen",
+    "url": "https://streams.calmradio.com:14028/stream/1/",
+    "tags": []
+  },
+  {
+    "id": "93e8dbca",
+    "name": "CHHI \"95.9 Sun FM\" Miramichi, NB",
+    "url": "https://newcap.leanstream.co/CHHIFM",
+    "tags": []
+  },
+  {
+    "id": "02ac0063",
+    "name": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
+    "url": "https://live.leanstream.co/CFMIFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4348e2d1",
+    "name": "CFRA \"News Talk Radio 580\" Ottawa, ON",
+    "url": "https://15693.live.streamtheworld.com/CFRAAMAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b33f4522",
+    "name": "Calm Radio - Prokofiev",
+    "url": "https://streams.calmradio.com:16928/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a7fa73e8",
+    "name": "Sportsnet 650 Vancouver",
+    "url": "https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2723d07c",
+    "name": "Radio Canada Ici Première Quebec City, QC",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "5f7aff6b",
+    "name": "CIGM \"Hot 93.5\" Sudbury, ON",
+    "url": "https://newcap.leanstream.co/CIGMFM",
+    "tags": []
+  },
+  {
+    "id": "e6b1107d",
+    "name": "CISN \"Country 103.9\" Edmonton, AB",
+    "url": "https://live.leanstream.co/CISNFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "157089a5",
+    "name": "Radio Canada Ici Musique  - Québec City, QC",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f091ae00",
+    "name": "CKEA \"95.7 CRUZ FM\" Edmonton, AB",
+    "url": "https://ais-sa1.streamon.fm/7263_64k.aac",
+    "tags": []
+  },
+  {
+    "id": "af75f9fa",
+    "name": "RED FM",
+    "url": "https://ice24.securenetsystems.net/CKYE?playSessionID=FEC6C3A5-AAAF-839F-F4F9CC684849AEA6",
+    "tags": []
+  },
+  {
+    "id": "b8989543",
+    "name": "JAZZ.FM91 (CJRT-FM)",
+    "url": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5adfe8a2",
+    "name": "1 Pure Alternative Radio",
+    "url": "https://kathy.torontocast.com:2475/stream",
+    "tags": []
+  },
+  {
+    "id": "1d2da66d",
+    "name": "CJNI \"News 95.7\" Halifax, NS",
+    "url": "https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "05b55e82",
+    "name": "Prog Palace Radio's The Courtyard",
+    "url": "https://puma.streemlion.com:5045/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "677eeb93",
+    "name": "Calm Radio - Tibet",
+    "url": "https://streams.calmradio.com:6528/stream",
+    "tags": []
+  },
+  {
+    "id": "ad2bd8fb",
+    "name": "NewsTalk 770 AM Calgary",
+    "url": "https://corus-hls.leanstream.co/corus/CHQRAM.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f172995c",
+    "name": "Calm Radio - Puccini",
+    "url": "https://streams.calmradio.com:13028/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "42646da1",
+    "name": "Addicted 2 Oldies Music Radio Canada's #1 RETRO Radio",
+    "url": "https://streamingp.shoutcast.com/JamendoLounge",
+    "tags": []
+  },
+  {
+    "id": "fc93986d",
+    "name": "CJKX 95.9 \"KX96 New Country FM\" - Ajax, ON",
+    "url": "https://18363.live.streamtheworld.com/CJKXFMAAC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "619c3884",
+    "name": "CKCH \"New Country 103.5\"  Sydney, NS",
+    "url": "https://newcap.leanstream.co/CKCHFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "65f7c9e9",
+    "name": "CFWD 96.3 \"CRUZ FM\" Saskatoon, SK",
+    "url": "https://ais-sa1.streamon.fm/7254_64k.aac",
+    "tags": []
+  },
+  {
+    "id": "8c70fead",
+    "name": "650 CKGA",
+    "url": "https://nyc-edge1-entry1.leanstream-hd.com:2113/CKGAAM",
+    "tags": []
+  },
+  {
+    "id": "0a164772",
+    "name": "VOCM-FM 97.5 \"K-Rock\" St. John's, NL",
+    "url": "https://newcap.leanstream.co/VOCMFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2a42b3f6",
+    "name": "CJCW 590 Sussex, NB",
+    "url": "https://mbsradio.leanstream.co/CJCWAM-MP3",
+    "tags": []
+  },
+  {
+    "id": "03b04bcf",
+    "name": "CHNS 89.9 \"The Wave\" Halifax, NS",
+    "url": "https://mbsradio.leanstream.co/CHNSFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "251fb10e",
+    "name": "CJSD 94.3 \"Rock 94\" Thunder Bay, ON",
+    "url": "https://ais-sa1.streamon.fm/7097_32k.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8e00df7f",
+    "name": "Lapfox Radio (MP3 320k)",
+    "url": "https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d407e772",
+    "name": "ICI Radio-Canada Première Edmonton - 90.1 FM (CHFA-FM)",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "06feede2",
+    "name": "CFCH \"Country 90.5\" North Bay, ON",
+    "url": "https://vistaradio.streamb.live/SB00101",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f5646a84",
+    "name": "CFLN 97.9 \"Big Land - Labrador's FM\" Happy Valley-Goose Bay, NL",
+    "url": "https://newcap.leanstream.co/CFLNFM",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "40773ee9",
+    "name": "CFAC \"Sportsnet 960\" Calgary, AB",
+    "url": "https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7575c9b7",
+    "name": "CHNO \"Rewind 103.9\"  Sudbury, ON",
+    "url": "https://newcap.leanstream.co/CHNOFM",
+    "tags": []
+  },
+  {
+    "id": "56d7ff33",
+    "name": "Rumsey Retro Radio",
+    "url": "https://jenny.torontocast.com:8042/stream",
+    "tags": []
+  },
+  {
+    "id": "b726fe21",
+    "name": "CJOY 1460 \"Greatest Hits\" Guelph, ON",
+    "url": "https://live.leanstream.co/CJOYAM",
+    "tags": []
+  },
+  {
+    "id": "12968683",
+    "name": "CFCY 95.1 Charlottetown, PE",
+    "url": "https://mbsradio.leanstream.co/CFCYFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05ce96f0",
+    "name": "CFGQ 107.3 \"Q107\" Calgary, AB",
+    "url": "https://live.leanstream.co/CFGQFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f3cc9e15",
+    "name": "CFPL-AM 980 London, ON",
+    "url": "https://live.leanstream.co/CFPLAM-MP3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "483edbbe",
+    "name": "CJSR 88.5 University of Alberta, Edmonton, AB",
+    "url": "https://ais-sa1.streamon.fm/7093_24k.aac",
+    "tags": []
+  },
+  {
+    "id": "07270c0e",
+    "name": "CFXE 94.3 \"Real Country West\" Edson, AB",
+    "url": "https://newcap.leanstream.co/CFXEFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "57f93a39",
+    "name": "CFCW  \"840 CFCW\" Edmonton / Camrose AB",
+    "url": "https://newcap.leanstream.co/CFCWAM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cf9c9965",
+    "name": "CBC Radio One - Toronto, ON (MP3 stream)",
+    "url": "https://26283.live.streamtheworld.com/CBLAFM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5b6fa012",
+    "name": "CFAN \"99.3 The River\" Miramichi, NB",
+    "url": "https://mbsradio.leanstream.co/CFANFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "43970448",
+    "name": "CKLB 101.9 Yellowknife, NT",
+    "url": "https://ais-sa1.streamon.fm/7187_24k.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dfb0bb77",
+    "name": "CFXJ \"93.5 The Move\" Toronto, ON",
+    "url": "https://newcap.leanstream.co/CFXJFM",
+    "tags": []
+  },
+  {
+    "id": "489cb5cd",
+    "name": "Amazing Discoveries TV",
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w817917838.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ac318a58",
+    "name": "Prog Palace Radio's The Armory",
+    "url": "https://cheetah.streemlion.com/progpalace64",
+    "tags": []
+  },
+  {
+    "id": "db994ec3",
+    "name": "CJMO-FM 103.1 \"Q103\" - Moncton, NB",
+    "url": "https://newcap.leanstream.co/CJMOFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7d1c59fa",
+    "name": "CBC Radio One Edmonton ",
+    "url": "https://18303.live.streamtheworld.com/CBXAM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9db3b5aa",
+    "name": "CIHT \"Hot 89.9\" Ottawa, ON",
+    "url": "https://newcap.leanstream.co/CIHTFM",
+    "tags": []
+  },
+  {
+    "id": "09135081",
+    "name": "100 % COVERS LOUNGE",
+    "url": "https://az1.mediacp.eu/listen/100coverslounge/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "59f0bf8f",
+    "name": "Maiqly Maher",
+    "url": "https://backup.qurango.net/radio/maher",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c2985c78",
+    "name": "Metal Shop",
+    "url": "https://quincy.torontocast.com:1505/stream?x=1733539450407",
+    "tags": []
+  },
+  {
+    "id": "a1e1c833",
+    "name": "CFPL-FM 95.9 \"FM96\" London, ON",
+    "url": "https://live.leanstream.co/CFPLFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c473a25b",
+    "name": "CKRW 96.1 \"The Rush\" Whitehorse, YT",
+    "url": "https://ais-sa1.streamon.fm/7222_32k.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "52141748",
+    "name": "CJBQ 800 Belleville, ON",
+    "url": "https://live.leanstream.co/CJBQAM-MP3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "67d1aee9",
+    "name": "Exclusively Buddy Holly",
+    "url": "https://nl4.mystreaming.net:443/er/buddyholly/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "65def9c5",
+    "name": "CBC Music Pacific (Vancouver) MP3 Stream",
+    "url": "https://29243.live.streamtheworld.com/CBUFM_CBC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "91814a31",
+    "name": "The Base",
+    "url": "https://listen.thebase.sc/",
+    "tags": []
+  },
+  {
+    "id": "abe284f1",
+    "name": "SomehowJazz",
+    "url": "https://443-1.autopo.st/36/320K/;&type=mp3",
+    "tags": []
+  },
+  {
+    "id": "e9e0f232",
+    "name": "CFMC 95.1 \"C95\" Saskatoon, SK  -AAC",
+    "url": "https://rawlco.leanstream.co/CFMCFM",
+    "tags": []
+  },
+  {
+    "id": "fe584494",
+    "name": "Vallamaiyin Alaikal - Waves of Power",
+    "url": "https://radio.pixelinmedia.com/vallamai",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2ded0c4c",
+    "name": "CHIN-AM 1540 Toronto, ON",
+    "url": "https://ice7.securenetsystems.net/CHINAM",
+    "tags": []
+  },
+  {
+    "id": "a6768774",
+    "name": "CJSP/CJWF \"Windsor's Country 95.9 & 92.7\" Leamington, ON",
+    "url": "https://live.leanstream.co/CJWFFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "10d66da5",
+    "name": "TSN 1200",
+    "url": "https://18003.live.streamtheworld.com/CFGOAMAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "80b8e6a1",
+    "name": "J-Pop Powerplay Kawaii",
+    "url": "https://kathy.torontocast.com/kawaii",
+    "tags": []
+  },
+  {
+    "id": "d1fb9f3a",
+    "name": "CFMK \"Big 96.3\" Kingston, ON",
+    "url": "https://live.leanstream.co/CFMKFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bf7a056f",
+    "name": "Labgate Radio Progressive Rock",
+    "url": "https://s2.ssl-stream.com/listen/labgate_prog/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "39dfda7a",
+    "name": "Calmradio Rossini",
+    "url": "https://proxy.calmradio.com:14128/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "74337e74",
+    "name": "CISF 107.7 \"Pulse FM\" Surrey, BC",
+    "url": "https://ais-sa1.streamon.fm/7217_48k.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a0147ce4",
+    "name": "93.7 JR Country - Vancouver, BC",
+    "url": "https://icy.jpbgdigital.com/CJJR.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "24dfec48",
+    "name": "CBC Radio One London 93.5",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041029/ES_R1ELD/master.m3u8",
+    "tags": []
+  },
+  {
+    "id": "8aa7e4a5",
+    "name": "CKWR 98.5  \"Real Community Radio\" Kitchener, ON ",
+    "url": "https://stream2.statsradio.com:8150/stream",
+    "tags": []
+  },
+  {
+    "id": "0cd20980",
+    "name": "CFRO Vancouver Cooperative Radio",
+    "url": "https://listen-coopradio.sharp-stream.com/coopradio.mp3",
+    "tags": []
+  },
+  {
+    "id": "542217ee",
+    "name": "CBC Music - CBH-FM - CBN-FM - Atlantic - Halifax - NS - St. John's - NL - 102.7FM - 106.9 FM",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fb45e882",
+    "name": "CKWM \"Magic 94.9\" Kentville, NS",
+    "url": "https://mbsradio.leanstream.co/CKWMFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "5e745686",
+    "name": "Christmas Songs Radio",
+    "url": "https://cheetah.streemlion.com:1050/stream#.mp3",
+    "tags": []
+  },
+  {
+    "id": "57a16236",
+    "name": "CFNY 102.1 Toronto, ON (AAC+)",
+    "url": "https://live.leanstream.co/CFNYFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d6962115",
+    "name": "CBC Music Eastern (Toronto) MP3 Stream",
+    "url": "https://18303.live.streamtheworld.com/CBLFM_CBC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c93680b5",
+    "name": "CFIX-FM \"Rouge FM 96.9\" Saguenay, QC  ",
+    "url": "https://20593.live.streamtheworld.com/CFIXFMAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "e2fbb3c8",
+    "name": "CFEX \"X 92.9\" Calgary, AB",
+    "url": "https://ais-sa1.streamon.fm/7251_64k.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1bf57585",
+    "name": "CFRQ 104.3 \"Q104\" Halifax,NS",
+    "url": "https://newcap.leanstream.co/CFRQFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4a171210",
+    "name": "CJSS \"Boom 101.9\" Cornwall, ON",
+    "url": "https://live.leanstream.co/CJSSFM-MP3",
+    "tags": []
+  },
+  {
+    "id": "af001ddd",
+    "name": "CJKC 103.1 \"Country 103\" Kamloops, BC",
+    "url": "https://newcap.leanstream.co/CJKCFM-MP3?args=mobile_03",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8b7b8f84",
+    "name": "CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7292f073",
+    "name": "CFLT \"Jack 92.9\" Dartmouth, NS",
+    "url": "https://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "627dbce0",
+    "name": "CityNews Vancouver",
+    "url": "https://rogers.leanstream.co/rogers/van1130.stream/icy?environment=tunein&args=tunein_01",
+    "tags": []
+  },
+  {
+    "id": "2225c79d",
+    "name": "CBC Radio One - Sudbury, ON (MP3 stream)",
+    "url": "https://26733.live.streamtheworld.com/CBCSFM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "681f1823",
+    "name": "CKBW-FM 98.1 Bridgewater, 94.5 Liverpool, 93.1 Shelburne, NS ",
+    "url": "https://ais-sa1.streamon.fm/7239_128k.aac",
+    "tags": []
+  },
+  {
+    "id": "6cfd8fd5",
+    "name": "CJPR 94.9 \"Real Country Southwest\" Blairmore, AB",
+    "url": "https://newcap.leanstream.co/CJPRFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "74025946",
+    "name": "CHIN-FM 100.7 Toronto, ON",
+    "url": "https://ice7.securenetsystems.net/CHINFM",
+    "tags": []
+  },
+  {
+    "id": "d6a8af45",
+    "name": "Radio VM",
+    "url": "https://s5.radio.co/sec326ff8a/listen",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "bb068870",
+    "name": "CBC Radio 1 Halifax",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d90b0cee",
+    "name": "CKKS 107.5 \"KISS Radio\" Chilliwack, BC (correction)",
+    "url": "https://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "695b929f",
+    "name": "JB Radio",
+    "url": "https://mediacp.jb-radio.net:8001/live",
+    "tags": []
+  },
+  {
+    "id": "9937b47d",
+    "name": "CJAQ \"Jack 96.9\" Calgary, AB",
+    "url": "https://rogers-hls.leanstream.co/rogers/cal969.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "0d7be8d4",
+    "name": "iLive Radio.com - Toronto, ON",
+    "url": "https://streaming.radio.co/s735df8c1c/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e8a0198e",
+    "name": "CJKR 97.5 \"Power 97\" Winnipeg, MB",
+    "url": "https://live.leanstream.co/CJKRFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1d6648d4",
+    "name": "Labgate Alternative Rock and Grunge",
+    "url": "https://s2.ssl-stream.com/listen/labgate_alt_rock_grunge/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "ef13bd52",
+    "name": "CHTN 100.3 \"Ocean 100\" Charlottetown, PE",
+    "url": "https://newcap.leanstream.co/CHTNFM",
+    "tags": []
+  },
+  {
+    "id": "b1b3795a",
+    "name": "CJAB-FM \"Energie Saguenay-Lac-Saint-Jean 94.5\"  Saguenay, QC",
+    "url": "https://27253.live.streamtheworld.com/CJABFMAAC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b84b8981",
+    "name": "CFUV 101.9 University of Victoria, BC",
+    "url": "https://ais-sa1.streamon.fm/7132_64k.aac",
+    "tags": []
+  },
+  {
+    "id": "0ef22e4e",
+    "name": "630 CHED",
+    "url": "https://corus.leanstream.co/CHEDAM-MP3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a2a4a267",
+    "name": "CJXY 107.9 \"Y108\" Burlington, ON",
+    "url": "https://live.leanstream.co/CJXYFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7c162c7f",
+    "name": "CJCB 1270 Sydney, NS",
+    "url": "https://mbsradio.leanstream.co/CJCBAM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c9364534",
+    "name": "CJBB 103.1 \"The Train\" Englehart, ON",
+    "url": "https://ice10.securenetsystems.net/CJBB",
+    "tags": []
+  },
+  {
+    "id": "41594bd3",
+    "name": "CFMX 103.1 \"The New Classical FM\" Cobourg, ON",
+    "url": "https://securestreaming.zoomer.ca/cfmx.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05add942",
+    "name": "Jazz.FM91",
+    "url": "https://jazzfm91.streamb.live/SB00009?args=web_01",
+    "tags": []
+  },
+  {
+    "id": "4186020e",
+    "name": "CKUE-FM2 \"Cool 100.7\" Windsor, ON",
+    "url": "https://live.leanstream.co/CKUEF2",
+    "tags": []
+  },
+  {
+    "id": "c2fe497e",
+    "name": "CKUL \"Mix 96.5\" Halifax, NS",
+    "url": "https://newcap.leanstream.co/CKULFM",
+    "tags": []
+  },
+  {
+    "id": "c30b4714",
+    "name": "CHNL 610 \"Radio NL\" Kamloops, BC",
+    "url": "https://newcap.leanstream.co/CHNLAM",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "604fecd6",
+    "name": "93.7 K Country",
+    "url": "https://torres-media.streamb.live/SB00191?starttime=1692206600",
+    "tags": []
+  },
+  {
+    "id": "2686c746",
+    "name": "CIXK \"MIX 106.5\" Owen Sound, ON",
+    "url": "https://bayshore.leanstream.co/CIXKFM",
+    "tags": []
+  },
+  {
+    "id": "d2fca0f1",
+    "name": "Sonic 102.9",
+    "url": "https://rogers.leanstream.co/rogers/edm1029.stream/icy?environment=tunein&args=tunein_01",
+    "tags": []
+  },
+  {
+    "id": "23c0c183",
+    "name": "Radio Classique Montréal 99.5",
+    "url": "https://listen.radioking.com/radio/228241/stream/271804",
+    "tags": []
+  },
+  {
+    "id": "cbf7911c",
+    "name": "Beats Radio",
+    "url": "https://satcom.rfchosting.ca:8100/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2b3592d0",
+    "name": "CKKQ 100.3 \"The Q\" (Victoria, BC)",
+    "url": "https://stream.jpbgdigital.com/CKKQ/HEAAC/48k/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6686b4cd",
+    "name": "CKLW \"AM 800\" Windsor, ON",
+    "url": "https://26373.live.streamtheworld.com/CKLWAMAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "21c284aa",
+    "name": "CBC North - Iqaluit, NU",
+    "url": "https://18303.live.streamtheworld.com/CFFBAM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1015d699",
+    "name": "CJMK 98.3 \"98 Cool FM\" Saskatoon, SK",
+    "url": "https://26353.live.streamtheworld.com/CJMKFMAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "8199cd10",
+    "name": "CIHR 104.7 \"Heart FM\" Woodstock, ON",
+    "url": "https://ais-sa1.streamon.fm/7135_48k.aac",
+    "tags": []
+  },
+  {
+    "id": "6c0a400a",
+    "name": "CFHI \"Boom 104.9\" Hinton, AB",
+    "url": "https://newcap.leanstream.co/CFHIFM",
+    "tags": []
+  },
+  {
+    "id": "0e6be388",
+    "name": "A9RADIO",
+    "url": "https://a9radio1-a9media.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cba3baeb",
+    "name": "CIRX-FM 94.3 \"The Goat\" Prince George, BC ",
+    "url": "https://vistaradio.streamb.live/SB00066",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "98383274",
+    "name": "CHSP \"Real Country 97.7\"  St. Paul, AB",
+    "url": "https://newcap.leanstream.co/CHSPFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f89d18c",
+    "name": "CKLO \"Classic Rock 98.1 FM\" London, ON",
+    "url": "https://live.leanstream.co/CKLOFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5f9528d9",
+    "name": ".Quran ",
+    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f4f6f770",
+    "name": "CKDO 1580 & 107.7 Oshawa, ON",
+    "url": "https://29243.live.streamtheworld.com/CKDOFMAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "a109ad20",
+    "name": "ICI Musique Ottawa",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/adaptive_128/chunklist_ao.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b74fe842",
+    "name": "CJLL 97.9 \"CHIN Radio Ottawa\", ON",
+    "url": "https://ice7.securenetsystems.net/CJLLFM",
+    "tags": []
+  },
+  {
+    "id": "0d5cc67c",
+    "name": "CHER 98.3 \"MAX FM\" Sydney, NS",
+    "url": "https://mbsradio.leanstream.co/CHERFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "649eaf57",
+    "name": "Radio 42° North (R42N) [AAC+ 64kbps]",
+    "url": "https://ice66.securenetsystems.net/R42N",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f8682e1b",
+    "name": "CJRP-FM - Alive FM Saint John Canada",
+    "url": "https://us9.streamingpulse.com/ssl/NewsongFM",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "6448dec7",
+    "name": "CKRM 620 Regina, SK",
+    "url": "https://ais-sa1.streamon.fm/7267_64k.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "62e9922d",
+    "name": "CHVO 103.9 \"KIXX Country\" Carbonear, NL",
+    "url": "https://newcap.leanstream.co/CHVOFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f7f62f31",
+    "name": "CIRV 88.9 Toronto, ON",
+    "url": "https://ice5.securenetsystems.net/CIRV",
+    "tags": []
+  },
+  {
+    "id": "30458f4e",
+    "name": "加拿大中文电台FM94.7",
+    "url": "https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "dd9b5fc3",
+    "name": "CBC Radio One - Montreal, QC (MP3 stream)",
+    "url": "https://27033.live.streamtheworld.com/CBMEFM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f193e949",
+    "name": "CJNW 107.1 \"Hot 107\" Edmonton, AB",
+    "url": "https://ais-sa1.streamon.fm/7260_64k.aac",
+    "tags": []
+  },
+  {
+    "id": "5304c3d1",
+    "name": "CHYR \"MIX 96.7\" Leamington, ON",
+    "url": "https://live.leanstream.co/CHYRFM",
+    "tags": []
+  },
+  {
+    "id": "ac4e8e4d",
+    "name": "CFMO 102.9 \"The New Classical FM\" Collingwood, ON",
+    "url": "https://securestreaming.zoomer.ca/cfmo.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f18b7823",
+    "name": "Radio Disney Country FM 89.1",
+    "url": "https://listen.radioking.com/radio/453221/stream/508076",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "502fbc3c",
+    "name": "CBC Music Pacific",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "38e32424",
+    "name": "CBC Radio One - Victoria, BC (MP3 stream)",
+    "url": "https://18303.live.streamtheworld.com/CBCVFM_CBC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "05e604d8",
+    "name": "CJAD 800",
+    "url": "https://29243.live.streamtheworld.com/CJADAM_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0d9bf567",
+    "name": "Kiss 107.7",
+    "url": "https://rogers.leanstream.co/rogers/let1077.stream/icy?environment=tunein",
+    "tags": []
+  },
+  {
+    "id": "7a2ead62",
+    "name": "CKWB  \"Real Country 97.9\" Westlock, AB",
+    "url": "https://newcap.leanstream.co/CKWBFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "16320dde",
+    "name": "CityNews 95.7 Halifax",
+    "url": "https://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01",
+    "tags": []
+  },
+  {
+    "id": "fe0b5ee0",
+    "name": "CHFX \"FX 101.9\" Halifax, NS",
+    "url": "https://mbsradio.leanstream.co/CHFXFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "355cddb3",
+    "name": "Radio Canada Ici Musique - Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "45848447",
+    "name": "CJCL Sportsnet 590 The Fan (Alt Stream)",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "285b6ea7",
+    "name": "RetroHits",
+    "url": "https://s1.nexuscast.com:8038/;stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "4718a541",
+    "name": "106.1 CHEZ",
+    "url": "https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fc3c75cd",
+    "name": "CIBQ 105.7 \"Real Country\" Brooks, AB",
+    "url": "https://newcap.leanstream.co/CIBQFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "060bdcf8",
+    "name": "metal shop",
+    "url": "https://quincy.torontocast.com:1500/stream",
+    "tags": []
+  },
+  {
+    "id": "b7c48034",
+    "name": "CIZL 98.9 \"Z99\" Regina, SK",
+    "url": "https://rawlco.leanstream.co/CIZLFM",
+    "tags": []
+  },
+  {
+    "id": "82ceda8f",
+    "name": "CKUT 90.3 FM",
+    "url": "https://ckut.out.airtime.pro/ckut_a",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "25e00bf0",
+    "name": "CHRY \"Vibe 105.5\" York University Toronto, ON",
+    "url": "https://ice7.securenetsystems.net/CHRY",
+    "tags": []
+  },
+  {
+    "id": "fa37cf7c",
+    "name": "CFWF 104.9 \"The Wolf\" Regina, SK",
+    "url": "https://ais-sa1.streamon.fm/7255_64k.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d1470822",
+    "name": "CKAY 91.7 \"Coast FM\" Nanaimo, BC",
+    "url": "https://vistaradio.streamb.live/SB00081",
+    "tags": []
+  },
+  {
+    "id": "9d546472",
+    "name": "CHOZ-FM 94.7 \"OZ FM\" St. John's, NL",
+    "url": "https://ozfm.streamb.live/SB00174",
+    "tags": []
+  },
+  {
+    "id": "e92fcb50",
+    "name": "Calm Radio -J-pop",
+    "url": "https://streams.calmradio.com:21928/stream/;.m3u",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5982c9b3",
+    "name": "Jazz Club Bandstand",
+    "url": "https://cast1.torontocast.com:2060/;.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4ab5d45c",
+    "name": "Flow 98 7 CKFG-FM - Toronto",
+    "url": "https://ice64.securenetsystems.net:80/CKFG",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "612c56c5",
+    "name": "ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b97b3b56",
+    "name": "WAVE.FM",
+    "url": "https://24943.live.streamtheworld.com/CIWVFM_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "751c3d36",
+    "name": "CISL \"Sportsnet 650\" Richmond, BC",
+    "url": "https://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "62036676",
+    "name": "((( WEFUNK Radio ))) . raw uncut funk . classic & underground hip-hop . playlist & archive on wefunkradio.com",
+    "url": "https://s-14.wefunkradio.com:8443/wefunk64.mp3",
+    "tags": []
+  },
+  {
+    "id": "7c967b52",
+    "name": "Musopen",
+    "url": "https://live.musopen.org:8085/streamvbr0",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "89cb8346",
+    "name": "CKWF 101.5 \"The Wolf\" Peterborough",
+    "url": "https://live.leanstream.co/CKWFFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "393c641e",
+    "name": "Vinyl Voyage Radio",
+    "url": "https://jenny.torontocast.com:8018/stream2",
+    "tags": []
+  },
+  {
+    "id": "fa3dad51",
+    "name": "Classic House Music",
+    "url": "https://classichousemusic.ca/listen/classic_house_music/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "2c22eba2",
+    "name": "CJDV 107.5 \"Dave Rocks\" Kitchener, ON",
+    "url": "https://live.leanstream.co/CJDVFM-MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "874159bf",
+    "name": "CityNews 101.1 Ottawa  ",
+    "url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01",
+    "tags": []
+  },
+  {
+    "id": "7e0c4ba7",
+    "name": "the oscar peterson channel",
+    "url": "https://jazzfm91.streamb.live/SB00023",
+    "tags": []
+  },
+  {
+    "id": "4b4b2e3b",
+    "name": "Techno.FM (CA) 96k MP3",
+    "url": "https://stream.techno.fm/radio1-96k.mp3",
+    "tags": []
+  },
+  {
+    "id": "caa5ed8b",
+    "name": "CKKO 96.3 \"K 96.3\" Kelowna, BC",
+    "url": "https://newcap.leanstream.co/CKKOFM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ba9d8098",
+    "name": "CKMP \"90.3 Amp Radio\" Calgary, AB",
+    "url": "https://newcap.leanstream.co/CKMPFM",
+    "tags": []
+  }
+]

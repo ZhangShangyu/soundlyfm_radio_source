@@ -1,0 +1,1641 @@
+[
+  {
+    "id": "acd0e0b1",
+    "name": "Europa Plus",
+    "url": "https://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "da32b286",
+    "name": "ROCK FM",
+    "url": "https://nashe1.hostingradio.ru/rock-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "007595e8",
+    "name": "РАДИО ВАНЯ",
+    "url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "26a00d92",
+    "name": "DFM Дискач 90-х",
+    "url": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "833b0c50",
+    "name": "Шансон Радио",
+    "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3",
+    "tags": []
+  },
+  {
+    "id": "ce6120c8",
+    "name": "Дискотека СССР",
+    "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/144?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjUuMTguMjQ4Ljk4IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODIuMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzgyLjAiLCJ1aWRfY2hhbm5lbCI6IjE0NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MDU5NjQ1MTZ9.Ln1wEJ8cHHzK_Ea6Zr8J8acdny0R9ShZ_KUKVf6TmQA",
+    "tags": []
+  },
+  {
+    "id": "d4625be9",
+    "name": "DFM RUSSIAN DANCE",
+    "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05202f61",
+    "name": "Radio Record - Russian Mix",
+    "url": "https://radiorecord.hostingradio.ru/rus96.aacp",
+    "tags": []
+  },
+  {
+    "id": "caee4766",
+    "name": "Nashe Radio",
+    "url": "https://nashe1.hostingradio.ru/nashe-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "b4e38b8a",
+    "name": "Радио «Комсомольская Правда» | КП Россия",
+    "url": "https://kpradio.hostingradio.ru:8000/russia.radiokp128.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "7b136513",
+    "name": "Ретро FM 70e",
+    "url": "https://retro70.hostingradio.ru:8025/retro70-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "7056e8d8",
+    "name": "Радио Шансон - Radio Shanson",
+    "url": "https://chanson.hostingradio.ru:8041/chanson256.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0a48c796",
+    "name": "Спокойное радио",
+    "url": "https://listen1.myradio24.com/6262",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b008fbdc",
+    "name": "Русское Радио",
+    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "tags": []
+  },
+  {
+    "id": "a1b41a6d",
+    "name": "Radio Ultra",
+    "url": "https://nashe1.hostingradio.ru/ultra-192.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7e3ad6a8",
+    "name": "Радио Книга",
+    "url": "https://bookradio.hostingradio.ru:8069/fm",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c0b4f16f",
+    "name": "Radio record - Main Channel",
+    "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "6dbbb273",
+    "name": "DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)",
+    "url": "https://uk01.discovertrance.com//",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aea1d480",
+    "name": "101,ru Russian Dance",
+    "url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/17?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjQ5LjM3LjE1MS42IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IExpbnV4IHg4Nl82NDsgcnY6ODguMCkgR2Vja29cLzIwMTAwMTAxIEZpcmVmb3hcLzg4LjAiLCJ1aWRfY2hhbm5lbCI6IjE3IiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTYxODUwMTYyM30.vsWQ1s12RL1P3yuD4Eb6E2Og6YaLbXceO-cfhhhwl5s",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "996838d0",
+    "name": "Шансон без цензуры",
+    "url": "https://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3",
+    "tags": []
+  },
+  {
+    "id": "dbc627c2",
+    "name": "Beta Anon.FM",
+    "url": "https://radio.anonymous.delivery/music.mp3",
+    "tags": []
+  },
+  {
+    "id": "9b9c788d",
+    "name": "Радио Maximum",
+    "url": "https://maximum.hostingradio.ru/maximum128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "955b979d",
+    "name": "Radio Anonymous",
+    "url": "https://anon.radio.fm/streams/radio",
+    "tags": []
+  },
+  {
+    "id": "609cc0a3",
+    "name": "Mixadance FM",
+    "url": "https://stream.mixadance.fm/mixadance",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ec59dd66",
+    "name": "комерсант (Kommersant FM) 93.6 Moscow",
+    "url": "https://kommersant77.hostingradio.ru:8016/kommersant64.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1a900369",
+    "name": "Говорит Москва",
+    "url": "https://media.govoritmoskva.ru:8880/ru64.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "565fd1e8",
+    "name": "Radio Monte Carlo 105.9 FM",
+    "url": "https://icecast227.ptspb.ru:8443/monte",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "296add40",
+    "name": "Вести FM (AAC)",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2319b1f8",
+    "name": "Соловьёв FM",
+    "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a950627c",
+    "name": "Комсомольская правда",
+    "url": "https://kpradio.hostingradio.ru:8000/64",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6e8ae283",
+    "name": "Юмор FM",
+    "url": "https://pub0101.101.ru:8000/stream/air/aac/64/102",
+    "tags": []
+  },
+  {
+    "id": "3c02503f",
+    "name": "Спутник",
+    "url": "https://icecast-rian.cdnvideo.ru/voicerus",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "73c23e4f",
+    "name": "Instrumental Jazz",
+    "url": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8a20384f",
+    "name": "Радио Родных Дорог",
+    "url": "https://stream1.radiord.ru:8000/live96.aac",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "902cdecd",
+    "name": "Звезда",
+    "url": "https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5177d8e7",
+    "name": "HIT FM",
+    "url": "https://hitfm.hostingradio.ru/hitfm96.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "be0e0dec",
+    "name": "Радио дача",
+    "url": "https://listen13.vdfm.ru:8000/dacha",
+    "tags": []
+  },
+  {
+    "id": "9b25dd08",
+    "name": "Новое Радио 91.1 (СПб)",
+    "url": "https://emgspb.hostingradio.ru/novoespb128.mp3",
+    "tags": []
+  },
+  {
+    "id": "52963b4d",
+    "name": "Русское Радио: Русский Рок",
+    "url": "https://icecast01.hostingradio.ru:80/russkijrok96.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "63d8849c",
+    "name": "Соловьёв LIVE",
+    "url": "https://solovievfm.hostingradio.ru/solovievfm128.aacp",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "886ab384",
+    "name": "Вести FM",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm",
+    "tags": []
+  },
+  {
+    "id": "2bd55154",
+    "name": "HIP HOP RADIO",
+    "url": "https://tntradio.hostingradio.ru:8027/hhr128.mp3",
+    "tags": []
+  },
+  {
+    "id": "88813282",
+    "name": "Юмор ФМ",
+    "url": "https://fed.fmplay.ru:8000/humor-32.aac",
+    "tags": []
+  },
+  {
+    "id": "ccf35c84",
+    "name": "Бизнес FM",
+    "url": "https://bfm.hostingradio.ru:9075/fm",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "ac9f5e2b",
+    "name": "Питер FM - Санкт-Петербург 100.9 МГц",
+    "url": "https://icecast-piterfm.cdnvideo.ru/piterfm",
+    "tags": []
+  },
+  {
+    "id": "5bd2bdb2",
+    "name": "эльдорадио (Eldo Radio) 101.4 St. Petersburg",
+    "url": "https://emgspb.hostingradio.ru/eldoradio128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6d4b7bd7",
+    "name": "Enigmatic 3 - Magnetic Chillout",
+    "url": "https://radio.enigmatic.su:8050/radio",
+    "tags": []
+  },
+  {
+    "id": "7e0355ad",
+    "name": "DONAT FM - Шансон",
+    "url": "https://c6.radioboss.fm:8096/stream",
+    "tags": []
+  },
+  {
+    "id": "dc8e2570",
+    "name": "Ретро FM 90e",
+    "url": "https://retro90.hostingradio.ru:8025/retro90-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "8c4a6710",
+    "name": "DONAT FM - Русский рок",
+    "url": "https://c6.radioboss.fm:8097/stream",
+    "tags": []
+  },
+  {
+    "id": "214dfbb9",
+    "name": "Радио Монте Карло",
+    "url": "https://montecarlo.hostingradio.ru/montecarlo128.mp3",
+    "tags": []
+  },
+  {
+    "id": "2f7a7a78",
+    "name": "Радио \"Маяк\"",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/mayakfm",
+    "tags": []
+  },
+  {
+    "id": "4ad7e395",
+    "name": "101.ru - Deep House",
+    "url": "https://pub0202.101.ru:8000/stream/trust/mp3/128/173",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0acc695f",
+    "name": "Русское Радио",
+    "url": "https://rusradio.hostingradio.ru/rusradio128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e724d935",
+    "name": "Radio Record Hardstyle",
+    "url": "https://radiorecord.hostingradio.ru/teo96.aacp",
+    "tags": []
+  },
+  {
+    "id": "389933bc",
+    "name": "Радио Рекорд Супердискотека 90-х",
+    "url": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+    "tags": []
+  },
+  {
+    "id": "8946c395",
+    "name": "DFM",
+    "url": "https://dfm.hostingradio.ru/dfm96.aacp?0.28225617725168517",
+    "tags": []
+  },
+  {
+    "id": "0f10db1a",
+    "name": "Radio Record Megamix",
+    "url": "https://radiorecord.hostingradio.ru/mix96.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1afebf91",
+    "name": "russian radio golden gramophone",
+    "url": "https://rr-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp",
+    "tags": []
+  },
+  {
+    "id": "562608e3",
+    "name": "Relax FM Latino",
+    "url": "https://pub0302.101.ru:8443/stream/trust/mp3/128/265",
+    "tags": []
+  },
+  {
+    "id": "7d94c093",
+    "name": "Искатель",
+    "url": "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "38b5f426",
+    "name": "DONAT FM - Музыка СССР",
+    "url": "https://c6.radioboss.fm:8098/stream",
+    "tags": []
+  },
+  {
+    "id": "459ee15e",
+    "name": "коммерсант",
+    "url": "https://kommersant77.hostingradio.ru:8016/kommersant128.mp3",
+    "tags": []
+  },
+  {
+    "id": "dc6b9ca6",
+    "name": "Романтический шансон",
+    "url": "https://chanson.hostingradio.ru:8041/chanson-romantic256.mp3",
+    "tags": []
+  },
+  {
+    "id": "e47a7d66",
+    "name": "Маруся ФМ",
+    "url": "https://listen5.vdfm.ru:8000/marusya",
+    "tags": []
+  },
+  {
+    "id": "47ebd712",
+    "name": "Радио Рекорд Eurodance",
+    "url": "https://radiorecord.hostingradio.ru/eurodance96.aacp",
+    "tags": []
+  },
+  {
+    "id": "d37299d8",
+    "name": "Best Deep FM",
+    "url": "https://listen11.myradio24.com/5129_320",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5850822c",
+    "name": "Promodj Too Nu",
+    "url": "https://radio.promodj.com/toonu-192",
+    "tags": []
+  },
+  {
+    "id": "4de93cc8",
+    "name": "101.ru Trance",
+    "url": "https://pub0101.101.ru:8000/stream/trust/mp3/128/19?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc5LjI1My4xMy43MSIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoWDExOyBMaW51eCB4ODZfNjQ7IHJ2Ojk0LjApIEdlY2tvXC8yMDEwMDEwMSBGaXJlZm94XC85NC4wIiwidWlkX2NoYW5uZWwiOiIxOSIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MzY4ODYwMzJ9.0vfq2B5eNRtuEwE42pHUS9Sf_GosTmrQs0aHcPvbFj8",
+    "tags": []
+  },
+  {
+    "id": "e9f398ea",
+    "name": "ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]\r",
+    "url": "https://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6add037b",
+    "name": "Radio Jazz 89.1 - JAZZ Vocals",
+    "url": "https://jfm1.hostingradio.ru:14536/jvstream.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "91b4823c",
+    "name": " Relax FM Chillout",
+    "url": "https://pub0201.101.ru/stream/trust/mp3/128/24?",
+    "tags": []
+  },
+  {
+    "id": "95702fc8",
+    "name": "Известия ТВ (звук)",
+    "url": "https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4eb4d692",
+    "name": "ГопФМ",
+    "url": "https://radiorecord.hostingradio.ru/gop96.aacp",
+    "tags": []
+  },
+  {
+    "id": "9a46554e",
+    "name": "101.ru - Drum & Bass",
+    "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/6?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIxMi41MS4xNDIuMTY2IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IFVidW50dTsgTGludXggeDg2XzY0OyBydjo4OC4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvODguMCIsInVpZF9jaGFubmVsIjoiNiIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTU0NjYxNDh9.ReVmj9UP8k1j83oPOXewKDc37Me9RpR3wA3nm5bMWmE",
+    "tags": []
+  },
+  {
+    "id": "e4e5088d",
+    "name": "Спутник 91.2 fm",
+    "url": "https://stream03.pcradio.ru/sputnik_ria_ru-med",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e61df5cf",
+    "name": "Musical Decadence Radio",
+    "url": "https://stream.musicaldecadence.ru/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cbfc67f2",
+    "name": "Пилот FM",
+    "url": "https://online.pilotfm.ru/pilot",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d053a24d",
+    "name": "Europa Plus",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320f.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "df677626",
+    "name": "ULTRA",
+    "url": "https://nashe1.hostingradio.ru/ultra-256",
+    "tags": []
+  },
+  {
+    "id": "cbf74eb2",
+    "name": "Sovietwave",
+    "url": "https://station.waveradio.org/soviet.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "549fc9df",
+    "name": "анекдот фм",
+    "url": "https://ic6.101.ru:8000/stream/trust/mp3/128/20",
+    "tags": []
+  },
+  {
+    "id": "5bb801f4",
+    "name": "Radio Chocolate",
+    "url": "https://choco.hostingradio.ru:10010/fm",
+    "tags": []
+  },
+  {
+    "id": "a7e9080e",
+    "name": "ДИСКОТЕКА 90-Х",
+    "url": "https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7",
+    "tags": []
+  },
+  {
+    "id": "f8830a68",
+    "name": "Радио Монте-Карло",
+    "url": "https://mc-mcgold.hostingradio.ru/mcgold96.aacp",
+    "tags": []
+  },
+  {
+    "id": "3702d487",
+    "name": "Радио Эрмитаж",
+    "url": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "16bf6d9f",
+    "name": "Anima Amoris - Goa Psy Trance",
+    "url": "https://amoris.sknt.ru/goa.mp3",
+    "tags": []
+  },
+  {
+    "id": "19b6ee64",
+    "name": "Ралио Релакс Москва 90,8 FM",
+    "url": "https://pub0302.101.ru:8000/stream/air/aac/64/200",
+    "tags": []
+  },
+  {
+    "id": "0ad9af18",
+    "name": "Europa Plus (128 kbps)",
+    "url": "https://ep128.hostingradio.ru:8030/ep128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4669e8de",
+    "name": "Donat FM - Russian Rock",
+    "url": "https://c6.radioboss.fm:8097/autodj",
+    "tags": []
+  },
+  {
+    "id": "d5deeee3",
+    "name": "Radio 7",
+    "url": "https://europaplus.hostingradio.ru:8014/radiosept320.mp3",
+    "tags": []
+  },
+  {
+    "id": "9a97280f",
+    "name": "Радио Ностальжи Россия",
+    "url": "https://listen7.myradio24.com/alexx333",
+    "tags": []
+  },
+  {
+    "id": "e42fa627",
+    "name": "Radio Record Deep",
+    "url": "https://radiorecord.hostingradio.ru/deep96.aacp",
+    "tags": []
+  },
+  {
+    "id": "f3ce9ad4",
+    "name": "101.ru СССР 50-70",
+    "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/47",
+    "tags": []
+  },
+  {
+    "id": "869a3a1b",
+    "name": "Радио Рекорд Медляк FM",
+    "url": "https://radiorecord.hostingradio.ru/mdl96.aacp",
+    "tags": []
+  },
+  {
+    "id": "b57422dd",
+    "name": "Радио Рекорд Neurofunk",
+    "url": "https://radiorecord.hostingradio.ru/neurofunk96.aacp",
+    "tags": []
+  },
+  {
+    "id": "2fc226d8",
+    "name": "ЕВРОПА ПЛЮС",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3?64644ec1",
+    "tags": []
+  },
+  {
+    "id": "5ea3bfbb",
+    "name": "Anima Amoris Dub Techno Mix",
+    "url": "https://amoris.sknt.ru/dubtechnomix.mp3",
+    "tags": []
+  },
+  {
+    "id": "319857fd",
+    "name": "Дорожное радио НН",
+    "url": "https://dorognoe.hostingradio.ru/dorognoe_acc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d6d90ae8",
+    "name": "Promodj Nu",
+    "url": "https://radio.promodj.com/nu-192",
+    "tags": []
+  },
+  {
+    "id": "a2c1d4be",
+    "name": "Радио Романтика",
+    "url": "https://pub0202.101.ru:8443/stream/air/aac/64/101",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fa96990c",
+    "name": "Шансон Плюс",
+    "url": "https://radio.radioshansonplus.com:8000/radio",
+    "tags": []
+  },
+  {
+    "id": "1ceadf24",
+    "name": "Deep One",
+    "url": "https://stream.deep1.ru/deep1mp3",
+    "tags": []
+  },
+  {
+    "id": "acce9bf6",
+    "name": "Relax FM",
+    "url": "https://pub0302.101.ru:8443/stream/air/aac/64/200",
+    "tags": []
+  },
+  {
+    "id": "1a39755e",
+    "name": "ХИТ FM",
+    "url": "https://hitfm.hostingradio.ru/hitfm128.mp3?48c22b78",
+    "tags": []
+  },
+  {
+    "id": "14010d10",
+    "name": "rockfm.ru heavy",
+    "url": "https://jfm1.hostingradio.ru:14536/metal.mp3",
+    "tags": []
+  },
+  {
+    "id": "217a5d00",
+    "name": "DONAT FM - Русская Поп-музыка",
+    "url": "https://c6.radioboss.fm:8099/stream",
+    "tags": []
+  },
+  {
+    "id": "4f674564",
+    "name": "Radio Jazz 89.1 - JAZZ Legends",
+    "url": "https://jfm1.hostingradio.ru:14536/jlstream.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "24f7397a",
+    "name": "Вести FM (AAC)",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_64kbps",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "417313c9",
+    "name": "Радио ЗВЕЗДА - Центральная Россия",
+    "url": "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128",
+    "tags": []
+  },
+  {
+    "id": "16917425",
+    "name": "Русский Рок",
+    "url": "https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp",
+    "tags": []
+  },
+  {
+    "id": "da698627",
+    "name": "Радио Юность",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps",
+    "tags": []
+  },
+  {
+    "id": "82f3eded",
+    "name": "Радио Рекорд Rap Hits",
+    "url": "https://radiorecord.hostingradio.ru/rap96.aacp",
+    "tags": []
+  },
+  {
+    "id": "ef630486",
+    "name": "Коммерсантъ FM 93.6",
+    "url": "https://kommersant77.hostingradio.ru:8085/kommersant128.mp3",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "5f89186d",
+    "name": "НАШЕ Радио Тюмень",
+    "url": "https://nashe1.hostingradio.ru/nashe-256",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "497cd0a9",
+    "name": "101.ru Italo Disco",
+    "url": "https://pub0202.101.ru:8000/stream/pro/aac/64/161",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d0bada0d",
+    "name": "Radio Maximum - Rammstein",
+    "url": "https://maximum-rammstein.hostingradio.ru/rammstein96.aacp",
+    "tags": []
+  },
+  {
+    "id": "ea4c2b23",
+    "name": "Советская эстрада ",
+    "url": "https://evcast.mediacp.eu:2075/stream",
+    "tags": []
+  },
+  {
+    "id": "b87ea133",
+    "name": "Радио Рекорд Future Bass",
+    "url": "https://radiorecord.hostingradio.ru/fbass96.aacp",
+    "tags": []
+  },
+  {
+    "id": "9626f301",
+    "name": "Radio Maximum - Metallica",
+    "url": "https://metallica.hostingradio.ru/metallica96.aacp",
+    "tags": []
+  },
+  {
+    "id": "d6d20c48",
+    "name": "Radio Record Ambient",
+    "url": "https://radiorecord.hostingradio.ru/ambient96.aacp",
+    "tags": []
+  },
+  {
+    "id": "a437dc20",
+    "name": "BEST DEEP FM",
+    "url": "https://listen11.myradio24.com/5129",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4e2b5004",
+    "name": "Юмор ФМ 106.5 FM",
+    "url": "https://online-2.gkvr.ru:8000/yumorfm11_vld_64.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "81751fed",
+    "name": "URALSOUND FM | DEEP HOUSE",
+    "url": "https://5.restream.one/1392_1",
+    "tags": []
+  },
+  {
+    "id": "bc368ce0",
+    "name": "DFM - Vocal Trance",
+    "url": "https://dfm-trance.hostingradio.ru/trance96.aacp",
+    "tags": []
+  },
+  {
+    "id": "7873c4f0",
+    "name": "Noise FM - EDM Radio",
+    "url": "https://play.sas-media.ru/play_256",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9b5686c0",
+    "name": "Like FM Moscow, Russia",
+    "url": "https://pub0302.101.ru:8000/stream/air/aac/64/219",
+    "tags": []
+  },
+  {
+    "id": "f06fb32b",
+    "name": "Enigma",
+    "url": "https://pub0302.101.ru:8443/stream/pro/aac/64/175",
+    "tags": []
+  },
+  {
+    "id": "b0893f3e",
+    "name": "Modern Talking",
+    "url": "https://pub0301.101.ru:8443/stream/pro/aac/64/115",
+    "tags": []
+  },
+  {
+    "id": "34606e76",
+    "name": "Ретро FM — Вечеринка",
+    "url": "https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "727a78e8",
+    "name": "101.ru Россия Топ 50",
+    "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/34?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjczLjEzMC4zNy43OSIsInVzZXJhZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yNS4xIiwidWlkX2NoYW5uZWwiOiIzNCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTY0MzcyNDh9.LRVefwOLisK0VGs3qvDvuYZ31k4mW7VJFd4mbWQQlD8.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ec9cc444",
+    "name": "Радио МИР",
+    "url": "https://icecast-mirtv.cdnvideo.ru/radio_mir_256",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3b5b53da",
+    "name": "Radio Record 00's",
+    "url": "https://radiorecord.hostingradio.ru/200096.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f5aea62f",
+    "name": "RCM DEEP",
+    "url": "https://h.getradio.me/rcmdeep/hls.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ab700a42",
+    "name": "Наше Радио ЩАС СПОЮ",
+    "url": "https://nashe1.hostingradio.ru/nashesongs.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aa80e403",
+    "name": "101.ru ABBA",
+    "url": "https://pub0101.101.ru:8000/stream/pro/aac/64/104?",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6d0581bd",
+    "name": "Radio Record Phonk",
+    "url": "https://radiorecord.hostingradio.ru/phonk96.aacp",
+    "tags": []
+  },
+  {
+    "id": "b8605bee",
+    "name": "Радио Орфей 99.2 FM",
+    "url": "https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05bfb90f",
+    "name": "Mixadance FM Fitness",
+    "url": "https://stream.mixadance.fm/fitness",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "26da99c0",
+    "name": "Дядя Ваня на даче (18+) ",
+    "url": "https://ic1.radiosignal.one/vanya-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d5a19ad1",
+    "name": "Радио Рекорд Tech House",
+    "url": "https://radiorecord.hostingradio.ru/techouse96.aacp",
+    "tags": []
+  },
+  {
+    "id": "de1957a1",
+    "name": "Discoteca 80",
+    "url": "https://pub0302.101.ru:8443/stream/pro/aac/64/1?",
+    "tags": []
+  },
+  {
+    "id": "05cdeb42",
+    "name": "Радио Монте Карло - Wonderful Blues",
+    "url": "https://mc-blues.hostingradio.ru/blues96.aacp",
+    "tags": []
+  },
+  {
+    "id": "81974ae2",
+    "name": "DFM Trap",
+    "url": "https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp",
+    "tags": []
+  },
+  {
+    "id": "1a85cd12",
+    "name": "Record Trance Classics",
+    "url": "https://radiorecord.hostingradio.ru/trancehits96.aacp",
+    "tags": []
+  },
+  {
+    "id": "6d438ec7",
+    "name": "Радио Сахаров",
+    "url": "https://icecast.correctiv.net/sacharow",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "ae703350",
+    "name": "\tRadio Record - Russian Gold",
+    "url": "https://radiorecord.hostingradio.ru/russiangold96.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "867f7c88",
+    "name": "Радио Ретроклуб",
+    "url": "https://retroclub.hostingradio.ru/retroclub128.aacp",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "77caf7b7",
+    "name": "ROCK FM, 70s",
+    "url": "https://jfm1.hostingradio.ru:14536/rock70.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e79918cf",
+    "name": "Record Trancemission",
+    "url": "https://radiorecord.hostingradio.ru/tm96.aacp",
+    "tags": []
+  },
+  {
+    "id": "5928c85a",
+    "name": "PromoDJ - Trance",
+    "url": "https://radio.promodj.com/fullmoon-192",
+    "tags": []
+  },
+  {
+    "id": "d6b3c455",
+    "name": "Радио Книга Вслух",
+    "url": "https://radio-soyuz.ru:1045/stream",
+    "tags": []
+  },
+  {
+    "id": "350add77",
+    "name": "101.ru Techno",
+    "url": "https://pub0302.101.ru:8000/stream/trust/mp3/128/18",
+    "tags": []
+  },
+  {
+    "id": "1f8ed7be",
+    "name": "Enigmatic Station",
+    "url": "https://listen2.myradio24.com/8226",
+    "tags": []
+  },
+  {
+    "id": "f76f5088",
+    "name": "Radio Record Trancehouse",
+    "url": "https://radiorecord.hostingradio.ru/trancehouse96.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2fdec5b2",
+    "name": "Пи FM",
+    "url": "https://cdn.pifm.ru/mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ba46a124",
+    "name": "Radio Maximum - Heavy 80s",
+    "url": "https://maximum80.hostingradio.ru/max8096.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4f709a1c",
+    "name": "Enigmatic Immersion",
+    "url": "https://radio.enigmatic.su:8040/radio",
+    "tags": []
+  },
+  {
+    "id": "4daff4ea",
+    "name": "Радио Рекорд Trap",
+    "url": "https://radiorecord.hostingradio.ru/trap96.aacp",
+    "tags": []
+  },
+  {
+    "id": "d547157c",
+    "name": "ЭХО",
+    "url": "https://i1.echofm.online:8443/stream",
+    "tags": []
+  },
+  {
+    "id": "d343442e",
+    "name": "Юлдаш радиоһы",
+    "url": "https://radio.mediacdn.ru/uldash.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "c2de29c4",
+    "name": "Ретро FM 80е",
+    "url": "https://retro80.hostingradio.ru:8025/retro80-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "f408183c",
+    "name": "DFM - Tech House",
+    "url": "https://dfm-techhouse.hostingradio.ru/techhouse96.aacp",
+    "tags": []
+  },
+  {
+    "id": "269b8331",
+    "name": "BigTunesRadio - House",
+    "url": "https://bigtunesradio.com:8003/house.mp3?1712236225331",
+    "tags": []
+  },
+  {
+    "id": "73ff552d",
+    "name": "Вести ФМ",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_64kbps",
+    "tags": []
+  },
+  {
+    "id": "c00557ff",
+    "name": "101.ru: Виктор Цой и группа «КИНО»",
+    "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/103?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijc4LjEwMi4yMzEuMTYiLCJ1c2VyYWdlbnQiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgNi4zOyBXaW42NDsgeDY0OyBydjo5NS4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvOTUuMCIsInVpZF9jaGFubmVsIjoiMTAzIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsImV4cCI6MTY0MDY4NTcwNH0.lnoDlTGctdMYI221sL4xM2B60tGLcLY5nYiv8bu1vNs",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "79c19b93",
+    "name": "DNB FM",
+    "url": "https://air.dnbfm.ru/listen/player/qplay",
+    "tags": []
+  },
+  {
+    "id": "9a20a90e",
+    "name": "Radio Maximum - Depeche Mode",
+    "url": "https://depechemode.hostingradio.ru/depechemode96.aacp",
+    "tags": []
+  },
+  {
+    "id": "2c438a6d",
+    "name": "РАДИО ENERGY - Москва 104.2 FM",
+    "url": "https://pub0302.101.ru:8000/stream/air/aac/64/99",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d462e450",
+    "name": "Калина Красная",
+    "url": "https://icecast-studio21.cdnvideo.ru/KalynaK_1a",
+    "tags": []
+  },
+  {
+    "id": "4b9f890c",
+    "name": "Говорит Москва",
+    "url": "https://media.govoritmoskva.ru/ru64.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5bc4a16a",
+    "name": "Милицейская волна НН",
+    "url": "https://radiomv.hostingradio.ru:80/radiomv128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d2371b2d",
+    "name": "Radio Record Liquid Funk",
+    "url": "https://radiorecord.hostingradio.ru/liquidfunk96.aacp",
+    "tags": []
+  },
+  {
+    "id": "113c2131",
+    "name": "Радио Монте Карло - Meditation",
+    "url": "https://mc-meditation.hostingradio.ru/meditation96.aacp",
+    "tags": []
+  },
+  {
+    "id": "376e70ec",
+    "name": "Ретро FM Санкт-Петербург (128 kbps, mp3)",
+    "url": "https://emgspb.hostingradio.ru/retrofmspb128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1daf87b8",
+    "name": "Союз ФМ",
+    "url": "https://soyuzfm.su:8100//soyuzfm-320.mp3?1702169748633",
+    "tags": []
+  },
+  {
+    "id": "ebe0836b",
+    "name": "Спутник ФМ - Уфимская Волна",
+    "url": "https://radio.mediacdn.ru/sputnik_fm.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "b660bd73",
+    "name": "Deep One",
+    "url": "https://stream.deep1.ru/deep1aac",
+    "tags": []
+  },
+  {
+    "id": "1cf49e63",
+    "name": "Radio Record Chill House",
+    "url": "https://radiorecord.hostingradio.ru/organic96.aacp",
+    "tags": []
+  },
+  {
+    "id": "80d20d00",
+    "name": "Радио Рекорд Руки Вверх!",
+    "url": "https://radiorecord.hostingradio.ru/rv96.aacp",
+    "tags": []
+  },
+  {
+    "id": "cf4b86c8",
+    "name": "MAXIMUM",
+    "url": "https://maximum.hostingradio.ru/maximum96.aacp",
+    "tags": []
+  },
+  {
+    "id": "980a729e",
+    "name": "Радио Sputnik (Россия) 256 кбит/с",
+    "url": "https://icecast-rian.cdnvideo.ru/voicerushi",
+    "tags": []
+  },
+  {
+    "id": "58ab5488",
+    "name": "DFM THE PRODIGY",
+    "url": "https://dfm-prodigy.hostingradio.ru/prodigy96.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3e49280d",
+    "name": "Radio Record Bass House",
+    "url": "https://radiorecord.hostingradio.ru/jackin96.aacp",
+    "tags": []
+  },
+  {
+    "id": "ef1e2cdd",
+    "name": "Радио Рекорд EDM",
+    "url": "https://radiorecord.hostingradio.ru/club96.aacp",
+    "tags": []
+  },
+  {
+    "id": "575eae22",
+    "name": "Radio Record Electro",
+    "url": "https://radiorecord.hostingradio.ru/elect96.aacp",
+    "tags": []
+  },
+  {
+    "id": "8c41f964",
+    "name": "Monte Carlo Gold Collection",
+    "url": "https://montecarlo.hostingradio.ru/mcgold96.aacp",
+    "tags": []
+  },
+  {
+    "id": "c1c6712b",
+    "name": "ДЕТСКОЕ РАДИО [DETSKOE RADIO BABY FM",
+    "url": "https://a5.radioheart.ru:8012/nonstop",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3a1294cf",
+    "name": "Radio Monte Carlo - Bossa Nova",
+    "url": "https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a4c321dc",
+    "name": "Радио Монте Карло - Covers",
+    "url": "https://mc-covers.hostingradio.ru/mccovers96.aacp",
+    "tags": []
+  },
+  {
+    "id": "f0abaa23",
+    "name": "Radio Jazz 89.1 FM",
+    "url": "https://main.hostingradio.ru/jazz-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "393d4b62",
+    "name": "Радио Рекорд Tropical",
+    "url": "https://radiorecord.hostingradio.ru/trop96.aacp",
+    "tags": []
+  },
+  {
+    "id": "62c7299d",
+    "name": "PromoDJ - Dubstep",
+    "url": "https://radio.promodj.com/dubstep-192",
+    "tags": []
+  },
+  {
+    "id": "f46b5db4",
+    "name": "Радио Рекорд Hypnotic",
+    "url": "https://radiorecord.hostingradio.ru/hypno96.aacp",
+    "tags": []
+  },
+  {
+    "id": "cc7487cb",
+    "name": "Наше Радио 2.0",
+    "url": "https://nashe1.hostingradio.ru:18000/nashe20-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fce3294a",
+    "name": "Говорит Москва",
+    "url": "https://media.govoritmoskva.ru:8880/rufm_m.mp3",
+    "tags": []
+  },
+  {
+    "id": "8d5ef624",
+    "name": "Радио 7 на семи холмах - Настроение счастья",
+    "url": "https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp",
+    "tags": []
+  },
+  {
+    "id": "342425d3",
+    "name": "Европа Плюс",
+    "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "142169cb",
+    "name": "Настоящее Время",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/playlist_0240.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1cbe9c21",
+    "name": "DNB FM",
+    "url": "https://air.dnbfm.ru/listen/player/play",
+    "tags": []
+  },
+  {
+    "id": "7102926c",
+    "name": "Радио для двоих",
+    "url": "https://icecast-radiofortwo.cdnvideo.ru/radiofortwo",
+    "tags": []
+  },
+  {
+    "id": "07542f46",
+    "name": "Радио Рекорд Tecktonik",
+    "url": "https://radiorecord.hostingradio.ru/tecktonik96.aacp",
+    "tags": []
+  },
+  {
+    "id": "657d6192",
+    "name": "НОВОЕ РАДИО",
+    "url": "https://stream.newradio.ru/moscow.novoe.aacp",
+    "tags": []
+  },
+  {
+    "id": "2e0638c2",
+    "name": "Radio Record Synthwave",
+    "url": "https://radiorecord.hostingradio.ru/synth96.aacp",
+    "tags": []
+  },
+  {
+    "id": "87db5efa",
+    "name": "КЕКС FM",
+    "url": "https://emg02.hostingradio.ru/keksfm64.aac",
+    "tags": []
+  },
+  {
+    "id": "0ec666a5",
+    "name": "Radio Record  - Disco Funk",
+    "url": "https://radiorecord.hostingradio.ru/discofunk96.aacp",
+    "tags": []
+  },
+  {
+    "id": "3391f9fa",
+    "name": "Радио Ваня - Не лихие 90-е",
+    "url": "https://stream02.pcradio.biz/vanya_90-med",
+    "tags": []
+  },
+  {
+    "id": "a85a70dc",
+    "name": "DONAT FM - Зарубежные хиты",
+    "url": "https://c6.radioboss.fm:8089/stream",
+    "tags": []
+  },
+  {
+    "id": "3ab99762",
+    "name": "Radio Monte Carlo Golf Club",
+    "url": "https://montecarlo.hostingradio.ru/golfcup96.aacp",
+    "tags": []
+  },
+  {
+    "id": "b40ac6b6",
+    "name": "101 ru enigmatic ",
+    "url": "https://101.ru:8143/?date=201405&hash=1979c180fe0ba452a76f00d8a0f0c452&start=209",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "764fd8a5",
+    "name": "РетроФМ",
+    "url": "https://europaplus.hostingradio.ru:8014/retro320.mp3",
+    "tags": []
+  },
+  {
+    "id": "9dfe151f",
+    "name": "Radio Record HQ",
+    "url": "https://air.unmixed.ru/record320",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "211968b0",
+    "name": "EuropaPplus Party",
+    "url": "https://epdop.hostingradio.ru:8033//epparty128.mp3",
+    "tags": []
+  },
+  {
+    "id": "f1e5b7ef",
+    "name": "Неслучайное Радио",
+    "url": "https://aska.ru-hoster.com:8006/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c0a3d7e",
+    "name": "Mixadance FM Relax",
+    "url": "https://stream.mixadance.fm/relax#.m4a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9796d1ef",
+    "name": "Дискач 90s Мегахит ДНР",
+    "url": "https://radio90s.stream.laut.fm/radio90s?t302=2025-10-19_10-26-24&uuid=984072cc-eeea-433b-a852-976c6235389c",
+    "tags": []
+  },
+  {
+    "id": "8cc53473",
+    "name": "Радио Рекорд Lo-Fi",
+    "url": "https://radiorecord.hostingradio.ru/lofi96.aacp",
+    "tags": []
+  },
+  {
+    "id": "4f4b0130",
+    "name": "THT Music Radio",
+    "url": "https://tntradio.hostingradio.ru:8027/tntradio128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e099f7f4",
+    "name": "Anima Amoris Deep Tech House",
+    "url": "https://amoris.sknt.ru/deeptech.mp3",
+    "tags": []
+  },
+  {
+    "id": "3a17b054",
+    "name": "Радио Олдхит",
+    "url": "https://radio.oldxit.ru:8030/radio",
+    "tags": []
+  },
+  {
+    "id": "b48f11a1",
+    "name": "101.ru - Electronic",
+    "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/132",
+    "tags": []
+  },
+  {
+    "id": "9b0bf963",
+    "name": "BigTunesRadio - Trance",
+    "url": "https://bigtunesradio.com:8003/trance.mp3?1712236520795",
+    "tags": []
+  },
+  {
+    "id": "3d74bd5e",
+    "name": "Маруся ФМ",
+    "url": "https://spb5.radio-holding.ru/marusya_default",
+    "tags": []
+  },
+  {
+    "id": "20f61c93",
+    "name": "Радио Рекорд House Hits",
+    "url": "https://radiorecord.hostingradio.ru/househits96.aacp",
+    "tags": []
+  },
+  {
+    "id": "e2b4e2c5",
+    "name": "ROCK FM, 80s",
+    "url": "https://jfm1.hostingradio.ru:14536/rock80.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "db2d426a",
+    "name": "Metaradio",
+    "url": "https://s2.metaradio.ru/mradio.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8e46167f",
+    "name": "СПРАВЕДЛИВАЯ РОССИЯ",
+    "url": "https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "55cb4ed7",
+    "name": "Радио Монте Карло Песни оЛюбви",
+    "url": "https://mc-pesniolyubvi.hostingradio.ru/pesniolyubvi96.aacp?95a0",
+    "tags": []
+  },
+  {
+    "id": "c0ce1f39",
+    "name": "ABBA Radio",
+    "url": "https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "20137baf",
+    "name": "Бизнес ФМ Санкт-Петербург 107.4 FM",
+    "url": "https://bfmreg.hostingradio.ru/spb.bfm128.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "df53b7ea",
+    "name": "Радио Рекорд Innocence",
+    "url": "https://radiorecord.hostingradio.ru/ibiza96.aacp",
+    "tags": []
+  },
+  {
+    "id": "9290e12b",
+    "name": "Cassiopeia Station (Наука)",
+    "url": "https://stream.cassiopeia-station.ru:1095/stream",
+    "tags": []
+  },
+  {
+    "id": "5a3b64eb",
+    "name": "Детское радио (ДетиFM) - Detskoye Radio",
+    "url": "https://pub0101.101.ru/stream/air/aac/64/199",
+    "tags": []
+  },
+  {
+    "id": "11c6a452",
+    "name": "101.ru Любэ",
+    "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c5b34e04",
+    "name": "Радио Рекорд Dancecore",
+    "url": "https://radiorecord.hostingradio.ru/dc96.aacp",
+    "tags": []
+  },
+  {
+    "id": "4d45af7d",
+    "name": "ретро фм 96.4 FM",
+    "url": "https://online2.gkvr.ru:8001/retro_che_64.aac",
+    "tags": []
+  },
+  {
+    "id": "dad8c18e",
+    "name": "Monte Carlo Moscow",
+    "url": "https://montecarlo.hostingradio.ru/montecarlo96.aacp",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ee4bfb87",
+    "name": "Radio Record Future House",
+    "url": "https://radiorecord.hostingradio.ru/fut96.aacp",
+    "tags": []
+  },
+  {
+    "id": "2f137f38",
+    "name": "Radio Maximum - New Russians",
+    "url": "https://maximum-newrussians.hostingradio.ru/maxnewrussians96.aacp",
+    "tags": []
+  },
+  {
+    "id": "e2ee2fb0",
+    "name": "Anima Amoris Minimal Deep Techno",
+    "url": "https://amoris.sknt.ru/minimal.mp3",
+    "tags": []
+  }
+]

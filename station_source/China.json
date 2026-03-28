@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "7G2Ark1P",
+    "name": "AisaFM亚洲粤语台",
+    "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
+    "tags": []
+  },
+  {
+    "id": "lTGwQCaz",
+    "name": "BRTV北京交通广播",
+    "url": "https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8",
+    "tags": [
+      "traffic",
+      "news",
+      "music"
+    ]
+  },
+  {
+    "id": "mtRy6IRE",
+    "name": "BTV影视伴音",
+    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio",
+    "tags": []
+  },
+  {
+    "id": "n9H3bu4W",
+    "name": "BTV文艺伴音",
+    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio",
+    "tags": []
+  },
+  {
+    "id": "7Pmlt1Fx",
+    "name": "BTV生活伴音",
+    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio",
+    "tags": []
+  },
+  {
+    "id": "eZqXz9lC",
+    "name": "BTV科教伴音",
+    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio",
+    "tags": []
+  },
+  {
+    "id": "y7R7kOZA",
+    "name": "BTV财经伴音",
+    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "h9JvoL5z",
+    "name": "CCTV-13新闻伴音",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8",
+    "tags": [
+      "news",
+      "economy",
+      "music"
+    ]
+  },
+  {
+    "id": "sfmH1Cki",
+    "name": "CGTN",
+    "url": "https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6PwlfXEY",
+    "name": "保定经典964汽车音乐广播",
+    "url": "https://ls.qingting.fm/live/2227017.m3u8",
+    "tags": [
+      "music",
+      "traffic",
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "uayBl5An",
+    "name": "CAS美国经典艺术展播",
+    "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8",
+    "tags": []
+  },
+  {
+    "id": "HsJ1gdJD",
+    "name": "CNR中国之声",
+    "url": "https://satellitepull.cnr.cn/live/wxzgzs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "93Jjg21N",
+    "name": "CNR经济之声",
+    "url": "https://satellitepull.cnr.cn/live/wxjjzs/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "xIHJqGhk",
+    "name": "CNR交通之声",
+    "url": "https://satellitepull.cnr.cn/live/wxzgjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "GeDygxQS",
+    "name": "CNR老年之声",
+    "url": "https://satellitepull.cnr.cn/live/wxlnzs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "JpBmzpnx",
+    "name": "CNR乡村之声",
+    "url": "https://satellitepull.cnr.cn/live/wxxczs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "HxRJBAvj",
+    "name": "CRI英语资讯广播",
+    "url": "https://sk.cri.cn/am846.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "tMPT2dAU",
+    "name": "凤凰卫视",
+    "url": "https://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8",
+    "tags": []
+  },
+  {
+    "id": "MLhzsF5t",
+    "name": "CNR音乐之声",
+    "url": "https://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "AY5RHA9q",
+    "name": "CNR经典音乐",
+    "url": "https://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "W93lsaev",
+    "name": "CNR文艺之声",
+    "url": "https://satellitepull.cnr.cn/live/wxwyzs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "XwpbHlj5",
+    "name": "CNR民族之声",
+    "url": "https://satellitepull.cnr.cn/live/wxmzzs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "YRQ8X1it",
+    "name": "CRI国际流行音乐",
+    "url": "https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "kngs9FaO",
+    "name": "安徽故事广播",
+    "url": "https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "U2h2rs3O",
+    "name": "安徽交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "Uym7JTM2",
+    "name": "安徽经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "ct4uKwE8",
+    "name": "安徽旅游广播",
+    "url": "https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "7snxYyhg",
+    "name": "安徽生活广播",
+    "url": "https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "N4uFrfyv",
+    "name": "安徽戏曲广播",
+    "url": "https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "F7cWGU7X",
+    "name": "安徽音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "XbRNo5K0",
+    "name": "安徽之声",
+    "url": "https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "Nu9CfbtA",
+    "name": "北京新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "g2S8DLJF",
+    "name": "福建东南广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "K3ElEmdW",
+    "name": "福建交通广播",
+    "url": "https://ls.qingting.fm/live/1733.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "zUqakgsW",
+    "name": "福建经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "tnHkHffo",
+    "name": "福建汽车音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8",
+    "tags": [
+      "music",
+      "traffic"
+    ]
+  },
+  {
+    "id": "LbjZnojS",
+    "name": "甘肃交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "mCN9ojw5",
+    "name": "甘肃经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "PNNPANcJ",
+    "name": "甘肃农村广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgsncgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "OzdK6UgV",
+    "name": "甘肃青春调频",
+    "url": "https://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "GVghuoro",
+    "name": "甘肃新闻综合广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "BdXanz4h",
+    "name": "广东城市之声",
+    "url": "https://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "0Lk98dSP",
+    "name": "广东股市广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "vVPCWpAn",
+    "name": "广东南粤之声",
+    "url": "https://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "INKWHf3Q",
+    "name": "广东文体广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "5kqEiBwo",
+    "name": "广东新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "M0Xf8817",
+    "name": "广东音乐之声",
+    "url": "https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "jxRZLKkW",
+    "name": "广西北部湾之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "PdJQgUx1",
+    "name": "广西交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "T3qaUoR1",
+    "name": "广西教育广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bR8kpAyy",
+    "name": "广西经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "eh4znVu1",
+    "name": "广西音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bGpTjWGE",
+    "name": "贵阳综合广播",
+    "url": "https://lhttp.qtfm.cn/live/1773/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "BRD97z2t",
+    "name": "广西综合广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "CYmmYLsF",
+    "name": "海南交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "A42JpYOi",
+    "name": "海南新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "PLmx3ub2",
+    "name": "海南音乐广播",
+    "url": "https://ls.qingting.fm/live/4878.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bdlAKKKB",
+    "name": "河北故事广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "vWVMMt9L",
+    "name": "河北交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "ZfR5gIIz",
+    "name": "河北生活广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ZB9Xa36S",
+    "name": "河北文艺广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "HF1agkzU",
+    "name": "河北音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "wqGWq89u",
+    "name": "河北综合广播",
+    "url": "https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "FF3BGax0",
+    "name": "都市女性广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "AIjUqcPY",
+    "name": "黑龙江高校广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ZNnPRsO7",
+    "name": "黑龙江老年少儿广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "r0MYnFsU",
+    "name": "黑龙江乡村广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "rLu6W2fa",
+    "name": "黑龙江新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d0gdaLKS",
+    "name": "黑龙江音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "63RKAqBn",
+    "name": "湖北城市之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "byVDJ8Yu",
+    "name": "湖北之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "zRwmv9dg",
+    "name": "湖南交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "XKYpl4C4",
+    "name": "湖南经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "5fAxaJSi",
+    "name": "湖南旅游广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bbtcvp2d",
+    "name": "湖南文艺广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "CJEaRFwZ",
+    "name": "湖南综合广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "mzBqDYiC",
+    "name": "江苏金陵之声",
+    "url": "https://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8",
+    "tags": []
+  },
+  {
+    "id": "A5IiCGkQ",
+    "name": "吉林交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "FVSrhN0K",
+    "name": "吉林乡村广播",
+    "url": "https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "NJHKkjm9",
+    "name": "吉林经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "1j0xrS9J",
+    "name": "吉林新闻综合广播",
+    "url": "https://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "B1NGw8i8",
+    "name": "江苏财经广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "wCgkvkIB",
+    "name": "江苏故事广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "vIBvCFa0",
+    "name": "江苏健康广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "LddJp6KJ",
+    "name": "江苏交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "OJy41Bhu",
+    "name": "江苏经典流行音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2uo3nhEv",
+    "name": "江苏文艺广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "Dz0Te4o6",
+    "name": "江苏新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0WOLXjL8",
+    "name": "江苏综合广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "Na5c4b3i",
+    "name": "江西都市广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "PHWayYM1",
+    "name": "江苏音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "Z9WgccJT",
+    "name": "江西民生广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "FnR1UDHP",
+    "name": "江西农村广播·绿色985",
+    "url": "https://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "9CIMe505",
+    "name": "江西信息交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "SqzA0bbf",
+    "name": "江西音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "NalyCW9k",
+    "name": "江西综合新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "M7LZGTpP",
+    "name": "金陵之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "5D7F2VAo",
+    "name": "金鹰之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32955/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "5XojqYCV",
+    "name": "辽宁交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "hNfbiAy0",
+    "name": "辽宁经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "DWpSw047",
+    "name": "辽宁乡村广播",
+    "url": "https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "kVsTkjDF",
+    "name": "辽宁之声",
+    "url": "https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "FDAwmP73",
+    "name": "辽宁经典音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "yiBC8E4A",
+    "name": "龙广北大荒之声",
+    "url": "https://stream3.hljtv.com/hljrdgx/sd/live.m3u8",
+    "tags": []
+  },
+  {
+    "id": "Ir2xlCnC",
+    "name": "龙广朝鲜语广播",
+    "url": "https://stream3.hljtv.com/hljrdcy/sd/live.m3u8",
+    "tags": []
+  },
+  {
+    "id": "vgKZWi3u",
+    "name": "龙广乡村广播",
+    "url": "https://stream3.hljtv.com/hljrdnc/sd/live.m3u8",
+    "tags": []
+  },
+  {
+    "id": "HQiKpHeQ",
+    "name": "龙广新闻广播",
+    "url": "https://ls.qingting.fm/live/4974.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "852NMkTm",
+    "name": "龙广音乐广播",
+    "url": "https://stream3.hljtv.com/hljrdnx/sd/live.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "BJCCQXg0",
+    "name": "南寧交通音乐广播",
+    "url": "https://ls.qingting.fm/live/80793.m3u8?aac",
+    "tags": [
+      "music",
+      "traffic",
+      "news"
+    ]
+  },
+  {
+    "id": "IFpX0CX5",
+    "name": "宁波经济广播",
+    "url": "https://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8",
+    "tags": [
+      "economy",
+      "traffic",
+      "news",
+      "music"
+    ]
+  },
+  {
+    "id": "34ay8Qrd",
+    "name": "南方生活广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "nXrNEz3M",
+    "name": "内蒙古音乐之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "icaCCTi3",
+    "name": "宁夏新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "vN70T1dI",
+    "name": "宁夏旅游广播",
+    "url": "https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "lNKjaJ6X",
+    "name": "宁夏经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "bc0Ihz8m",
+    "name": "宁夏音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "evF8P4Du",
+    "name": "青海交通音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8",
+    "tags": [
+      "music",
+      "traffic"
+    ]
+  },
+  {
+    "id": "k9x4SxZb",
+    "name": "青海经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "q6bgUTnd",
+    "name": "青海新闻综合广播",
+    "url": "https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "ohNTYDsO",
+    "name": "山东交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "wk1obyiF",
+    "name": "山东经典音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsdshxxgb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "LqIztMvf",
+    "name": "山东经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "29prjxBd",
+    "name": "山东体育休闲广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "klDOXrFr",
+    "name": "山东乡村广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "J2CZiLar",
+    "name": "山东音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "NAMWqdpJ",
+    "name": "陕西经济广播·896汽车调频",
+    "url": "https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8",
+    "tags": [
+      "traffic",
+      "economy"
+    ]
+  },
+  {
+    "id": "A8IXemB8",
+    "name": "陕西农村广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "iOnxk8RN",
+    "name": "陕西青少广播·好听1055",
+    "url": "https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "BPNbEAr1",
+    "name": "陕西新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "v0p8TPuC",
+    "name": "陕西音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5LwOciO7",
+    "name": "深圳飞扬971",
+    "url": "https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "7qHYlYMH",
+    "name": "深圳交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "zC6cptDN",
+    "name": "深圳生活942",
+    "url": "https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c2rp7ogk",
+    "name": "四川经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "YX8dwRLh",
+    "name": "四川交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "uRuZi1De",
+    "name": "四川旅游生活广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "JCfyNHPB",
+    "name": "四川岷江音乐",
+    "url": "https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "synD6e2K",
+    "name": "四川私家车广播",
+    "url": "https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "wDyDxHDi",
+    "name": "四川文艺广播",
+    "url": "https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "x2i16PKN",
+    "name": "四川之声",
+    "url": "https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "o2x3tAWL",
+    "name": "西安新闻广播",
+    "url": "https://stream3.xiancity.cn/1/sd/live.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "xPH9R3n2",
+    "name": "西安交通广播",
+    "url": "https://stream3.xiancity.cn/5/sd/live.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "LDqDd5uM",
+    "name": "西安资讯广播",
+    "url": "https://stream3.xiancity.cn/5/sd/live.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "BTN2VUaQ",
+    "name": "西安音乐广播",
+    "url": "https://stream3.xiancity.cn/4/sd/live.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "wlKiTTEL",
+    "name": "潇湘之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "jjT7liGM",
+    "name": "星河音乐台",
+    "url": "https://stream.hndt.com/live/1061/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "yv2CPYTp",
+    "name": "延边新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "gVM7hbct",
+    "name": "羊城交通广播",
+    "url": "https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "ry2pXw2v",
+    "name": "云南国际广播",
+    "url": "https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6mVNVGwi",
+    "name": "云南交通之声",
+    "url": "https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "RqChvJzp",
+    "name": "云南旅游广播·香格里拉之声",
+    "url": "https://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "Dm012sav",
+    "name": "云南民族广播",
+    "url": "https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "05vPG2Af",
+    "name": "长三角之声",
+    "url": "https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "VIPtVqoo",
+    "name": "云南新闻广播",
+    "url": "https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "jBpMeW0i",
+    "name": "云南音乐广播",
+    "url": "https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cg9jDMyP",
+    "name": "浙江经济广播",
+    "url": "https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "hyPkavOn",
+    "name": "浙江城市之声",
+    "url": "https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "YY2OoBlC",
+    "name": "浙江交通之声",
+    "url": "https://ls.qingting.fm/live/4522.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "GpKqp5ep",
+    "name": "浙江旅游之声",
+    "url": "https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bvXBVd0j",
+    "name": "浙江民生资讯广播",
+    "url": "https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "Br62CEcS",
+    "name": "浙江之声",
+    "url": "https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3mOwQnAC",
+    "name": "重庆都市广播·私家车938",
+    "url": "https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "sz5kLCzM",
+    "name": "重庆经济广播",
+    "url": "https://ls.qingting.fm/live/1499.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "0KC17R5k",
+    "name": "重庆文艺广播",
+    "url": "https://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "KIMOO9Dj",
+    "name": "重庆音乐广播",
+    "url": "https://ls.qingting.fm/live/647.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "IsjhTxLR",
+    "name": "重庆之声",
+    "url": "https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "WbofNNpy",
+    "name": "珠江经济台",
+    "url": "https://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "pRnfna3M",
+    "name": "兴义之声",
+    "url": "https://lhttp.qtfm.cn/live/20500110/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "AzuOsUof",
+    "name": "黔西南交通旅游广播",
+    "url": "https://lhttp-hw.qtfm.cn/live/5046/64k.mp3",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "EqS08cxT",
+    "name": "黔西南综合广播",
+    "url": "https://lhttp-hw.qtfm.cn/live/5045/64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "W6G4Hjbl",
+    "name": "上海动感101",
+    "url": "https://lhttp.qingting.fm/live/274/64k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "t4KYmgmH",
+    "name": "上海新闻广播",
+    "url": "https://lhttp.qingting.fm/live/270/64k.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a4KYmgjH",
+    "name": "上海交通广播",
+    "url": "https://lhttp-hw.qtfm.cn/live/266/64k.mp3",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "5JjoRhnt",
+    "name": "上海第一财经",
+    "url": "https://lhttp-hw.qtfm.cn/live/276/64k.mp3",
+    "tags": [
+      "economy"
+    ]
+  },
+  {
+    "id": "GRhLP1lp",
+    "name": "清晨音乐台",
+    "url": "https://lhttp.qingting.fm/live/4915/64k.mp3",
+    "tags": [
+      "music"
+    ]
+  }
+]

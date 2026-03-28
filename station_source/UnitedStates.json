@@ -1,0 +1,2461 @@
+[
+  {
+    "id": "cc36591b",
+    "name": "Radio Paradise Main Mix (EU) 320k AAC",
+    "url": "https://stream-uk1.radioparadise.com/aac-320",
+    "tags": []
+  },
+  {
+    "id": "0ac8d0d0",
+    "name": "Classic Vinyl HD",
+    "url": "https://icecast.walmradio.com:8443/classic",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f0ebb0d",
+    "name": "Adroit Jazz Underground",
+    "url": "https://icecast.walmradio.com:8443/jazz",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5f59b13c",
+    "name": "Christmas Vinyl HD",
+    "url": "https://icecast.walmradio.com:8443/christmas",
+    "tags": []
+  },
+  {
+    "id": "ea625210",
+    "name": "WALM HD",
+    "url": "https://icecast.walmradio.com:8443/walm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2ed0df8d",
+    "name": "WALM - Old Time Radio",
+    "url": "https://icecast.walmradio.com:8443/otr",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "59647313",
+    "name": "101 SMOOTH JAZZ",
+    "url": "https://jking.cdnstream1.com/b22139_128mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d1d7ad91",
+    "name": "WALM 2 HD",
+    "url": "https://icecast.walmradio.com:8443/walm2",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "a6fa1eef",
+    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+    "url": "https://radiopanther.radiolebowski.com/play",
+    "tags": []
+  },
+  {
+    "id": "3836ed17",
+    "name": "WALM - Old Time Radio Opus",
+    "url": "https://icecast.walmradio.com:8443/otr_opus",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bfe2360c",
+    "name": "Adroit Jazz Underground HD Opus",
+    "url": "https://icecast.walmradio.com:8443/jazz_opus",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d1bff925",
+    "name": "Your Classical - Relax",
+    "url": "https://relax.stream.publicradio.org/relax.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1904211a",
+    "name": "181.FM - Old School HipHop/RnB",
+    "url": "https://listen.181fm.com/181-oldschool_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "2e2c16fa",
+    "name": "WALM 2 HD Opus",
+    "url": "https://icecast.walmradio.com:8443/walm2_opus",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "20202eab",
+    "name": "Ambient Sleeping Pill",
+    "url": "https://radio.stereoscenic.com/asp-h",
+    "tags": []
+  },
+  {
+    "id": "55a6c58a",
+    "name": "Christmas Vinyl HD Opus",
+    "url": "https://icecast.walmradio.com:8443/christmas_opus",
+    "tags": []
+  },
+  {
+    "id": "5ed5a01d",
+    "name": "Frisky",
+    "url": "https://stream2.friskyradio.com/frisky_mp3_hi",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1dcf484b",
+    "name": "SomaFM Groove Salad (128k MP3)",
+    "url": "https://ice4.somafm.com/groovesalad-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "12cd2581",
+    "name": "Classic Vinyl HD Opus",
+    "url": "https://icecast.walmradio.com:8443/classic_opus",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "21e8a0d1",
+    "name": "Big R Radio - 80s Metal FM",
+    "url": "https://bigrradio.cdnstream1.com/5186_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "658ea0b9",
+    "name": "SomaFM Secret Agent (128k MP3)",
+    "url": "https://ice4.somafm.com/secretagent-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ca946e61",
+    "name": "Hard Rock Heaven",
+    "url": "https://hydra.cdnstream.com/1521_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "782ddbb0",
+    "name": "181.FM - The Beat (HipHop/R&B)",
+    "url": "https://listen.181fm.com/181-beat_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "57ca0979",
+    "name": "SomaFM Underground 80s (128k MP3)",
+    "url": "https://ice4.somafm.com/u80s-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c1ffe1db",
+    "name": "Infowars",
+    "url": "https://streams1.infowars.com/stream/2/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6488315b",
+    "name": "NPR 24 Hour Program Stream",
+    "url": "https://npr-ice.streamguys1.com/live.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "320f63e9",
+    "name": "SomaFM Space Station Soma (128k AAC)",
+    "url": "https://ice3.somafm.com/spacestation-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5038b3e3",
+    "name": "SomaFM PopTron (128k MP3)",
+    "url": "https://ice1.somafm.com/poptron-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2c7f2386",
+    "name": ".977 Smooth Jazz",
+    "url": "https://18063.live.streamtheworld.com/977_SMOOJAZZ_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "34c8a683",
+    "name": "SomaFM Indie Pop Rocks! (128k AAC)",
+    "url": "https://ice5.somafm.com/indiepop-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8d9150d5",
+    "name": "SomaFM Left Coast 70s (320k MP3)",
+    "url": "https://ice1.somafm.com/seventies-320-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5b80befa",
+    "name": "181.FM - Highway 181",
+    "url": "https://listen.181fm.com/181-highway_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0072e6f5",
+    "name": "FUNKY RADIO - Only Funk Music (60's 70's)",
+    "url": "https://funkyradio.streamingmedia.it/play.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2ed1e8b2",
+    "name": ".977 Oldies",
+    "url": "https://27273.live.streamtheworld.com/977_OLDIES_SC",
+    "tags": []
+  },
+  {
+    "id": "64bdd466",
+    "name": "Radio Paradise Rock Mix 320k AAC",
+    "url": "https://stream.radioparadise.com/rock-320",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c6d6116a",
+    "name": "Miami Beach Radio",
+    "url": "https://streaming.radiostreamlive.com/miamibeachradio_devices",
+    "tags": []
+  },
+  {
+    "id": "219c4654",
+    "name": "SomaFM Lush (128k MP3)",
+    "url": "https://ice4.somafm.com/lush-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cb42960c",
+    "name": "2000 FM - RnB & Hip-Hop",
+    "url": "https://bigrradio.cdnstream1.com/5105_128",
+    "tags": []
+  },
+  {
+    "id": "6fd37572",
+    "name": "VOA Chinese Radio",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "8487b807",
+    "name": "WEOW FM 92.7",
+    "url": "https://ice42.securenetsystems.net/WEOW",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "072cd66c",
+    "name": "CNN",
+    "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a5ccaf4f",
+    "name": "181.FM - 80's Country",
+    "url": "https://listen.181fm.com/181-80scountry_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "342bc23f",
+    "name": "Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida",
+    "url": "https://liveaudio.lamusica.com/MIA_WCMQ_icy",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f67b1575",
+    "name": "WNYC-FM 93.9 New York Public Radio",
+    "url": "https://fm939.wnyc.org/wnycfm",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b9e296d0",
+    "name": "The Jazz Groove - East",
+    "url": "https://audio-edge-hy4wy.blr.d.radiomast.io/8a384ff3-6fd1-4e5d-b47d-0cbefeffe8d7",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fde54d3d",
+    "name": "98.1 KBEAR",
+    "url": "https://desertmountainbroadcasting.streamguys1.com/KYYA",
+    "tags": []
+  },
+  {
+    "id": "2548345b",
+    "name": "101 SMOOTH JAZZ MELLOW MIX",
+    "url": "https://ais-edge90-dal03.cdnstream.com/b48071_128mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fa1758fe",
+    "name": "181.FM - Kickin' Country",
+    "url": "https://listen.181fm.com/181-kickincountry_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "00ab1b94",
+    "name": "70s 80s Disco Funk ModernSoul Boogie",
+    "url": "https://discofunk.streamingmedia.it/usa",
+    "tags": []
+  },
+  {
+    "id": "44f7c987",
+    "name": "SomaFM Metal Detector (128k AAC)",
+    "url": "https://ice6.somafm.com/metal-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d784347a",
+    "name": "Radio Paradise Mellow Mix 320k AAC",
+    "url": "https://stream.radioparadise.com/mellow-320",
+    "tags": []
+  },
+  {
+    "id": "b728c6e1",
+    "name": "Nostalgie New York",
+    "url": "https://c32.radioboss.fm:8139/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c2e40170",
+    "name": "SMOOTH JAZZ 24/7",
+    "url": "https://jking.cdnstream1.com/b75154_128mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "84b35d1a",
+    "name": "Frisky Deep",
+    "url": "https://deep.friskyradio.com/friskydeep_aachi",
+    "tags": []
+  },
+  {
+    "id": "2ad777e8",
+    "name": "metal rock radio",
+    "url": "https://kathy.torontocast.com:2800/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7b7feb30",
+    "name": "SmoothJazz.com 128k mp3",
+    "url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "057212be",
+    "name": "VOA Learning English",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "395b743c",
+    "name": "181.FM - True Blues",
+    "url": "https://listen.181fm.com/181-blues_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "1c1f210a",
+    "name": "Radio Paradise Main Mix 128 AAC",
+    "url": "https://stream.radioparadise.com/aac-128",
+    "tags": []
+  },
+  {
+    "id": "3f0377da",
+    "name": "Houston Blues Radio",
+    "url": "https://edge3.peta.live365.net/b76353_128mp3",
+    "tags": []
+  },
+  {
+    "id": "6cf76cd6",
+    "name": "181.FM - Super 70s",
+    "url": "https://listen.181fm.com/181-70s_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "c869ef45",
+    "name": "SomaFM Fluid (128k MP3)",
+    "url": "https://ice4.somafm.com/fluid-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f8deb0f5",
+    "name": "Fox News Radio",
+    "url": "https://prod-3-222-117-14.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=793f914017fc9244e2a9fdbde3abf73a&source=fnr.web",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1b57e426",
+    "name": "181.FM - 90's Country",
+    "url": "https://listen.181fm.com/181-90scountry_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "32ca5244",
+    "name": "100hitz - Top 40",
+    "url": "https://pureplay.cdnstream1.com/6025_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NTI4MSwiaXNzIjoidGlzcnYifQ.cUMfsrk262BNjQXnfXkKBefQOqoRn2nweLrx5obNPhM",
+    "tags": []
+  },
+  {
+    "id": "c5122dce",
+    "name": "SomaFM Heavyweight Reggae (256k MP3)",
+    "url": "https://ice6.somafm.com/reggae-256-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2c9c46a4",
+    "name": "Radio Country Live New York",
+    "url": "https://streaming.radiostreamlive.com/radiocountrylive_devices",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "07a7b7a1",
+    "name": "2000 FM - Country",
+    "url": "https://bigrradio.cdnstream1.com/5103_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0606bec0",
+    "name": "Megarock Radio 320k",
+    "url": "https://stream3.megarockradio.net:80/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b16ab6ef",
+    "name": "KQED 88.5 San Francisco, CA",
+    "url": "https://streams.kqed.org/kqedradio.m3u",
+    "tags": []
+  },
+  {
+    "id": "c7f23cbe",
+    "name": "Radio Love Live New York",
+    "url": "https://streaming.radiostreamlive.com/radiolovelive_devices",
+    "tags": []
+  },
+  {
+    "id": "1d8886dd",
+    "name": "181.FM - The Eagle (Classic)",
+    "url": "https://listen.181fm.com/181-eagle_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fcb9e2d3",
+    "name": "181.FM - 80's HairBand",
+    "url": "https://listen.181fm.com/181-hairband_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "fcf1d9f9",
+    "name": "WSM 650 Nashville, TN",
+    "url": "https://stream01048.westreamradio.com/wsm-am-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "473b7ef8",
+    "name": "100hitz The Mix - 80s 90s & Today's Hits",
+    "url": "https://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1Nzc4NCwiaXNzIjoidGlzcnYifQ.pcgS3hF5YBvvbD9rJO3OMBWPgEGE037nPVwPu4hamPY%22",
+    "tags": []
+  },
+  {
+    "id": "30ff8b2a",
+    "name": "MSNBC",
+    "url": "https://tunein.cdnstream1.com/3511_96.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a89b096a",
+    "name": "WBBR 1130 \"Bloomberg Radio\" New York, NY",
+    "url": "https://15313.live.streamtheworld.com/WBBRAMAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b7196d0e",
+    "name": "SomaFM Drone Zone (128k MP3)",
+    "url": "https://ice3.somafm.com/dronezone-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "48dd1553",
+    "name": "181.FM - 90's Alternative",
+    "url": "https://listen.181fm.com/181-90salt_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "e5c758f7",
+    "name": "Old School Hip Hop - Urbanradio.com",
+    "url": "https://hydra.cdnstream.com/1540_128",
+    "tags": []
+  },
+  {
+    "id": "f06b74a1",
+    "name": "181.FM - Comedy Club",
+    "url": "https://listen.181fm.com/181-comedy_128k.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "604af7ca",
+    "name": "Bluegrass Country",
+    "url": "https://ice24.securenetsystems.net/WAMU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d4dcf42d",
+    "name": "181.FM - Beatles",
+    "url": "https://listen.181fm.com/181-beatles_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8a795bf4",
+    "name": "181.FM - Awesome 80's",
+    "url": "https://listen.181fm.com/181-awesome80s_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "f55d652c",
+    "name": "Ambient Modern",
+    "url": "https://radio.stereoscenic.com/mod-h",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7b752378",
+    "name": "Classical KDFC",
+    "url": "https://18423.live.streamtheworld.com:443/KDFCFMAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "218eb696",
+    "name": "181.FM - The Rock! (HardRock)",
+    "url": "https://listen.181fm.com/181-hardrock_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4122892e",
+    "name": "Truckers Radio USA",
+    "url": "https://streamer.radio.co/s81d30349a/low",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "55fd8aed",
+    "name": "181.FM - Real Country",
+    "url": "https://listen.181fm.com/181-realcountry_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "35ba424f",
+    "name": "SomaFM Secret Agent (32k AAC)",
+    "url": "https://ice6.somafm.com/secretagent-32-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2cbf45ca",
+    "name": "War Room With Owen Shroyer - Infowars",
+    "url": "https://streams1.infowars.com/warroom",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a6d07446",
+    "name": "KPFA",
+    "url": "https://streams.kpfa.org:8443/kpfa",
+    "tags": []
+  },
+  {
+    "id": "1444fb77",
+    "name": "Comedy 104 - Radiostorm",
+    "url": "https://ais-sa5.cdnstream1.com/b42761_64mp3",
+    "tags": []
+  },
+  {
+    "id": "1fdbfae2",
+    "name": "TRAP RADIO TRAP.radio",
+    "url": "https://trapradio.streamingmedia.it/play",
+    "tags": []
+  },
+  {
+    "id": "634fd931",
+    "name": "Narmak",
+    "url": "https://das-edge17-live365-dal02.cdnstream.com/a99375",
+    "tags": []
+  },
+  {
+    "id": "af330bb1",
+    "name": "KCSM Jazz 91.1 FM",
+    "url": "https://ice7.securenetsystems.net/KCSM2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "00c8600c",
+    "name": "Radiostorm - Oldies 104",
+    "url": "https://ais-edge89-dal02.cdnstream.com/b09584_64aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4e959752",
+    "name": "SomaFM Deep Space One (32k AAC)",
+    "url": "https://ice2.somafm.com/deepspaceone-32-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "28cc5098",
+    "name": "SomaFM Left Coast 70s (128k MP3)",
+    "url": "https://ice5.somafm.com/seventies-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4f80f07e",
+    "name": "Your Classical - Peaceful Piano",
+    "url": "https://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "abeff20d",
+    "name": "Alex Jones - Infowars",
+    "url": "https://streams1.infowars.com/alexjonesshow-mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "3196aa73",
+    "name": "SomaFM Sonic Universe (128k MP3)",
+    "url": "https://ice2.somafm.com/sonicuniverse-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "21347b2f",
+    "name": "SomaFM Boot Liquor (320k MP3)",
+    "url": "https://ice3.somafm.com/bootliquor-320-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "175f17ea",
+    "name": "Christian Life Radio",
+    "url": "https://ice64.securenetsystems.net/CLR1MP3",
+    "tags": []
+  },
+  {
+    "id": "c1843afe",
+    "name": "FUNKY RADIO - Only Funk Music (60's & 70's)",
+    "url": "https://funkyradio.streamingmedia.it/audio.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "221a1c06",
+    "name": "#1 HITS 80s",
+    "url": "https://makri.cdnstream.com/1898_128",
+    "tags": []
+  },
+  {
+    "id": "b3389851",
+    "name": "SomaFM Beat Blender (128k MP3)",
+    "url": "https://ice2.somafm.com/beatblender-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4e1eca81",
+    "name": "GotRadio - Top 40",
+    "url": "https://pureplay.cdnstream1.com/6024_128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a9a167e5",
+    "name": "_Funky Corner Radio (USA)",
+    "url": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4a2e3ccf",
+    "name": "GotRadio - 90s Alternative",
+    "url": "https://pureplay.cdnstream1.com/6039_128.mp3",
+    "tags": []
+  },
+  {
+    "id": "9d064a69",
+    "name": "SomaFM Suburbs of Goa (128k AAC)",
+    "url": "https://ice1.somafm.com/suburbsofgoa-128-aac",
+    "tags": []
+  },
+  {
+    "id": "1014ed79",
+    "name": "Smooth Jazz 247 (new)",
+    "url": "https://ais-edge90-dal03.cdnstream.com/b75154_128mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d68492d9",
+    "name": "Frisky Chill",
+    "url": "https://chill.friskyradio.com/friskychill_mp3_high",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "023aa575",
+    "name": "181.FM - Classical Guitar",
+    "url": "https://listen.181fm.com/181-classicalguitar_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a30e0e49",
+    "name": "Radiostorm - Comedy 104",
+    "url": "https://ais-edge90-dal03.cdnstream.com/b42761_64mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5627b678",
+    "name": "181.FM - Classic Hits 181",
+    "url": "https://listen.181fm.com/181-greatoldies_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "c24487c0",
+    "name": "Christian Power Praise Dot Net",
+    "url": "https://listen.christianrock.net/stream/13/",
+    "tags": []
+  },
+  {
+    "id": "6cf7e5bd",
+    "name": "Radiostorm - Rock 104 - Classic Rock",
+    "url": "https://ais-edge89-dal02.cdnstream.com/b47785_128mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7dd34ca8",
+    "name": ".977 Jamz",
+    "url": "https://26343.live.streamtheworld.com/977_JAMZ_SC",
+    "tags": []
+  },
+  {
+    "id": "8219141b",
+    "name": "Big R Radio - 80s and 90s Pop Mix",
+    "url": "https://bigrradio.cdnstream1.com/5183_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3989e325",
+    "name": "Radio Paradise Rock Mix FLAC",
+    "url": "https://stream.radioparadise.com/rock-flac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8636cee7",
+    "name": "SomaFM Groove Salad (128k AAC)",
+    "url": "https://ice1.somafm.com/groovesalad-128-aac",
+    "tags": []
+  },
+  {
+    "id": "918c9b67",
+    "name": "181.FM - Soul",
+    "url": "https://listen.181fm.com/181-soul_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "724fc007",
+    "name": "1460 ESPN Deportes",
+    "url": "https://25083.live.streamtheworld.com:443/KENOAMAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "93268563",
+    "name": "Bloomberg 99.1/105.7 HD2",
+    "url": "https://20603.live.streamtheworld.com:443/WBBRDCAAC.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0297c361",
+    "name": "Red State Talk Radio",
+    "url": "https://s2.radio.co/s572ad25f7/listen",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4bb2d2db",
+    "name": "181.FM - Reggae Roots",
+    "url": "https://listen.181fm.com/181-reggae_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "e037802f",
+    "name": "Radiostorm - At Work 104",
+    "url": "https://ais-edge89-dal02.cdnstream.com/b30572_128mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0679072b",
+    "name": "America's Country",
+    "url": "https://ais-sa2.cdnstream1.com/1976_128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0c41d8d1",
+    "name": "NPR Newscast",
+    "url": "https://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c38363be",
+    "name": "Big R Radio - Golden Oldies",
+    "url": "https://bigrradio.cdnstream1.com/5198_128",
+    "tags": []
+  },
+  {
+    "id": "5dae75a7",
+    "name": "Radio Paradise Main Mix (EU) 64k AAC",
+    "url": "https://stream-uk1.radioparadise.com/aac-64",
+    "tags": []
+  },
+  {
+    "id": "5f70f69a",
+    "name": "Radiostorm - Oldies 104",
+    "url": "https://ais-edge89-dal02.cdnstream.com/b09584_128mp3",
+    "tags": []
+  },
+  {
+    "id": "3c8fdc80",
+    "name": "181.FM - Energy 98",
+    "url": "https://listen.181fm.com/181-energy98_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "afed1a9c",
+    "name": "181.FM - Lite 80's",
+    "url": "https://listen.181fm.com/181-lite80s_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "8d12032f",
+    "name": "SomaFM Folk Forward (128k MP3)",
+    "url": "https://ice5.somafm.com/folkfwd-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "def326d9",
+    "name": "181.FM - Fusion Jazz",
+    "url": "https://listen.181fm.com/181-fusionjazz_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f632a007",
+    "name": "SomaFM Synphaera Radio",
+    "url": "https://ice5.somafm.com/synphaera-256-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4d8a32ff",
+    "name": "SomaFM Seven Inch Soul (128k MP3)",
+    "url": "https://ice5.somafm.com/7soul-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "a0fcf4d5",
+    "name": "Radio Paradise Mellow Mix FLAC",
+    "url": "https://stream.radioparadise.com/mellow-flac",
+    "tags": []
+  },
+  {
+    "id": "5b9990ca",
+    "name": "181.FM - Good Time Oldies Radio",
+    "url": "https://listen.181fm.com/181-goodtime_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "2d6d3df9",
+    "name": "Smooth R&B 105.7",
+    "url": "https://ais-sa1.streamon.fm/7281_64k.aac",
+    "tags": []
+  },
+  {
+    "id": "a78bccb2",
+    "name": "The Ultimate Art Bell",
+    "url": "https://stream.willstare.com:8450/",
+    "tags": []
+  },
+  {
+    "id": "92c97e6c",
+    "name": "100hitz Hot Hitz",
+    "url": "https://pureplay.cdnstream1.com/6027_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NjY1OSwiaXNzIjoidGlzcnYifQ.qFjTFowI3sAHS4IFwRsz-zxLYbgTlfZFse1AtCH642s",
+    "tags": []
+  },
+  {
+    "id": "00eb2689",
+    "name": "CROONER radio Frank Sinatra",
+    "url": "https://croonerradio_franksinatra.ice.infomaniak.ch/croonerradio-franksinatra-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "c441c6ca",
+    "name": "Best Net Radio - Country Oldies",
+    "url": "https://bigrradio.cdnstream1.com/5158_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=179032.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cb259cf1",
+    "name": "SomaFM Folk Forward (128k AAC)",
+    "url": "https://ice5.somafm.com/folkfwd-128-aac",
+    "tags": []
+  },
+  {
+    "id": "4e149e12",
+    "name": "Radio Free Americana",
+    "url": "https://thassos.cdnstream.com:9950/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d9aa3077",
+    "name": "The Independent FM",
+    "url": "https://listen.radioking.com/radio/293701/stream/340084",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5969d492",
+    "name": "__80s HITS",
+    "url": "https://80sexitos.stream.laut.fm/80sexitos?t302=2025-10-19_05-18-23&uuid=239d789e-eaaa-4d71-b215-8bab21debcfd",
+    "tags": []
+  },
+  {
+    "id": "b3e390c5",
+    "name": "WXLW 950 \"Freedom 95\" Indianapolis, IN",
+    "url": "https://ice24.securenetsystems.net/WFDM",
+    "tags": [
+      "economy",
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "6827b86b",
+    "name": "Abiding Radio - Instrumental",
+    "url": "https://streams.abidingradio.com:7800/1",
+    "tags": []
+  },
+  {
+    "id": "14acc3d7",
+    "name": "Infowars AAC Stream",
+    "url": "https://audio.infowars.com/alexjonesshow",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2bce8668",
+    "name": "SomaFM DEF CON Radio (128k AAC)",
+    "url": "https://ice1.somafm.com/defcon-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8f47f105",
+    "name": "181.FM - The Mix",
+    "url": "https://listen.181fm.com/181-themix_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "afbb2777",
+    "name": "DnB&EDM",
+    "url": "https://edmdnb.com:448/radio/8000/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d44590a0",
+    "name": "181.FM - Rock 181",
+    "url": "https://listen.181fm.com/181-rock_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1477762a",
+    "name": "Radio Paradise Main Mix FLAC",
+    "url": "https://stream.radioparadise.com/flac",
+    "tags": []
+  },
+  {
+    "id": "5c0258aa",
+    "name": "NPR 24 Hour Program Stream",
+    "url": "https://npr-ice.streamguys1.com/live.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f033b4f9",
+    "name": "Big R Radio - Country Gold",
+    "url": "https://bigrradio.cdnstream1.com/5195_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d97b888d",
+    "name": "Gangstaville Radio",
+    "url": "https://stream.radio.co/s1cffd7347/listen",
+    "tags": []
+  },
+  {
+    "id": "3607704d",
+    "name": "Best Net Radio - 80s Metal",
+    "url": "https://bigrradio-edge1.cdnstream.com/5146_128",
+    "tags": []
+  },
+  {
+    "id": "b59ce0c2",
+    "name": "Christian Rock Dot Net",
+    "url": "https://listen.christianrock.net/stream/11/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c814d11a",
+    "name": "WFMU 91.1 East Orange, NJ",
+    "url": "https://stream2.wfmu.org/freeform-high.aac",
+    "tags": []
+  },
+  {
+    "id": "18cf625a",
+    "name": "The Outlaw",
+    "url": "https://ice24.securenetsystems.net/OUTLAW",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dfe24cc1",
+    "name": "SomaFM Underground 80s (256k MP3)",
+    "url": "https://ice1.somafm.com/u80s-256-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bc65378e",
+    "name": "Frisky",
+    "url": "https://stream.frisky.friskyradio.com/frisky_mp3_high",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6cbac5cf",
+    "name": "Scott Shannon's True Oldies Channel",
+    "url": "https://ais-edge89-dal02.cdnstream.com/b92108_128mp3",
+    "tags": []
+  },
+  {
+    "id": "3ad81817",
+    "name": "Radio New York Live",
+    "url": "https://streaming.radiostreamlive.com/radionylive_devices",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e3dbfa88",
+    "name": "181.FM - Power 181 (Top 40)",
+    "url": "https://listen.181fm.com/181-power_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8fd7127d",
+    "name": "Big R Radio - 70s and 80s Pop Mix",
+    "url": "https://bigrradio.cdnstream1.com/5181_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "99cbb731",
+    "name": "Radio Paradise World/Etc Mix 320k AAC",
+    "url": "https://stream.radioparadise.com/world-etc-320",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "166a9bc5",
+    "name": "SomaFM Groove Salad Classic (128k MP3)",
+    "url": "https://ice4.somafm.com/gsclassic-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "6cc9be18",
+    "name": "Red State Talk Radio Encore",
+    "url": "https://s2.radio.co/sf03a6a4b2/listen",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "68ad6e88",
+    "name": "Mega 96.3 (Los Angeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Angeles, California",
+    "url": "https://liveaudio.lamusica.com/LA_KXOL_icy",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7ac56c2e",
+    "name": "181.FM - Christmas Classics",
+    "url": "https://listen.181fm.com/181-xtraditional_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0fd8b699",
+    "name": "Radio Rock On",
+    "url": "https://streaming.radiostreamlive.com/radiorockon_devices",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "eecb8f3f",
+    "name": "Infowars.com Live Events",
+    "url": "https://streams1.infowars.com/infowarslive",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "ea5534ac",
+    "name": "181.FM - The Heart (Love Songs)",
+    "url": "https://listen.181fm.com/181-heart_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "796fba4e",
+    "name": "GotRadio Hip Hop Stop",
+    "url": "https://pureplay.cdnstream1.com/6041_128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "262bd426",
+    "name": "Christian FM",
+    "url": "https://christianfm.streamguys1.com/live-aac",
+    "tags": []
+  },
+  {
+    "id": "bc9a803b",
+    "name": "181.FM - UK top 40",
+    "url": "https://listen.181fm.com/181-uktop40_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e8fa465c",
+    "name": "2000 FM - Alternative Rock",
+    "url": "https://bigrradio.cdnstream1.com/5101_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9e738482",
+    "name": "181.FM - True R&B",
+    "url": "https://listen.181fm.com/181-rnb_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "78ca474d",
+    "name": "_Radio Energy(USA)",
+    "url": "https://gmusto.radioca.st/mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aff072cf",
+    "name": "Disco Studio 54",
+    "url": "https://maiban00.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "2f91bf1c",
+    "name": "Soma FM: Deep Space One",
+    "url": "https://ice4.somafm.com/deepspaceone-128-aac",
+    "tags": []
+  },
+  {
+    "id": "08e9a1a9",
+    "name": "Sfliny 70s Classic Rock",
+    "url": "https://ec4.yesstreaming.net:1740/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bdab77a6",
+    "name": "SomaFM Dub Step Beyond (128k MP3)",
+    "url": "https://ice3.somafm.com/dubstep-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "fca12b27",
+    "name": "WCSP 90.1 \"C-SPAN Radio\" Washington, DC",
+    "url": "https://26733.live.streamtheworld.com/CSPANRADIO_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cf531fac",
+    "name": "The Jazz Groove",
+    "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/8a384ff3-6fd1-4e5d-b47d-0cbefeffe8d7?_ga=2.244100037.1386788109.1513293582-596706204.1513293582",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "70ce03eb",
+    "name": "181.FM - Classical Jazz",
+    "url": "https://listen.181fm.com/181-classicaljazz_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7700c2a6",
+    "name": "Sfliny Pop",
+    "url": "https://ec4.yesstreaming.net:3800/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a6ddecf4",
+    "name": "The Jazz Groove (West)",
+    "url": "https://audio-edge-3mayu.fra.h.radiomast.io/700d62fe-dcc8-4171-a430-0f0393320b3d",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9718190d",
+    "name": "Frisky Radio",
+    "url": "https://stream.frisky.friskyradio.com/mp3_low",
+    "tags": []
+  },
+  {
+    "id": "455259f5",
+    "name": "Horror Theatre",
+    "url": "https://ec4.yesstreaming.net:1230/stream",
+    "tags": []
+  },
+  {
+    "id": "4109490b",
+    "name": "WRVO-3 BBC World Service Stream - Oswego, NY",
+    "url": "https://26223.live.streamtheworld.com/WRVOHD3_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b8e4b488",
+    "name": "Chill Lounge Florida (USA) 128k mp3",
+    "url": "https://vip2.fastcast4u.com/proxy/chillfla?mp=/1",
+    "tags": []
+  },
+  {
+    "id": "22721fcb",
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f04e9289",
+    "name": "181.FM - Techno Club",
+    "url": "https://listen.181fm.com/181-technoclub_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "48854119",
+    "name": "100hitz - Hip Hop",
+    "url": "https://pureplay.cdnstream1.com/6042_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NzMwMSwiaXNzIjoidGlzcnYifQ.304XDmX1AZJCylkYdV5G8PlaYlNeCUPPYQBcPiVox7I",
+    "tags": []
+  },
+  {
+    "id": "f7c8f893",
+    "name": "The Blaze radio",
+    "url": "https://17563.live.streamtheworld.com:443/BLZE_1.mp3",
+    "tags": []
+  },
+  {
+    "id": "32f1e25c",
+    "name": "2000 FM - Top 40",
+    "url": "https://bigrradio.cdnstream1.com/5106_128",
+    "tags": []
+  },
+  {
+    "id": "b7ac9245",
+    "name": "SOUL RADIO Classics",
+    "url": "https://listen.soulradio.us/us",
+    "tags": []
+  },
+  {
+    "id": "011b44ca",
+    "name": "181.FM - Mellow Gold",
+    "url": "https://listen.181fm.com/181-mellow_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "3de2f856",
+    "name": "KNOW 91.1 Minnesota Public Radio News - Minneapolis-St. Paul, MN",
+    "url": "https://nis.stream.publicradio.org/nis.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5c72bd05",
+    "name": "104.9 Max Country",
+    "url": "https://ais-sa1.streamon.fm/7246_48k.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "46849134",
+    "name": "Conyers Old Time Radio",
+    "url": "https://s2.yesstreaming.net:17161/stream",
+    "tags": []
+  },
+  {
+    "id": "845fc4db",
+    "name": "Your Classical Chamber Music",
+    "url": "https://chambermusic.stream.publicradio.org/chambermusic.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "007b5aab",
+    "name": "Sfliny Classic Rock. ",
+    "url": "https://ec4.yesstreaming.net:3770/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cd0f2b35",
+    "name": "Radio Paradise Mellow Mix 64k AAC",
+    "url": "https://stream.radioparadise.com/mellow-64",
+    "tags": []
+  },
+  {
+    "id": "016244a6",
+    "name": "HD Radio - Classic Rock (USA) 128k mp3",
+    "url": "https://hdradioclassicrock-rfritschka.radioca.st/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "849e1b88",
+    "name": "SomaFM Illinois Street Lounge (128k MP3)",
+    "url": "https://ice3.somafm.com/illstreet-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "ad09637c",
+    "name": "SomaFM Vaporwaves (128k AAC)",
+    "url": "https://ice1.somafm.com/vaporwaves-128-aac",
+    "tags": []
+  },
+  {
+    "id": "73214551",
+    "name": "Big R Radio - Country Mix",
+    "url": "https://bigrradio.cdnstream1.com/5196_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bf04ed9a",
+    "name": "Lofi 24/7",
+    "url": "https://usa9.fastcast4u.com/proxy/jamz?mp=/1",
+    "tags": []
+  },
+  {
+    "id": "f087b90f",
+    "name": "Bates FM - Country Hodgepodge",
+    "url": "https://bigrradio-edge1.cdnstream.com/5134_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ffc8a8e8",
+    "name": "SomaFM CliqHop IDM (128k MP3)",
+    "url": "https://ice3.somafm.com/cliqhop-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "c1beae04",
+    "name": "WNYC 93.9 FM",
+    "url": "https://fm939.wnyc.org/wnycfm.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7f7b702f",
+    "name": "Begoodradio.com 80s metal",
+    "url": "https://bigrradio.cdnstream1.com/5212_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "78c53920",
+    "name": "WOSU 89.7 NPR News",
+    "url": "https://wosu.streamguys1.com/NPR_128",
+    "tags": []
+  },
+  {
+    "id": "0a4d2d7c",
+    "name": "Bloomberg Radio Boston",
+    "url": "https://14153.live.streamtheworld.com:443/WRCAAMAAC.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "62538690",
+    "name": "SomaFM Boot Liquor (128k AAC)",
+    "url": "https://ice5.somafm.com/bootliquor-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b67d49b4",
+    "name": "Guerrilla Radio",
+    "url": "https://s2.stationplaylist.com:9460/guerrilla",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "36dc97cf",
+    "name": "2000 FM - Hard Rock",
+    "url": "https://bigrradio.cdnstream1.com/5104_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7e0eb60d",
+    "name": "La Mega 105.7",
+    "url": "https://ice41.securenetsystems.net/WEMG",
+    "tags": []
+  },
+  {
+    "id": "74fc77e5",
+    "name": "SomaFM Groove Salad (HLS FLAC)",
+    "url": "https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8",
+    "tags": []
+  },
+  {
+    "id": "dc0ff148",
+    "name": "181.FM - Christmas Gospel",
+    "url": "https://listen.181fm.com/181-xgospel_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "819f43e3",
+    "name": "SomaFM Mission Control (128k MP3)",
+    "url": "https://ice1.somafm.com/missioncontrol-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "172d4b0e",
+    "name": "SomaFM Christmas Lounge 256k",
+    "url": "https://ice1.somafm.com/christmas-256-mp3",
+    "tags": []
+  },
+  {
+    "id": "1897bd93",
+    "name": "WSKQ Mega 97.9",
+    "url": "https://liveaudio.lamusica.com/NY_WSKQ_icy?listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.12%3Ahtml5&aw_0_1st.playerid=lamusica.web.mobile&aw_0_1st.skey=1690194521&sw_bp=1",
+    "tags": []
+  },
+  {
+    "id": "458bf55f",
+    "name": "CHICAGO HOUSE",
+    "url": "https://stream.radio.co/sae989fe39/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "327e1a71",
+    "name": "Big R Radio - 90s Alternative Rock",
+    "url": "https://bigrradio.cdnstream1.com/5187_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "74e90a74",
+    "name": "Your Classical - Choral",
+    "url": "https://choral.stream.publicradio.org/choral.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "71cfcda7",
+    "name": "SomaFM Sonic Universe (128k AAC)",
+    "url": "https://ice5.somafm.com/sonicuniverse-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3c062afe",
+    "name": "WFYI 90.1 Indianapolis, IN",
+    "url": "https://wfyi-iad.streamguys1.com/live",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "fa22684b",
+    "name": "Best Net Radio - Classic Rock",
+    "url": "https://bigrradio.cdnstream1.com/5155_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=177794.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bb0d51f0",
+    "name": "Boss Country Radio | The Greatest Country Music Legends Of All Time",
+    "url": "https://ais-sa2.cdnstream1.com/2365_128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1ab8877d",
+    "name": "CBS Sports Radio 105.3",
+    "url": "https://crystalout.surfernetwork.com:8001/KINB-FM_MP3",
+    "tags": []
+  },
+  {
+    "id": "72530742",
+    "name": "WeRave Music Radio 01 - Dark and Underground",
+    "url": "https://stream-177.zeno.fm/pjktyby8dn5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwamt0eWJ5OGRuNXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR29DcXhOS1JUazZnMDJsVUw0ak9YQSIsImlhdCI6MTc2MDgxNzgwNCwiZXhwIjoxNzYwODE3ODY0fQ.VQWJ3yl238kTEkzz9LcDIdUqgjCQfePTnhwVbwvX0Tc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "84843717",
+    "name": "Minnesota Public Radio Classical Music Stream",
+    "url": "https://ycradio.stream.publicradio.org/ycradio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "658fd32e",
+    "name": "Radio Paradise Main Mix (EU) FLAC+meta",
+    "url": "https://stream-uk1.radioparadise.com/flacm",
+    "tags": []
+  },
+  {
+    "id": "15f14fff",
+    "name": "CLASSIC HITS RADIO",
+    "url": "https://classichitsradio.streamingmedia.it/usa",
+    "tags": []
+  },
+  {
+    "id": "e1148345",
+    "name": "100hitz - Indie Rock",
+    "url": "https://pureplay.cdnstream1.com/6056_64.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1ODAzMywiaXNzIjoidGlzcnYifQ.iRK4czQtolWgtNsj8Uy5lioP0EoZu1wCuvj2VwsCs3o",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "36a79b35",
+    "name": "181.FM - 90's Dance",
+    "url": "https://listen.181fm.com/181-90sdance_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5cc229b7",
+    "name": "Whisperings Solo Piano Radio",
+    "url": "https://pianosolo.streamguys1.com/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2cb9a7d0",
+    "name": "Super Throwback Party Radio",
+    "url": "https://hestia.cdnstream.com/1543_128?cb=618512.mp3",
+    "tags": []
+  },
+  {
+    "id": "a1310834",
+    "name": "Radio Paradise World/Etc Mix FLAC",
+    "url": "https://stream.radioparadise.com/world-etc-flac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8d856e71",
+    "name": "181.FM - Acid Jazz",
+    "url": "https://listen.181fm.com/181-acidjazz_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "34fa3fc5",
+    "name": "90.5 WESA",
+    "url": "https://ais-sa3.cdnstream1.com/2556_128.mp3",
+    "tags": []
+  },
+  {
+    "id": "8bcec073",
+    "name": "WBAL \"News Radio1090\"  Baltimore, MD",
+    "url": "https://18183.live.streamtheworld.com/WBALAMAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f817b4f4",
+    "name": "KUSC 91.5 Los Angeles, CA (96kbps AAC)",
+    "url": "https://25023.live.streamtheworld.com/KUSCAAC96_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ea9eb717",
+    "name": "American Tamil Radio",
+    "url": "https://cp11.serverse.com/proxy/hgsmgluv?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "48163de7",
+    "name": "KPBS",
+    "url": "https://kpbs.streamguys1.com/kpbs-mp3",
+    "tags": []
+  },
+  {
+    "id": "20251e14",
+    "name": "CNN International Audio",
+    "url": "https://tunein.cdnstream1.com/3519_96.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "3ff6ec4a",
+    "name": "WHYY 90.9  Philadelphia, PA",
+    "url": "https://whyy.streamguys1.com/whyy-mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a646a70d",
+    "name": "181.FM - Rock 40 (Rock & Roll)",
+    "url": "https://listen.181fm.com/181-rock40_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5fd9459e",
+    "name": "__80 HITS",
+    "url": "https://80sexitos.stream.laut.fm/80sexitos?t302=2025-10-19_05-19-31&uuid=81e89ec5-7abf-48b2-ae07-44d6ce0e4d3e",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fd39f09e",
+    "name": "Radio Italo Disco",
+    "url": "https://broadcast.miami/proxy/italodisco?mp=/stream/;",
+    "tags": []
+  },
+  {
+    "id": "082d511a",
+    "name": "Radio Free Texas",
+    "url": "https://server10.reliastream.com/proxy/damiller?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f8bf3dd2",
+    "name": "WPAT-FM Amor 93.1",
+    "url": "https://liveaudio.lamusica.com/NY_WPAT_icy",
+    "tags": []
+  },
+  {
+    "id": "102aa986",
+    "name": "ABC News Live",
+    "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "deb22188",
+    "name": "Free FM New York",
+    "url": "https://rocafmadrid.radioca.st/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6f8fa3b8",
+    "name": "SomaFM Beat Blender (128k AAC)",
+    "url": "https://ice2.somafm.com/beatblender-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7ed530cd",
+    "name": "Aardvark Blues FM",
+    "url": "https://ais-sa5.cdnstream1.com/b77280_128mp3",
+    "tags": []
+  },
+  {
+    "id": "dba7f2ac",
+    "name": "WBEZ 91.5 Chicago Public Radio",
+    "url": "https://stream.wbez.org/wbez128.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7d6a06ff",
+    "name": "Soma FM Groove Salad 320K AAC HLS",
+    "url": "https://hls.somafm.com/hls/groovesalad/320k/program.m3u8",
+    "tags": []
+  },
+  {
+    "id": "881d51e0",
+    "name": "Big R Radio - Grunge FM",
+    "url": "https://bigrradio.cdnstream1.com/5200_128",
+    "tags": []
+  },
+  {
+    "id": "fb18460e",
+    "name": "Smooth Jazz",
+    "url": "https://smoothjazz.cdnstream1.com/2585_320.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2380357d",
+    "name": "WQXR New York Public Radio \"Operavore\" Stream",
+    "url": "https://opera-stream.wqxr.org/operavore-tunein",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e4170a45",
+    "name": "181.FM - Vocal Jazz",
+    "url": "https://listen.181fm.com/181-vocals_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "da7733ca",
+    "name": "Miami Stereo",
+    "url": "https://stream-153.zeno.fm/kmvrliqmdfitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrbXZybGlxbWRmaXR2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYnJnMnpGaUtTRmUydlZkcFF6LTVuUSIsImlhdCI6MTc2MDg3MDMwOCwiZXhwIjoxNzYwODcwMzY4fQ.tx8OK29nsadRMAjZXrYPgEWYFcpDG0mSkKLaLDBiRQA",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "652d3af8",
+    "name": "Radio Paradise Rock Mix 128k AAC",
+    "url": "https://stream.radioparadise.com/rock-128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e109a289",
+    "name": "181.FM - Salsa",
+    "url": "https://listen.181fm.com/181-salsa_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "600863d7",
+    "name": "Christian Hard Rock Dot Net",
+    "url": "https://listen.christianrock.net/stream/15/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "92a9453a",
+    "name": "181.FM - Chilled Out",
+    "url": "https://listen.181fm.com/181-chilled_128k.mp3",
+    "tags": []
+  },
+  {
+    "id": "7d245790",
+    "name": "Soma FM Groove Salad 320K AAC HLS Surround",
+    "url": "https://hls.somafm.com/hls//gs-surround/program.m3u8",
+    "tags": []
+  },
+  {
+    "id": "f287e894",
+    "name": "Folk Alley [MP3 128k]",
+    "url": "https://freshgrass.streamguys1.com/folkalley-128mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "77c38246",
+    "name": "KLKK-FM 103.7 North Iowa's Classic Rock, Clear Lake, Iowa",
+    "url": "https://ice6.securenetsystems.net/KLKK",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "012db68a",
+    "name": "Radio Visión Cristiana Internacional",
+    "url": "https://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/",
+    "tags": []
+  },
+  {
+    "id": "cdb6c5fd",
+    "name": "The Disco Planet",
+    "url": "https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;",
+    "tags": []
+  },
+  {
+    "id": "2dbcf8af",
+    "name": "CBN Classic Christian Radio",
+    "url": "https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer",
+    "tags": []
+  },
+  {
+    "id": "87da3eec",
+    "name": "WKCR 89.9 Columbia University - New York, NY",
+    "url": "https://wkcr.streamguys1.com/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "508c7a97",
+    "name": "Indiana Public Radio WBST",
+    "url": "https://ipr.streamguys1.com/aac",
+    "tags": []
+  },
+  {
+    "id": "4bc36e9e",
+    "name": "181.FM - Classical Music",
+    "url": "https://listen.181fm.com/181-classical_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "16434322",
+    "name": "181.FM - The Buzz (Alt. Rock)",
+    "url": "https://listen.181fm.com/181-buzz_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f6dd3114",
+    "name": "Non-Stop Oldies",
+    "url": "https://ais-sa2.cdnstream1.com/2383_128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3da20096",
+    "name": "Radio Motown",
+    "url": "https://broadcast.miami/proxy/motown?mp=/stream/;",
+    "tags": []
+  },
+  {
+    "id": "15aea779",
+    "name": "101 Smooth Jazz ",
+    "url": "https://streamingp.shoutcast.com/JamendoLounge",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "85e409a9",
+    "name": "SomaFM ThistleRadio (128k AAC)",
+    "url": "https://ice4.somafm.com/thistle-128-aac",
+    "tags": []
+  },
+  {
+    "id": "4bcddb01",
+    "name": "a.m. ambient",
+    "url": "https://radio.stereoscenic.com/ama-h",
+    "tags": []
+  },
+  {
+    "id": "5a8410ac",
+    "name": "181.FM - Christmas Smooth Jazz",
+    "url": "https://listen.181fm.com/181-xsmooth_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e5b9b28b",
+    "name": "SomaFM PopTron (128k AAC)",
+    "url": "https://ice5.somafm.com/poptron-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c727981c",
+    "name": "Hank's Old Time Radio",
+    "url": "https://s1.myradiostream.com:4962/;stream/1",
+    "tags": []
+  },
+  {
+    "id": "f858169f",
+    "name": "Sfliny - Country",
+    "url": "https://ec4.yesstreaming.net:3790/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "522bb360",
+    "name": "Classic Oldies New York",
+    "url": "https://streaming.radio.co/s88a0bddf2/listen",
+    "tags": []
+  },
+  {
+    "id": "e085c2f9",
+    "name": "Never Ending Radio Show",
+    "url": "https://das-edge13-live365-dal02.cdnstream.com/a81246",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "00cd83f7",
+    "name": "EROTICA LOUNGE",
+    "url": "https://stream-155.zeno.fm/89asra0sfa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4OWFzcmEwc2ZhMHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYjdKb1lOZk9Tc09URWJIallLQURmUSIsImlhdCI6MTc2MDgyOTkyNSwiZXhwIjoxNzYwODI5OTg1fQ.kD-jCC9-4PWQxnWQGOCFc0D7rw-XGZhnFcRu7NVeA1g",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bed8eefe",
+    "name": "Abiding Radio - Bluegrass Hymns",
+    "url": "https://streams.abidingradio.com:7840/1",
+    "tags": []
+  },
+  {
+    "id": "0c581732",
+    "name": "181.FM - Christmas Oldies",
+    "url": "https://listen.181fm.com/181-xoldies_128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f4a1a20b",
+    "name": "Radio Paradise Rock Mix FLAC+meta",
+    "url": "https://stream.radioparadise.com/rock-flacm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "274586fc",
+    "name": "Delicious Agony Progressive Rock Radio",
+    "url": "https://deliciousagony.streamguys1.com/",
+    "tags": []
+  },
+  {
+    "id": "7ef059ee",
+    "name": "Smooth Jazz Global Radio",
+    "url": "https://smoothjazz.cdnstream1.com/2585_256.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2decfeb8",
+    "name": "WQXR 105.9 FM",
+    "url": "https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b2788ce3",
+    "name": "SomaFM Vaporwaves (128k MP3)",
+    "url": "https://ice3.somafm.com/vaporwaves-128-mp3",
+    "tags": []
+  },
+  {
+    "id": "af65408a",
+    "name": "Radio Paradise Mellow Mix FLAC+meta",
+    "url": "https://stream.radioparadise.com/mellow-flacm",
+    "tags": []
+  },
+  {
+    "id": "85fbcff7",
+    "name": "Radio Paradise Main Mix 24k AAC",
+    "url": "https://stream.radioparadise.com/aac-24",
+    "tags": []
+  },
+  {
+    "id": "8f909c75",
+    "name": "2000's Country Music Radio",
+    "url": "https://2.mystreaming.net/uber/cmr00scountry/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "e1873a59",
+    "name": "Smooth Jazz Florida",
+    "url": "https://das-edge15-live365-dal02.cdnstream.com/a57422",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d5c8f1fa",
+    "name": "Free FM 80s San Francisco",
+    "url": "https://freefm80.radioca.st/",
+    "tags": []
+  },
+  {
+    "id": "9e13bdc8",
+    "name": "SomaFM CliqHop IDM (256k MP3)",
+    "url": "https://ice5.somafm.com/cliqhop-256-mp3",
+    "tags": []
+  },
+  {
+    "id": "fe0fb1c2",
+    "name": "Your Classical - Favorites",
+    "url": "https://favorites.stream.publicradio.org/favorites.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "89fde348",
+    "name": "Movie Soundtracks Hits Radio @ 1.fm",
+    "url": "https://strm112.1.fm/moviesoundtracks_mobile_mp3",
+    "tags": []
+  },
+  {
+    "id": "9bb9fc69",
+    "name": "Country Gospel Radio",
+    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia1?mp=/1",
+    "tags": []
+  },
+  {
+    "id": "2a3567bc",
+    "name": "Radio Paradise Mellow Mix 128k AAC",
+    "url": "https://stream.radioparadise.com/mellow-128",
+    "tags": []
+  },
+  {
+    "id": "2922de6e",
+    "name": "SomaFM Underground 80s (32k AAC)",
+    "url": "https://ice3.somafm.com/u80s-32-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "de27aacc",
+    "name": "Bassdrive AAC 56k",
+    "url": "https://ice.bassdrive.net/stream56",
+    "tags": []
+  },
+  {
+    "id": "31be7241",
+    "name": "Classical KUSC MP3 256",
+    "url": "https://14933.live.streamtheworld.com:443/KUSCMP256.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "162d5078",
+    "name": "ambient.fm",
+    "url": "https://phoebe.streamerr.co:4140/ambient.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "902f4151",
+    "name": "SomaFM The Dark Zone",
+    "url": "https://ice6.somafm.com/darkzone-256-mp3",
+    "tags": []
+  },
+  {
+    "id": "07a420be",
+    "name": "KIRN 670 AM",
+    "url": "https://stream-141.zeno.fm/0bybax2r3heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYnliYXgycjNoZXV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN1JsVk1Vb19SMy1oQmxzXzhHMjN1dyIsImlhdCI6MTc2MDgyNTUzMCwiZXhwIjoxNzYwODI1NTkwfQ.moqoLKJ10FhWg648ciz1konuE-7A_Ze7eKWb6atQKGA",
+    "tags": []
+  },
+  {
+    "id": "9c7617b8",
+    "name": "WLS 94.7-FM Chicago, IL",
+    "url": "https://29263.live.streamtheworld.com:443/WLSFM.mp3",
+    "tags": []
+  },
+  {
+    "id": "19122ffd",
+    "name": "SomaFM Dub Step Beyond (256k MP3)",
+    "url": "https://ice6.somafm.com/dubstep-256-mp3",
+    "tags": []
+  },
+  {
+    "id": "32f5cab9",
+    "name": "fox news",
+    "url": "https://tunein.cdnstream1.com/2869_96.aac/playlist.m3u8?partnerId=redirect&aw_0_1st.ads_partner_alias=ext.Redirect&aw_0_1st.stationId=s20431",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0042aec4",
+    "name": "SomaFM Digitalis (128k MP3)",
+    "url": "https://ice1.somafm.com/digitalis-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2e33c139",
+    "name": "LOVE RADIO Only Love Songs 70s80s90s",
+    "url": "https://loveradio.streamingmedia.it/usa",
+    "tags": []
+  },
+  {
+    "id": "3fa4aedd",
+    "name": "All Classical Portland",
+    "url": "https://allclassical.streamguys1.com/ac96k",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5cd56f49",
+    "name": "GotRadio - Soft Rock Café",
+    "url": "https://pureplay.cdnstream1.com/6010_64.aac/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "14010a43",
+    "name": "Your Classical - Lullabies",
+    "url": "https://lullabies.stream.publicradio.org/lullabies.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b6ed5f8a",
+    "name": "The Disco Paradise",
+    "url": "https://broadcast.miami/proxy/thediscoparadise?mp=/stream/;",
+    "tags": []
+  },
+  {
+    "id": "1674a415",
+    "name": "Classic Rock Florida",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a06375",
+    "tags": []
+  },
+  {
+    "id": "248f3c82",
+    "name": "KORA 98.3 The Texas Country Original",
+    "url": "https://ais-sa1.streamon.fm/7410_48k.aac/playlist.m3u8?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1562173335",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5d727e06",
+    "name": "Bible Broadcasting Network English",
+    "url": "https://audio-edge-hy4wy.blr.d.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+    "tags": []
+  },
+  {
+    "id": "7b8b0b1a",
+    "name": "Radio Paradise Main Mix 320k AAC",
+    "url": "https://stream.radioparadise.com/aac-320",
+    "tags": []
+  },
+  {
+    "id": "c0f1d84e",
+    "name": "KQED 88.5  - NPR San Francisco, CA (New Stream)",
+    "url": "https://streams.kqed.org/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1c2d58ca",
+    "name": "Urban Radio - Hip Hop / R&B",
+    "url": "https://hydra.cdnstream.com/1536_128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "53a54e08",
+    "name": "WIOE Oldies 101.1 South Whitley, Indiana",
+    "url": "https://audio-edge-w4d68.yul.o.radiomast.io/c9bc1a59",
+    "tags": []
+  },
+  {
+    "id": "c9f97cea",
+    "name": "SomaFM Lush (128k AAC)",
+    "url": "https://ice6.somafm.com/lush-128-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b705e3c3",
+    "name": "bluesflac",
+    "url": "https://audio-edge-cmc51.fra.h.radiomast.io/radioblues-flac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "646de888",
+    "name": "Soma FM Illinois Street Lounge\n\n",
+    "url": "https://ice4.somafm.com/illstreet-128-aac",
+    "tags": []
+  },
+  {
+    "id": "d1cb0794",
+    "name": "Folk Alley Irish",
+    "url": "https://freshgrass.streamguys1.com/irish-128mp3",
+    "tags": []
+  },
+  {
+    "id": "a4bd125f",
+    "name": "Radio Art Vocal Lounge",
+    "url": "https://live.radioart.com/fVocal_lounge.mp3",
+    "tags": []
+  }
+]

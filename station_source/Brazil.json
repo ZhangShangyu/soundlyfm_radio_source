@@ -1,0 +1,2204 @@
+[
+  {
+    "id": "0922904e",
+    "name": "Antena 1 FM 103.7 Rio de Janeiro",
+    "url": "https://antena1campanha.crossradio.com.br:29090/camp3",
+    "tags": []
+  },
+  {
+    "id": "e2835929",
+    "name": "Rádio Saudade FM 99.7",
+    "url": "https://27223.live.streamtheworld.com:443/SAUDADE_FMAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "84deac64",
+    "name": "Máquina do Tempo (Internacional)",
+    "url": "https://servidor28.brlogic.com:8212/live",
+    "tags": []
+  },
+  {
+    "id": "8f8805ab",
+    "name": "Máquina do Tempo (MPB Brasil)",
+    "url": "https://servidor28.brlogic.com:8032/live",
+    "tags": []
+  },
+  {
+    "id": "022c6fc1",
+    "name": "Bossa Jazz Brasil",
+    "url": "https://centova5.transmissaodigital.com:20104/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6e9118ab",
+    "name": "JB FM",
+    "url": "https://26483.live.streamtheworld.com/JBFMAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "07cfdc40",
+    "name": "Bons Tempos FM",
+    "url": "https://server02.ouvir.radio.br:8050/stream?1609720768800",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "16fc8e26",
+    "name": "89 A Radio Rock",
+    "url": "https://19213.live.streamtheworld.com:443/RADIO_89FM_ADP.aac?dist=site-89fm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2ef6e62d",
+    "name": "Rádio Bandeirantes - São Paulo",
+    "url": "https://26673.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "1df65b52",
+    "name": "Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462",
+    "url": "https://27583.live.streamtheworld.com:443/RADIOCIDADEAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "37648602",
+    "name": "Super Radio Tupi 96.5 ",
+    "url": "https://8923.brasilstream.com.br/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "fb019d70",
+    "name": "Rádio Transamérica Hits (Barreiras)",
+    "url": "https://servidor39.brlogic.com:8146/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9e619c69",
+    "name": "Radio Mix FM",
+    "url": "https://19213.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c95276db",
+    "name": "Smooth Jazz Lounge",
+    "url": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8eab178b",
+    "name": "bandnews fm sp",
+    "url": "https://27583.live.streamtheworld.com:443/BANDNEWSFM_SPAAC/HLS/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d23c7873",
+    "name": "Gaúcha",
+    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c6ae295e",
+    "name": "Clube FM 99.1",
+    "url": "https://radio.saopaulo01.com.br:10913/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "245d1964",
+    "name": "FM O DIA 100.5",
+    "url": "https://streaming.livespanel.com:20000/live",
+    "tags": []
+  },
+  {
+    "id": "57b94069",
+    "name": "Rádio Grenal",
+    "url": "https://grenal.audiostream.com.br:20000/aac",
+    "tags": []
+  },
+  {
+    "id": "2976629e",
+    "name": "Rádio Band FM 96.1 FM",
+    "url": "https://26483.live.streamtheworld.com:443/BANDFM_SPAAC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d89cddfb",
+    "name": "CBN São Paulo",
+    "url": "https://23033.live.streamtheworld.com:443/CBN_SPAAC.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b929a446",
+    "name": "Rádio MGT Sertanejo",
+    "url": "https://cast.mgtradio.net/radio/8000/aac",
+    "tags": []
+  },
+  {
+    "id": "f1934299",
+    "name": "Alpha FM 101.7 MHz (São Paulo - SP)",
+    "url": "https://23033.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "98f0743e",
+    "name": "Fita Cassete",
+    "url": "https://server01.ouvir.radio.br:8018/stream",
+    "tags": []
+  },
+  {
+    "id": "0ef2b12a",
+    "name": "GOLD INSTRUMENTAL ",
+    "url": "https://centova.svdns.com.br:19373/stream1",
+    "tags": []
+  },
+  {
+    "id": "4a8c534f",
+    "name": "RÁDIO LIGA SAMBA",
+    "url": "https://srv1.braudio.com.br:7308/;stream.nsv",
+    "tags": []
+  },
+  {
+    "id": "5e5c661d",
+    "name": "Nova Brasil Fm São Paulo",
+    "url": "https://19213.live.streamtheworld.com:443/NOVABRASIL_SPAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "f359b9d8",
+    "name": "Massa FM 92.9 MHz (São Paulo - SP)",
+    "url": "https://stm01.virtualcast.com.br:8000/live",
+    "tags": []
+  },
+  {
+    "id": "7180e01e",
+    "name": "Radio América Latina",
+    "url": "https://streaming.radiostreamlive.com/radioamericalatina_devices",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fad5ed1c",
+    "name": "Rádio Mix 106.3 FM",
+    "url": "https://26513.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5eb97a7d",
+    "name": "Rádio Itatiaia 95.7 FM",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d6fe28c5",
+    "name": "Rádio Transamérica 100.1 FM",
+    "url": "https://24223.live.streamtheworld.com:443/RT_SPAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "f1d214f7",
+    "name": "Antena 1  - Porto Alegre",
+    "url": "https://antenaone.crossradio.com.br/stream/1",
+    "tags": []
+  },
+  {
+    "id": "9da2c388",
+    "name": "BandNews FM",
+    "url": "https://24373.live.streamtheworld.com:443/BANDNEWSFM_SPAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "73cecbae",
+    "name": "Kiss FM São Paulo",
+    "url": "https://26493.live.streamtheworld.com:443/RADIO_KISSFMAAC.aac?1655609055880",
+    "tags": []
+  },
+  {
+    "id": "a5adf747",
+    "name": "Fay Só Forró das Antigas",
+    "url": "https://ssl.xcast.com.br:7132/stremig",
+    "tags": []
+  },
+  {
+    "id": "76a52792",
+    "name": "Rádio Buteco Sertanejo",
+    "url": "https://stream-160.zeno.fm/6kumndewqbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2a3VtbmRld3FicnV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZzVjOWFpdndTbVM0MU5aTmtBbm4wdyIsImlhdCI6MTc2MDc5NTMwNiwiZXhwIjoxNzYwNzk1MzY2fQ.joPdTxfmU7I_jBkjxyP1Anj_zsrKqSkNdvibMwpJAh0",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d0e75e1e",
+    "name": "Rádio Stereo Mix ",
+    "url": "https://servidor24.brlogic.com:7134/live",
+    "tags": []
+  },
+  {
+    "id": "099af1b9",
+    "name": "CBN São Paulo",
+    "url": "https://19213.live.streamtheworld.com:443/CBN_SPAAC_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a6bac4fb",
+    "name": "JB FM",
+    "url": "https://27393.live.streamtheworld.com:443/JBFMAAC1.aac",
+    "tags": []
+  },
+  {
+    "id": "472a58e6",
+    "name": "Rádio Máquina Instrumental",
+    "url": "https://servidor29-2.brlogic.com:8578/live",
+    "tags": []
+  },
+  {
+    "id": "42ab19b5",
+    "name": "MGT FORRÓ",
+    "url": "https://cast.mgtradio.net/radio/8050/aac",
+    "tags": []
+  },
+  {
+    "id": "f447f53d",
+    "name": "Dumont FM",
+    "url": "https://rrdns-dumont.webnow.com.br/dumont.aac?1692234215659",
+    "tags": []
+  },
+  {
+    "id": "874df6a7",
+    "name": "Transamérica FM",
+    "url": "https://9595.brasilstream.com.br/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7466281e",
+    "name": "Jazz Medley Webradio",
+    "url": "https://server01.ouvir.radio.br:8006/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ae123237",
+    "name": "Radio Reggae Brasil",
+    "url": "https://casthttps.suaradionanet.net/13805/stream",
+    "tags": []
+  },
+  {
+    "id": "877a8fac",
+    "name": "Radio Motel",
+    "url": "https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c98194d4",
+    "name": "Tropical Smooth Jazz",
+    "url": "https://servidor32-3.brlogic.com:8230/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "faaee54b",
+    "name": "91 Rock - Curitiba (web)",
+    "url": "https://servidor40.brlogic.com:8044/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8fd0dfcb",
+    "name": "Rádio Batuta MPB - A webradio do Instituto Moreira Salles",
+    "url": "https://radioims.out.airtime.pro:8000/radioims_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "20e3875b",
+    "name": "Groove Wave Lounge",
+    "url": "https://stm1.srvif.com:7576/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "010e46d2",
+    "name": "Radio Alvorada 94.9 FM",
+    "url": "https://27433.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "675f59b5",
+    "name": "Rádio Rap Brasil",
+    "url": "https://stream-161.zeno.fm/7c83b37e32quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3YzgzYjM3ZTMycXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWEtnSFlWbGZUWHlmd29OQy1yb0MwQSIsImlhdCI6MTc2MDg0MTIyNCwiZXhwIjoxNzYwODQxMjg0fQ.ivJhmeZ8JclqXmEGJfuLFlNBq2-Bq-5-773lVcVTLgo",
+    "tags": []
+  },
+  {
+    "id": "6f0d8a69",
+    "name": "Brasil de Fato",
+    "url": "https://s09.hstbr.net:8238/live?1514038524061",
+    "tags": []
+  },
+  {
+    "id": "ff23ab51",
+    "name": "Radio Retrô Brasil",
+    "url": "https://s1.reliastream.com/proxy/radioret?mp=/stream:8076/;",
+    "tags": []
+  },
+  {
+    "id": "f81a2e6a",
+    "name": "Só Brega",
+    "url": "https://stm18.xcast.com.br:8290/;",
+    "tags": []
+  },
+  {
+    "id": "e78eace1",
+    "name": "Rádio I Love anos 80's",
+    "url": "https://shit-is-merda.stream.laut.fm/shit-is-merda",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "641db14b",
+    "name": "MGT GOSPEL",
+    "url": "https://cast.mgtradio.net/radio/8040/aac",
+    "tags": []
+  },
+  {
+    "id": "53df0b87",
+    "name": "CBN Rio de Janeiro 92.5 FM",
+    "url": "https://27403.live.streamtheworld.com:443/CBN_RJ_ADP/HLS/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "198207af",
+    "name": "Rádio Gaúcha 93.7 FM",
+    "url": "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4ee61015",
+    "name": "Rádio Disney - Brasil FM 91.3",
+    "url": "https://18323.live.streamtheworld.com:443/DISNEY_BRA_SP_ADP.aac",
+    "tags": []
+  },
+  {
+    "id": "a26696c7",
+    "name": "Jovem Pan FM - Florianópolis - SC",
+    "url": "https://live.paineldj.com.br/proxy/jfloripa?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "55316516",
+    "name": "RÁDIO SÓ MPB",
+    "url": "https://s27.maxcast.com.br:8103/live",
+    "tags": []
+  },
+  {
+    "id": "4d0b63f9",
+    "name": "Digital Jazz",
+    "url": "https://stm01.virtualcast.com.br:8190/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3a187c76",
+    "name": "Radio Leve - Santos",
+    "url": "https://s09.maxcast.com.br:8098/live",
+    "tags": []
+  },
+  {
+    "id": "4c0cc893",
+    "name": "Radio Instrumental Gospel",
+    "url": "https://live8.livemus.com.br:27142/stream",
+    "tags": []
+  },
+  {
+    "id": "0a24a539",
+    "name": "Melodia FM 97.5",
+    "url": "https://server01.ouvir.radio.br:8033/stream",
+    "tags": []
+  },
+  {
+    "id": "5a14bf40",
+    "name": "Jovem Pan Campinas",
+    "url": "https://ssl.srvstm.com:6808/;",
+    "tags": []
+  },
+  {
+    "id": "a2f0c904",
+    "name": "Radio Energia 97 FM",
+    "url": "https://streaming.inweb.com.br/energia",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ac51e75f",
+    "name": "Rádio Antena 1 94.7 FM",
+    "url": "https://antenaone.crossradio.com.br/stream/1;",
+    "tags": []
+  },
+  {
+    "id": "09150ef1",
+    "name": "Rádio Studio Flashback",
+    "url": "https://stream-161.zeno.fm/6gv76f1xruquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z3Y3NmYxeHJ1cXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicjViTVZhd0dRaUNialk2RFhkNmJVQSIsImlhdCI6MTc2MDg1NDMzMiwiZXhwIjoxNzYwODU0MzkyfQ.tjuOWNMwZabvAIQ6V5YkrlLFZXWAigQxThv9ngwOeDE",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b9318981",
+    "name": "MGT BREGA E RETRÔ",
+    "url": "https://cast.mgtradio.net/radio/8060/aac",
+    "tags": []
+  },
+  {
+    "id": "30a0e5e4",
+    "name": "Rádio MGT Brasil Hits",
+    "url": "https://cast.mgtradio.net/radio/8030/aac",
+    "tags": []
+  },
+  {
+    "id": "2c38a40d",
+    "name": "Rádio Ouro Verde FM 105.5",
+    "url": "https://servidor18.brlogic.com:7484/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "65559043",
+    "name": "Jovem Pan FM - Sorocaba 91.1",
+    "url": "https://cast2.hoost.com.br:8039/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "40f6961b",
+    "name": "Rádio Bandeirantes 90.9 FM",
+    "url": "https://27423.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "60497a7e",
+    "name": "Progressive Earth Radio",
+    "url": "https://sv10.hdradios.net:6674/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cb7a58ff",
+    "name": "Radio Whisper ASMR",
+    "url": "https://stream-178.zeno.fm/309e0b84p48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMDllMGI4NHA0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieXF5TktrbFhUdFNOMEx0YWxXUTZxUSIsImlhdCI6MTc2MDgyNTUyNywiZXhwIjoxNzYwODI1NTg3fQ.hQ1DEa4yMdTDO4CffTAlJA9RJ0cm6HFJKbSTtVn5uB8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "56ac0c12",
+    "name": "Esportes Total",
+    "url": "https://s03.maxcast.com.br:8006/live",
+    "tags": []
+  },
+  {
+    "id": "2db6c17f",
+    "name": "Sertaneja 106.7",
+    "url": "https://sc4s.cdn.upx.com:8067/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9a73430f",
+    "name": "Gold Web 32kb",
+    "url": "https://centova.svdns.com.br:19418/stream1",
+    "tags": []
+  },
+  {
+    "id": "61e5309e",
+    "name": "Rádio Alvorada",
+    "url": "https://26673.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "e39d2e84",
+    "name": "Rádio Mix FM Recife 97.1 FM",
+    "url": "https://27433.live.streamtheworld.com:443/MIXFM_RECIFE971AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "7f548f79",
+    "name": "89 FM A Radio Rock",
+    "url": "https://24283.live.streamtheworld.com:443/RADIO_89FM_ADP.aac?dist=site-89fm",
+    "tags": []
+  },
+  {
+    "id": "6fb2825c",
+    "name": "Nova Brasil FM - Maceió",
+    "url": "https://27343.live.streamtheworld.com:443/NOVABRASIL_MACAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "f83f2f8b",
+    "name": "Assembléia de Deus",
+    "url": "https://ec2.yesstreaming.net:3925/stream",
+    "tags": []
+  },
+  {
+    "id": "9050558f",
+    "name": "Radio Sociedade",
+    "url": "https://painel.sintonizar.tv.br/stream/sociedadeaudio/stream",
+    "tags": []
+  },
+  {
+    "id": "7e0cf384",
+    "name": "Hunter FM - Hits Brasil",
+    "url": "https://live.hunter.fm/hitsbrasil_normal",
+    "tags": []
+  },
+  {
+    "id": "3dc13b3b",
+    "name": "Rádio Café Viola",
+    "url": "https://stm6.xcast.com.br:9328/;?1685284162874",
+    "tags": []
+  },
+  {
+    "id": "89e407df",
+    "name": "Mix FM - Porto Alegre",
+    "url": "https://24413.live.streamtheworld.com:443/MIXFM_POAAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2278aa9b",
+    "name": "MGT SERTANEJO UNIVERSITÁRIO",
+    "url": "https://cast.mgtradio.net/radio/8020/aac",
+    "tags": []
+  },
+  {
+    "id": "415cbc47",
+    "name": "Rádio Dance Music Anos 2000",
+    "url": "https://cloud1.cdnseguro.com:2190/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "90c9520b",
+    "name": "MGT ANOS 80",
+    "url": "https://cast.mgtradio.net/radio/8100/aac",
+    "tags": []
+  },
+  {
+    "id": "976d95ca",
+    "name": "105 FM - SP",
+    "url": "https://www.appradio.app:8010//live",
+    "tags": []
+  },
+  {
+    "id": "b01a83d3",
+    "name": "Alpha MPB",
+    "url": "https://27393.live.streamtheworld.com:443/ALPHAMPBAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8c0e4822",
+    "name": "89FM Radio Rock",
+    "url": "https://26563.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a725fbb9",
+    "name": "Rádio Globo 98.1 FM",
+    "url": "https://24403.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2214c530",
+    "name": "Radio Energia Dance",
+    "url": "https://s05.w3bserver.com:20025/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3cf77c02",
+    "name": "Rádio Campeira FM",
+    "url": "https://servidor34-3.brlogic.com:8164/live?source=website",
+    "tags": []
+  },
+  {
+    "id": "06303303",
+    "name": "Rádio Joli MPB",
+    "url": "https://stream-175.zeno.fm/mrutsyhkc3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtcnV0c3loa2MzcXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS2wyS0Q1QWRTZ0dHVEtEcE03V1ZnUSIsImlhdCI6MTc2MDg0NTc5NSwiZXhwIjoxNzYwODQ1ODU1fQ.BF76Bj7q8muW5VtksRXVOfZ1SOwNTgul8OrIim0Rza0",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "41501933",
+    "name": "Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz",
+    "url": "https://8062.brasilstream.com.br/stream?origem=task_site",
+    "tags": []
+  },
+  {
+    "id": "9410844d",
+    "name": "Nova Brasil FM 93.5 Aracaju",
+    "url": "https://21933.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e6e78ce0",
+    "name": "BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)",
+    "url": "https://26563.live.streamtheworld.com:443/BHFMAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e61451da",
+    "name": "Rádio Gospel Hits",
+    "url": "https://servidor37.brlogic.com:7068/live",
+    "tags": []
+  },
+  {
+    "id": "bed0ba87",
+    "name": "Rádio Bandeirantes 85.7 FM",
+    "url": "https://stm23.xcast.com.br:11284/stream",
+    "tags": []
+  },
+  {
+    "id": "7170f898",
+    "name": "Rádio Animu [320 kbps]",
+    "url": "https://cast.animu.com.br:9079/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e667e67c",
+    "name": "LIGA SAMBA WEB RÁDIO",
+    "url": "https://srv1.braudio.com.br:7308/;stream",
+    "tags": []
+  },
+  {
+    "id": "c15efaf1",
+    "name": "Rádio Batuta Clássicos",
+    "url": "https://classicoims.out.airtime.pro:8000/classicoims_a",
+    "tags": []
+  },
+  {
+    "id": "dd7d8cce",
+    "name": "Sertanejo FM",
+    "url": "https://stream-147.zeno.fm/qcwuy1y3tm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxY3d1eTF5M3RtMHV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYzRKWkV5ckVTQ2FzbWJ2NVM3THU4USIsImlhdCI6MTc2MDc5ODc4MSwiZXhwIjoxNzYwNzk4ODQxfQ.gdLHoj1s52hvq5N9v5aKIcdKrFrYIKv1rwtPG84QAPE",
+    "tags": []
+  },
+  {
+    "id": "fc2a21ad",
+    "name": "Clube FM Brasilia",
+    "url": "https://8157.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "72ecae82",
+    "name": "Rádio Joli Beatles",
+    "url": "https://stream-177.zeno.fm/3hgez706e3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzaGdlejcwNmUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUUp3amZyTmhUQTJraG5KOWZrbUQ0USIsImlhdCI6MTc2MDg1NDAzMywiZXhwIjoxNzYwODU0MDkzfQ.4JvQE809nFG07wbrF5o45BzNcVnGtu8Zvsv0469CD8U&zs",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8b7f841f",
+    "name": "Rádio Jovem Pan 100.9 FM",
+    "url": "https://stream-171.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLVZlcldVQmFSVUNrdGtSS1l0SWpWQSIsImlhdCI6MTc2MDg1NTMzNiwiZXhwIjoxNzYwODU1Mzk2fQ.Yr3VfERU12VnNpBBAy6ghx0smgp-Y5m9prcPoweJ7XA",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e5bb3976",
+    "name": "Rádio Bandeirantes 90.9 FM",
+    "url": "https://27393.live.streamtheworld.com:443/RADIOBANDEIRANTESAAC/HLS/playlist.m3u8?dist=radios.com.br",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2f4ede8a",
+    "name": "Radio Jovem Pan 99.1 FM Belo Horizonte",
+    "url": "https://8062.brasilstream.com.br//stream?origem=jovem_pan_site",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2f3989db",
+    "name": "Rádio Comunitária Aconchego",
+    "url": "https://fm.radioaconchego.org",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c78b5c89",
+    "name": "RÁDIO SÓ MPB SOROCABA",
+    "url": "https://srv1.braudio.com.br:7008/stream",
+    "tags": []
+  },
+  {
+    "id": "54dba106",
+    "name": "Radio Tupi FM 96.5",
+    "url": "https://8923.brasilstream.com.br/stream?origem=site-tupi.fm",
+    "tags": []
+  },
+  {
+    "id": "0e9f0bc4",
+    "name": "Rádio Globo - Rio de Janeiro",
+    "url": "https://26583.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=site",
+    "tags": []
+  },
+  {
+    "id": "16d5d26e",
+    "name": "Rádio BandNews SP 96.9 FM",
+    "url": "https://27583.live.streamtheworld.com:443/BANDNEWSFM_SPAAC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b17f7a95",
+    "name": "89 FM",
+    "url": "https://27393.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "tags": []
+  },
+  {
+    "id": "49bcb9fd",
+    "name": "Rádio Terra FM 100.3",
+    "url": "https://servidor30.brlogic.com:8622/live?1561450793452",
+    "tags": []
+  },
+  {
+    "id": "9f070aa0",
+    "name": "Venenos Psicodélicos",
+    "url": "https://stream-165.zeno.fm/c5bc53qc3k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNWJjNTNxYzNrMHV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib29RUkRsV0xRRkdJdTZPRHVGZkJaUSIsImlhdCI6MTc2MDgxNjI1OCwiZXhwIjoxNzYwODE2MzE4fQ.qJrOBcM68WdDAX5K15n8M51ByM4JP-XJYPaXdj7H1_Q",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5f5d7ee9",
+    "name": "Rádio Alvorada (MP3)",
+    "url": "https://27423.live.streamtheworld.com:443/RADIO_ALVORADA.mp3",
+    "tags": []
+  },
+  {
+    "id": "e97b6177",
+    "name": "Rádio Novo Tempo",
+    "url": "https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/live.m3u8",
+    "tags": []
+  },
+  {
+    "id": "544a8fa6",
+    "name": "Radio Putzgrila",
+    "url": "https://stream.ouveai.com.br/proxy/putzgrila?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e0b90c7e",
+    "name": "MGT LOVE HITS",
+    "url": "https://cast.mgtradio.net/radio/8010/aac",
+    "tags": []
+  },
+  {
+    "id": "a2d11c25",
+    "name": "Casa dos Caipiras",
+    "url": "https://8758.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "1721cdad",
+    "name": "Classic Pan",
+    "url": "https://stream-172.zeno.fm/rtk4pzcome3vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJydGs0cHpjb21lM3Z2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidXJmaFhDVUdUUkdnVnN4QVItMkZaUSIsImlhdCI6MTc2MDg3MDY5NCwiZXhwIjoxNzYwODcwNzU0fQ.w843tHToOe2fhcIfDYWTpvovisNkiBlzMeeq2Um5ZRg",
+    "tags": []
+  },
+  {
+    "id": "4360294b",
+    "name": "Radio Maquina no Rock",
+    "url": "https://servidor20-4.brlogic.com:8582/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e0075d24",
+    "name": "GOLD INSTRUMENTAL (32kbps/aacPlus)",
+    "url": "https://centova.svdns.com.br:19373/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8419b02a",
+    "name": "Radio Amigos do Flashback ",
+    "url": "https://stm4.voxhd.com.br:7086/;",
+    "tags": []
+  },
+  {
+    "id": "2b980049",
+    "name": "Radio Liberdade 92.9 (Belo Horizonte - MG)",
+    "url": "https://8335.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "f077d4f1",
+    "name": "Rádio Girassol Belo Horizonte",
+    "url": "https://s02.transmissaodigital.com:6754/live",
+    "tags": []
+  },
+  {
+    "id": "eec159de",
+    "name": "Hunter.FM - O Canal MPB",
+    "url": "https://live.hunter.fm/mpb_normal",
+    "tags": []
+  },
+  {
+    "id": "ab5b5944",
+    "name": "Venenos do Rock",
+    "url": "https://stream-170.zeno.fm/dy417tqqmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkeTQxN3RxcW1kMHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1RYQWp3Q2JTZ3F1Q2FWNlRoSEVLQSIsImlhdCI6MTc2MDgzODU4NCwiZXhwIjoxNzYwODM4NjQ0fQ.PP92K1DfGTdQa8oxOlJ42HLVYv6XK2jrHScDpyB_1wE",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c89a0e16",
+    "name": "Rádio Vida Melhor FM 95,7",
+    "url": "https://servidor32-4.brlogic.com:8480/live?source=site",
+    "tags": []
+  },
+  {
+    "id": "feaf578d",
+    "name": "Morena FM Easy",
+    "url": "https://centova.svdns.com.br:20110/stream",
+    "tags": []
+  },
+  {
+    "id": "3ac9a107",
+    "name": "Lightness of Rock",
+    "url": "https://stream-164.zeno.fm/n0dt87vrnd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMGR0ODd2cm5kMHV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMGViUlRnam5RVy1TOVZqRzgwU3RSQSIsImlhdCI6MTc2MDg1MjU2NiwiZXhwIjoxNzYwODUyNjI2fQ.9PVmxpw-biT2F_Em4hDhcJ_VSorVeH0LhLQAs_oiemM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e5cc6548",
+    "name": "Cultura FM 103.3",
+    "url": "https://player-culturafm.stream.uol.com.br/live/culturafm.m3u8",
+    "tags": []
+  },
+  {
+    "id": "60d94494",
+    "name": "Rádio Itapoan 97.5 FM",
+    "url": "https://cast.radiu.live:9300/stream",
+    "tags": []
+  },
+  {
+    "id": "19b8be5e",
+    "name": "Radio Pampa",
+    "url": "https://cast4.audiostream.com.br:2653/mp3",
+    "tags": []
+  },
+  {
+    "id": "fb3fe835",
+    "name": "Rede Aleluia - Jundiaí",
+    "url": "https://14398c.ha.azioncdn.net/primary/sp_jundiai.sdp/chunklist_e598b1e4-b25c-4fb1-838c-9d247c2b677a.m3u8",
+    "tags": []
+  },
+  {
+    "id": "fde854c9",
+    "name": "Rádio Pátria Gaúcha",
+    "url": "https://servidor16-3.brlogic.com:7614/live?source=website",
+    "tags": []
+  },
+  {
+    "id": "8013a87f",
+    "name": "Radio CDL FM",
+    "url": "https://9595.brasilstream.com.br/stream?identifica=6604881056089703000",
+    "tags": []
+  },
+  {
+    "id": "83fa2d72",
+    "name": "Radio Trans Mundial",
+    "url": "https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8",
+    "tags": []
+  },
+  {
+    "id": "76e2482a",
+    "name": "89FM A Radio Rock",
+    "url": "https://19213.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ec95e450",
+    "name": "Rádio Record 1000 AM",
+    "url": "https://stm10.voxhd.com.br:9702/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0831b59c",
+    "name": "Só Se For Dance ",
+    "url": "https://stream-159.zeno.fm/u0vqwmqxcf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1MHZxd21xeGNmOXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic2hjWHVyMkRSdmVVcmxJWE8yR3RTdyIsImlhdCI6MTc2MDg0OTIyOSwiZXhwIjoxNzYwODQ5Mjg5fQ.QW1EhFcRxlag2GqJFsllxfmbN15sceVRGU8IocPy5Cs",
+    "tags": []
+  },
+  {
+    "id": "32ff67e8",
+    "name": "Radio Terra 1330",
+    "url": "https://cloud1.cdnseguro.com:16020/stream",
+    "tags": []
+  },
+  {
+    "id": "5ed48f9f",
+    "name": "MGT DANCE HITS",
+    "url": "https://cast.mgtradio.net/radio/8080/aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e4164113",
+    "name": "Rádio Nostalgia FM",
+    "url": "https://centova2.euroti.com.br:20062/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9d1d6998",
+    "name": "Smooth Jazz Brasil",
+    "url": "https://sc4s.cdn.upx.com:8176/stream",
+    "tags": []
+  },
+  {
+    "id": "bf24a2df",
+    "name": "BR - The Classic Rock",
+    "url": "https://stream-162.zeno.fm/nbq1aq62gd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuYnExYXE2MmdkMHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVnQwaFZyQUVTM0MxMURTNzJXUkJSZyIsImlhdCI6MTc2MDg1NjcyOSwiZXhwIjoxNzYwODU2Nzg5fQ.NKL-H-v5i5-DxzttCyreEmLNuz_e33y1-ZYq9Bf4fUg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d36b8dce",
+    "name": "RST Radio Rock",
+    "url": "https://servidor37-1.brlogic.com:8100/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0c543300",
+    "name": "Conquista FM 97,7 Sertaneja",
+    "url": "https://rrdns-megasistema.webnow.com.br/conquista.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9bc712bf",
+    "name": "EldoPop FM",
+    "url": "https://stm10.srvstm.com:34794/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d8b98fc3",
+    "name": "Rádio Music Hall",
+    "url": "https://server02.ouvir.radio.br:8050/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8a0645bc",
+    "name": "União FM - Porto Alegre",
+    "url": "https://stream.ouveai.com.br/proxy/uniaonh?mp=/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "3ad880fd",
+    "name": "Jovem Pan Patos de Minas",
+    "url": "https://shout25.crossradio.com.br:24030//1",
+    "tags": []
+  },
+  {
+    "id": "1af99f6b",
+    "name": "BRADO RADIO",
+    "url": "https://servidor17-5.brlogic.com:8300/live",
+    "tags": []
+  },
+  {
+    "id": "8ca7d631",
+    "name": "Freestyle Brasil",
+    "url": "https://centova2.ipstm.net/proxy/svyglwqk/;",
+    "tags": []
+  },
+  {
+    "id": "ad128b03",
+    "name": "Estilo FM Litoral 93.3 Mhz (Cubatão - SP) (ZYU943)",
+    "url": "https://cloud1.cdnseguro.com:20492/stream",
+    "tags": []
+  },
+  {
+    "id": "fe2f26ad",
+    "name": "Rockett 97,7",
+    "url": "https://8817.brasilstream.com.br/stream?cc=1645359200316",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8b760625",
+    "name": "Piatã FM",
+    "url": "https://streaming.livespanel.com:9430/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "53dceb77",
+    "name": "Nova Brasil RJ 89.5",
+    "url": "https://19213.live.streamtheworld.com:443/NOVABRASIL_RIOAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "95d9e33e",
+    "name": "Futebol sport radio",
+    "url": "https://stream-178.zeno.fm/dk4s7g3s4s8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkazRzN2czczRzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV1JJYTBDYS1SZE9XcHU4clRlNlJHUSIsImlhdCI6MTc2MDg2NjA0MSwiZXhwIjoxNzYwODY2MTAxfQ.9el02FYURRRtKramCINsUnZweGEA7CemFFhAgCxo8BE",
+    "tags": []
+  },
+  {
+    "id": "0a39ba8f",
+    "name": "SM Brasil",
+    "url": "https://stream-179.zeno.fm/xt4tf9zsxeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dDR0Zjl6c3hlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUDd4Mm5iMGRTbWk2MlNOckJoTW1sUSIsImlhdCI6MTc2MDg2NDk5MywiZXhwIjoxNzYwODY1MDUzfQ.wxp_tpe2jX8nFLAqzJOhzn9W_QelT-uKztVp61CN-0s",
+    "tags": []
+  },
+  {
+    "id": "13748b5e",
+    "name": "Rádio Tropical FM 94.7 MHz (Barbacena - MG)",
+    "url": "https://servidor37-5.brlogic.com:8044/live?source=website",
+    "tags": []
+  },
+  {
+    "id": "ad50e7f8",
+    "name": "Jovem Pan FM - Salvador - BA - 91.3",
+    "url": "https://shout25.crossradio.com.br:18022/1,%20https://shout25.crossradio.com.br:18022/1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aa6f7be4",
+    "name": "instrumentales",
+    "url": "https://protvradiostream.com:8350/live",
+    "tags": []
+  },
+  {
+    "id": "2b3c7a70",
+    "name": "Diário FM -Ribeirão Preto",
+    "url": "https://rrdns-megasistema.webnow.com.br/diario.aac?v=5499",
+    "tags": []
+  },
+  {
+    "id": "87c5858a",
+    "name": "Amigos de Cristo Web Rádio ",
+    "url": "https://sv14.hdradios.net:6860/;?type=http&nocache=38",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "385d0655",
+    "name": "92 FM (Porto Alegre)",
+    "url": "https://1592747t.ha.azioncdn.net/primary/92fm.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "7bc57e12",
+    "name": "CBN - Belo Horizonte ",
+    "url": "https://27323.live.streamtheworld.com:443/CBN_BHAAC.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e8745c48",
+    "name": "Jovem Pan FM - Brasília - DF - 106.3",
+    "url": "https://shout25.crossradio.com.br:18022/1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "42959744",
+    "name": "Terra Gaúcha",
+    "url": "https://5a57bda70564a.streamlock.net/terragaucha/terragaucha.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a0c4b276",
+    "name": "104 FM Natal",
+    "url": "https://radios.braviahost.com.br:8000/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "8bc8555b",
+    "name": "Band Vale 102.9",
+    "url": "https://centova5.transmissaodigital.com:20061/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "720f22e7",
+    "name": "Massa FM São Paulo",
+    "url": "https://stm01.virtualcast.com.br:8000/massasaopaulo",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1a6c5c01",
+    "name": "Hunter FM - Pagode",
+    "url": "https://live.hunter.fm/pagode_normal",
+    "tags": []
+  },
+  {
+    "id": "0506e300",
+    "name": "Melody 94.1 FM",
+    "url": "https://sc4s.cdn.upx.com:8080/stream",
+    "tags": []
+  },
+  {
+    "id": "5b7c4c43",
+    "name": "Jovem Pan FM Campinas - 89.9",
+    "url": "https://paineldj5.com.br:20028/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "52109fce",
+    "name": "Rádio Rock - 89,1 FM",
+    "url": "https://26653.live.streamtheworld.com:443/RADIO_89FM_ADP.aac?dist=site-89fm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2ce4340d",
+    "name": "Rádio Assunção AM620",
+    "url": "https://str.7br.com.br/radio/8170/stream",
+    "tags": []
+  },
+  {
+    "id": "8e0f74e9",
+    "name": "Rádio Fox Rock",
+    "url": "https://brapostreaming.com.br/radio/8000/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bc9cf1d1",
+    "name": "Rádio São Francisco Anápolis - 97.7FM",
+    "url": "https://cast.hoost.com.br:20150/stream",
+    "tags": []
+  },
+  {
+    "id": "34fb5476",
+    "name": "Radio UFAL",
+    "url": "https://directradios.net/proxy/ufal?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "e21a50da",
+    "name": "Radio Amigos do Futebol ",
+    "url": "https://ssl.voxhd.com.br:7086/;",
+    "tags": []
+  },
+  {
+    "id": "93ebcb1f",
+    "name": "WEBGIO",
+    "url": "https://servidor34.brlogic.com:8080/live?1583625685800",
+    "tags": []
+  },
+  {
+    "id": "434e8314",
+    "name": "Radio Uirapuru",
+    "url": "https://radio.saopaulo01.com.br:7002/stream",
+    "tags": []
+  },
+  {
+    "id": "dc845322",
+    "name": "Sintonia Esportiva",
+    "url": "https://stm3.voxhd.com.br:8154/stream",
+    "tags": []
+  },
+  {
+    "id": "73038258",
+    "name": "Alvorada FM 94,9 Mhz ZYC708 (Belo Horizonte - MG)",
+    "url": "https://26583.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "0836d566",
+    "name": "VIOLA VIVA CAIPIRA",
+    "url": "https://centova.euroti.com.br:20055/stream",
+    "tags": []
+  },
+  {
+    "id": "31c99d30",
+    "name": "POP 95,1",
+    "url": "https://servidor39.brlogic.com:8152/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "27f3c211",
+    "name": "Canção Nova",
+    "url": "https://cloud1.cdnseguro.com:20038/stream",
+    "tags": []
+  },
+  {
+    "id": "8616c686",
+    "name": "Radio Charme",
+    "url": "https://stm9.xcast.com.br:7988/;",
+    "tags": []
+  },
+  {
+    "id": "05b14723",
+    "name": "Sonora FM - Farroupilha",
+    "url": "https://casthttps1.suaradionanet.net/10318/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e29acf79",
+    "name": "Itapema 102.3 FM",
+    "url": "https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/chunklist_0ac85862-caaa-446f-93bf-3e12816c36a0.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "eb64f959",
+    "name": "Itapema FM  Floreanopolis",
+    "url": "https://27353.live.streamtheworld.com:443/ITA_FLO.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5a9cbb7b",
+    "name": "Rádio PT",
+    "url": "https://s39.maxcast.com.br:8072/live",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "a06ca4c9",
+    "name": "Rádio Som do Céu",
+    "url": "https://stream-155.zeno.fm/t5y50e2ekbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NXk1MGUyZWticnV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX05jdG9wNFdTMUNwdnQyaDRnTDJZZyIsImlhdCI6MTc2MDg0MDYzMywiZXhwIjoxNzYwODQwNjkzfQ.WxSzRNUc9GlyJ_RY1IDPiXzRLZWHvcsP6omsusAPARs",
+    "tags": []
+  },
+  {
+    "id": "305d6101",
+    "name": "Antena 1 Porto Alegre ",
+    "url": "https://stream.antena1.com.br/stream14",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e65e9971",
+    "name": "Rádio USP 93.7 FM",
+    "url": "https://flow.emm.usp.br:8008/radiousp-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "89d4edc2",
+    "name": "Rádio Teomidia Instrumental",
+    "url": "https://usa3.fastcast4u.com/proxy/teomidiainstr?mp=/1",
+    "tags": []
+  },
+  {
+    "id": "1f380ab9",
+    "name": "Mix FM São Paulo ",
+    "url": "https://24413.live.streamtheworld.com:443/MIXFM_SAOPAULOAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4225ce08",
+    "name": "SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc",
+    "url": "https://jpdofunk3.com.br:8242/stream",
+    "tags": []
+  },
+  {
+    "id": "20da7e51",
+    "name": "Rádio Educadora 102,9 FM",
+    "url": "https://servidor40.brlogic.com:8252/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0242431b",
+    "name": "Radio Amigos do Sertanejo  ",
+    "url": "https://stm4.voxhd.com.br:7086/",
+    "tags": []
+  },
+  {
+    "id": "0730c485",
+    "name": "Rádio Nativa 93.7 FM Irecê - BA",
+    "url": "https://stm3.srvif.com:7128/stream?1716397382938=",
+    "tags": []
+  },
+  {
+    "id": "e53c5ae5",
+    "name": "PorDeus.fm",
+    "url": "https://stream-179.zeno.fm/92ptm8uua2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5MnB0bTh1dWEyenV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDQzUHJTeTBSUUdOU1pTUmxJSm1IZyIsImlhdCI6MTc2MDg2ODMxNSwiZXhwIjoxNzYwODY4Mzc1fQ.PzGPLWBXzSbcT2GLGykolY2vfrGzyVUr-X_IIt2D8EU",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "541ac60c",
+    "name": "musical fm 2",
+    "url": "https://9176.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "df086289",
+    "name": "Rádio Terê FM 93.7 MHz (Teresópolis - RJ)",
+    "url": "https://cast2.hoost.com.br:8108/stream",
+    "tags": []
+  },
+  {
+    "id": "bd17bcb5",
+    "name": "Eldorado FM",
+    "url": "https://cast4.audiostream.com.br:2652/mp3",
+    "tags": []
+  },
+  {
+    "id": "dccc0ce6",
+    "name": "Rádio Furacão 2000",
+    "url": "https://servidor24-1.brlogic.com:7516/live?source=website",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "040679f3",
+    "name": "Punk FM Brasil",
+    "url": "https://radio.punkfm.com.br/listen/punkfmbrasil/punkfmbrasil.mp3",
+    "tags": []
+  },
+  {
+    "id": "0c95d6fa",
+    "name": "Radio Goioere FM 97,5",
+    "url": "https://8727.omegastreaming.com.br/stream?",
+    "tags": []
+  },
+  {
+    "id": "39190d85",
+    "name": "Dixie Rebel",
+    "url": "https://servidor36.brlogic.com:8572/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fe341e76",
+    "name": "Band FM Triângulo 99.9 Mhz ZYC832 (Uberlândia - MG)",
+    "url": "https://stm28.xcast.com.br:11364/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "406df72d",
+    "name": "Radio Stylus 107.7 FM",
+    "url": "https://player.stmsrv.com/dbproxy/16830",
+    "tags": []
+  },
+  {
+    "id": "1a014c79",
+    "name": "Rádio União FM 104,9 Mauriti",
+    "url": "https://servidor35-2.brlogic.com:7030/live?1599145118524",
+    "tags": []
+  },
+  {
+    "id": "103fa5ea",
+    "name": "antena1",
+    "url": "https://antenaone.crossradio.com.br/stream/2;",
+    "tags": []
+  },
+  {
+    "id": "9c2a1b87",
+    "name": "Paul in Rio",
+    "url": "https://usa10.fastcast4u.com/paulinrio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "31bedc73",
+    "name": "Rádio Graviola",
+    "url": "https://servidor30.brlogic.com:8262/live",
+    "tags": []
+  },
+  {
+    "id": "f182294d",
+    "name": "Massa FM Londrina",
+    "url": "https://stm01.virtualcast.com.br:8120/live",
+    "tags": []
+  },
+  {
+    "id": "10370fb9",
+    "name": "Rádio Elohim",
+    "url": "https://servidor34-5.brlogic.com:8190/live",
+    "tags": []
+  },
+  {
+    "id": "a029cee7",
+    "name": "Atlántida",
+    "url": "https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "0b506f42",
+    "name": "BandNews BH",
+    "url": "https://cdn-web.tunein.com/assets/media/blank.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0d974732",
+    "name": "Torres FM 101,1",
+    "url": "https://cast4.audiostream.com.br:2661/mp3",
+    "tags": []
+  },
+  {
+    "id": "dce52422",
+    "name": "Rádio CBN Campinas 99.1 FM",
+    "url": "https://8214.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "e888ddef",
+    "name": "Rádio Bla Rock",
+    "url": "https://s12.maxcast.com.br:8086/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e4f5ff35",
+    "name": "Mundial Rock",
+    "url": "https://azura.mundialmusic.net/radio/8010/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "a9790903",
+    "name": "Morena FM 98",
+    "url": "https://ssl1.transmissaodigital.com:2692/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "091d98ad",
+    "name": "antenAZero",
+    "url": "https://servidor26-4.brlogic.com:8006/live",
+    "tags": []
+  },
+  {
+    "id": "9e7db2a3",
+    "name": "Rádio Olavo de Carvalho",
+    "url": "https://radio.liv.fran.nom.br/radio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2045f0db",
+    "name": "94 FM CORDEIRO-RJ",
+    "url": "https://s17.hstbr.net:8040/live?1601949995965",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d25efd54",
+    "name": "Jovem Pan News",
+    "url": "https://stream-171.zeno.fm/vlcraijc6yiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2bGNyYWlqYzZ5aXV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOWp1UFc1VzdTaHVEVXJ0Ukp5SEZ5dyIsImlhdCI6MTc2MDg2OTkzMywiZXhwIjoxNzYwODY5OTkzfQ.MgH6VW33V6PwpY9iUvFuB-gptu419Wwwp5valxpoZ5I",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7384d35f",
+    "name": "Minas FM 104,1 MHz (Divinópolis - MG)",
+    "url": "https://minasfmaac.jmvstream.com/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "955c438f",
+    "name": "Positividade FM - Rio de Janeiro",
+    "url": "https://27373.live.streamtheworld.com/POSITIVIDADE_FMAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "ef512083",
+    "name": "Rádio Liderança FM",
+    "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "aa46d0ec",
+    "name": "Rádio Sagrada FM",
+    "url": "https://stream-175.zeno.fm/marglwedbnltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtYXJnbHdlZGJubHR2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNDdNYU40a2xTa3VaWXAyeHExMGhMdyIsImlhdCI6MTc2MDgwOTc1NiwiZXhwIjoxNzYwODA5ODE2fQ.9QT95ngbk-25xdJmZzUxlnaIIHWZUBzeV3o-TQXD9EU",
+    "tags": []
+  },
+  {
+    "id": "afa32e1f",
+    "name": "Rádio Portal Do Brega",
+    "url": "https://stream-176.zeno.fm/kcckyb1waq8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrY2NreWIxd2FxOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibGd6UDVrcGlURnFDYVRYUURsUEZGdyIsImlhdCI6MTc2MDc5MjcwNSwiZXhwIjoxNzYwNzkyNzY1fQ.bNo6RxUAEiEyNBmQRGXSxVv8l0JtjKJKihXIjFSwojw",
+    "tags": []
+  },
+  {
+    "id": "2e1135b1",
+    "name": "Rádio Scalla Instrumental São Paulo / SP - Brasil",
+    "url": "https://s01.svrdedicado.org:6782/stream",
+    "tags": []
+  },
+  {
+    "id": "aae65021",
+    "name": "Rádio Atlântida 104.3 FM - Joinville",
+    "url": "https://27443.live.streamtheworld.com:443/ATL_JOIAAC.aac?1697701252085",
+    "tags": []
+  },
+  {
+    "id": "aac819ff",
+    "name": "ALPHA FM 101.7",
+    "url": "https://27693.live.streamtheworld.com:443/RADIO_ALPHAFM_ADP.aac",
+    "tags": []
+  },
+  {
+    "id": "ffab23d1",
+    "name": "A Tarde FM",
+    "url": "https://stm35.srvstm.com:7920/stream%22%3E%3C/audio%3E",
+    "tags": []
+  },
+  {
+    "id": "ed148dc2",
+    "name": "Radio Auriverde Brasil",
+    "url": "https://stm2.conectastreaming.com:7030/stream",
+    "tags": []
+  },
+  {
+    "id": "b1be7e2b",
+    "name": "Radio Germanica",
+    "url": "https://s18.maxcast.com.br:8983/live",
+    "tags": []
+  },
+  {
+    "id": "7d0f668f",
+    "name": "Arco da velha",
+    "url": "https://stream-155.zeno.fm/ndvs4y5wef9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuZHZzNHk1d2VmOXV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVl9UcmdvZjZRanEyZURLazJFb0Q5dyIsImlhdCI6MTc2MDg1MTc4OSwiZXhwIjoxNzYwODUxODQ5fQ.I9z4CKQbgS2dVUDakjho0xYE8wBuWqEyKygpxy-xY9k",
+    "tags": []
+  },
+  {
+    "id": "91473cce",
+    "name": "Radio RJ FM",
+    "url": "https://live.paineldj.com.br/proxy/radiorjfm?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "5fc074a1",
+    "name": "Radio Nova Instrumental ",
+    "url": "https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c60ef2bf",
+    "name": "Web Rádio CCB",
+    "url": "https://stm1.hoststreaming.com.br:7088/;",
+    "tags": []
+  },
+  {
+    "id": "9c02a4be",
+    "name": "Rádio Metropole",
+    "url": "https://listen.radioking.com/radio/268642/stream/313975",
+    "tags": []
+  },
+  {
+    "id": "12af216f",
+    "name": "Meio Norte",
+    "url": "https://webradio.amsolution.com.br/radio/8280/meionorte",
+    "tags": []
+  },
+  {
+    "id": "ff768d8a",
+    "name": "Radio Advento - Londrina",
+    "url": "https://9121.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "c3d4d98f",
+    "name": "Rádio CBN Vale 750 AM",
+    "url": "https://8018.brasilstream.com.br/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b205393a",
+    "name": "012 Rock News",
+    "url": "https://9881.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "c86559c4",
+    "name": "Atos FM",
+    "url": "https://s.bul.tec.br:8020/128",
+    "tags": []
+  },
+  {
+    "id": "b6382795",
+    "name": "Rádio BBN 92.3 FM",
+    "url": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+    "tags": []
+  },
+  {
+    "id": "a4c1052e",
+    "name": "Rádio FM O Dia 99.7 FM",
+    "url": "https://wz7.servidoresbrasil.com:8274/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "24c6e89d",
+    "name": "Radio Casa 8000",
+    "url": "https://servidor34-5.brlogic.com:7240/live?source=website",
+    "tags": []
+  },
+  {
+    "id": "e0205507",
+    "name": "MGT LIGHT",
+    "url": "https://cast.mgtradio.net/radio/8070/aac",
+    "tags": []
+  },
+  {
+    "id": "7d142e55",
+    "name": "Rádio Super",
+    "url": "https://servidor32.brlogic.com:8200/live",
+    "tags": []
+  },
+  {
+    "id": "e1ff6afc",
+    "name": "Tupancy AM Pelotas",
+    "url": "https://casthttps.suaradionanet.net/10024/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3f9db104",
+    "name": "Santa Cecília FM 107.7",
+    "url": "https://shout35.crossradio.com.br:24022/",
+    "tags": []
+  },
+  {
+    "id": "009f868c",
+    "name": "Rádio Xodó 89.9 FM -  Aracaju Sergipe",
+    "url": "https://09.stmip.net:8824/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bfa1f36c",
+    "name": "Rádio Brasil de Fato",
+    "url": "https://s09.hstbr.net:8238/live",
+    "tags": []
+  },
+  {
+    "id": "ddd8ef75",
+    "name": "Web rádio Sandro CD.s ",
+    "url": "https://stream-176.zeno.fm/n6pcbk423rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNnBjYms0MjNyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ2xfZ3VTdEtRaEtxSExyM3FFZXEyUSIsImlhdCI6MTc2MDg2NTQ0OCwiZXhwIjoxNzYwODY1NTA4fQ.TibXfTSnd_5yApZdX51O-6_2e2QOH1nZBppB5u15l7w",
+    "tags": []
+  },
+  {
+    "id": "f8129323",
+    "name": "Rádio Scalla - Música Brasileira",
+    "url": "https://s01.svrdedicado.org:6782/stream/2/",
+    "tags": []
+  },
+  {
+    "id": "1657b1f0",
+    "name": "Rádio 103 - Aracaju Sergipe",
+    "url": "https://player.voxcast.com.br/proxy/7030",
+    "tags": []
+  },
+  {
+    "id": "5b6d122c",
+    "name": "Cultura Brasil (fm77.9)",
+    "url": "https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8",
+    "tags": []
+  },
+  {
+    "id": "71b51b15",
+    "name": "Rádio Cristã Online",
+    "url": "https://servidor40.brlogic.com:8004/live",
+    "tags": []
+  },
+  {
+    "id": "ae8d2f02",
+    "name": "Rádio Ecológica FM 98,7 Mhz (São João Del Rei - MG)",
+    "url": "https://server06.srvsh.com.br:7440/stream",
+    "tags": []
+  },
+  {
+    "id": "c1906e2d",
+    "name": "Light FM 103.9 MHz ZYC699 (Belo Horizonte - MG)",
+    "url": "https://8231.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "17bf5fc2",
+    "name": "Rádio ON FM 107,7 MHz (Juiz de Fora - MG)",
+    "url": "https://cast4.hoost.com.br:20214/stream",
+    "tags": []
+  },
+  {
+    "id": "25e578fc",
+    "name": "Rádio Senado (Brasília)",
+    "url": "https://www12.senado.leg.br/radiosenado/fmaac/chunklist_w490874864.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9c470a6d",
+    "name": "Mundo Livre FM",
+    "url": "https://26503.live.streamtheworld.com:443/MUNDOLIVRE_CWBAAC_64.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "09ee7b08",
+    "name": "Manchester FM 93.3",
+    "url": "https://ssl1.transmissaodigital.com:20440/stream",
+    "tags": []
+  },
+  {
+    "id": "4fffe07f",
+    "name": "Radio Ilha FM 107,1",
+    "url": "https://casthttps.suaradionanet.net/13325/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7460b56a",
+    "name": "Rádio Educadora 91.7 FM",
+    "url": "https://stm22.xcast.com.br:11282/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "243acf47",
+    "name": "Rádio Estrada Real FM 102.5 MHz (Ouro Branco - MG)",
+    "url": "https://9981.brasilstream.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "b77b2920",
+    "name": "Estção FM 89.5",
+    "url": "https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "4f02a88c",
+    "name": "Rádio yeshua 103.5 FM WEB",
+    "url": "https://stm24.srvaudio.com.br:9306/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "23955f8d",
+    "name": "GOLD WEB RADIO (224kbps/mp3)",
+    "url": "https://centova.svdns.com.br:19418/stream2",
+    "tags": []
+  },
+  {
+    "id": "5aed7fe3",
+    "name": "CBN Recife",
+    "url": "https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c2effd02",
+    "name": "Estação POP",
+    "url": "https://s46.hstbr.net:8026/live?id=1530746592431",
+    "tags": []
+  },
+  {
+    "id": "2a69158e",
+    "name": "Serra negra FM Alterosa",
+    "url": "https://player.uaihost.audio/proxy/7014",
+    "tags": []
+  },
+  {
+    "id": "382be21c",
+    "name": "93,3 FM (Barbacena MG)",
+    "url": "https://sws.onradio.biz/8126/stream",
+    "tags": []
+  },
+  {
+    "id": "e3414da9",
+    "name": "Rádio Mania FM",
+    "url": "https://webradio.amsolution.com.br/radio/8050/mania",
+    "tags": []
+  },
+  {
+    "id": "c24d66e5",
+    "name": "96 Fm - Arapiraca Alagoas",
+    "url": "https://www.appradio.app:8182/live",
+    "tags": []
+  },
+  {
+    "id": "6bd9ad1b",
+    "name": "Rádio Chopinzinho - Nossa FM",
+    "url": "https://audio01.viaflux.com:10290/live.aac",
+    "tags": []
+  },
+  {
+    "id": "c6132ee8",
+    "name": "Rádio Vinha FM 91,9",
+    "url": "https://streaming.vinhafm.com.br/stream",
+    "tags": []
+  },
+  {
+    "id": "de1740f5",
+    "name": "Rádio Forró ",
+    "url": "https://stm5.painelcast.com:7600/stream",
+    "tags": []
+  },
+  {
+    "id": "b8ced297",
+    "name": "Rádio Nova FM Anápolis",
+    "url": "https://player.g2play.com.br/proxy/27362",
+    "tags": []
+  },
+  {
+    "id": "a2aa34af",
+    "name": "Rádio Delta FM Bagé",
+    "url": "https://player.painelvox.com/proxy/8066",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3fb299f8",
+    "name": "Radio Vocall",
+    "url": "https://servidor24-1.brlogic.com:7096/live?source=",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "85d3d422",
+    "name": "RTM Brasil",
+    "url": "https://25083.live.streamtheworld.com:443/RADIOTRANSMUNDIALAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "6aec680a",
+    "name": "Rádio Nevasca FM 104.1",
+    "url": "https://cast2.youngtech.radio.br/radio/8110/radio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dd53181b",
+    "name": "Radio Cidade 87.5 FM",
+    "url": "https://srv2.braudio.com.br/sc/7344/;?1708352992585",
+    "tags": []
+  },
+  {
+    "id": "6979a5e7",
+    "name": "Rádio Difusora 960",
+    "url": "https://s23.maxcast.com.br:8130/live",
+    "tags": []
+  },
+  {
+    "id": "3beb6e0b",
+    "name": "98FM BH",
+    "url": "https://9554.brasilstream.com.br/stream?1736286819232",
+    "tags": []
+  },
+  {
+    "id": "25f8bc25",
+    "name": ".Quran",
+    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "353c0f01",
+    "name": "PLUS FM SOBRAL 105.1MHz",
+    "url": "https://webradio.amsolution.com.br/radio/8030/sobral",
+    "tags": []
+  },
+  {
+    "id": "9084ea6e",
+    "name": "USP FM",
+    "url": "https://flow.emm.usp.br:8008/radiousp-rp-64.mp3",
+    "tags": []
+  },
+  {
+    "id": "7ce22c3b",
+    "name": "Rádio 96 FM",
+    "url": "https://cast4.hoost.com.br:20079/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05f818d1",
+    "name": "Rádio Jangadeiro 88.9 FM",
+    "url": "https://stream-147.zeno.fm/xuh02vfzurhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dWgwMnZmenVyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYS1YaDNIRlNUV0NBN0pyaUt0dm8tQSIsImlhdCI6MTc2MDgyNDkwOCwiZXhwIjoxNzYwODI0OTY4fQ.1kphHnUzHslT5LBuf5E7etMYZUJqld3vYIbRpjpdtII",
+    "tags": []
+  },
+  {
+    "id": "d92833db",
+    "name": "Universidade FM 106,9",
+    "url": "https://s26.maxcast.com.br:8280/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fcfe7fce",
+    "name": "GOLD WEB RADIO (32kbps/aacPlus)",
+    "url": "https://centova.svdns.com.br:19418/stream",
+    "tags": []
+  },
+  {
+    "id": "b6ef36c5",
+    "name": "Rádio Kboing 100.3 FM",
+    "url": "https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0e602c3d",
+    "name": "Rádio Roquette Pinto",
+    "url": "https://radio.saopaulo01.com.br/8300/stream/",
+    "tags": []
+  },
+  {
+    "id": "07cb05b0",
+    "name": "Darkradio Brasil",
+    "url": "https://servidor32-3.brlogic.com:8130/live",
+    "tags": []
+  },
+  {
+    "id": "4782fa85",
+    "name": "Rádio boa fm",
+    "url": "https://stream-177.zeno.fm/svapy9sa7f8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdmFweTlzYTdmOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOEQ4UEZhZ0pTS1dnTFhhYUVxLXdlQSIsImlhdCI6MTc2MDg2ODQ0OSwiZXhwIjoxNzYwODY4NTA5fQ.52IvJbmnmRWhXUhizMH8xM0GNhKvAurcdFCx8rlGx1k",
+    "tags": []
+  },
+  {
+    "id": "232be51d",
+    "name": "planeta rei",
+    "url": "https://s42.maxcast.com.br:8343/live",
+    "tags": []
+  },
+  {
+    "id": "d225a377",
+    "name": "RC FM 98,1",
+    "url": "https://player.transmissaodigital.com/proxy/7434/",
+    "tags": []
+  },
+  {
+    "id": "bd8772e0",
+    "name": "Nossa Sertaneja FM 99.7 MHz ZYN130 (Barbacena - MG)",
+    "url": "https://radio.audiosolutions.tech:8110/barbacena",
+    "tags": []
+  },
+  {
+    "id": "30ac15a8",
+    "name": "Norte FM - Londrina",
+    "url": "https://servidor17.brlogic.com:9394/live",
+    "tags": []
+  },
+  {
+    "id": "fe0a0e0c",
+    "name": "Jovem Pan FM - Manaus - AM - 104.1",
+    "url": "https://directradios.net/proxy/jpmaceio?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dce0fa76",
+    "name": "Boa Fm - Aracaju Sergipe",
+    "url": "https://s07.maxcast.com.br:8074/live",
+    "tags": []
+  },
+  {
+    "id": "6c189e56",
+    "name": "MGT COUNTRY",
+    "url": "https://cast.mgtradio.net/radio/8110/aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "64185886",
+    "name": "Rádio Sociedade News FM 102.1 Feira de Santana",
+    "url": "https://stream-155.zeno.fm/t799cry0yv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0Nzk5Y3J5MHl2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSGljQ09sd1ZTSC0wQmg5U0NRMkhSdyIsImlhdCI6MTc2MDg1MTQwMSwiZXhwIjoxNzYwODUxNDYxfQ.cfsFEl8fWkta-nSpuVucIhvsprzYUyOb9_3vrODUffg",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "132b4b87",
+    "name": "Rádio Evangelizar ",
+    "url": "https://8239.brasilstream.com.br/stream?origem=radios.com.br",
+    "tags": []
+  },
+  {
+    "id": "5d323e94",
+    "name": "morcegaoBr",
+    "url": "https://radio.morcegaofm.com.br/morcegao128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ec7cf066",
+    "name": "Nigthwave plaza",
+    "url": "https://radio.plaza.one/mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3dcfab05",
+    "name": "Rádio Galera",
+    "url": "https://stream-177.zeno.fm/hwuwmm0dvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJod3V3bW0wZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVHA3dmNINnhROVNpWHJRVTVETlgzZyIsImlhdCI6MTc2MDg2NTkyMCwiZXhwIjoxNzYwODY1OTgwfQ.o7jHNzgc3LzX79J16TrmEGpykToDCF7pLrA-DwYLTUE",
+    "tags": [
+      "news"
+    ]
+  }
+]

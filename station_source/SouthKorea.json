@@ -1,0 +1,235 @@
+[
+  {
+    "id": "93c43ba0",
+    "name": "Big B Radio - Kpop",
+    "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d9c71578",
+    "name": "KBS Classic FM",
+    "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Expires=1761819517&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjE4MTk1MTd9fX1dfQ__&Signature=DmU-AdxdBviw9Mtr73A0yT3toJdGq1LggOIebt~ZVj28qJSn6E-6PvktvaaCXl432Ls8Lf0b1OIeKhFMSIDOyD9Zya5miy36C90wP3U9iCJkPR6naJX8jDe2myhHt8XXQgczdp6AJ2IQ-pH0~wMz8Pcq0oBtBi0-c9AntdqS52So0w-I73RPoRYCgTaxgyx5X6H3Kp4xTn5gHoa7QrqSZnH8WZxQRVHqr1PAdKr0szU6xohAo96rnSKuJAbVllpV~P~92Awt6PARB1dCV6I~qUoXAPqrcBAdEKDmiQAhYrToYq3rNFGFEBdSdGnaElR8QViul7BQ85DUWdp5P-Tfpg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
+    "tags": []
+  },
+  {
+    "id": "6e546c7a",
+    "name": "MBC FM4U",
+    "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6CB1D117339E3C44554E15513721B84775C33855540DC2C43D80DEaAA637308670a7D38D3DB23143604E32518Ab481705260C0B03A2BAFC064A025A4C3E1C03A9FBF9EFE1D70754F1F5D37C14EB6E0B3D2728EDB399F00BFCE1E1A2FFD9E98C1B9519E9DD3EA5D9B6FF689EC5CD682CE",
+    "tags": []
+  },
+  {
+    "id": "4c624642",
+    "name": "Listen.moe (K-Pop)",
+    "url": "https://listen.moe/kpop/fallback",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "036aa446",
+    "name": "MBC FM",
+    "url": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6651DD12A3093FE41449E5BA3781FD48E5B331759F05528B3860B4a546E930C615aE03A633A2374730D931C1E9bD11D36C264DF44226C03EC689F1F6773E8C7513A8A89A0E3024AA65C08BDB927DEB73D973E6550D60DB8F7C3F83BED7A58720C2A5D638F622127C09E514F2E65613AF",
+    "tags": []
+  },
+  {
+    "id": "9d24f70a",
+    "name": "KBS 1R",
+    "url": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Expires=1761768012&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTc2ODAxMn19fV19&Signature=BwTept2lJWlwz1pVRvnGl168X5djpbMyuUALYafxJGJJfusly4pRb~LgIqaHDCYsz53VhdLLOTn0LzGl95C63kmB5f38cheyEEcLwxpDNIJ1TACpisOxVr6OHiUXyfHGjx0FwIAvsKU7zx6LjS2J4cJOMAMYVWm34~Ltte30E6fMCBlMWzcTu3nYOZ-sdy~HVqgpzSzvlQtl-VIpjENyI4mKvxHMHgzdTaDpcMWYcbpPOCLYN7rqDMYtHjARITlxOGYRykh9uLzV5JVtE4PIGDpZNCewrA4Ap8lryvyzIsmYxYjatsv~NxP4Omfum2ZuQup2Z1f6m~9PGa-pHNkw3Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
+    "tags": []
+  },
+  {
+    "id": "ee93d21b",
+    "name": "SBS Power FM",
+    "url": "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjE3MDY4MDMsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjlmN2I3ODg0LWU0M2ItNDUwMy1hZmVhLWQ3YmY3ODg2YzgyNSIsImlhdCI6MTc2MTY2MzYwM30.Vvv5xaqRLg0TRaeRy9Pb3QVjHvNF1IabUf12r9ADF-s",
+    "tags": []
+  },
+  {
+    "id": "c9aa01a1",
+    "name": "MBC FM for you",
+    "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=62E19119B38239D49B4D353A38110C4BC5C93E95390CB24E3DF093a256EF33A630a8F3503F52F24740D33DE16EbE718E22C80F591F98767F1CD8F8B1F1F841AD5F3565F61CFD1AE82B67F7141258068E2E3796A3E0256EB2BF7DCB5E49726A6E768483729EA3D78530AAB8090BC4AC36",
+    "tags": []
+  },
+  {
+    "id": "cd4a7fba",
+    "name": "SBS Love FM",
+    "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjE3MDA4MjAsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiM2Q0OWQyZTItNmVkYS00YjIwLThlZDgtMjA5MGQxYTRmNDAxIiwiaWF0IjoxNzYxNjU3NjIwfQ.Fq9vvp7EuNFBLDvMJU5hqiPcwcZ7CAJHz2VOmfwT4cs",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d8927e5b",
+    "name": "kbs해피fm",
+    "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-02/2radio-bora-02_hd.m3u8?Expires=1761805187&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTgwNTE4N319fV19&Signature=BfWd88ZkUSB~j5HxpVackhSNBfxZcc5Be8jexvUCHvC6t8LYQ0AKcMNY1-L7cuRW-ekNY9CKbgkgklU1zvVaSpQW6Dxb242q8uqpwyJA7DZJjJZ03duTdHaY2J~g4GvMwb7OaumKQH8IjTZ6W28xzBNIOqzKX~~hevTgl1N07QGKJ1VUa2hI-cGds2MZGizWMJGSnCKOp3k87iG2dAse1LAxF3fdsCLHTzxdbX~OkStfb2B1ueWd7eCH0lsG0kfbOVopAiKGobHxwUIh64lYxWTvp9E6XiX-MIUMwgE5dimurg0Z7KRKCj-dyOkjCg4cTD0a-Ic4Ok0Orry2TnCPhA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d79427fd",
+    "name": "KBS Cool FM",
+    "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Expires=1761837588&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjE4Mzc1ODh9fX1dfQ__&Signature=ZRc~yFGBIbaQ7x~lQzr2YHOPCcUx~BaaAhqgBqFlJ~XE9bMa8XXxYCcfr2bkR0DOn3uqiXsIS3gdmO-041YMts7GB1BLFyCt~98LrHoPFYJHlAE94UUUGJFJk08pHlli2sc-Co056EQcgfEUepKZOhqjybORfqx~MweY2vjuGu3IOjyksMf5tB4sbc-GdqfOaQYIW7s-pfxREAZUAwDRqEM7CHFNtGVbBHBI~I-SnqffIBIRHABB6LnYZvNHpS-DSiOpRvhhRNAbxplsWh70ry3x9rOSQnbNnkQazzaB9D5VUS8gwIFeHyDNEaqUfcW~vQSdmafptdxx4fs4KjmVKw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
+    "tags": []
+  },
+  {
+    "id": "2d3a0690",
+    "name": "CBS 음악 FM",
+    "url": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d994a39c",
+    "name": "평양FM",
+    "url": "https://listen7.myradio24.com/69366",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "4b5ee386",
+    "name": "CBS 음악FM",
+    "url": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e9846d23",
+    "name": "ebs tune in",
+    "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "7bd55a34",
+    "name": "Buddhist True Network TV",
+    "url": "https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ee1f0c7c",
+    "name": "CBS 파워라디오 [Music FM]",
+    "url": "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "697cf114",
+    "name": "EBS TV-Kids",
+    "url": "https://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "efff8341",
+    "name": "Fred Film Radio(한국어)",
+    "url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+    "tags": []
+  },
+  {
+    "id": "e8f29f9c",
+    "name": "YTN 라디오",
+    "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "71bd880e",
+    "name": "GugakFM",
+    "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "66218a7f",
+    "name": "EBS TV-1",
+    "url": "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c5759505",
+    "name": "EBS TV-e",
+    "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "67e6c7e9",
+    "name": "EBS TV-2",
+    "url": "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "17e9abed",
+    "name": "EBS TV-Plus 2",
+    "url": "https://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "dd7614b6",
+    "name": "EBS TV-i",
+    "url": "https://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "1d21e47b",
+    "name": "Gukak TV",
+    "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "7964c859",
+    "name": "MBC 올댓뮤직",
+    "url": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=63711813C39A3114EF4EF55C37F1794CA5433A55620F02513AA02Fa236EC3FE6C6aA63973B52FC4180E03C518Eb3414401C3CAB111D5DA09F44B0A0C6CF27E250A404DA920D57576091B344943317C4CCD93EA8DE3051C97206DCC82EC2EE8DF8B13CFBE26B19B750247B7B616A07A54",
+    "tags": []
+  },
+  {
+    "id": "a5b22e3c",
+    "name": "경인방송",
+    "url": "https://stream.ifm.kr/live/aod1/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b26019a0",
+    "name": "OBS 라디오",
+    "url": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "9813165a",
+    "name": "안동MBC FM4U",
+    "url": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d0702ef4",
+    "name": "BBS불교방송",
+    "url": "https://bbslive.clouducs.com/bbsradio-live/livestream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "780bdb2f",
+    "name": "JeonjuFM",
+    "url": "https://radiostream.communityradio.kr/jcfm1",
+    "tags": []
+  },
+  {
+    "id": "f8b8d835",
+    "name": "K-RADIO",
+    "url": "https://s5.radio.co/s0a9796fe3/listen",
+    "tags": []
+  },
+  {
+    "id": "beaa1b5b",
+    "name": "국방FM",
+    "url": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "fd25b5ac",
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "tags": []
+  }
+]

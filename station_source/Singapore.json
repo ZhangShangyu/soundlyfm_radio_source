@@ -1,0 +1,267 @@
+[
+  {
+    "id": "c6721fe1",
+    "name": "CNA 938 Live Singapore",
+    "url": "https://28393.live.streamtheworld.com/938NOW_PREM_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "dd4559a6",
+    "name": "Channel News Asia TV",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "tags": []
+  },
+  {
+    "id": "33968c20",
+    "name": "987FM",
+    "url": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "aaec2a16",
+    "name": "Oli 96.8 FM",
+    "url": "https://28443.live.streamtheworld.com:443/OLI968FMAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "f6df4a81",
+    "name": "AXR Singapore",
+    "url": "https://28093.live.streamtheworld.com:443/AXR_SINGAPOREAAC.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6129c9e8",
+    "name": "GOLD 905",
+    "url": "https://22403.live.streamtheworld.com/GOLD905_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a3b1c9c9",
+    "name": "Power 98 Love Songs",
+    "url": "https://22283.live.streamtheworld.com:443/POWER98_LOVESONGS.mp3",
+    "tags": []
+  },
+  {
+    "id": "2b2a58bb",
+    "name": "Yes 933",
+    "url": "https://28453.live.streamtheworld.com:443/YES933AAC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cc5b1ecd",
+    "name": "CNA 938",
+    "url": "https://22893.live.streamtheworld.com/938NOW_SC",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5b4e013f",
+    "name": "987",
+    "url": "https://14033.live.streamtheworld.com/987FM_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6dc53155",
+    "name": "Singapore Chinese POP YES FM 933",
+    "url": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9de59a05",
+    "name": "One FM 91.3",
+    "url": "https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC",
+    "tags": []
+  },
+  {
+    "id": "74edd81e",
+    "name": "RIA 897",
+    "url": "https://22393.live.streamtheworld.com/RIA897FM_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "56f81493",
+    "name": "AXR Singapore",
+    "url": "https://22253.live.streamtheworld.com/AXR_SINGAPORE_SC",
+    "tags": []
+  },
+  {
+    "id": "54872cb9",
+    "name": "kiss92",
+    "url": "https://28093.live.streamtheworld.com:443/KISS_92_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fb8016b0",
+    "name": "Ufm 1003",
+    "url": "https://28093.live.streamtheworld.com/UFM_1003AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "61b503c2",
+    "name": "LOVE 972",
+    "url": "https://22893.live.streamtheworld.com:443/LOVE972FM_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "ba7b7856",
+    "name": "CAPITAL 958",
+    "url": "https://28313.live.streamtheworld.com:443/CAPITAL958FM_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "ee50a4d1",
+    "name": "Love 972",
+    "url": "https://22903.live.streamtheworld.com/LOVE972FMAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "cc62afeb",
+    "name": "973FM: Blasts That Last radio",
+    "url": "https://c16.radioboss.fm:18115/stream?icecast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05d709f6",
+    "name": "Money FM 89.3",
+    "url": "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2",
+    "tags": []
+  },
+  {
+    "id": "5f372c0c",
+    "name": "973FM Blasts That Last",
+    "url": "https://c16.radioboss.fm:8115/autodj",
+    "tags": []
+  },
+  {
+    "id": "ea578f04",
+    "name": "YES 933",
+    "url": "https://28313.live.streamtheworld.com:443/YES933_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "f4f5d34b",
+    "name": "AXR Manila",
+    "url": "https://28103.live.streamtheworld.com:443/AXR_MANILA.mp3",
+    "tags": []
+  },
+  {
+    "id": "87b20c0c",
+    "name": "Kiss92",
+    "url": "https://22243.live.streamtheworld.com:443/KISS_92_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ba623e3c",
+    "name": "GOLD 905",
+    "url": "https://22893.live.streamtheworld.com:443/GOLD905_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "7e97b76d",
+    "name": "Bible Witness Web Radio",
+    "url": "https://17653.live.streamtheworld.com:443/SP_R3179571_SC",
+    "tags": []
+  },
+  {
+    "id": "375bc367",
+    "name": "Radio Melody with Brother Bjorn",
+    "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563",
+    "tags": []
+  },
+  {
+    "id": "a14f3f2c",
+    "name": "Yes 933",
+    "url": "https://28453.live.streamtheworld.com/YES933AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "d1c0f1d9",
+    "name": "987",
+    "url": "https://28393.live.streamtheworld.com:443/987FM_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "98945e11",
+    "name": "YES 933",
+    "url": "https://28393.live.streamtheworld.com:443/YES933_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "dd6839e0",
+    "name": "CLASS 95",
+    "url": "https://22393.live.streamtheworld.com:443/CLASS95_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "4e81b500",
+    "name": "WARNA 942",
+    "url": "https://28443.live.streamtheworld.com:443/WARNA942FM_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "118f6a5e",
+    "name": "Symphony 924",
+    "url": "https://22393.live.streamtheworld.com:443/SYMPHONY924_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "1b81817f",
+    "name": "OLI 968",
+    "url": "https://28393.live.streamtheworld.com:443/OLI968FM_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "d6a5a0ff",
+    "name": "CNA938",
+    "url": "https://28373.live.streamtheworld.com:443/938NOW_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "1b1b10ea",
+    "name": "987",
+    "url": "https://22893.live.streamtheworld.com:443/987FM_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "428b7043",
+    "name": "RIA 897",
+    "url": "https://28443.live.streamtheworld.com:443/RIA897FM_PREM.aac",
+    "tags": []
+  },
+  {
+    "id": "9fd79017",
+    "name": "indiego",
+    "url": "https://28303.mc.tritondigital.com:443/OMNY_TESTDEMO_P/media-session/f3f0b58f-922c-4c4a-a388-e13281b1aff8/d/clips/7740012e-e1bd-4f85-81c4-a7f50047134a/216a4118-2176-4cc4-bfd4-a80e009dc9f7/75d30f62-444f-491a-8b25-ad7f0029329b/audio/direct/t1633952873/Geoblock_replacement_audio.mp3?t=1633952873",
+    "tags": []
+  },
+  {
+    "id": "ddc179bd",
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "tags": []
+  }
+]

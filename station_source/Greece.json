@@ -1,0 +1,2375 @@
+[
+  {
+    "id": "1d8a4057",
+    "name": "Trance Athena",
+    "url": "https://cast.streams.ovh:8008/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "18191af2",
+    "name": "Kiss 92.9",
+    "url": "https://netradio.live24.gr/kissfmathens",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b267c4c1",
+    "name": "Real FM 97.8",
+    "url": "https://netradio.live24.gr/realfm",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6109504a",
+    "name": "Sport FM 94.6",
+    "url": "https://netradio.live24.gr/sportfm7712",
+    "tags": []
+  },
+  {
+    "id": "11bbfa0d",
+    "name": "Skai 100.3",
+    "url": "https://netradio.live24.gr/skai1003",
+    "tags": []
+  },
+  {
+    "id": "4823d925",
+    "name": "Sfera 102.2",
+    "url": "https://sfera.live24.gr/sfera4132",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c2eba29",
+    "name": "Zeppelin 106.7",
+    "url": "https://radiostreaming.ert.gr/ert-zeppelin",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f1d4c158",
+    "name": "Παραπολιτικά FM 90.1",
+    "url": "https://netradio.live24.gr/athinaradio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0d7cef89",
+    "name": "Ellinikos 93.2",
+    "url": "https://netradio.live24.gr/orange9320",
+    "tags": []
+  },
+  {
+    "id": "b9e48fa4",
+    "name": "Vanilla Radio Smooth Flavors",
+    "url": "https://smooth.vanillaradio.com:8032/live",
+    "tags": []
+  },
+  {
+    "id": "14ec5245",
+    "name": "Psyndora Psytrance",
+    "url": "https://cast.magicstreams.gr:9111/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fdf3d5d3",
+    "name": "Derti 98.6",
+    "url": "https://derti.live24.gr/derty1000",
+    "tags": []
+  },
+  {
+    "id": "9c7428e7",
+    "name": "Off Radio - Athens",
+    "url": "https://s3.yesstreaming.net:7062/stream",
+    "tags": []
+  },
+  {
+    "id": "d48de810",
+    "name": "Athens Party",
+    "url": "https://ice.onestreaming.com/athensparty",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3d77a391",
+    "name": "Love Radio 97.5",
+    "url": "https://netradio.live24.gr/loveradio-1000",
+    "tags": []
+  },
+  {
+    "id": "0fb5c15c",
+    "name": "Galaxy 92",
+    "url": "https://netradio.live24.gr/galaxy9292",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2c011a54",
+    "name": "Mad Radio 106.2",
+    "url": "https://mediaserver.mad.tv/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1147360b",
+    "name": "ERA Deftero Programma",
+    "url": "https://radiostreaming.ert.gr/ert-deftero",
+    "tags": []
+  },
+  {
+    "id": "f7724734",
+    "name": "ERA Proto Programma",
+    "url": "https://radiostreaming.ert.gr/ert-proto",
+    "tags": []
+  },
+  {
+    "id": "8f959bbd",
+    "name": "ERA Kosmos",
+    "url": "https://radiostreaming.ert.gr/ert-kosmos",
+    "tags": []
+  },
+  {
+    "id": "cb7aa63a",
+    "name": "Best 92.6",
+    "url": "https://best.live24.gr/best1222",
+    "tags": []
+  },
+  {
+    "id": "dcbe5a67",
+    "name": "Radio Art - Meditation",
+    "url": "https://air-tunein.radioart.com/fMeditation.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f82b6812",
+    "name": "Easy FM 972",
+    "url": "https://n0d.radiojar.com/cthtwxk5yvduv.mp3?rj-ttl=5&rj-tok=AAABmfu2whkAHHzeF9rpcCXUbg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "81dd15d5",
+    "name": "Radio Art - Chillout",
+    "url": "https://air.radioart.com/fChillout.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d15ada4c",
+    "name": "REBEL 105.2",
+    "url": "https://netradio.live24.gr/rebel1052",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "efb118f6",
+    "name": "Metropolis 95.5",
+    "url": "https://metropolis.live24.gr/metropolis955thess",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "648bea55",
+    "name": "Radio Art - Solo Piano",
+    "url": "https://live.radioart.com/fSolo_piano.mp3",
+    "tags": []
+  },
+  {
+    "id": "227627c0",
+    "name": "Psyndora Chillout",
+    "url": "https://cast.magicstreams.gr:9125/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6f792807",
+    "name": "Rythmos 94.9",
+    "url": "https://n0f.radiojar.com/aw1w2xfx1vduv?rj-ttl=5&rj-tok=AAABmfhp9zoALBfckpaFbP592w",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "813fdc90",
+    "name": "Vanilla Radio Deep Flavors [HD 320]",
+    "url": "https://stream.vanillaradio.com:8090/live",
+    "tags": []
+  },
+  {
+    "id": "065b22bb",
+    "name": "Best Radio 92.6",
+    "url": "https://netradio.live24.gr/best1222",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0764ed9c",
+    "name": "Radio Art - Relaxing (Violin, Piano & Cello)",
+    "url": "https://air.radioart.com/fRelaxing.mp3",
+    "tags": []
+  },
+  {
+    "id": "8800bc1e",
+    "name": "Disco Net",
+    "url": "https://stream1.468.gr/8004/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2204df63",
+    "name": "Sport FM 94.6",
+    "url": "https://sportfm.live24.gr/sportfm7712?344b685e2518b0370f0d731432f51438",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7d3b2c1c",
+    "name": "Radio Art - Piano for Sleep",
+    "url": "https://air.radioart.com/fPiano_for_sleep.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2419d678",
+    "name": "ERA Trito Programma",
+    "url": "https://radiostreaming.ert.gr/ert-trito",
+    "tags": []
+  },
+  {
+    "id": "fd6e2bcc",
+    "name": "stokokkino",
+    "url": "https://n0f.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABmfrhDx8AJOlAGxaiG9TE_A",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "96a951ba",
+    "name": "Athina 984",
+    "url": "https://athina984.live24.gr/athina984",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "66785823",
+    "name": "Radio Art - Piano & Guitar",
+    "url": "https://air-tunein.radioart.com/fPiano_and_guitar.mp3",
+    "tags": []
+  },
+  {
+    "id": "879c9dd3",
+    "name": "Radio Art - Cuban",
+    "url": "https://live.radioart.com/fCuban_lounge.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c5a1137a",
+    "name": "Radio Art - Flamenco",
+    "url": "https://air.radioart.com/fFlamenco.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d1ce6d64",
+    "name": "Love Trap",
+    "url": "https://n02.radiojar.com/tkeve70hqd0uv?rj-ttl=5&rj-tok=AAABmfwnqlwAQEHi8EHPcUPEGg",
+    "tags": []
+  },
+  {
+    "id": "73d61813",
+    "name": "Σκύλος 90",
+    "url": "https://n11.radiojar.com/819r8wupdrruv?rj-ttl=5&rj-tok=AAABmfwlvf0AIEV-HpQQ2PydRw",
+    "tags": []
+  },
+  {
+    "id": "d846a0f5",
+    "name": "Radio Art - Sleep",
+    "url": "https://air-tunein.radioart.com/fSleep.mp3",
+    "tags": []
+  },
+  {
+    "id": "3329587a",
+    "name": "Pepper 96.6",
+    "url": "https://n0e.radiojar.com/pepper?rj-ttl=5&rj-tok=AAABmfvNq1YAp8dEBZGcpO2MWw",
+    "tags": []
+  },
+  {
+    "id": "940ef428",
+    "name": "Radio Art - Yoga",
+    "url": "https://air-tunein.radioart.com/fYoga.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "acc99ec8",
+    "name": "ΕΡΑσπορ",
+    "url": "https://radiostreaming.ert.gr/ert-erasport",
+    "tags": []
+  },
+  {
+    "id": "113b2fff",
+    "name": "Radio Art - Folk and Soft Rock",
+    "url": "https://air-tunein.radioart.com/fFolk_and_soft_rock.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0c5f5ab7",
+    "name": "Rainbow 89",
+    "url": "https://n12.radiojar.com/083wqknmsuhvv?rj-ttl=5&rj-tok=AAABmfsmFkUAPwgFnn03bNIqKA",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "828b44ec",
+    "name": "Pepper 96.6",
+    "url": "https://pepper966.live24.gr/pepper9660",
+    "tags": []
+  },
+  {
+    "id": "1735ce00",
+    "name": "Chillout Tree Pines",
+    "url": "https://n11.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABmfrRbP4AFyv6KKc8JrqjvA",
+    "tags": []
+  },
+  {
+    "id": "40e16af3",
+    "name": "Radio Art - Jazz for Sleep",
+    "url": "https://air.radioart.com/fJazz_for_sleep.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a9b97893",
+    "name": "Easy 97.2",
+    "url": "https://n08.radiojar.com/cthtwxk5yvduv?rj-ttl=5&rj-tok=AAABmfovlGgAHe-ne606HFo-yw",
+    "tags": []
+  },
+  {
+    "id": "5a83d4ef",
+    "name": "Radio Art - Classical for sleep",
+    "url": "https://live.radioart.com/fClassical_for_sleep.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c2ac479e",
+    "name": "7000FM",
+    "url": "https://stream.7000fm.gr/radio/8000/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "1c1f34e5",
+    "name": "Athens Voice 102.5",
+    "url": "https://netradio.live24.gr/nitro4555",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "65d0f1dd",
+    "name": "Disco Cafe",
+    "url": "https://azuracast.streams.ovh:8260/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "270069ef",
+    "name": "Galaxy Music The Deep House",
+    "url": "https://stream-176.zeno.fm/sgehc2mzwd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZ2VoYzJtendkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieEdGTjZiOURScHViUGFGRkwwWjM1USIsImlhdCI6MTc2MDg3MjcxMSwiZXhwIjoxNzYwODcyNzcxfQ.uG2vTWh6WDEWxO5nUOllzmKkk0ybCNWerCnKn0vY-Mo",
+    "tags": []
+  },
+  {
+    "id": "bc3986ad",
+    "name": "Déftero Laïká",
+    "url": "https://radiostreaming.ert.gr/ert-talaika",
+    "tags": []
+  },
+  {
+    "id": "39c72075",
+    "name": "SKAI 100.3",
+    "url": "https://skai.live24.gr/skai1003",
+    "tags": []
+  },
+  {
+    "id": "c4a33327",
+    "name": "Hot FM 104.6 Greece",
+    "url": "https://hotfm.live24.gr/hotfm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "de6d6f9c",
+    "name": "Mousikos 98.6",
+    "url": "https://netradio.live24.gr/derty1000",
+    "tags": []
+  },
+  {
+    "id": "8788e074",
+    "name": "Radio Art - Meditation(2)",
+    "url": "https://air.radioart.com/fMeditation.mp3",
+    "tags": []
+  },
+  {
+    "id": "364aac1c",
+    "name": "Radio Art - Ambient Piano",
+    "url": "https://air.radioart.com/fAmbient_piano.mp3",
+    "tags": []
+  },
+  {
+    "id": "be60d4df",
+    "name": "Imagine 897 Thessaloniki,gr ",
+    "url": "https://imagine897.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8b270073",
+    "name": "Vanilla Radio.com - Fresh Flavours Stream",
+    "url": "https://fresh.vanillaradio.com:8028/live",
+    "tags": []
+  },
+  {
+    "id": "28558fea",
+    "name": "Athens Rock 96.9",
+    "url": "https://az10.yesstreaming.net/radio/8060/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "cb64bee3",
+    "name": "Metropolis",
+    "url": "https://metromedia.live24.gr/metropolis955thess",
+    "tags": []
+  },
+  {
+    "id": "46f1d530",
+    "name": "Rebetiko Sealabs",
+    "url": "https://rebetiko.sealabs.net/radio",
+    "tags": []
+  },
+  {
+    "id": "8dfaaff7",
+    "name": "Kosmos Jazz GR",
+    "url": "https://radiostreaming.ert.gr/ert-webjazz",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aed9e54a",
+    "name": "Γλέντι 101.1",
+    "url": "https://onairmediagroup.live24.gr/glenti1011xanthi",
+    "tags": []
+  },
+  {
+    "id": "63c13e75",
+    "name": "Radio Art - Vocal Chillout",
+    "url": "https://air.radioart.com/fVocal_chillout.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dfb2814f",
+    "name": "Live 89.6",
+    "url": "https://netradio.live24.gr/livefm896",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "19a79e2b",
+    "name": "Metal Lab ",
+    "url": "https://stream-154.zeno.fm/x7e4uu23dm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4N2U0dXUyM2RtOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT2RVdml3bVJSR3lTYldmcW0zUm9rQSIsImlhdCI6MTc2MDc5MzY0MCwiZXhwIjoxNzYwNzkzNzAwfQ.g5tTiH0plFiuMGtCzHeRTJJqHjWxTN0GvRtjvM316uo&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": []
+  },
+  {
+    "id": "7fa6f164",
+    "name": "Radio Art - Guitar Jazz",
+    "url": "https://live.radioart.com/fGuitar_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9eafa164",
+    "name": "Radio Art - Nature",
+    "url": "https://air.radioart.com/fNature.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4ad3ef1c",
+    "name": "Sfera 94.4",
+    "url": "https://netradio.live24.gr/sfera941nauplio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "00a5158d",
+    "name": "Corfu Dee Jay 97.5",
+    "url": "https://sh.onweb.gr:7083/stream?type=http&nocache=35812",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4686ff1b",
+    "name": "Zucca Radio",
+    "url": "https://stream.zuccaradio.com/stream",
+    "tags": []
+  },
+  {
+    "id": "84297db1",
+    "name": "Vasilis Cfu Psy Trance",
+    "url": "https://stream-175.zeno.fm/c2t7d9p6mf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMnQ3ZDlwNm1mOXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicHk5bXVyQUdTWXVlMlJOSFB1U3B4QSIsImlhdCI6MTc2MDg3MjgxNiwiZXhwIjoxNzYwODcyODc2fQ.BWKC3SNEbCeSAvPzqUZCTWjz8KMYZYC80E1QdiznNxA",
+    "tags": []
+  },
+  {
+    "id": "33e6070c",
+    "name": "Radio Art - Bossa Nova",
+    "url": "https://air-tunein.radioart.com/fBosa_nova.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "65c9e66e",
+    "name": "Radio Art - Antonio Vivaldi",
+    "url": "https://air.radioart.com/fVivaldi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "16d42d4c",
+    "name": "Radio Art - Saxophone Jazz",
+    "url": "https://air.radioart.com/fSaxophone_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4881046e",
+    "name": "Radio Art - For Study",
+    "url": "https://air-tunein.radioart.com/fFor_study.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "043187bd",
+    "name": "Radio Art - Big Bands",
+    "url": "https://air-tunein.radioart.com/fBig_bands.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f33b976b",
+    "name": "Radio Art - Guitar",
+    "url": "https://air-tunein.radioart.com/fGuitar.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "40231420",
+    "name": "Radio Art - Chopin",
+    "url": "https://air.radioart.com/fChopin.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b85ac10e",
+    "name": "Radio Art - Vocal New Age",
+    "url": "https://air.radioart.com/fVocal_new_age.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "71da11ca",
+    "name": "Radio Gold @net",
+    "url": "https://radiogold.live24.gr/radiogold",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c33989d1",
+    "name": "Radio Art - New Age",
+    "url": "https://air.radioart.com/fNew_age.mp3",
+    "tags": []
+  },
+  {
+    "id": "cf9f0193",
+    "name": "DeeJay 97.5 Greece Corfu",
+    "url": "https://sh.onweb.gr:7083/stream",
+    "tags": []
+  },
+  {
+    "id": "2e19bb95",
+    "name": "Radio Art - Mantras",
+    "url": "https://air.radioart.com/fMantras.mp3",
+    "tags": []
+  },
+  {
+    "id": "792b702a",
+    "name": "Radio Art - Film Scores",
+    "url": "https://air.radioart.com/fFilm_scores.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "448314f4",
+    "name": "My radio 104.6",
+    "url": "https://streaming.myradio1046.fm/myradio1046",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9bc75524",
+    "name": "Citizen ",
+    "url": "https://sp3.streams.ovh/8082/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9a9d925a",
+    "name": "Πειραϊκή Εκκλησία",
+    "url": "https://impradio3.bytemasters.gr/8002/stream?type=http&nocache=1760853351",
+    "tags": []
+  },
+  {
+    "id": "edccdf0e",
+    "name": "Radio Art - Organ",
+    "url": "https://air.radioart.com/fOrgan.mp3",
+    "tags": []
+  },
+  {
+    "id": "8d4c35bc",
+    "name": "Rock FM 96.9",
+    "url": "https://az10.yesstreaming.net:8060/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9060eecd",
+    "name": "Republic Radio",
+    "url": "https://netradio.live24.gr/republicthess",
+    "tags": []
+  },
+  {
+    "id": "0a0f39e0",
+    "name": "Radio Art - Philip Glass",
+    "url": "https://live.radioart.com/fPhilip_glass.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "08478922",
+    "name": "Red 96.3",
+    "url": "https://netradio.live24.gr/red9630",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6366b026",
+    "name": "Radio Art - Salsa",
+    "url": "https://air.radioart.com/fSalsa.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "256def89",
+    "name": "Radio Art - Classical Relaxation",
+    "url": "https://air.radioart.com/fClassical_relaxation.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4b6afca3",
+    "name": "Radio Art - J.S.Bach",
+    "url": "https://live.radioart.com/fBach.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "72732447",
+    "name": "Radio Art - Tango",
+    "url": "https://air.radioart.com/fTango.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9130ffb5",
+    "name": "Radio Art - Solo Guitar",
+    "url": "https://air.radioart.com/fSolo_guitar.mp3",
+    "tags": []
+  },
+  {
+    "id": "4a826e6c",
+    "name": "ERT3 102 FM",
+    "url": "https://radiostreaming.ert.gr/ert-102fm",
+    "tags": []
+  },
+  {
+    "id": "12097ef9",
+    "name": "NRG 92.4",
+    "url": "https://s6.onweb.gr:9240/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3306fb3e",
+    "name": "Radio Art - Acoustic Blues",
+    "url": "https://air.radioart.com/fAcoustic_blues.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3c1a864c",
+    "name": "Studio FM 94.4",
+    "url": "https://i3.streams.ovh:13145/live",
+    "tags": []
+  },
+  {
+    "id": "85e710ac",
+    "name": "Radio Art - Ludwig Beethoven",
+    "url": "https://air.radioart.com/fBeethoven.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dbfe4b91",
+    "name": "Music 89.2",
+    "url": "https://netradio.live24.gr/music892",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ac47fd45",
+    "name": "Radio Art - George Handel",
+    "url": "https://air.radioart.com/fGeorge_handel.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "63a755f0",
+    "name": "Radio Art - Mellow Piano Jazz",
+    "url": "https://live.radioart.com/fMellow_piano_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "907ab4ef",
+    "name": "Groove Radio",
+    "url": "https://cast.magicstreams.gr/ic/grooveradio/stream",
+    "tags": []
+  },
+  {
+    "id": "2c084ec3",
+    "name": "Radio Art - Roots Reggae",
+    "url": "https://live.radioart.com/fRoots_reggae.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "71738a6b",
+    "name": "Blues Radio alternative",
+    "url": "https://i4.streams.ovh/sc/bluesrad/stream",
+    "tags": []
+  },
+  {
+    "id": "f260739a",
+    "name": "Kavala News",
+    "url": "https://sp3.streams.ovh/8052/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "ba6042c7",
+    "name": "Star 88.8",
+    "url": "https://onairmediagroup.live24.gr/star888xanthi",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3d14435b",
+    "name": "Radio Art - Gregorian Chants",
+    "url": "https://air.radioart.com/fGregorian_chants.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "68411065",
+    "name": "Radio Art - Spa",
+    "url": "https://air-tunein.radioart.com/fSpa.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7f5ebdab",
+    "name": "Radio Art - Mozart",
+    "url": "https://air.radioart.com/fMozart.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "15dbb82d",
+    "name": "MENTA 88",
+    "url": "https://netradio.live24.gr/menta88ath?1699021717",
+    "tags": []
+  },
+  {
+    "id": "2d754222",
+    "name": "Rythmos FM",
+    "url": "https://n06.radiojar.com/aw1w2xfx1vduv.mp3?rj-ttl=5&rj-tok=AAABmfu7yNIAmXlK1eLZVDzhRw",
+    "tags": []
+  },
+  {
+    "id": "7f8ac76f",
+    "name": "Rythmos FM.GR",
+    "url": "https://n0b.radiojar.com/g4tyehk5yvduv.mp3?rj-ttl=5&rj-tok=AAABmftJeogAMg3O64cYxjuYqg",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "3bfbddf8",
+    "name": "Radio Art - Violin",
+    "url": "https://air.radioart.com/fViolin_works.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cf4e3a90",
+    "name": "Focus 103.6",
+    "url": "https://ice.greekstream.net/focusfm",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b8402e7d",
+    "name": "Vanilla Radio Deep Flavors",
+    "url": "https://stream.vanillaradio.com:8003/live",
+    "tags": []
+  },
+  {
+    "id": "f4e5679d",
+    "name": "Radio Art - Healing",
+    "url": "https://air-tunein.radioart.com/fHealing.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9c39b6a6",
+    "name": "Radio Art - Jazz Piano",
+    "url": "https://live.radioart.com/fJazz_piano.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "db499f13",
+    "name": "Dalkas 88.2",
+    "url": "https://n0d.radiojar.com/pr9r38w802hvv?rj-ttl=5&rj-tok=AAABmfo0YosA4fDR-8wGPm7iEw",
+    "tags": []
+  },
+  {
+    "id": "8e3bfb7c",
+    "name": "2o ΠΑΡΑΔΟΣΙΑΚΑ",
+    "url": "https://radiostreaming.ert.gr/ert-defteroparadosiaka",
+    "tags": []
+  },
+  {
+    "id": "7f499f3c",
+    "name": "Radio Art - Instrumental",
+    "url": "https://air.radioart.com/fInstrumental.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "93a564e7",
+    "name": "Jazz Cafe",
+    "url": "https://stream-178.zeno.fm/hx6t4t15e8zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoeDZ0NHQxNWU4enV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibGg5WmVxb2tUeFNtTkxyZnEtTXRYQSIsImlhdCI6MTc2MDg3MDI5OSwiZXhwIjoxNzYwODcwMzU5fQ.PN2yF4rJeYsqMJ64TAS8NjMj4r5IOpAYFyglB4Aixkc&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": []
+  },
+  {
+    "id": "35127e53",
+    "name": "Δυτικά 92.8",
+    "url": "https://netradio.live24.gr/dytikafm928agrinio",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "c1c1128f",
+    "name": "Metropolis 97.2",
+    "url": "https://s6.onweb.gr:8092/;stream.nsv&type=mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "54295494",
+    "name": "BluesWave Radio",
+    "url": "https://blueswave.radio:8100/hifiblues",
+    "tags": []
+  },
+  {
+    "id": "844e6be1",
+    "name": "Δρομοσ 89,8 | Dromos 89,8",
+    "url": "https://netradio.live24.gr/dromos2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "70204809",
+    "name": "Radio Art - Baroque",
+    "url": "https://air.radioart.com/fBaroque.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "e8d59d77",
+    "name": "Metro Radio",
+    "url": "https://stream.crete.ovh:8443/metro",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f575958",
+    "name": "Radio Art - Smooth Bossa Nova",
+    "url": "https://live.radioart.com/fSmooth_bossa_nova.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8dcf36cc",
+    "name": "Prime 100.3",
+    "url": "https://s20.myradiostream.com:6738/;listen.pls",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "12b880a7",
+    "name": "Velvet 98.4",
+    "url": "https://onairmediagroup.live24.gr/velvet984xanthi",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6ff337ad",
+    "name": "Mousikos 98,6",
+    "url": "https://netradio.live24.gr/mousikos986",
+    "tags": []
+  },
+  {
+    "id": "c003eaff",
+    "name": "zeno fm - Pame Rebetiko kai laiko ",
+    "url": "https://stream-177.zeno.fm/wqcp8gq67vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cWNwOGdxNjd2enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUU5BX0Q4SDdSd21ld3lWY0QxRFFOQSIsImlhdCI6MTc2MDgwMTEyNywiZXhwIjoxNzYwODAxMTg3fQ.deICJQUoadEHPU5J_vaR-efMbbPkzFtdl70aN8rUlng",
+    "tags": []
+  },
+  {
+    "id": "edc8dd49",
+    "name": "Radio Art - Choral Works",
+    "url": "https://air.radioart.com/fChoral_works.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3cb5ca13",
+    "name": "Radio Art - Latin Jazz",
+    "url": "https://air.radioart.com/fLatin_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2ff26fc4",
+    "name": "Radio Art - Fusion",
+    "url": "https://live.radioart.com/fFusion.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "081716ec",
+    "name": "Radio Art - Mellow Smooth Jazz",
+    "url": "https://live.radioart.com/fMellow_smooth_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c6c9354c",
+    "name": "Radio Art - Bach",
+    "url": "https://air.radioart.com/fBach.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9bbe686d",
+    "name": "Radio Art - Didgeridoo",
+    "url": "https://air.radioart.com/fDidgeridoo.mp3",
+    "tags": []
+  },
+  {
+    "id": "fa6323ea",
+    "name": "Radio Art - Ambient",
+    "url": "https://air.radioart.com/fAmbient.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2848a20c",
+    "name": "Galaxy Music The Rock Metal Ballads",
+    "url": "https://stream-178.zeno.fm/fe300c1tpuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZTMwMGMxdHB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNW1jZ3pWLWtScXkyWVhiQUZaS1M2QSIsImlhdCI6MTc2MDg2MjcwNCwiZXhwIjoxNzYwODYyNzY0fQ.cm_gWyebTuP9bKAwwLah5i2Z-ZVBhnRbiMdt6e-2vEU",
+    "tags": []
+  },
+  {
+    "id": "dc6747ac",
+    "name": "Radio Art - Peaceful Classical",
+    "url": "https://air.radioart.com/fPeaceful_classical.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9e97b820",
+    "name": "90s Heaven",
+    "url": "https://sp3.streams.ovh/8070/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "30843c23",
+    "name": "Radio Art - Yoga(2)",
+    "url": "https://air.radioart.com/fYoga.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9444cb7d",
+    "name": "Radio Art - Solo Harp",
+    "url": "https://air-tunein.radioart.com/fSolo_harp.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a2b832b4",
+    "name": "1055 Rock - Thessaloniki",
+    "url": "https://radio.1055rock.gr:31056/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cbe86293",
+    "name": "Ιερά Μητρόπολις Άρτης 106.6",
+    "url": "https://i.streams.ovh:9566/live",
+    "tags": []
+  },
+  {
+    "id": "bb2cafba",
+    "name": "Psyndora Psytrance",
+    "url": "https://cast.magicstreams.gr/sc/psyndora/stream",
+    "tags": []
+  },
+  {
+    "id": "203e84e2",
+    "name": "RadioActive",
+    "url": "https://streamyourdream.org:8050/radioactive",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1852ffd5",
+    "name": "Blue Space 107,2 FM Athens",
+    "url": "https://sp1.19cloudsnetwork.gr/8008/stream?1701442520261",
+    "tags": []
+  },
+  {
+    "id": "b5460cde",
+    "name": "Fly 104",
+    "url": "https://imagine2.radioca.st/;stream.nsv",
+    "tags": []
+  },
+  {
+    "id": "d52233e7",
+    "name": "Rock Hard Greece",
+    "url": "https://noc.ezhellas.com:44450/live",
+    "tags": []
+  },
+  {
+    "id": "de576b3b",
+    "name": "Radio Art - Orchestral",
+    "url": "https://air.radioart.com/fOrchestral.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "81d883f8",
+    "name": "Libero FM 107.4",
+    "url": "https://radio.libero.fm:10750/live?1697856170939",
+    "tags": []
+  },
+  {
+    "id": "297ee6a9",
+    "name": "Radio Art - Gypsy Jazz",
+    "url": "https://air.radioart.com/fGypsy_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7d7fd67b",
+    "name": "Radio Art-Opera",
+    "url": "https://air.radioart.com/fOpera.mp3",
+    "tags": []
+  },
+  {
+    "id": "cd161678",
+    "name": "Bar Legend Radio",
+    "url": "https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c50f1741",
+    "name": "Radio Art - Love Smooth Jazz",
+    "url": "https://live.radioart.com/fLove_smooth_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b9d055c4",
+    "name": "Viva FM 95.3",
+    "url": "https://s17.myradiostream.com:8742/;listen.pls",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8096cbab",
+    "name": "Radio Art - After Midnight",
+    "url": "https://air.radioart.com/fAfter_midnight.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "66b9ac66",
+    "name": "Fidelio Erotica",
+    "url": "https://stream-179.zeno.fm/98g6y8a8m5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5OGc2eThhOG01enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUmZVOUNEVVhRMnl3UHFYMlF5RURVdyIsImlhdCI6MTc2MDg2NzU0MSwiZXhwIjoxNzYwODY3NjAxfQ.tIRPn2oZjzzxRBVvHwszUQ5REDxip3xywK-hCvkVRQk&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": []
+  },
+  {
+    "id": "25e5a144",
+    "name": "Radio Art - Just Blues",
+    "url": "https://air.radioart.com/fJust_blues.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "288fa8e8",
+    "name": "Club FM GR",
+    "url": "https://stream-160.zeno.fm/z8cp1nqwhnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6OGNwMW5xd2hucnV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMlEtWVRkOEpRR2FNek1mRlVKVGpWdyIsImlhdCI6MTc2MDg1ODE5OCwiZXhwIjoxNzYwODU4MjU4fQ.mCreN37eVdGdb-2qof8SenPNe7zS4tBEBNkkhUb7cuY&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a4cd25ab",
+    "name": "92.9 KISS",
+    "url": "https://kissfm.live24.gr/kissfmathens",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4a3c4521",
+    "name": "Radio Art - Morning Wake Up",
+    "url": "https://air.radioart.com/fMorning_wake_up.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "acb1a929",
+    "name": "Radio Art - Franz Schubert",
+    "url": "https://air.radioart.com/fFranz_schubert.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3e017dad",
+    "name": "Rock Lab Ballads",
+    "url": "https://stream-155.zeno.fm/xqyzz6vzmg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4cXl6ejZ2em1nOHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQmEtcVlqdVZTdlc0S1ZjRHpPakRMdyIsImlhdCI6MTc2MDg1MDI2MCwiZXhwIjoxNzYwODUwMzIwfQ.OiF8njKU2B4MAcQzV5tWVRp3-tPe8i8N81-Rl8tR0pA&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": []
+  },
+  {
+    "id": "42854b3c",
+    "name": "Radio Art - Chillout & Tropical",
+    "url": "https://air.radioart.com/fChillout_and_tropical.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "48390ef6",
+    "name": "Radio Art - Vocal Lounge",
+    "url": "https://air.radioart.com/fVocal_lounge.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7a86caa2",
+    "name": "Bravo 89.6",
+    "url": "https://sp3.streams.ovh/8046/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "16c6cd3c",
+    "name": "Radio Art - Ancient",
+    "url": "https://air.radioart.com/fAncient.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f9409b71",
+    "name": "Radio Art - Jazz Ballads",
+    "url": "https://live.radioart.com/fJazz_ballads.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b91c5221",
+    "name": "Radio Art - Vocal Jazz",
+    "url": "https://live.radioart.com/fVocal_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9141dc1d",
+    "name": "Vasilis Cfu Heavy Metal & Rock",
+    "url": "https://stream-176.zeno.fm/rfwpuu6pzd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZndwdXU2cHpkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ3F3dmZCZUhSWGl1ZHgxeGxQVktNQSIsImlhdCI6MTc2MDgzOTU2MCwiZXhwIjoxNzYwODM5NjIwfQ.QrIyp2Z82x16xOHh5FcgRycwDksADicNC6YAfOVoXtY",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "681ba0a5",
+    "name": "Radio Art - Shamanic",
+    "url": "https://air.radioart.com/fShamanic.mp3",
+    "tags": []
+  },
+  {
+    "id": "6d568523",
+    "name": "Athens Deejay 95.2",
+    "url": "https://netradio.live24.gr/athensdeejay",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bff18261",
+    "name": "Δίεση 101.3",
+    "url": "https://orange.live24.gr/orange9320",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f0a55fbc",
+    "name": "Radio Art - Joseph Haydn",
+    "url": "https://air.radioart.com/fJoseph_haydn.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9fccebe8",
+    "name": "Radio Art - Celtic",
+    "url": "https://live.radioart.com/fCeltic.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5954b2e6",
+    "name": "ERA I Foni tis Elladas",
+    "url": "https://radiostreaming.ert.gr/ert-voiceofgreece",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "67cb818d",
+    "name": "Alpha News 106.2",
+    "url": "https://antares.dribbcast.com/proxy/alpha1062?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "d5ce691b",
+    "name": "Radio Art - Sleep(2)",
+    "url": "https://air.radioart.com/fSleep.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "99a35297",
+    "name": "Radio Art - Ancient Solfeggio Frequencies",
+    "url": "https://air.radioart.com/fAncient_solfeggio_frequencies.mp3",
+    "tags": []
+  },
+  {
+    "id": "9cb8eb34",
+    "name": "Radio Art - Cello works",
+    "url": "https://air.radioart.com/fCello_works.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8df2798e",
+    "name": "Χρώμα 105,8 Θεσσαλονίκη",
+    "url": "https://hroma1058thess.live24.gr/hroma1058thess",
+    "tags": []
+  },
+  {
+    "id": "94e521d3",
+    "name": "Yellow",
+    "url": "https://ice.greekstream.net/yellow",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ca3f189d",
+    "name": "Psyndora Chillout",
+    "url": "https://cast.magicstreams.gr/sc/psychill/stream",
+    "tags": []
+  },
+  {
+    "id": "db901298",
+    "name": "Galaxy 92 FM",
+    "url": "https://galaxy.live24.gr/galaxy9292",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "005f2d35",
+    "name": "Radio Art - Piano Trios",
+    "url": "https://air.radioart.com/fPiano_trios.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "79c21bee",
+    "name": "The Greek Radio",
+    "url": "https://stream-175.zeno.fm/qq2btg0vp68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcTJidGcwdnA2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiazc0UEJfbDFTaC1UZWxDVzZjQUJ3USIsImlhdCI6MTc2MDg3MDgwMywiZXhwIjoxNzYwODcwODYzfQ.ZoiYo6HQ673O0LYHLxY6qDaNue17mTrJEghfS9CkdiY&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "df4c9039",
+    "name": "Radio Art - Piano",
+    "url": "https://air.radioart.com/fPiano.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0e9f9b79",
+    "name": "Radio Art - Workout Rock & Indie",
+    "url": "https://air.radioart.com/fRock_and_indie.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4cd6b526",
+    "name": "Radio Art - Smooth Jazz",
+    "url": "https://live.radioart.com/fSmooth_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "74d117f0",
+    "name": "Karamela 92.4",
+    "url": "https://netradio.live24.gr/924fm-thess",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6695be07",
+    "name": "Radio Art - Jazz Trios",
+    "url": "https://live.radioart.com/fJazz_trios.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f9664aef",
+    "name": "Radio Art - Piano & Guitar(2)",
+    "url": "https://air.radioart.com/fPiano_and_guitar.mp3",
+    "tags": []
+  },
+  {
+    "id": "c0550fb5",
+    "name": "Radio Art - Solo Flute",
+    "url": "https://live.radioart.com/fSolo_flute.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3c40252b",
+    "name": "Happy 104",
+    "url": "https://ath10400fm-radioplayer.live24.gr/ath10400fm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3ab62d13",
+    "name": "Venus FM 105,1 GREECE",
+    "url": "https://sh.onweb.gr:7124/stream",
+    "tags": []
+  },
+  {
+    "id": "bfeae85a",
+    "name": "Legend 101.6",
+    "url": "https://onairmediagroup.live24.gr/legend1016xanthi",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c1e23860",
+    "name": "Pepper 96.6",
+    "url": "https://netradio.live24.gr/pepper9660?1702833223",
+    "tags": []
+  },
+  {
+    "id": "3e407a80",
+    "name": "Radio Art - Sinatra Style",
+    "url": "https://live.radioart.com/fSinatra_style.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "66e80387",
+    "name": "OFFradio (320)",
+    "url": "https://s7.yesstreaming.net/stream/8000",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "155f71e4",
+    "name": "ERT Voreio Aigaio 104.4 103.0 99.4 105.9 100.1 95.2 96.5 89.7 91.7 89.1",
+    "url": "https://radiostreaming.ert.gr/ert-aigaiou",
+    "tags": []
+  },
+  {
+    "id": "12fd8c08",
+    "name": "SKAI TV",
+    "url": "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c8bac534",
+    "name": "Radio Art - Lullaby",
+    "url": "https://air.radioart.com/fLullaby.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "49e3c989",
+    "name": "Rock and Blues Athens",
+    "url": "https://tls-chrome.live24.gr/3253?http://78.129.132.7:35663/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "48cb82bf",
+    "name": "Εκκλησία της Ελλάδας 89.5",
+    "url": "https://loki.mental-media.gr:8038/index.html",
+    "tags": []
+  },
+  {
+    "id": "29107126",
+    "name": "Jockey ",
+    "url": "https://ec4.yesstreaming.net:2135/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c68f657",
+    "name": "Deep Web Radio",
+    "url": "https://i3.streams.ovh/ic/deepradio1/stream?",
+    "tags": []
+  },
+  {
+    "id": "20776596",
+    "name": "1st Greek New Age Radio",
+    "url": "https://stream-176.zeno.fm/9yu82xwmdc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5eXU4Mnh3bWRjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWh1YjNyVWdRUG03R1RuX0NrSC04USIsImlhdCI6MTc2MDgzNTU5OCwiZXhwIjoxNzYwODM1NjU4fQ.xPbHZmtvjQeD9K4SzmZ06WvpvG8JoB1FcMPSG96HRvg",
+    "tags": []
+  },
+  {
+    "id": "48e07986",
+    "name": "Radio Art - Pregnancy Relaxation",
+    "url": "https://live.radioart.com/fPregnancy_relaxation.mp3",
+    "tags": []
+  },
+  {
+    "id": "04198276",
+    "name": "Lampsi 92.3",
+    "url": "https://az11.yesstreaming.net:8140/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "8ec2124c",
+    "name": "Radio Art - Massage",
+    "url": "https://air.radioart.com/fMassage.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "471a1f04",
+    "name": "Kardia",
+    "url": "https://stream.crete.ovh:8443/kardia",
+    "tags": []
+  },
+  {
+    "id": "12542a64",
+    "name": "Star Corfu 88.8",
+    "url": "https://sh.onweb.gr/8800/stream/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f899dbfb",
+    "name": "Techno Base 103.1",
+    "url": "https://stream-157.zeno.fm/izyb6gtfozpuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpenliNmd0Zm96cHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNmdmVjM2OHNRLU9OMGFiMUhQS0t3USIsImlhdCI6MTc2MDg3MTQ4NCwiZXhwIjoxNzYwODcxNTQ0fQ.c4BeLIGiBbD7-yRS9sQ1JBQZi61AsFrjmkIR-JeJj80&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": []
+  },
+  {
+    "id": "0d3a0435",
+    "name": "Real FM 97.8",
+    "url": "https://realfm.live24.gr/realfm",
+    "tags": []
+  },
+  {
+    "id": "969e3dde",
+    "name": "Liquid fm",
+    "url": "https://netradio.live24.gr/freeradio-1000",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aa96a97d",
+    "name": "2000 FM 99.8",
+    "url": "https://i8.streams.ovh/ic/2000fm/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "03bfbc3d",
+    "name": "Athens Noise Rocks",
+    "url": "https://radio.athensnoise.rocks/listen/athensnoise.rocks/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "34dab7be",
+    "name": "Classic Radio Greece",
+    "url": "https://streaming.brol.tech/rtfmlounge",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fe0a37de",
+    "name": "Radio Art - Love Songs",
+    "url": "https://live.radioart.com/fLove_songs.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "23e6b5d7",
+    "name": "Gavdos 88.8",
+    "url": "https://sc2.streamwithq.com:2000/stream/GavdosFm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ac1802f3",
+    "name": "Radio Art - Folk and Soft Rock(2)",
+    "url": "https://air.radioart.com/fFolk_and_soft_rock.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6295a46b",
+    "name": "Melodies Web Radio",
+    "url": "https://i.streams.ovh/sc/melodies/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "52cce7cf",
+    "name": "Halkidiki 98.8",
+    "url": "https://ice.greekstream.net/988",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7f6fe9c4",
+    "name": "Radio 98.4",
+    "url": "https://cast4.my-control-panel.com/proxy/anastas2/stream",
+    "tags": []
+  },
+  {
+    "id": "ed242294",
+    "name": "1ο Ερασιτεχνικό Πρόγραμμα Γαργαλιάνων 88.8",
+    "url": "https://i2.streams.ovh:2200/ssl/trelostwnfm?mp=/stream&1671747517218",
+    "tags": []
+  },
+  {
+    "id": "84c40e1a",
+    "name": "Rock Melodic Radio",
+    "url": "https://i4.streams.ovh:2200/ssl/rockmelo?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "615d20cc",
+    "name": "Lemon 88.8",
+    "url": "https://cast.streams.ovh/sc/radio888/stream/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7cebaf28",
+    "name": "Radio Art - Romantic Latin",
+    "url": "https://live.radioart.com/fRomantic_latin.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d827e034",
+    "name": "Radio Art - Stress Relief",
+    "url": "https://air-tunein.radioart.com/fStress_relief.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cffb08c9",
+    "name": "Flash 99.4",
+    "url": "https://webradio.northbridge.gr/proxy/flash994/source",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "b969c33b",
+    "name": "Sfera 98.7",
+    "url": "https://i5.streams.ovh:2200/ssl/web100?mp=/stream&1603386012927",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2c323013",
+    "name": "101 Rock Lamia",
+    "url": "https://sh.onweb.gr:9110/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b2ed1a75",
+    "name": "12 Gods Cafe ",
+    "url": "https://s4.myradiostream.com/:14374/;?type=http&nocache=1695638039?0.8040765476688225",
+    "tags": []
+  },
+  {
+    "id": "08795456",
+    "name": "Radio Art - Smooth Vocal",
+    "url": "https://live.radioart.com/fSmooth_vocal.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "64266618",
+    "name": "Radio Art - Greek Art Mood Up",
+    "url": "https://air.radioart.com/fGreek_art_contemporary.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dd5c8616",
+    "name": "Radio Art - Reiki",
+    "url": "https://air.radioart.com/fReiki.mp3",
+    "tags": []
+  },
+  {
+    "id": "f9d6758f",
+    "name": "Radio Art - Dreamscapes",
+    "url": "https://air.radioart.com/fDreamscapes.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "25f069d8",
+    "name": "ERT Orestiada 108.0",
+    "url": "https://radiostreaming.ert.gr/ert-orestiada",
+    "tags": []
+  },
+  {
+    "id": "600239ec",
+    "name": "Jadore",
+    "url": "https://i6.streams.ovh:2200/ssl/jadore?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7cba6670",
+    "name": "Radio Art - Swing",
+    "url": "https://air.radioart.com/fSwing.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c4abffb8",
+    "name": "NRG 91",
+    "url": "https://sh.onweb.gr/9100/stream/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "29d6df4e",
+    "name": "Opa",
+    "url": "https://eu3.fastcast4u.com/proxy/opar?mp=/1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e49b4d38",
+    "name": "Derti 107,7 Heraklion Crete",
+    "url": "https://i5.streams.ovh:2200/sc/web101/stream",
+    "tags": []
+  },
+  {
+    "id": "351e5095",
+    "name": "Radio Art - Pyotr Tchaikovsky",
+    "url": "https://air.radioart.com/fPyotr_tchaikovsky.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7caf46b0",
+    "name": "Skylos 69",
+    "url": "https://i6.streams.ovh/ic/skylos69/stream",
+    "tags": []
+  },
+  {
+    "id": "deaa40bd",
+    "name": "ERT Notio Aigaio 92.7 93.1 98.4",
+    "url": "https://radiostreaming.ert.gr/ert-rodos",
+    "tags": []
+  },
+  {
+    "id": "cb1c2a82",
+    "name": "Houseradio",
+    "url": "https://i9.streams.ovh/sc/contactradio/stream",
+    "tags": []
+  },
+  {
+    "id": "a3caeee5",
+    "name": "Ellinikos 90.3",
+    "url": "https://live.sugarweb.gr/903.aac",
+    "tags": []
+  },
+  {
+    "id": "c6934257",
+    "name": "Radio Art - Stress Relief",
+    "url": "https://live.radioart.com/fStress_relief.mp3",
+    "tags": []
+  },
+  {
+    "id": "2b7e0feb",
+    "name": "Radio Art - Zen",
+    "url": "https://air.radioart.com/fZen.mp3",
+    "tags": []
+  },
+  {
+    "id": "51e30f94",
+    "name": "Radio Music Factory",
+    "url": "https://i4.streams.ovh/sc/musicfactory/stream/;type=mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "382b3eb3",
+    "name": "Radio Art - Fado",
+    "url": "https://live.radioart.com/fFado.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8b32d587",
+    "name": "Radio Art - For Study(2)",
+    "url": "https://air.radioart.com/fFor_study.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b050d1ff",
+    "name": "Galaxy Music The Blues Rock",
+    "url": "https://stream-178.zeno.fm/g261akwwnuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMjYxYWt3d251aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX2JCR05iQ3BTWlNFR25qQjlTaHB2dyIsImlhdCI6MTc2MDg3MDgwMiwiZXhwIjoxNzYwODcwODYyfQ.t-hwuvOl4bx9M_IESFeTRDqQC_-AKWmKhWP2nGna5j4",
+    "tags": []
+  },
+  {
+    "id": "db012879",
+    "name": "Coffee Web Radio",
+    "url": "https://solid9.streamupsolutions.com/proxy/teqgebwz/stream",
+    "tags": []
+  },
+  {
+    "id": "65a51f54",
+    "name": "Zoo 90.8",
+    "url": "https://netradio.live24.gr/zoo908thess",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ef83b22f",
+    "name": "BluesWave Radio",
+    "url": "https://blueswave.radio:8100/icyblues",
+    "tags": []
+  },
+  {
+    "id": "5f7a754f",
+    "name": "ERT Irakleio 97.5 105.6",
+    "url": "https://radiostreaming.ert.gr/ert-heraklio",
+    "tags": []
+  },
+  {
+    "id": "a5678646",
+    "name": "Πανόραμα 98.4",
+    "url": "https://netradio.live24.gr/panorama984",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6074eee9",
+    "name": "Radio Art - Solo Instruments",
+    "url": "https://air.radioart.com/fSolo_instruments.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "72fd5141",
+    "name": "Radio Art - Harpsichord",
+    "url": "https://air.radioart.com/fHarpsichord.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05fc6cfa",
+    "name": "RadioKyklos - Greek Hiphop",
+    "url": "https://azuracast.streams.ovh/listen/radiokyklos/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9ad4f7f1",
+    "name": "Radio Art - Music for Kids",
+    "url": "https://air.radioart.com/fMusic_for_kids.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "af9c88cd",
+    "name": "Radio Art - Workout Classical",
+    "url": "https://air.radioart.com/fClassical.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5c66e07d",
+    "name": "Manos 103.4",
+    "url": "https://i5.streams.ovh:14123/live",
+    "tags": []
+  },
+  {
+    "id": "5624abd9",
+    "name": "Λάμψη",
+    "url": "https://i6.streams.ovh/sc/radiolampsi/stream",
+    "tags": []
+  },
+  {
+    "id": "c716674f",
+    "name": "In Kefalonia 89.2",
+    "url": "https://sp3.streams.ovh/8096/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "71a02340",
+    "name": "Radio Art - Oldies",
+    "url": "https://live.radioart.com/fOldies.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f5bc2381",
+    "name": "Kiss 98 ",
+    "url": "https://s6.onweb.gr:7029/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3d489d6c",
+    "name": "Free Central Greece",
+    "url": "https://sh.onweb.gr:8634/stream?type=http&nocache=45",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9fc7c3e3",
+    "name": "Music Corner",
+    "url": "https://stream1.468.gr/8010/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1ba4ae6f",
+    "name": "Radio Art - Chamber Works",
+    "url": "https://air.radioart.com/fChamber_works.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f8d2f6e9",
+    "name": "Radio Art - Workout Grooves",
+    "url": "https://air.radioart.com/fUp_tempo_grooves.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5ee42b2e",
+    "name": "Radio Oi",
+    "url": "https://eu4.fastcast4u.com/proxy/nikoud00?mp=/1",
+    "tags": []
+  },
+  {
+    "id": "c09842bf",
+    "name": "Galaxy Music Chillout & Lounge",
+    "url": "https://stream-179.zeno.fm/kn8byvtb6uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrbjhieXZ0YjZ1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVkZ3aFdMbG5RVHU3d2M2b2hQUGM4USIsImlhdCI6MTc2MDg2MzcxMiwiZXhwIjoxNzYwODYzNzcyfQ.ij5Hzoxjspx86z_FlKy4tM2KCawmdV1ERKs_jKzBpCo",
+    "tags": []
+  },
+  {
+    "id": "2ba9b9f1",
+    "name": "Derti 90.5",
+    "url": "https://sh.onweb.gr/9050/stream",
+    "tags": []
+  },
+  {
+    "id": "5e1d40ce",
+    "name": "ERT Chania 100.6 104.0",
+    "url": "https://radiostreaming.ert.gr/ert-chania",
+    "tags": []
+  },
+  {
+    "id": "ef8d6c59",
+    "name": "Radio Art - Country",
+    "url": "https://air.radioart.com/fCountry.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "97ff7295",
+    "name": "Radio Art - Maria Callas",
+    "url": "https://live.radioart.com/fMaria_callas.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5fd7465f",
+    "name": "Fancy Trance",
+    "url": "https://stream-157.zeno.fm/ygh3m8m7n48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5Z2gzbThtN240OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWlrQTVFN25TQnkyZmVoZ09JS1h3ZyIsImlhdCI6MTc2MDg1MzM0OCwiZXhwIjoxNzYwODUzNDA4fQ.HqRnqEY7NU7WV5kahibowXwaX6KAxvYU8VxZlpqOlL0&acu-uid=727435602967&triton-uid=cookie%253A83ca5b14-582e-4c12-a5ab-255cdb39e",
+    "tags": []
+  },
+  {
+    "id": "2226d824",
+    "name": "Panikos",
+    "url": "https://toradio.cc:8010/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d5635758",
+    "name": "Smooth Radio Thessaloniki",
+    "url": "https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c4eb4c52",
+    "name": "Hit Ellinikos",
+    "url": "https://solid9.streamupsolutions.com/proxy/zvbgdllc?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5a83a143",
+    "name": "SKGLOBE.NET | POWERSHOTS!",
+    "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/8deb2a7e-148f-400b-b5e3-b8c3f9431915",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "81d4788a",
+    "name": "Radio Gold 2",
+    "url": "https://radiogold.live24.gr/radiogoldies",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5300c32a",
+    "name": "Athens Jazz",
+    "url": "https://music.wixstatic.com/mp3/6aa018_e43fa27d27c7437fb9306ff8dbb193c9.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cf8ea756",
+    "name": "902.gr",
+    "url": "https://icecast.902.gr:8001/904",
+    "tags": []
+  },
+  {
+    "id": "d465c024",
+    "name": "movement.radio 2",
+    "url": "https://movementathens2.out.airtime.pro/movementathens2_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e572b5b6",
+    "name": "Radio Art - Aura",
+    "url": "https://air-tunein.radioart.com/fAura.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1cc4be2a",
+    "name": "Merakia",
+    "url": "https://stream-177.zeno.fm/r4k1wdsshkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyNGsxd2Rzc2hraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVVpCVGJfZU5SbnFqUlNheEJucWlnZyIsImlhdCI6MTc2MDg1NzcwMiwiZXhwIjoxNzYwODU3NzYyfQ.jbGkgfl4eCaoYhD7vm-GVirVIC4rKfLpkQMjZHr-oIo&acu-uid=727435602967&triton-uid=cookie%3A83ca5b14-582e-4c12-a5ab-255cdb39e2cb",
+    "tags": []
+  },
+  {
+    "id": "59474985",
+    "name": "Radio Art - Aromatherapy",
+    "url": "https://air.radioart.com/fAromatherapy.mp3",
+    "tags": []
+  },
+  {
+    "id": "73dd8e64",
+    "name": "Radio Art - Ethnic",
+    "url": "https://live.radioart.com/fEthnic.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "be8dc6a5",
+    "name": "Galaxy Music Greek Mix",
+    "url": "https://stream-175.zeno.fm/ahwwv9myuxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhaHd3djlteXV4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGUtMVVMOXZRWktocFExdVdaTExoQSIsImlhdCI6MTc2MDg1MjMzNywiZXhwIjoxNzYwODUyMzk3fQ.AIrhB098y76O60m594ne6aJy11N4CdXytX2YnYqFZ60",
+    "tags": []
+  },
+  {
+    "id": "2dc0685c",
+    "name": "Galaxy Music Soft Acoustic Music",
+    "url": "https://stream-179.zeno.fm/6s35tuptxc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2czM1dHVwdHhjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWm1XeWRtcl9SYnVId3J4SVFXZVJpdyIsImlhdCI6MTc2MDg0NTI1OSwiZXhwIjoxNzYwODQ1MzE5fQ.vrHKquOPoAYzCY0tvW8ihGfHxrxq2F1N-OkNP0vFCGU",
+    "tags": []
+  },
+  {
+    "id": "49ea91d4",
+    "name": "Status 107.7",
+    "url": "https://loki.mental-media.gr/proxy/statusf1?mp=/stream:8000/;stream/1",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "4094f489",
+    "name": "Galaxy Music The 80's Channel",
+    "url": "https://stream-175.zeno.fm/af9c5urm9rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhZjljNXVybTlyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTnc4dGdBVE5TbGFDelMyRHNUVDItUSIsImlhdCI6MTc2MDg1NTc1MSwiZXhwIjoxNzYwODU1ODExfQ.PwjX1_2pmk2XZ7jhNHet7FQvD8oPMe82PM_gWynhLxE",
+    "tags": []
+  },
+  {
+    "id": "a8028c2c",
+    "name": "ERT Trito Maestro",
+    "url": "https://radiostreaming.ert.gr/ert-trito-maestro",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "803af386",
+    "name": "Disco 101.1",
+    "url": "https://stream-177.zeno.fm/8uhaz4x25bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4dWhhejR4MjViaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRUZjX2FMWDBUY1NjR0h0RzgtLU1iQSIsImlhdCI6MTc2MDg1NjczMywiZXhwIjoxNzYwODU2NzkzfQ.GQIZxHBz_VuMvi1d3GEfGBrggzy1lRdsxMzAEcQC55U",
+    "tags": []
+  },
+  {
+    "id": "75288a0f",
+    "name": "Bottle O' Groove",
+    "url": "https://n13.radiojar.com/n8buhxbsk9duv?rj-ttl=5&rj-tok=AAABmfrLNpcA4tjPHz0VF6KnYA",
+    "tags": []
+  },
+  {
+    "id": "45f576ad",
+    "name": "Laiko 107",
+    "url": "https://stream-158.zeno.fm/58uqx820dnzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1OHVxeDgyMGRuenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTks3VUdzMDNUOXlZSmV1dEhrSXhGUSIsImlhdCI6MTc2MDg1NTQxOCwiZXhwIjoxNzYwODU1NDc4fQ.Omx9TT8o1jeZbLsJIrO1x2XhDVJrBT8DGJ2RYLUKBXM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fce7cfb5",
+    "name": "Kalamaria FM 101.7 - Thessaloniki - Greece",
+    "url": "https://ice.greekstream.net/focusfm_128",
+    "tags": []
+  },
+  {
+    "id": "f0741be7",
+    "name": "X Radio 91.3",
+    "url": "https://live.sugarweb.gr/913.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5a9f83f3",
+    "name": "Live 101 FM",
+    "url": "https://azuralive.streams.ovh/radio/8190/radio.mp3?1615372278",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e0f1920f",
+    "name": "movement.radio 1",
+    "url": "https://movementathens.out.airtime.pro/movementathens_a",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "30f6191d",
+    "name": "Radio Art - Paris",
+    "url": "https://live.radioart.com/fParis.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f5fa700d",
+    "name": "Radio Galaxy 99",
+    "url": "https://solid1.streamupsolutions.com/proxy/tfcgioyq?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c42a7817",
+    "name": "Radio Art - Norteña",
+    "url": "https://live.radioart.com/fNortena.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "19c125b8",
+    "name": "Radio Art - Positivity",
+    "url": "https://air.radioart.com/fPositivity.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bcf1da60",
+    "name": "Vasilis Cfu oldies 80s 90s",
+    "url": "https://stream-175.zeno.fm/ycn3vfnpzd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5Y24zdmZucHpkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidmoyNXZKcGZReFNmRV9NOWphNGZBQSIsImlhdCI6MTc2MDg0OTQ2MCwiZXhwIjoxNzYwODQ5NTIwfQ.z31DVuGS7ioMmgrKyQPAP5i263R5_spaqCqqTU2Zqyc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7706c4c4",
+    "name": "Ακούστε το Χριστιανισμό 104,3 FM",
+    "url": "https://eu1.fastcast4u.com/proxy/afreeapo?mp=/1",
+    "tags": []
+  }
+]

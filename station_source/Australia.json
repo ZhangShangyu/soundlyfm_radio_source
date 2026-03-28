@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "3fc815f0",
+    "name": "ABC NewsRadio MP3",
+    "url": "https://abc.streamguys1.com/live/newsradio/icecast.audio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "bce6e8a2",
+    "name": "ABC Radio National AAC+",
+    "url": "https://abc.streamguys1.com/live/rnnsw/icecast.audio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6b5ba570",
+    "name": "ABC Country (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/CTRW/mp3/;*.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05ba2134",
+    "name": "The Prog Rock Machine",
+    "url": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0ef1fecf",
+    "name": "ABC Jazz (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/JAZW/aac/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b3eb415c",
+    "name": "Gold 104.3",
+    "url": "https://28863.live.streamtheworld.com:443/ARN_GOLD1043AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "ccdb1cd9",
+    "name": "ABC Local Radio 774 Melbourne (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/3LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "050d5d3b",
+    "name": "ABC Grandstand (AAC)",
+    "url": "https://live-radio02.mediahubaustralia.com/GSDW/aac/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4a3d8695",
+    "name": "ABC Classic FM (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "afdd8f40",
+    "name": "ABC Jazz (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/JAZW/mp3/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "06489c4b",
+    "name": "ABC Local Radio 702 Sydney (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/2LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "47aab92e",
+    "name": "ABC Country (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/CTRW/aac/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "443bbce9",
+    "name": "ABC Radio National MP3",
+    "url": "https://live-radio01.mediahubaustralia.com/2RNW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0bff7dfb",
+    "name": "Radio Italian Music",
+    "url": "https://streaming.radiostreamlive.com/radioitalianmusic_devices",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bf873dcd",
+    "name": "SBS Chill",
+    "url": "https://sbs-ice.streamguys1.com/sbschill",
+    "tags": []
+  },
+  {
+    "id": "d82147ac",
+    "name": "Fresh 92.7",
+    "url": "https://live.fresh927.com.au/freshaac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "761c9a9f",
+    "name": "DiscoRhythm",
+    "url": "https://c3.radioboss.fm:8018/stream",
+    "tags": []
+  },
+  {
+    "id": "2665dfa7",
+    "name": "ABC Triple J (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv",
+    "tags": []
+  },
+  {
+    "id": "1349f30f",
+    "name": "ABC Local Radio 774 Melbourne (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/3LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b36b3b65",
+    "name": "ABC Classic 2 Stream (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/FM2W/aac/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "810cef98",
+    "name": "ABC Sport",
+    "url": "https://live-radio01.mediahubaustralia.com/GSDW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "03302918",
+    "name": "ABC Classic FM (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/2FMW/aac/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d5656efc",
+    "name": "ABC Local Radio 612 Brisbane (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/4LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b333e13f",
+    "name": "Triple J",
+    "url": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "3c882bbc",
+    "name": "LiSTNR - 80s New Wave",
+    "url": "https://wz7liw.scahw.com.au/live/780snewwave_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d27ccb0c",
+    "name": "Gold 104.3",
+    "url": "https://28803.live.streamtheworld.com:443/ARN_GOLD1043AAC/HLS/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "808397a1",
+    "name": "ABC Local Radio 720 Perth (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/6LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d4528c60",
+    "name": "KIIS 106.5",
+    "url": "https://28793.live.streamtheworld.com:443/ARN_KIIS1065AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "698c9a62",
+    "name": "Free FM Rock Austral",
+    "url": "https://freefmrock.radioca.st/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "414f1add",
+    "name": "ABC Local Radio 91.7 Gold Coast, QLD (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/4GLDW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5776b68a",
+    "name": "774 ABC Melbourne",
+    "url": "https://live-radio01.mediahubaustralia.com/3LRW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4c96fdd0",
+    "name": "ABC Radio Australia (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/RAEW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2bbe6187",
+    "name": "ABC Grandstand (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/GSDW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8b9c3399",
+    "name": "Triple M Sydney",
+    "url": "https://legacy.scahw.com.au/2mmm_128",
+    "tags": []
+  },
+  {
+    "id": "8a080eae",
+    "name": " Sky News Australia Radio",
+    "url": "https://28153.live.streamtheworld.com:443/NOVA_SKYNEWSAAC.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6c68880e",
+    "name": "80s 90s Super Pop Hits",
+    "url": "https://s4.myradiostream.com:7344/listen.mp3?",
+    "tags": []
+  },
+  {
+    "id": "18f170fe",
+    "name": "KIIS 101.1",
+    "url": "https://28863.live.streamtheworld.com:443/ARN_KIIS1011AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "83d5c1c3",
+    "name": "ABC Local Radio 91.7 Gold Coast, QLD (MP3)",
+    "url": "https://abc.streamguys1.com/live/localgoldcoast/icecast.audio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c005b923",
+    "name": "Triple M Melbourne",
+    "url": "https://wz3drp.scahw.com.au/live/3mmm_32.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0ca6546c",
+    "name": "ABC Classic 2 Stream (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/FM2W/mp3/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "661a50ff",
+    "name": "Nova 91.9",
+    "url": "https://28853.live.streamtheworld.com:443/NOVA_919_AAC48.aac",
+    "tags": []
+  },
+  {
+    "id": "53974fd4",
+    "name": "Triple M 90s",
+    "url": "https://legacy.scahw.com.au/290s_32",
+    "tags": []
+  },
+  {
+    "id": "d801b717",
+    "name": "3RRR \"Triple R\" 102.7 FM Melbourne, VIC (low bitrate live stream)",
+    "url": "https://realtime.rrr.org.au/p1l",
+    "tags": []
+  },
+  {
+    "id": "f9ccf2b3",
+    "name": "ABC Triple J Queensland 20220701",
+    "url": "https://streaming.abc-cdn.net.au/audio/hls/triplejqld.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "130d0755",
+    "name": "SBS PopAsia",
+    "url": "https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7a9c9feb",
+    "name": "ABC Local Radio 702 Sydney (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/2LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9cd0fd0c",
+    "name": "Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland",
+    "url": "https://radio12.shoutcast.net.au:8020/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "9055d084",
+    "name": "ABC Local Radio 891 Adelaide (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/5LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "99d993a0",
+    "name": "ABC Local Radio 1233 Newcastle, NSW (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/2NEWW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "eafd2f1f",
+    "name": "2FBI \"FBi Radio\" 94.5 FM Sydney, NSW",
+    "url": "https://streamer.fbiradio.com/stream",
+    "tags": []
+  },
+  {
+    "id": "043bf3d3",
+    "name": "Central Coast Radio.com",
+    "url": "https://s4.radio.co/scf2280c01/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1020ddde",
+    "name": "=KECO=ROCK BALLADS",
+    "url": "https://online.radioroks.ua/RadioROKS_Ballads_HD",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2e1799c1",
+    "name": "Triple M Classic Rock",
+    "url": "https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "71e9b015",
+    "name": "Triple-M 102.3MHz FM Townsville QLD Rock Sports and Comedy 20220701",
+    "url": "https://wz4liw.scahw.com.au/live/4too_128.stream/playlist.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "6f788c5f",
+    "name": "ABC A-League Live (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/IT2W/mp3/;",
+    "tags": []
+  },
+  {
+    "id": "5581624f",
+    "name": "ABC Double J (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/DJDW/mp3/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b75d775a",
+    "name": "2Day FM",
+    "url": "https://legacy.scahw.com.au/2day_32",
+    "tags": []
+  },
+  {
+    "id": "b7473654",
+    "name": "JOY 94.9 Out Loud Proud",
+    "url": "https://audio.joy.org.au/proxy/joy949/live",
+    "tags": []
+  },
+  {
+    "id": "62dc4bf9",
+    "name": "ABC Radio Australia (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/RAEW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "96edec61",
+    "name": "The Light Worship",
+    "url": "https://stream.thelight.com.au:8160/;/;stream/1",
+    "tags": []
+  },
+  {
+    "id": "29139484",
+    "name": "Mix 102.3",
+    "url": "https://14533.live.streamtheworld.com:443/ARN_MIX1023AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "39fd0456",
+    "name": "Cruise 1323",
+    "url": "https://23153.live.streamtheworld.com:443/ARN_CRUISE1323AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "c6e212a7",
+    "name": "2AC澳洲华人电台",
+    "url": "https://s1.voscast.com:10557/stream",
+    "tags": []
+  },
+  {
+    "id": "8f89a0fa",
+    "name": "ABC Local Radio 612 Brisbane (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/4LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c2b216ca",
+    "name": "LiSTNR - Drum & Bass",
+    "url": "https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b17b1a50",
+    "name": "97.3fm Brisbane",
+    "url": "https://28793.live.streamtheworld.com:443/ARN_973FMAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "13ed9d22",
+    "name": "ABC Triple J Unearthed  (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/UNEW/mp3/",
+    "tags": []
+  },
+  {
+    "id": "bdc9a826",
+    "name": "Oldskool 90s Hits",
+    "url": "https://wz2liw.scahw.com.au/live/2oldskool_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "18e300ae",
+    "name": "70s Classics - Sydney (MP3)",
+    "url": "https://stream-177.zeno.fm/glsntnn7et8vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnbHNudG5uN2V0OHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoienkycWZSWWlTOWUyWlRYSUI3ZkFtZyIsImlhdCI6MTc2MDg2ODAyOCwiZXhwIjoxNzYwODY4MDg4fQ.qT2ek6biClx2JVTpKcXxRNIApt_-T4ZvqqImqs1hmsc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f7c619b",
+    "name": "ABC Local Radio 720 Perth, WA (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/6LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f34fd926",
+    "name": "Triple M 2000s",
+    "url": "https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "07655c06",
+    "name": " B105 105.3 Brisbane",
+    "url": "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3b0a3bc5",
+    "name": "2ME Radio Arabic",
+    "url": "https://streaming.2me.com.au/2me",
+    "tags": []
+  },
+  {
+    "id": "bedb20e7",
+    "name": "Retro 80's - 80s Remix (MP3)",
+    "url": "https://stream-177.zeno.fm/2ptupyw61fxvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycHR1cHl3NjFmeHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieE1mMTJOSmtUTmFfNEY1ejNob0VVUSIsImlhdCI6MTc2MDgyODE3OSwiZXhwIjoxNzYwODI4MjM5fQ.fnWh3nH_g9mh10A0JlpgxJ4nNKPcNwmOoBJN7mw_25k",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ecb3d15c",
+    "name": "ABC Local Radio 891 Adelaide (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/5LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "472d77ee",
+    "name": "ABC New England North West (AAC)",
+    "url": "https://live-radio03.mediahubaustralia.com/2TAMW/aac/",
+    "tags": []
+  },
+  {
+    "id": "039c0327",
+    "name": "1170 SEN Sydney",
+    "url": "https://d1na8ty7nt684b.cloudfront.net/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ec0b5428",
+    "name": "2UE - Sydney - 954 AM",
+    "url": "https://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "10d500fb",
+    "name": "101.9 The Fox Melbourne",
+    "url": "https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "8124f50e",
+    "name": "2MBS Fine Music Sydney",
+    "url": "https://fmfm.org.au:8001/2MBSFineMusicSydney.MP3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e8497e10",
+    "name": "3RRR Melbourne",
+    "url": "https://realtime.rrr.org.au/p1h",
+    "tags": []
+  },
+  {
+    "id": "878b3439",
+    "name": "Andrew Haug Metal  Radio",
+    "url": "https://streamer.radio.co/s6a349b3a2/listen",
+    "tags": []
+  },
+  {
+    "id": "8d708b25",
+    "name": "2SM Sydney 1269AM",
+    "url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "dd1de734",
+    "name": "LiSTNR - Yacht Rock",
+    "url": "https://wz7liw.scahw.com.au/live/7yachtrock_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "816e9da4",
+    "name": "ABC Local Radio 747 Southern Queensland, Toowoomba (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/4TOOW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b86300c6",
+    "name": "LiSTNR - 60s Hits",
+    "url": "https://wz2liw.scahw.com.au/live/760shits_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "19246a2c",
+    "name": "澳大利亚SBS Radio 1",
+    "url": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
+    "tags": []
+  },
+  {
+    "id": "4085c09f",
+    "name": "hit104.7 Canberra",
+    "url": "https://28893.live.streamtheworld.com:443/ARN_1047HITAAC/HLS/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a37c4b54",
+    "name": "Nova 96.9",
+    "url": "https://28863.live.streamtheworld.com:443/NOVA_969_AAC48.aac",
+    "tags": []
+  },
+  {
+    "id": "9e97eb39",
+    "name": "Triple M Brisbane",
+    "url": "https://wz4liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8?dist=listnr-web&aw_0_1st.playerId=LiSTNR_Web_native&cb=641bc940-6513-11ed-b730-9fc45eec0ec1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "02cb9a45",
+    "name": "Triple M 80s",
+    "url": "https://legacy.scahw.com.au/280s_32",
+    "tags": []
+  },
+  {
+    "id": "888fdaf1",
+    "name": "ABC Triple J Unearthed (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/UNEW/aac/",
+    "tags": []
+  },
+  {
+    "id": "91651a12",
+    "name": "ABC Local Radio 936 Hobart AAC",
+    "url": "https://live-radio01.mediahubaustralia.com/7LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "71ad0bba",
+    "name": "ABC Extra (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/XTDW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4a446f9c",
+    "name": "Sawt Sydney كل الفرق",
+    "url": "https://usa10.fastcast4u.com/nada22",
+    "tags": []
+  },
+  {
+    "id": "c1e467d5",
+    "name": "WSFM 101.7",
+    "url": "https://28903.live.streamtheworld.com:443/ARN_WSFMAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "e9d6bbe3",
+    "name": "3ABN Australia Radio",
+    "url": "https://stream.3abnaustralia.org.au:8443/stream",
+    "tags": []
+  },
+  {
+    "id": "8d11f4e8",
+    "name": "Indian link radio",
+    "url": "https://indianlink1.radioca.st/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "489dde67",
+    "name": "ABC Local Radio 540 Western Queensland, Longreach, QLD  (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/4LONW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8347d124",
+    "name": "triple j | aac | NSW, VIC, ACT, TAS",
+    "url": "https://live-radio01.mediahubaustralia.com/2TJW/aac/",
+    "tags": []
+  },
+  {
+    "id": "605d89f8",
+    "name": "ABC Local Radio 666 Canberra, ACT (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/1LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "517f3d85",
+    "name": "107.1 SAFM Adelaide",
+    "url": "https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "38dae26d",
+    "name": "ABC Local Radio 105.7 Darwin, NT (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/8LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "731cc2dd",
+    "name": "Triple J (QLD)",
+    "url": "https://live-radio01.mediahubaustralia.com/4TJW/mp3/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2c15a6ed",
+    "name": "Systrum Sistum - SSR2",
+    "url": "https://systrum.net:8443/SSR2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7c0bb8dc",
+    "name": "LiSTNR - Aussie Pub Rock",
+    "url": "https://wz7liw.scahw.com.au/live/7mushroom50_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6371c1ff",
+    "name": "Buddha",
+    "url": "https://legacy.scahw.com.au/2buddha_32",
+    "tags": []
+  },
+  {
+    "id": "100c0529",
+    "name": "ABC Local Radio 666 Canberra (AAC)",
+    "url": "https://live-radio01.mediahubaustralia.com/1LRW/aac/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b9a67a52",
+    "name": "RTRFM",
+    "url": "https://live.rtrfm.com.au/stream1",
+    "tags": []
+  },
+  {
+    "id": "2b4bba55",
+    "name": "Easy 80s Hits",
+    "url": "https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e77365d5",
+    "name": "Portuguese Radio Australia",
+    "url": "https://s2.radio.co/sdff54b89f/listen",
+    "tags": []
+  },
+  {
+    "id": "e611cadc",
+    "name": "Fox 101.9",
+    "url": "https://legacy.scahw.com.au/3fox_128",
+    "tags": []
+  },
+  {
+    "id": "231743d4",
+    "name": "Radio Blues Djerdan",
+    "url": "https://stream-177.zeno.fm/vxr78nb51k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eHI3OG5iNTFrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYUtwa2hzR1dSQnlDUFhUTDFYOGtIZyIsImlhdCI6MTc2MDg2NTI4MSwiZXhwIjoxNzYwODY1MzQxfQ.7-mVGECNFd-oKdXpcnt9tccMdlFK0eZax4X5NpPDNVg",
+    "tags": []
+  },
+  {
+    "id": "a33775e5",
+    "name": "70's To 90's Hits - Melbourne (MP3)",
+    "url": "https://stream-177.zeno.fm/9y1n4cn8dd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5eTFuNGNuOGRkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic1YxZlAyOVZTTUN3SnNGMmdsWjVpZyIsImlhdCI6MTc2MDg2MTE1MSwiZXhwIjoxNzYwODYxMjExfQ.9xF2dIP2UqBZmU8KMjoxDTGvyyn6VnLrLBMcK7nY120",
+    "tags": []
+  },
+  {
+    "id": "a71b6cf6",
+    "name": "ABC Local Radio 936 Hobart  MP3",
+    "url": "https://live-radio01.mediahubaustralia.com/7LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5f18911b",
+    "name": "LiSTNR - Girl Power",
+    "url": "https://wz7liw.scahw.com.au/live/7girlpower_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "752f3193",
+    "name": "Biloela 4BRZ 89.7MHz FM The Breeze Central Queensland",
+    "url": "https://s8.yesstreaming.net:17065/BrzCNQ",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "4a567cb7",
+    "name": "SBS PopDesi",
+    "url": "https://sbs-ice.streamguys1.com/sbs-popdesi",
+    "tags": []
+  },
+  {
+    "id": "4bc1fc93",
+    "name": "2UE - Sydney - 954 AM",
+    "url": "https://worldradio.online/proxy/?q=http://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e9b3a5b6",
+    "name": "Gospel Plus (MP3)",
+    "url": "https://stream-162.zeno.fm/8m3ue57r1uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4bTN1ZTU3cjF1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibGJ2TzdjZEFSUmVGU1I4Wk5NdG9tZyIsImlhdCI6MTc2MDgyODA5NSwiZXhwIjoxNzYwODI4MTU1fQ.4exTy47ZX19ZTBExAWNhwklvkwjSXDvzRJV0595Njm4",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "03bc820d",
+    "name": "4K1G 107.1FM TATSICM Indigenous Community Radio Townsville",
+    "url": "https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "f04968c9",
+    "name": "5MBS 99.9FM",
+    "url": "https://stream02.sigile.net/5mbs-128-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "42a2a513",
+    "name": "ABC Extra (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/XTDW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e148c12c",
+    "name": "ABC Local Radio 105.7 Darwin, NT (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/8LRW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "48036714",
+    "name": "Triple M Fraser Coast",
+    "url": "https://wz4liw.scahw.com.au/live/4mbb_128.stream/playlist.m3u8?listeningSessionID=638606f8054f91d9_1332470_ClkSurzq_MTAuNzAuMS4xOA!!_00000002Ig9&downloadSessionID=0&dist=listnr-web&aw_0_1st.playerId=LiSTNR_Web_native&cb=b864b890-7c06-11ed-858b-43d1749a55ef&aw_0_1st.playerId=LiSTNR_Web_native&cb=e5f39fb0-7c06-11ed-858b-43d1749a55ef",
+    "tags": []
+  },
+  {
+    "id": "9e182006",
+    "name": "Wave FM 91.7",
+    "url": "https://east.coastdev.net/6mm-mp3",
+    "tags": []
+  },
+  {
+    "id": "20fde951",
+    "name": "LiSTNR - Rock 'n' Road Trip",
+    "url": "https://wz7liw.scahw.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c340a558",
+    "name": "sa rock radio",
+    "url": "https://sarock.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "575f1cf4",
+    "name": "2DayFM 104.1 Sydney",
+    "url": "https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "fbf5446c",
+    "name": "Systrum Sistum - SSR1",
+    "url": "https://systrum.net:8443/SSR1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "68062108",
+    "name": "2BMS Fine Music Sydney",
+    "url": "https://fmfm.org.au:8001/finemusicdigital",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "41c27528",
+    "name": "100.9 Port Stephens FM",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/8df8102b-51bf-45fb-aac5-aa0254d6b177?t=heatwave",
+    "tags": []
+  },
+  {
+    "id": "99ea5d82",
+    "name": "Dance Hits",
+    "url": "https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6088b163",
+    "name": "ABC Radio Perth",
+    "url": "https://abc.streamguys1.com/live/localperth/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "00b21399",
+    "name": "Blender Beats",
+    "url": "https://wz2liw.scahw.com.au/live/2blenderbeats_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "58a0bfc7",
+    "name": "3AW 693  Melbourne, VIC, Australia Talk AM 693 ",
+    "url": "https://23193.live.streamtheworld.com:443/3AW.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "448a20c3",
+    "name": "4MBS Classic FM - Brisbane",
+    "url": "https://stream.4mbs.com.au/4mbsclassicfm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f58eb91",
+    "name": "ABC Local Radio 100.7  Gippsland, VIC (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/3SALE/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "ca06f2ec",
+    "name": "LiSTNR - Chill Pop Hits",
+    "url": "https://wz7liw.scahw.com.au/live/7chillpophits_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b2c4df85",
+    "name": "LiSTNR - 90s Soft Pop",
+    "url": "https://wz7liw.scahw.com.au/live/790ssoftpop_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "00bebbcc",
+    "name": "ABC Local Radio 801 Far North Queensland (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/4CRNW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "583106ee",
+    "name": "Vision Christian Radio (MP3)",
+    "url": "https://streams2.vision.org.au/vision128.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "07d50f15",
+    "name": "Alkarma TV Australia",
+    "url": "https://5b622f07944df.streamlock.net/alkarmatv.com/alkarmaau.smil/chunklist_w377932823_b1628000_slar.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e67a41a6",
+    "name": "ABC Local Radio 783 Alice Springs, NT (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/8ALIW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5bc1e999",
+    "name": "LiSTNR - 2010s",
+    "url": "https://wz7liw.scahw.com.au/live/72010s_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "4db0a52e",
+    "name": "Radio319.Rock - Newcastle (MP3 320k)",
+    "url": "https://s4.yesstreaming.net:7011//stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ca419f90",
+    "name": "double j | aac | NSW, VIC, ACT, TAS",
+    "url": "https://live-radio01.mediahubaustralia.com/DJDW/aac/",
+    "tags": []
+  },
+  {
+    "id": "39695759",
+    "name": "Rekt Network",
+    "url": "https://stream.rekt.network/rekt.ogg",
+    "tags": []
+  },
+  {
+    "id": "fa683a43",
+    "name": "ABC Newsradio",
+    "url": "https://live-radio01.mediahubaustralia.com/PBW/aac/",
+    "tags": []
+  },
+  {
+    "id": "e29af5aa",
+    "name": "ABC Local Radio 91.7 Northern Tasmania AAC",
+    "url": "https://abc.streamguys1.com/live/localnorthtas/icecast.audio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e3e1ea61",
+    "name": "90s Throwback Tracks (MP3)",
+    "url": "https://stream-179.zeno.fm/xo4hqc5s9djuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4bzRocWM1czlkanV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWmZHVjUwTjRRay1hcjdMNF85eHVIZyIsImlhdCI6MTc2MDg0OTg3NCwiZXhwIjoxNzYwODQ5OTM0fQ.RkMuFQ7HjRYLZh_hKSqnzpgWPWFqkPFiETRIntE8-9E",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0b8f8623",
+    "name": "WSFM 101.7 Sydney",
+    "url": "https://28903.live.streamtheworld.com:443/ARN_WSFMAAC/HLS/playlist.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "cd872982",
+    "name": "ASP Radio",
+    "url": "https://aspradio.au/listen/asp_radio/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f198cbfb",
+    "name": "CNN",
+    "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+    "tags": []
+  },
+  {
+    "id": "d891abcd",
+    "name": "5MBS 99.9FM (AAC 64)",
+    "url": "https://stream04.sigile.net/5mbs-64-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1a7f59e7",
+    "name": "4BU 1332 AM Classic Hits Bundaberg",
+    "url": "https://24923.live.streamtheworld.com:443/BUN_4BUAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "c4da5998",
+    "name": "RnB Fridays Radio",
+    "url": "https://wz2liw.scahw.com.au/live/2rnbfridays_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "72036129",
+    "name": "4zzz",
+    "url": "https://iheart.4zzz.org.au/4zzz",
+    "tags": []
+  },
+  {
+    "id": "05b2b14a",
+    "name": "2MFM - Sydney - 92.1 FM (MP3)",
+    "url": "https://2mfm.org.au/live",
+    "tags": []
+  },
+  {
+    "id": "7cba3aa9",
+    "name": "Nightride FM Chillsynth",
+    "url": "https://stream.nightride.fm/chillsynth.mp3",
+    "tags": []
+  },
+  {
+    "id": "1613c1f9",
+    "name": "ABC Local Radio 648 Goldfields, Kalgoorlie, WA (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/6KLGW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "68f781d0",
+    "name": "Retro FM",
+    "url": "https://cast6.asurahosting.com/proxy/retrofmp/stream?ver=663457",
+    "tags": []
+  },
+  {
+    "id": "76cbbe2b",
+    "name": "=KECO=70s ROCK ",
+    "url": "https://jfm1.hostingradio.ru:14536/rock70.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "801286b0",
+    "name": "LiSTNR - Almost Acoustic",
+    "url": "https://wz7liw.scahw.com.au/live/7almostacoustic_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "0a1374fb",
+    "name": "Triple M Newcastle",
+    "url": "https://wz2liw.scahw.com.au/live/2kko_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "adf8ff2b",
+    "name": "ABC Local Radio 91.7 Northern Tasmania - Launceston, TAS (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/7LAUW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "68d92e6b",
+    "name": "ABC Local Radio 97.3 Illawarra, NSW (MP3)",
+    "url": "https://live-radio03.mediahubaustralia.com/2WOLW/mp3/",
+    "tags": []
+  },
+  {
+    "id": "c1f3549e",
+    "name": "FSJ Radio - XRN Australia",
+    "url": "https://us01.xrn.com.au/listen/fsj/FsjSd",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ad2d43ae",
+    "name": "Lainchan Radio Main",
+    "url": "https://radio.lainchan.org/listen/lainchan_radio_main/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "c69dd08c",
+    "name": "ABC Local Radio 1233 Newcastle, NSW (MP3)",
+    "url": "https://live-radio01.mediahubaustralia.com/2NEWW/mp3/",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e90d4d37",
+    "name": "All Time Hits Radio Opera - Melbourne (MP3)",
+    "url": "https://stream-179.zeno.fm/xgplc0peqbktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4Z3BsYzBwZXFia3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZWlVcG9mZ2dROTJ3X0tHQ2s5NzJ6QSIsImlhdCI6MTc2MDg0NTM4OCwiZXhwIjoxNzYwODQ1NDQ4fQ.r0_CjqOX_WLfj6mvinJaz--ekZqqa1Dsn4FRfoa27Zk",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0aad9b37",
+    "name": "ABC Country",
+    "url": "https://live-radio01.mediahubaustralia.com/CTRW/mp3/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4dba712f",
+    "name": "Triple M Perth",
+    "url": "https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4ed9c718",
+    "name": "3CR",
+    "url": "https://28853.live.streamtheworld.com:443/3CR.mp3",
+    "tags": []
+  },
+  {
+    "id": "a86a6850",
+    "name": "ABC Sunshine Coast",
+    "url": "https://live-radio03.mediahubaustralia.com/4SUNW/aac/",
+    "tags": []
+  },
+  {
+    "id": "94e148ca",
+    "name": "hit 4ROK 107.9MHz FM Rockhampton Central Queensland",
+    "url": "https://wz4liw.scahw.com.au/live/4rok_128.stream/playlist.m3u8?",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a204af99",
+    "name": "ABC Triple J (SA)",
+    "url": "https://live-radio01.mediahubaustralia.com/5TJW/aac/",
+    "tags": []
+  },
+  {
+    "id": "3cf8181f",
+    "name": "4RPH Reading Radio ",
+    "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/2416c895-f32d-4faa-90a6-b2cf9212488d",
+    "tags": []
+  },
+  {
+    "id": "8107077e",
+    "name": "ABC Local Radio 657 Western Plains, Dubbo, NSW (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/2DUBW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "71df1061",
+    "name": "Highway 61 Internet Radio - Hobart (MP3 320k)",
+    "url": "https://usa19.fastcast4u.com:4610/;",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "94b4766f",
+    "name": "Vintage FM",
+    "url": "https://stream.radio.co/sd60e90ab1/listen",
+    "tags": []
+  },
+  {
+    "id": "72a097a9",
+    "name": "ABC Triple J (WA)",
+    "url": "https://live-radio01.mediahubaustralia.com/6TJW/aac/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "224ed262",
+    "name": "ABC Radio South West WA",
+    "url": "https://abc.streamguys1.com/live/localsouthwestwa/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "7ccc2ef9",
+    "name": "ABC Local Radio 675 Kimberley, WA (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/6BRMW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "29f1d5d1",
+    "name": "Radio Freedom (MP3)",
+    "url": "https://stream-179.zeno.fm/sbm7c72dbkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzYm03YzcyZGJraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVkJnUlp1c0tTRmlwTnBjTkowOXhjUSIsImlhdCI6MTc2MDg1NTkwOCwiZXhwIjoxNzYwODU1OTY4fQ.mDz6ar9xGxWyY6O433Rluv1PBt4SK_Bl2F2Tkyo5NCg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "53ea45e5",
+    "name": "LiSTNR - Easy Hits",
+    "url": "https://wz2liw.scahw.com.au/live/2easyhits_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ba1f1bd4",
+    "name": "ABC Local Radio 639 \"North and West\", Port Pirie, SA (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/5PIRW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8fa60fb6",
+    "name": "Triple M Adelaide",
+    "url": "https://legacy.scahw.com.au/5mmm_32",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d492d658",
+    "name": "ABC Local Radio 702 North West WA (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/6KARW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "77c6156d",
+    "name": "89.9 The Light",
+    "url": "https://stream.thelight.com.au:8130/;/;stream/1",
+    "tags": []
+  },
+  {
+    "id": "b1e8fb89",
+    "name": "It's 80s",
+    "url": "https://securestream.cuelightsmedia.com.au/listen/80s/low.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "87c056b0",
+    "name": "ABC Local Radio 97.7 Goulburn Murray, VIC (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/3WOD/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "38a3468f",
+    "name": "Mix94.5 Perth",
+    "url": "https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "0998b9e7",
+    "name": "88.5 fm",
+    "url": "https://28853.live.streamtheworld.com:443/ELLENBROOK_RADIOAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "9c8b2f4a",
+    "name": "4CA 846 AM Far North QLD Classic Hits",
+    "url": "https://18433.live.streamtheworld.com:443/CAI_4CAAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "84ea4c3e",
+    "name": "Braidwood Radio",
+    "url": "https://audio-edge-fp8o9.yyz.d.radiomast.io/ba864be6-11d1-4e13-aa74-f8e8781f64f6",
+    "tags": []
+  },
+  {
+    "id": "af9a2d9b",
+    "name": "ABC Radio Perth",
+    "url": "https://live-radio01.mediahubaustralia.com/6RNW/aac",
+    "tags": []
+  },
+  {
+    "id": "e850f439",
+    "name": "LiSTNR - Indie & Alt",
+    "url": "https://wz7liw.scahw.com.au/live/7indieandalternative_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2d03f585",
+    "name": "ABC Local Radio 684 South West WA, Busselton (MP3)",
+    "url": "https://live-radio02.mediahubaustralia.com/6BUNW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4c64ccc7",
+    "name": "hit 103.1MHz FM Townsville QLD hitNETWORK Hits and Old Skool 20220701",
+    "url": "https://wz4liw.scahw.com.au/live/4ram_128.stream/playlist.m3u8?",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "766c732a",
+    "name": "96fm",
+    "url": "https://23153.live.streamtheworld.com:443/ARN_96FMAAC/HLS/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "f1293293",
+    "name": "Mix 106.3 Canberra",
+    "url": "https://28903.live.streamtheworld.com:443/ARN_MIX1063AAC/HLS/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "708a5d4d",
+    "name": "4BH - Brisbane - 1116 AM",
+    "url": "https://wz4liw.scahw.com.au/live/4bh_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "299d271d",
+    "name": "LiSTNR - Noughties",
+    "url": "https://wz7liw.scahw.com.au/live/7noughties_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "98482ebb",
+    "name": "World Buddhist Radio",
+    "url": "https://26343.live.streamtheworld.com/SAM11AAC025.mp3",
+    "tags": []
+  },
+  {
+    "id": "ea565bde",
+    "name": "ABC Classic",
+    "url": "https://live-radio01.mediahubaustralia.com/6FMW/aac/",
+    "tags": []
+  },
+  {
+    "id": "34482fec",
+    "name": "GDR - Golden Days Radio - Glen Huntly, Melbourne - 95.7 FM (AAC)",
+    "url": "https://a2.asurahosting.com:6350/radio.aac",
+    "tags": []
+  },
+  {
+    "id": "f35ef9e3",
+    "name": "All Time Hits Radio Worship - Melbourne (MP3)",
+    "url": "https://stream-179.zeno.fm/7wt0pvuphs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3d3QwcHZ1cGhzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRFdzTFVvdHRSaHVrTEszdWM3NEpzQSIsImlhdCI6MTc2MDg0MDY0NiwiZXhwIjoxNzYwODQwNzA2fQ.wzgidTCDGJmJpzSa6R0xVvJLJ-cnKpWiNtbGHHh3vEU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "efd01290",
+    "name": "2GB 873 Sydney",
+    "url": "https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "37ba0a67",
+    "name": "Vision Christian Radio",
+    "url": "https://streams3.vision.org.au/vision128.mp3?_=1",
+    "tags": []
+  },
+  {
+    "id": "18ec6a1d",
+    "name": "ArtSound FM",
+    "url": "https://stream.artsound.fm/mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "74bdec47",
+    "name": "hit101.9 Fraser Coast",
+    "url": "https://wz4liw.scahw.com.au/live/4cee_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "906f0df6",
+    "name": "TEABBA RADIO",
+    "url": "https://firstnationsmedia.stream/8014/stream",
+    "tags": []
+  },
+  {
+    "id": "d02b8571",
+    "name": "2NURFM",
+    "url": "https://23193.live.streamtheworld.com:443/2NURFM.mp3",
+    "tags": []
+  },
+  {
+    "id": "a4f35efe",
+    "name": "ABC Riverina",
+    "url": "https://abc.streamguys1.com/live/localriverina/icecast.audio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4ada46d9",
+    "name": "rebel fm",
+    "url": "https://s8.yesstreaming.net:17099/RblLgn",
+    "tags": []
+  },
+  {
+    "id": "15e6fdd2",
+    "name": "LiSTNR - Lofi Study Beats",
+    "url": "https://wz0liw.scahw.com.au/live/lo-fi.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d6c5a389",
+    "name": "LiSTNR - Buddha",
+    "url": "https://wz2liw.scahw.com.au/live/2buddha_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "5133f8a1",
+    "name": "93.9 ",
+    "url": "https://19273.live.streamtheworld.com:443/GEE_BAY939AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "d3dd44eb",
+    "name": "104.1 Territory FM - Darwin - 104.1 FM (MP3)",
+    "url": "https://streaming.territoryfm.com:8443/TerritoryFM",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "286685f0",
+    "name": "ABC Classic (QLD)",
+    "url": "https://live-radio01.mediahubaustralia.com/4FMW/aac/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "74244219",
+    "name": "Bondi Radio (MP3)",
+    "url": "https://streaming.radio.co/sfd68ddd77/listen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "960770b6",
+    "name": "VIP Radio South Australia (MP3)",
+    "url": "https://stream-178.zeno.fm/f5h30739f0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmNWgzMDczOWYwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXZtQWRTV19UVm1valgzdVJvd01zdyIsImlhdCI6MTc2MDg2NDM5MSwiZXhwIjoxNzYwODY0NDUxfQ.FdpeBaKI15L50cWWIcSkVDee9N9iJRaFBWWTfQoS6Qk",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "38e12fe4",
+    "name": "3MP - Melbourne - 1377 AM",
+    "url": "https://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "138b52ef",
+    "name": "ABC RN VIC",
+    "url": "https://live-radio01.mediahubaustralia.com/3RNW/mp3/;",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f391bcfa",
+    "name": "MBS Light - Brisbane",
+    "url": "https://stream.4mbs.com.au/mbslight",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "af9c8f97",
+    "name": "SYN FM",
+    "url": "https://28793.live.streamtheworld.com/3SYNAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "7fc04e94",
+    "name": "NIGE!",
+    "url": "https://23163.live.streamtheworld.com:443/ARN_IHRT12AAC/HLS/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7c7fc38f",
+    "name": "LiSTNR - Guilty Pleasures",
+    "url": "https://wz7liw.scahw.com.au/live/7guiltypleasures_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c97424d3",
+    "name": "Smooth Chill - Music to chill to",
+    "url": "https://media-ssl.musicradio.com/SmoothChill",
+    "tags": []
+  },
+  {
+    "id": "8cbc4f49",
+    "name": "LiSTNR - Hard N Heavy",
+    "url": "https://wz2liw.scahw.com.au/live/2hardnheavy_128.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "34d15eec",
+    "name": "Classic Radio NSW - 1900s to 1950s (MP3)",
+    "url": "https://stream-175.zeno.fm/wbb1hramzd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3YmIxaHJhbXpkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib1lCb1p1T2dURVNBeXkwUm1FWHd1dyIsImlhdCI6MTc2MDg3MTg5OSwiZXhwIjoxNzYwODcxOTU5fQ.R1eW9qifv71pKhZ_rM5QcI-twhKuRFNhbqJlzLL4ib8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a1445d99",
+    "name": "LiSTNR - K-Pop",
+    "url": "https://wz0liw.scahw.com.au/live/k-pop.stream/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6a2bec9e",
+    "name": "Hot 91.1",
+    "url": "https://24933.live.streamtheworld.com:443/MAR_HOT91AAC/HLS/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d95ddc26",
+    "name": "Sweet FM 97.1MHz Community Radio Burdekin Queensland",
+    "url": "https://charlie1-gecko.radioca.st/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "0c39c855",
+    "name": "All Time Hits Radio Party - Melbourne (MP3)",
+    "url": "https://stream-179.zeno.fm/mkc0e9ymnchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJta2MwZTl5bW5jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia0t6dU5RTExUVkttM2dWNC1DX1V2QSIsImlhdCI6MTc2MDg2MzE2NiwiZXhwIjoxNzYwODYzMjI2fQ.ZvyxJVlwgpD2eo2HQxj361FRUZrJQGW0LjQz9RQzk-Q",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0a2f266d",
+    "name": "hit106.9 Newcastle",
+    "url": "https://wz2liw.scahw.com.au/live/2xxx_128.stream/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "751f5e82",
+    "name": "Zinc 96.1",
+    "url": "https://14013.live.streamtheworld.com:443/MAR_ZINC96AAC/HLS/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3d0b78ce",
+    "name": "Satin Jazz",
+    "url": "https://quincy.torontocast.com:2725/stream",
+    "tags": []
+  },
+  {
+    "id": "63527a2a",
+    "name": "93.9 ",
+    "url": "https://17843.live.streamtheworld.com:443/GEE_BAY939AAC.aac",
+    "tags": []
+  }
+]

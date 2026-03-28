@@ -1,0 +1,2276 @@
+[
+  {
+    "id": "946f1062",
+    "name": "Rai Radio 1",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "bd4e7def",
+    "name": "Virgin Radio Classic Rock",
+    "url": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4a069a58",
+    "name": "Radio 105 Network",
+    "url": "https://icecast.unitedradio.it/Radio105.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "826ca71f",
+    "name": "Rai Radio 2",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast",
+    "tags": []
+  },
+  {
+    "id": "62f63caa",
+    "name": "Rai Radio 3",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7a72de1a",
+    "name": "RMC Radio Monte Carlo",
+    "url": "https://icecast.unitedradio.it/RMC.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "de2a6098",
+    "name": "Virgin Radio Italia",
+    "url": "https://icecast.unitedradio.it/Virgin.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "71009ef7",
+    "name": "Radio 105 - Dance 90",
+    "url": "https://icy.unitedradio.it/105Dance90.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "527ed7e0",
+    "name": "Radio 80",
+    "url": "https://sphera.fluidstream.eu/radio80.mp3",
+    "tags": []
+  },
+  {
+    "id": "8c682b99",
+    "name": "70 80 Hits HQ",
+    "url": "https://nr8.newradio.it:19574/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c69f1e3e",
+    "name": "Virgin Radio Rock '70",
+    "url": "https://icy.unitedradio.it/VirginRock70.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "13aee1b6",
+    "name": "Virgin Radio Rock '80",
+    "url": "https://icy.unitedradio.it/VirginRock80.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f75080db",
+    "name": "RADIO RADIO (ITALIA)",
+    "url": "https://sr6.inmystream.it:18102/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c4c49a90",
+    "name": "Virgin Radio Hard Rock",
+    "url": "https://icy.unitedradio.it/VirginHardRock.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5c4244d6",
+    "name": "Radio Italia Solo Musica Italiana",
+    "url": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fd65879a",
+    "name": "Radio Kiss Kiss Napoli",
+    "url": "https://kisskiss.fluidstream.eu/KKNapoli.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "92b62a3b",
+    "name": "Armisa Classica",
+    "url": "https://onair.armisa.it/listen/armisa/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "60ab3f24",
+    "name": "Radio Kiss Kiss Italia",
+    "url": "https://kisskiss.fluidstream.eu/KKItalia.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b511abd5",
+    "name": "Virgin Radio Rock Ballads",
+    "url": "https://icy.unitedradio.it/Virgin_06.mp3",
+    "tags": []
+  },
+  {
+    "id": "b3cbc0ab",
+    "name": "R101 FM",
+    "url": "https://icecast.unitedradio.it/r101",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d2114f99",
+    "name": "Radio Ibiza",
+    "url": "https://kisskiss.fluidstream.eu/ibiza.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f524e38f",
+    "name": "Radio Radicale",
+    "url": "https://live.radioradicale.it/live.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "83eacc70",
+    "name": "ITALIA Italia 70",
+    "url": "https://icy.unitedradio.it/um020.mp3",
+    "tags": []
+  },
+  {
+    "id": "4f65e400",
+    "name": "Radio Kiss Kiss Hits",
+    "url": "https://ice08.fluidstream.net/kk_hits.aac",
+    "tags": []
+  },
+  {
+    "id": "69efd296",
+    "name": "Radio 105 - HipHop & RnB",
+    "url": "https://icy.unitedradio.it/105HipHopRnB.mp3",
+    "tags": []
+  },
+  {
+    "id": "a0a3192c",
+    "name": "CLASSIC HITS RADIO Italia",
+    "url": "https://classichitsradio.streamingmedia.it/play",
+    "tags": []
+  },
+  {
+    "id": "6a7534a1",
+    "name": "Radio Kiss Kiss",
+    "url": "https://ice08.fluidstream.net:8080/KissKiss.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3b2ddb42",
+    "name": "Rai Isoradio",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S88230050/W3T2uXpEeCuN/icecast",
+    "tags": []
+  },
+  {
+    "id": "c576ffb9",
+    "name": "Radio 105 - Zoo Radio",
+    "url": "https://icy.unitedradio.it/105Zoo.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "45b0339f",
+    "name": "Rai Radio Classica Filodiffusione",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S53422322/bTdUFhYMnnra/icecast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a3adb3bf",
+    "name": "ITALIA Italia 80",
+    "url": "https://icy.unitedradio.it/um016.mp3",
+    "tags": []
+  },
+  {
+    "id": "766a40b1",
+    "name": "MUSIC STAR Roger Waters - Pink Floyd",
+    "url": "https://icy.unitedradio.it/VirginRogerWaters.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "41a4ff45",
+    "name": "Radio Sportiva ",
+    "url": "https://sportiva.inmystream.it/stream/sportiva",
+    "tags": []
+  },
+  {
+    "id": "8874c18f",
+    "name": "Rai Radio 1 Sport",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S74363317/iS9nek7QkZLI/icecast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "93517663",
+    "name": "Radio Sei (Italia)",
+    "url": "https://icecast.ithost.it/radiosei.ogg",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "634a51ea",
+    "name": "R101 Made in Italy",
+    "url": "https://icy.unitedradio.it/R101MadeInItaly.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7b3a9d93",
+    "name": "Virgin Radio Rock '90",
+    "url": "https://icy.unitedradio.it/Virgin_03.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bc43032a",
+    "name": "Retesport (Italia)",
+    "url": "https://icecast.ithost.it/retesport.ogg",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e33a0ee3",
+    "name": "NEW HITS RADIO Italia",
+    "url": "https://newhitsradio.streamingmedia.it/play",
+    "tags": []
+  },
+  {
+    "id": "0c766734",
+    "name": "Radio Deejay",
+    "url": "https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "12ad41de",
+    "name": "Radio Italia Anni 60 - Trentino Alto Adige",
+    "url": "https://ice10.fluidstream.net/anni60tn.aac",
+    "tags": []
+  },
+  {
+    "id": "c3c7ce46",
+    "name": "Radio Popolare",
+    "url": "https://livex.radiopopolare.it/radiopop",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "90466b3a",
+    "name": "Virgin Radio Rock Party",
+    "url": "https://icy.unitedradio.it/VirginRockParty.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cf037b44",
+    "name": "RDS relax",
+    "url": "https://icstream.rds.radio/rdsrelax",
+    "tags": []
+  },
+  {
+    "id": "58b8c1ff",
+    "name": "Radio Manà Manà Sport Roma",
+    "url": "https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "d742cf45",
+    "name": "MUSIC STAR Vasco",
+    "url": "https://icy.unitedradio.it/Vasco.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "173ec5d8",
+    "name": "Radio 105 - Rap Italia",
+    "url": "https://icy.unitedradio.it/105RapItalia.mp3",
+    "tags": []
+  },
+  {
+    "id": "7988e595",
+    "name": "Radio 105 - Miami",
+    "url": "https://icy.unitedradio.it/105Miami.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a01ac655",
+    "name": "Radio Subasio",
+    "url": "https://icy.unitedradio.it/Subasio.mp3",
+    "tags": []
+  },
+  {
+    "id": "5634e218",
+    "name": "ITALIAN RADIO - Only (romantic) Italian Music",
+    "url": "https://italianradio.streamingmedia.it/play",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "80333b7a",
+    "name": "Subasio Per un'ora d'amore",
+    "url": "https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3",
+    "tags": []
+  },
+  {
+    "id": "3550b056",
+    "name": "RTL 102.5",
+    "url": "https://StreamCdnF39-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "465f0158",
+    "name": "Rai Südtirol",
+    "url": "https://radiobzlive.rai.it/RAIBZ_Livestream",
+    "tags": []
+  },
+  {
+    "id": "d3bc844a",
+    "name": "Radio M2O",
+    "url": "https://StreamCdnF26-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "caee3cb6",
+    "name": "Ritmo 80",
+    "url": "https://ice02.fluidstream.net/ritmo80.aac",
+    "tags": []
+  },
+  {
+    "id": "b076c939",
+    "name": "Radio Sorrriso",
+    "url": "https://wma01.fluidstream.net/sorriso",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d984a8a4",
+    "name": "Virgin Radio Rockstar: Rolling Stones",
+    "url": "https://icy.unitedradio.it/VirginSpecialEvent.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5c284a5e",
+    "name": "Radio Italianissima",
+    "url": "https://stream5.xdevel.com/audio3s975889-477/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4506f491",
+    "name": "Lolli Radio Italia",
+    "url": "https://stream.lolliradio.net/lolli_italia.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0edc5981",
+    "name": "Virgin Radio Rock Hits",
+    "url": "https://icy.unitedradio.it/VirginRockHits.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f9c472c5",
+    "name": "Radio Blackout",
+    "url": "https://zeppelin.streampunk.cc/_stream/blackout.ogg",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "e100637d",
+    "name": "One Dance",
+    "url": "https://ice10.fluidstream.net/rn1_2.mp3",
+    "tags": []
+  },
+  {
+    "id": "e4862061",
+    "name": "TeleRadioStereo",
+    "url": "https://sr8.inmystream.it:8016/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6554690f",
+    "name": "Radio Capital",
+    "url": "https://StreamCdnB2-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "24216874",
+    "name": "Radio Piterpan",
+    "url": "https://wma01.fluidstream.net/piterpan",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b39c8fcf",
+    "name": "Radio Padova",
+    "url": "https://sphera.fluidstream.eu/rpd.mp3",
+    "tags": [
+      "traffic"
+    ]
+  },
+  {
+    "id": "f06d761a",
+    "name": "Rai Radio Tutta Italiana",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S2444220/HM9xhFhA0riM/icecast",
+    "tags": []
+  },
+  {
+    "id": "467b4cfc",
+    "name": "70 80 Disco Funk ModernSoul e Boogie",
+    "url": "https://discofunk.streamingmedia.it/play",
+    "tags": []
+  },
+  {
+    "id": "d8fd1166",
+    "name": "Radio Popolare Milano",
+    "url": "https://livex.radiopopolare.it/radiopop2",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "77f53f22",
+    "name": "R101 Radio",
+    "url": "https://icecast.unitedradio.it/r101_mp3",
+    "tags": []
+  },
+  {
+    "id": "8f7095b4",
+    "name": "Radio Deejay",
+    "url": "https://StreamCdnF30-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "dfe87738",
+    "name": "LatteMiele Marche Abruzzo",
+    "url": "https://ice02.fluidstream.net/fluid016.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e6fc4cbf",
+    "name": "RDS 100% Grandi Successi",
+    "url": "https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6aee7d8f",
+    "name": "Musica Jazz Radio",
+    "url": "https://ice03.fluidstream.net/mjr.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "db26e992",
+    "name": "RDS Relax",
+    "url": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "77e26fa8",
+    "name": "Lattemiele",
+    "url": "https://sr15.inmystream.it:8000/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d54a2741",
+    "name": "Virgin Radio Rock Alternative",
+    "url": "https://icy.unitedradio.it/VirginRockAlternative.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5eaf3fd4",
+    "name": "Radio Balla Balla",
+    "url": "https://ice09.fluidstream.net/ballaballa.mp3?FLID=6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4ecd1883",
+    "name": "Radio Marte",
+    "url": "https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "25e741d9",
+    "name": "m2o originals radio",
+    "url": "https://stream-153.zeno.fm/yextksspwp0tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZXh0a3NzcHdwMHR2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibzNHR2dQSS1TRU9RWklDS3F1ajRMUSIsImlhdCI6MTc2MDg1MDc5MiwiZXhwIjoxNzYwODUwODUyfQ.sZEl7ZtjfHkgr6DSS6G9XbFoAY9AGizfjJe74NX1D_k",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fa759ce5",
+    "name": "Venice Classic Radio",
+    "url": "https://uk2.streamingpulse.com/ssl/vcr1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4e57ee4c",
+    "name": "R101 Enjoy The Music",
+    "url": "https://icy.unitedradio.it/101Legend.aac",
+    "tags": []
+  },
+  {
+    "id": "2efea191",
+    "name": "Radio Onda Rossa",
+    "url": "https://giffard.streampunk.cc/_stream/ondarossa.mp3",
+    "tags": []
+  },
+  {
+    "id": "e5cd6f5e",
+    "name": "RADIO NOSTALGIA PIEMONTE",
+    "url": "https://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3",
+    "tags": []
+  },
+  {
+    "id": "8b74855b",
+    "name": "Radio Bruno",
+    "url": "https://stream7.xdevel.com/audio4s975355-396/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "40165c70",
+    "name": "Radio Birikina",
+    "url": "https://wma01.fluidstream.net/birikina",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a5f21dcf",
+    "name": "Rai Radio Classica (AAC 128kbps)",
+    "url": "https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEdvbDbfdpdJaecbbSdadBbEcRbTd4ambi-bO9kNE-c0-BkAvwHs&aifp=V001",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "978c6b28",
+    "name": "ROMANTICA-RADIO",
+    "url": "https://vetrina.multi-radio.com/romanticaradio",
+    "tags": []
+  },
+  {
+    "id": "1f6c2922",
+    "name": "Rai Radio Techetè",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S12572409/pHatRL4wJml9/icecast",
+    "tags": []
+  },
+  {
+    "id": "b1786573",
+    "name": "Radio Pico",
+    "url": "https://stream9.xdevel.com/audio0s976126-1032/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "fa469552",
+    "name": "LatteMiele",
+    "url": "https://sr15.inmystream.it/stream/lattemiele",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e6d9ba65",
+    "name": "MUSIC STAR Queen",
+    "url": "https://icecast.unitedradio.it/Virgin_05.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b0665271",
+    "name": "LifeGate International",
+    "url": "https://stream2.xdevel.com/audio2s975809-432/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "23f96d3c",
+    "name": "Radio Romanista",
+    "url": "https://romanista.newradio.it/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "22537503",
+    "name": "NEU RADIO",
+    "url": "https://nr9.newradio.it/proxy/ebaruffa?mp=/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "a43ec91e",
+    "name": "_Radio Energy Classic (Italy)",
+    "url": "https://gmusto3.radioca.st/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4df4b5d2",
+    "name": "Rai Radio Kids",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S94966552/WlznU7GmJkjL/icecast",
+    "tags": []
+  },
+  {
+    "id": "c2a9a9f6",
+    "name": " Radio 70 80 90 Marche",
+    "url": "https://rblive.it:8020/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "80e63633",
+    "name": "One Dance",
+    "url": "https://ice04.fluidstream.net/rn1_2.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5663fc85",
+    "name": "Radio Sherwood",
+    "url": "https://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "181e3d12",
+    "name": "Love FM",
+    "url": "https://rh.fluidstream.eu/lovefm.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "feb46ab0",
+    "name": "RTR 99 Canale Pooh",
+    "url": "https://rtr99.fluidstream.eu/rtr99_pooh.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6de80a3b",
+    "name": "Virgin Radio Rockstar: Oasis",
+    "url": "https://icy.unitedradio.it/um1030.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a7a5fafd",
+    "name": "Radio Bianconera",
+    "url": "https://stream.tmwradio.com/bianconera.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b8a9714f",
+    "name": "LatteMiele Puglia",
+    "url": "https://ice02.fluidstream.net/lattemielepuglia.aac?FLID=6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "044d8ce8",
+    "name": "Radio Napoli",
+    "url": "https://ice06.fluidstream.net/RadioNapoli.mp3?FLID=6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6fe7253e",
+    "name": "Radio Nostalgia Liguria",
+    "url": "https://rn1.fluidstream.eu/nostalgia_li.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "5497469a",
+    "name": "Virgin Radio Rockstar: Aerosmith",
+    "url": "https://icy.unitedradio.it/um1028.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b05992a9",
+    "name": "Radio Amore One Dance Catania",
+    "url": "https://stream10.xdevel.com/audio5s977886-2319/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "81799313",
+    "name": "Subasio Collection",
+    "url": "https://icy.unitedradio.it/SubasioCollection.mp3",
+    "tags": []
+  },
+  {
+    "id": "4c5a2d01",
+    "name": "RMC Music Star George Michael",
+    "url": "https://icy.unitedradio.it/MusicStarPrince.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d3f35024",
+    "name": "Virgin Radio Rockstar: Queen",
+    "url": "https://icy.unitedradio.it/Virgin_05.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "92f32152",
+    "name": "ITALIA Hits Italia",
+    "url": "https://icy.unitedradio.it/um011.mp3",
+    "tags": []
+  },
+  {
+    "id": "9edb2a43",
+    "name": "RADIO ITALIANA",
+    "url": "https://radiorossini.stream.laut.fm/radiorossini",
+    "tags": []
+  },
+  {
+    "id": "565d9886",
+    "name": "Lolli Radio Dance",
+    "url": "https://stream.lolliradio.net/lolli_dance.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c4f93fe2",
+    "name": "Radio Amore Nostalgia Catania",
+    "url": "https://stream10.xdevel.com/audio7s977886-2321/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "180dc83c",
+    "name": "Radio 80 Afro",
+    "url": "https://sphera.fluidstream.eu/r80_afro.mp3",
+    "tags": []
+  },
+  {
+    "id": "0ae23d17",
+    "name": "ITALIA Italia 90",
+    "url": "https://icy.unitedradio.it/um018.mp3",
+    "tags": []
+  },
+  {
+    "id": "7810aeab",
+    "name": "Radio Norba",
+    "url": "https://ad2.xdevel.com/radionorba",
+    "tags": []
+  },
+  {
+    "id": "0a9660ca",
+    "name": "Radio Marilù",
+    "url": "https://wma01.fluidstream.net/marilu",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e3597fad",
+    "name": "Radio Capital IT",
+    "url": "https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8",
+    "tags": []
+  },
+  {
+    "id": "d94c5f0d",
+    "name": "Rai Alto Adige",
+    "url": "https://radiobzlive.rai.it/RAI_AltoAdige",
+    "tags": []
+  },
+  {
+    "id": "9486b038",
+    "name": "Radio 105 - Hits",
+    "url": "https://icy.unitedradio.it/105Hits.mp3",
+    "tags": []
+  },
+  {
+    "id": "4b65b52e",
+    "name": "m2o originals radio 2",
+    "url": "https://stream-161.zeno.fm/90ykardvkjttv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5MHlrYXJkdmtqdHR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLVZkTkd5TWdTcU9VRThYSU1kRjVSZyIsImlhdCI6MTc2MDg0MTU5MiwiZXhwIjoxNzYwODQxNjUyfQ.BXqeoAzqrpu-Qc3DmNcaPD0EgKtkuAQjVBWHs6s2484",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "74a23471",
+    "name": "Radio Wow!",
+    "url": "https://ice10.fluidstream.net/fluid_wow.aac",
+    "tags": []
+  },
+  {
+    "id": "2e20cc50",
+    "name": "Lolli Radio Oldies",
+    "url": "https://stream.lolliradio.net/lolli_oldies.mp3",
+    "tags": []
+  },
+  {
+    "id": "c13d1466",
+    "name": "MUSIC STAR Pino Daniele",
+    "url": "https://icy.unitedradio.it/Daniele.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5a487744",
+    "name": "Rai Radio Live",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S37263178/NDUDX4zRfi1K/icecast",
+    "tags": []
+  },
+  {
+    "id": "ad9dee14",
+    "name": "Giornale Radio",
+    "url": "https://gr.fluidstream.eu/gr1.mp3",
+    "tags": []
+  },
+  {
+    "id": "4aa5b616",
+    "name": "Radio Kiss Kiss History Hits",
+    "url": "https://ice08.fluidstream.net/kk_history.aac",
+    "tags": []
+  },
+  {
+    "id": "94c1d93c",
+    "name": "Virgin Radio Rockstar: Guns N' Roses",
+    "url": "https://icy.unitedradio.it/um1029.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "60094840",
+    "name": "Radio 105 - Classics",
+    "url": "https://icy.unitedradio.it/105Classics.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "337b6bff",
+    "name": "ITALIA Italia 60",
+    "url": "https://icy.unitedradio.it/um014.mp3",
+    "tags": []
+  },
+  {
+    "id": "744abcf6",
+    "name": "Rai Radio 1 +Calcio",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast",
+    "tags": []
+  },
+  {
+    "id": "06896825",
+    "name": "RMC Sport Network",
+    "url": "https://stream17.tmwradio.com/tmw.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "98680f6d",
+    "name": "m2o",
+    "url": "https://StreamCdnB1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1a6afefe",
+    "name": "Radio Capital Funky Town",
+    "url": "https://StreamCdnF40-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e10b1ab0",
+    "name": "Radio Italia anni 60",
+    "url": "https://str01.fluidstream.net/anni60.mp3",
+    "tags": []
+  },
+  {
+    "id": "a7f32a0b",
+    "name": "Radio Cavolo",
+    "url": "https://s2.radio.co/s0f4ac5cbf/listen",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "c1bce585",
+    "name": "MUSIC STAR Zucchero",
+    "url": "https://icy.unitedradio.it/Zucchero.mp3",
+    "tags": []
+  },
+  {
+    "id": "2fe37de9",
+    "name": "United Music Italia 2000",
+    "url": "https://icy.unitedradio.it/um013.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8b3ba9c1",
+    "name": "RTR 99 Canzoni e parole fuori dal coro",
+    "url": "https://rtr99.fluidstream.eu/rtr99.mp3?FLID=3",
+    "tags": []
+  },
+  {
+    "id": "3e8d61f1",
+    "name": "Radio Company",
+    "url": "https://sphera.fluidstream.eu/company.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "35708b45",
+    "name": "Radio 105 - Trap",
+    "url": "https://icecast.unitedradio.it/105Trap.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "749c8fe5",
+    "name": "LifeGate Radio",
+    "url": "https://stream7.xdevel.com/audio0s975809-426/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "606cdb9c",
+    "name": "Antenna 1 FM 107.1 Roma",
+    "url": "https://a1-it.newradio.it/stream",
+    "tags": []
+  },
+  {
+    "id": "bebd127e",
+    "name": "Radio Parsifal",
+    "url": "https://stream5.xdevel.com/audio0s976542-1302/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "247111e2",
+    "name": "ITALIA Millenials Italy",
+    "url": "https://icy.unitedradio.it/um021.mp3",
+    "tags": []
+  },
+  {
+    "id": "7be05f5f",
+    "name": "ITALIA Amore",
+    "url": "https://icy.unitedradio.it/um012.mp3",
+    "tags": []
+  },
+  {
+    "id": "4aa68806",
+    "name": "Radio Kiss Kiss Sanremo Story",
+    "url": "https://ice08.fluidstream.net/kk_sanremo.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "38012187",
+    "name": "Radio Party Groove",
+    "url": "https://stream15.top-ix.org/partygroove",
+    "tags": []
+  },
+  {
+    "id": "5f1e2c54",
+    "name": "Virgin Radio Rock 2K",
+    "url": "https://icy.unitedradio.it/Virgin_02.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "be7ef88a",
+    "name": "Virgin Radio Rockstar: AC/DC",
+    "url": "https://icy.unitedradio.it/um1026.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8012c3cc",
+    "name": "Radio Liberta",
+    "url": "https://stream1.xdevel.com/audio0s975360-306/stream/icecast.audio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9e336462",
+    "name": "RMC R&B",
+    "url": "https://icy.unitedradio.it/rmcweb003",
+    "tags": []
+  },
+  {
+    "id": "43d20d94",
+    "name": " 50s 60s RETRO HITS",
+    "url": "https://stream-158.zeno.fm/pxzwykxbluitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweHp3eWt4Ymx1aXR2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR0t3cE1lRGJTYUdEOG9BVUJqYkdtQSIsImlhdCI6MTc2MDgyOTM0MywiZXhwIjoxNzYwODI5NDAzfQ.I_z78UwRpoLXwITWiAiaGtpbHOTvgp0f0ZeHJgnYyVc",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "18cbfb99",
+    "name": "FOREVER 80",
+    "url": "https://forever80.stream.laut.fm/forever80?t302=2025-10-19_10-38-23&uuid=b9bf8876-3d58-4621-8dbe-f5c93bef8e05",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "751c3c32",
+    "name": "Radio RaiSport",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S74167340/mmNY37FME5Zl/icecast",
+    "tags": []
+  },
+  {
+    "id": "eb0016c1",
+    "name": "Radio Freccia",
+    "url": "https://StreamCdnF42-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "53221a10",
+    "name": "LifeGate Radio HD",
+    "url": "https://stream7.xdevel.com/audio1s975809-431/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1cfa47b0",
+    "name": "Radio Italia Sanremo",
+    "url": "https://stream4.xdevel.com/audio2s976608-1381/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "03540b68",
+    "name": "R101 '80",
+    "url": "https://icy.unitedradio.it/R10180.aac",
+    "tags": []
+  },
+  {
+    "id": "be2b9f3b",
+    "name": "TMW Radio",
+    "url": "https://stream.tmwradio.com/tmw.aac",
+    "tags": []
+  },
+  {
+    "id": "d52d9498",
+    "name": "Station Italy",
+    "url": "https://stationitaly.stream.laut.fm/stationitaly?t302=2025-10-19_05-51-34&uuid=9cebc7d9-e0f5-4794-b7d8-a68192dc26c9",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e4d82999",
+    "name": "DeeGay Pop & Dance",
+    "url": "https://stream.deegay.fm/deegay1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "31d36924",
+    "name": "GEDI - m2o",
+    "url": "https://StreamCdnF36-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ba855451",
+    "name": "RADIO RELAX Italia",
+    "url": "https://radiorelax.streamingmedia.it/play",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b8d22085",
+    "name": "Radio Manila",
+    "url": "https://stream15.top-ix.org:8000/radiomanila",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1fd6a6e3",
+    "name": "Simply Radio",
+    "url": "https://stream9.xdevel.com/audio2s975968-808/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "73816ae4",
+    "name": "ITALIA Viva Napoli",
+    "url": "https://icy.unitedradio.it/um017.mp3",
+    "tags": []
+  },
+  {
+    "id": "8b2080bf",
+    "name": "Radio WoW",
+    "url": "https://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "25ccda00",
+    "name": "Rai Isoradio",
+    "url": "https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8?auth=daEdkand8cQa6abbKbub6dDbicOcbdBb4bV-bO9dkF-c0-AjuxrGp&aifp=V001",
+    "tags": []
+  },
+  {
+    "id": "8d5ab089",
+    "name": "MUSIC STAR Ligabue",
+    "url": "https://icy.unitedradio.it/Ligabue.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aff66e48",
+    "name": "MUSIC STAR Tiziano Ferro",
+    "url": "https://icy.unitedradio.it/Ferro.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f6edc334",
+    "name": "DeeGay Classic",
+    "url": "https://stream.deegay.fm/deegay2.mp3",
+    "tags": []
+  },
+  {
+    "id": "e1194a07",
+    "name": "Globo Vintage",
+    "url": "https://m100.newradio.it/m100-64",
+    "tags": []
+  },
+  {
+    "id": "fa3c9ad5",
+    "name": "Radio Kiss Kiss Latina",
+    "url": "https://ice08.fluidstream.net/kk_latina.aac",
+    "tags": []
+  },
+  {
+    "id": "0fe0492f",
+    "name": "ITALIA Rock Italiano",
+    "url": "https://icy.unitedradio.it/um076.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "48adf30d",
+    "name": "Lolli Radio Hits",
+    "url": "https://stream.lolliradio.net/lolli_hits.mp3",
+    "tags": []
+  },
+  {
+    "id": "a916fa37",
+    "name": "Music Star Franco Battiato",
+    "url": "https://icy.unitedradio.it/um057.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f2ffdded",
+    "name": "Radio California",
+    "url": "https://stream9.xdevel.com/audio0s976541-1299/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "6eaa5270",
+    "name": "Radio 70 80 90 Dance Marche",
+    "url": "https://rblive.it:8060/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c2767eff",
+    "name": "Radio Italia Uno",
+    "url": "https://stream15.top-ix.org/radioitaliauno",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1bad22f1",
+    "name": "Giornale Radio Ultima Ora",
+    "url": "https://gr.fluidstream.eu/gr2.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "74273250",
+    "name": "rete radio azzurra",
+    "url": "https://reteradioazzurra.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "480b4ffc",
+    "name": "Radio Subasio+",
+    "url": "https://icy.unitedradio.it/SubasioPiu.mp3",
+    "tags": []
+  },
+  {
+    "id": "cfddfcc2",
+    "name": "Deejay 80",
+    "url": "https://StreamCdnF43-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1d5ecd63",
+    "name": "Gamma Radio - Golden Hits",
+    "url": "https://rn2.fluidstream.eu/gammaradio.mp3?FLID=1&type=.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "46edbd00",
+    "name": "DeeGay Club",
+    "url": "https://stream.deegay.fm/deegay3.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5171d373",
+    "name": "70s 80s DiscoFunk ModernSoul Boogie",
+    "url": "https://my.streamingmedia.it:8020/play",
+    "tags": []
+  },
+  {
+    "id": "c8c4d2e2",
+    "name": "Radio Wombat",
+    "url": "https://zeppelin.streampunk.cc/_stream/wombat.ogg",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "b08cc192",
+    "name": "Radio 19",
+    "url": "https://rn1.fluidstream.eu/radio19.aac?FLID=6",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "2128c5a9",
+    "name": "Radio Musica Latina",
+    "url": "https://nrf1.newradio.it:9806/stream",
+    "tags": []
+  },
+  {
+    "id": "7fdca2d3",
+    "name": "Rai Gr Parlamento",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast",
+    "tags": []
+  },
+  {
+    "id": "7a9576d0",
+    "name": " # 100 NU-DISCO CENTRAL RADIO",
+    "url": "https://stream-179.zeno.fm/jqhhzffjynbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqcWhoemZmanluYnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicUZMX19JRUVTaUcybzAyLUREWWVDdyIsImlhdCI6MTc2MDgyNTkxMSwiZXhwIjoxNzYwODI1OTcxfQ.ywK8FrQhmO58SaZVJvwFCjRTqT3Qb58UYeJP62UIUEg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5eac1be2",
+    "name": "Radio 80 - Forever Young",
+    "url": "https://nr11.newradio.it:19208/stream?1600266195249",
+    "tags": []
+  },
+  {
+    "id": "63392030",
+    "name": "RMC Acoustic",
+    "url": "https://icy.unitedradio.it/rmcweb016",
+    "tags": []
+  },
+  {
+    "id": "fca09dfa",
+    "name": "Milano XR",
+    "url": "https://milanoxr.gatesweb.info:8443/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "67b75024",
+    "name": "Radio Stella",
+    "url": "https://stream6.xdevel.com/audio0s976787-1558/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "8a8eb5fa",
+    "name": "Byoblu",
+    "url": "https://byoblu.meway.host/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "746017d1",
+    "name": "RMC Music Star Coldplay",
+    "url": "https://icy.unitedradio.it/ColdPlay.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "53591742",
+    "name": "Radio Easy Rock",
+    "url": "https://sphera.fluidstream.eu/easyrock.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "301f35d1",
+    "name": "Radio Bandito",
+    "url": "https://s2.radio.co/s8add5b3eb/listen",
+    "tags": []
+  },
+  {
+    "id": "2e31c698",
+    "name": "Radio Italia Anni 60 (Emilia-Romagna e Marche)",
+    "url": "https://ice04.fluidstream.net/ria60_bo.mp3",
+    "tags": []
+  },
+  {
+    "id": "ce1bf8c8",
+    "name": "Electro Lounge",
+    "url": "https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2025-10-19_09-34-40&uuid=8754920e-f09b-41d0-9279-29aa665cadf1",
+    "tags": []
+  },
+  {
+    "id": "62f8b4c4",
+    "name": "R101 '70",
+    "url": "https://icy.unitedradio.it/R10170.aac",
+    "tags": []
+  },
+  {
+    "id": "6ed6c128",
+    "name": "R101 '90",
+    "url": "https://icy.unitedradio.it/R10190.aac",
+    "tags": []
+  },
+  {
+    "id": "63c96812",
+    "name": "Venice Classic Radio Auditorium",
+    "url": "https://uk2.streamingpulse.com/ssl/vcr2",
+    "tags": []
+  },
+  {
+    "id": "1263d7b5",
+    "name": "Virgin Radio Rockstar: Bon Jovi",
+    "url": "https://icy.unitedradio.it/um1027.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "77f799b4",
+    "name": "Radio Onda Rossa",
+    "url": "https://blimp.streampunk.cc/_stream/ondarossa.ogg",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "491ea230",
+    "name": "Easy Network Jazz & Soul",
+    "url": "https://sphera.fluidstream.eu/easy_jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ace84539",
+    "name": "Lolli Radio Happy Station",
+    "url": "https://stream.lolliradio.net/lolli_happy.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c1a7f471",
+    "name": "Canzoni Italiane",
+    "url": "https://stream-178.zeno.fm/7mcmhe87wnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bWNtaGU4N3duaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX1Q3RERBeG5RZHlLT0ZqaWRsRzFrZyIsImlhdCI6MTc2MDg1NzM5MSwiZXhwIjoxNzYwODU3NDUxfQ.8X3I2fzBWovtVJj2TdnlddP1C8iR5y8oith07IblwEM",
+    "tags": []
+  },
+  {
+    "id": "8a8346ce",
+    "name": "RTL 102.5 Best",
+    "url": "https://streamingv2.shoutcast.com/rtl-1025-best",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f37170dc",
+    "name": "Radio Animati",
+    "url": "https://stream.radioanimati.it/rasite",
+    "tags": []
+  },
+  {
+    "id": "42f15723",
+    "name": "Radio Rock",
+    "url": "https://rrock.fluidstream.eu/radiorock.aac?FLID=8&aw_0_req.gdpr=true&type=.aac",
+    "tags": []
+  },
+  {
+    "id": "8a534d11",
+    "name": "Giornale Radio La Dolce Vita",
+    "url": "https://gr.fluidstream.eu/gr7.mp3",
+    "tags": []
+  },
+  {
+    "id": "88def876",
+    "name": "\tRadio Bruno Pentasport Fiorentina",
+    "url": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "a086e495",
+    "name": "RCS Napoli",
+    "url": "https://ice09.fluidstream.net/fluid0905.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cf896f45",
+    "name": "Deejay Suona Italia",
+    "url": "https://StreamCdnB2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "01fcd28c",
+    "name": "NATURE RADIO SLEEP",
+    "url": "https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "e9d0b9c2",
+    "name": "MUSIC STAR Elisa",
+    "url": "https://icy.unitedradio.it/Elisa.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f835ed63",
+    "name": "R101 '00",
+    "url": "https://icy.unitedradio.it/R1012000.aac",
+    "tags": []
+  },
+  {
+    "id": "4890b486",
+    "name": "Rai Isoradio",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2e78642a",
+    "name": "Radio 105 - InDaKlubb",
+    "url": "https://icy.unitedradio.it/105InDaKlubb.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "949b6942",
+    "name": "Funky Radio",
+    "url": "https://funkyradio.streamingmedia.it/play.mp3",
+    "tags": []
+  },
+  {
+    "id": "48d4a9f2",
+    "name": "United Music Movies Pop",
+    "url": "https://icy.unitedradio.it/um030.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "31ed3da8",
+    "name": "Discoradio",
+    "url": "https://stream.discoradio.radio/audio/disco.stream_aac64/chunklist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cfe0cfea",
+    "name": "Radio KissKiss",
+    "url": "https://ice07.fluidstream.net:8080/KissKiss.mp3",
+    "tags": []
+  },
+  {
+    "id": "5e0cc4f7",
+    "name": "Lolli Radio Soft",
+    "url": "https://stream.lolliradio.net/lolli_soft.mp3",
+    "tags": []
+  },
+  {
+    "id": "1839fc5e",
+    "name": "Radio Capital Music",
+    "url": "https://StreamCdnF42-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "f2654d0d",
+    "name": "Web Radio Lucio Battisti 2",
+    "url": "https://stream-176.zeno.fm/ubgq1ghham8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YmdxMWdoaGFtOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWgxdm0tMTdTMlNTOWlQcVVIY0JnZyIsImlhdCI6MTc2MDg0NzY5NSwiZXhwIjoxNzYwODQ3NzU1fQ.5YTiWTW1GqOImCQrAkXsmHEXM5pZZzE4LJOS8epf3Xs",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c8f1b97",
+    "name": "华夏之声China FM·意大利罗马FM89.5",
+    "url": "https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "2305489e",
+    "name": "Radio Onda d'urto",
+    "url": "https://hochimin.urtostream.org:8443/radiondadurto.mp3",
+    "tags": []
+  },
+  {
+    "id": "38140632",
+    "name": "RMC Music Star Jovanotti",
+    "url": "https://icy.unitedradio.it/Jovanotti.mp3",
+    "tags": []
+  },
+  {
+    "id": "bef32918",
+    "name": " Radio Rouge Italy",
+    "url": "https://nl1.streamingpulse.com/ssl/radiorougeitaly",
+    "tags": []
+  },
+  {
+    "id": "9dbbdb5d",
+    "name": "United Music Cinema",
+    "url": "https://icy.unitedradio.it/um058.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9d37f604",
+    "name": "Deejay 30 Songs",
+    "url": "https://StreamCdnB1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8",
+    "tags": []
+  },
+  {
+    "id": "b5db3f3b",
+    "name": "Studio Dance",
+    "url": "https://studiodance.stream.laut.fm/studiodance?t302=2025-10-19_00-12-49&uuid=a496cd4d-d01a-4d80-8055-1361f54e1dc9",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8b235bc8",
+    "name": "Radio Jukebox Piemonte",
+    "url": "https://stream15.top-ix.org/radiojukebox",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d530b887",
+    "name": "Easy Network",
+    "url": "https://sphera.fluidstream.eu/easy.mp3?FLID=6",
+    "tags": []
+  },
+  {
+    "id": "323e7c5d",
+    "name": "Radio International",
+    "url": "https://ice08.fluidstream.net/fluid813.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bdf72083",
+    "name": "FM Italia",
+    "url": "https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3a171a20",
+    "name": "Radio Company Easy",
+    "url": "https://str01.fluidstream.net/ceasy.aac",
+    "tags": []
+  },
+  {
+    "id": "78f451d2",
+    "name": "GEDI - Radio Capital Funky Town",
+    "url": "https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8",
+    "tags": []
+  },
+  {
+    "id": "f9ca0ade",
+    "name": "NBC Milano",
+    "url": "https://nr7.newradio.it:19350/stream",
+    "tags": []
+  },
+  {
+    "id": "6bb36aa3",
+    "name": "RTL 102.5",
+    "url": "https://StreamCdnF29-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c78e35bd",
+    "name": "Radio Nostalgia Toscana",
+    "url": "https://sc.streamingfm.it:8070/nostalgia",
+    "tags": []
+  },
+  {
+    "id": "c5699e4b",
+    "name": "Radio 105 - 2k & More",
+    "url": "https://icy.unitedradio.it/1052kandMore.mp3",
+    "tags": []
+  },
+  {
+    "id": "c0a909c5",
+    "name": "Radio Time 90",
+    "url": "https://stream3.xdevel.com/audio1s975521-192/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "ce47dfab",
+    "name": "Radio54",
+    "url": "https://nr7.newradio.it/proxy/radiosol?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "937a3345",
+    "name": "Radio Padova History Italia",
+    "url": "https://sphera.fluidstream.eu/rpd_hita.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d7f11aea",
+    "name": "\tRadio Margherita ",
+    "url": "https://streaming.radiomargherita.com/stream/radiomargherita",
+    "tags": []
+  },
+  {
+    "id": "b5f16650",
+    "name": "Deejay Time",
+    "url": "https://StreamCdnF40-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c7ffd425",
+    "name": "Radio Gamma",
+    "url": "https://stream10.xdevel.com/audio0s977468-2028/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2c928ef1",
+    "name": "Radionorba Music & Sport",
+    "url": "https://stream7.xdevel.com/audio1s975885-1084/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d97d6cd8",
+    "name": "Radio Kiss Kiss Disco Party",
+    "url": "https://kk.fluidstream.eu/kk_discoparty.mp3",
+    "tags": []
+  },
+  {
+    "id": "7dd46c68",
+    "name": "Sweet'n'Sour Radio",
+    "url": "https://sweetnsour.stream.laut.fm/sweetnsour?t302=2025-10-18_16-43-13&uuid=99c7f12e-fd11-4645-8f84-46e9a87572c4",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b042d752",
+    "name": "Radio Volami nel Cuore",
+    "url": "https://rci.canaleitalia.tv:8009/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7a45b0b3",
+    "name": "Radio Napoli Doc",
+    "url": "https://ice08.fluidstream.net/RadioNapoli.aac",
+    "tags": []
+  },
+  {
+    "id": "935b92e5",
+    "name": "Dimensione Suono Soft",
+    "url": "https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f3914f42",
+    "name": "Hardstyle radio Italy",
+    "url": "https://stream-176.zeno.fm/q86g2sqwn18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxODZnMnNxd24xOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRG85MndTbVBUODZLNkRoNlR5RmcyQSIsImlhdCI6MTc2MDg1MTk3OCwiZXhwIjoxNzYwODUyMDM4fQ.HPJmmsFpnesqshoVldfNGT_DcTAAvXaGx_TRHh93Yvs",
+    "tags": []
+  },
+  {
+    "id": "d1b511cb",
+    "name": "LifeGate Radio Blues",
+    "url": "https://stream6.xdevel.com/audio3s975809-440/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "063f3ce8",
+    "name": "FSNews Radio",
+    "url": "https://fsnews128.newradio.it/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e20ac906",
+    "name": "Radio Amore Catania",
+    "url": "https://stream10.xdevel.com/audio8s977886-2322/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "9d533f57",
+    "name": "Radio Company Stile Italiano",
+    "url": "https://sphera.fluidstream.eu/companyitalia.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b98c9ac4",
+    "name": "Radiotime Italy",
+    "url": "https://stream-175.zeno.fm/25k224a26k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyNWsyMjRhMjZrMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidFMwYjNNYjZSWDZsV2hBR3VjRFRVQSIsImlhdCI6MTc2MDg2NDg1MSwiZXhwIjoxNzYwODY0OTExfQ.EoUsUGQlFejAeVt5scaitRHAX5Wi8XC3FrcDlk3JqmU",
+    "tags": []
+  },
+  {
+    "id": "f9c944ab",
+    "name": "Radio Digitalia - Ricordi",
+    "url": "https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30&uuid=8aef2612-2637-4877-8c1b-d3d775186258",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "40519e6d",
+    "name": "Musica Jazz Radio",
+    "url": "https://ice16.fluidstream.net/mjr.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3fcbf02d",
+    "name": "Radio Bellla & Monella",
+    "url": "https://ice02.fluidstream.net/bella.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1111a9f5",
+    "name": "Italia News 24",
+    "url": "https://stream6.xdevel.com/audio6s975889-649/stream/icecast.audio",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "379f3275",
+    "name": "Radio Gelosa",
+    "url": "https://ice02.fluidstream.net/gelosa",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ca80df64",
+    "name": "Radio Nostalgia Piemonte",
+    "url": "https://rn1.fluidstream.eu/nostalgia_pv.mp3",
+    "tags": []
+  },
+  {
+    "id": "b7d04c98",
+    "name": "Radio Venere",
+    "url": "https://stream10.xdevel.com/audio0s977432-1994/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b9738454",
+    "name": "Radio Nerazzurra",
+    "url": "https://d1sojsgu0jwtb7.cloudfront.net/audio/silence.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e3adc74f",
+    "name": "Napoli Lounge ",
+    "url": "https://stream-177.zeno.fm/cyau14bgqd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeWF1MTRiZ3FkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSHk4S0QwZ2xUUGVBZnVSandJQXVUQSIsImlhdCI6MTc2MDg3MTU5OSwiZXhwIjoxNzYwODcxNjU5fQ.UeFCNotIH6VqepbZrDowtfpVe-rwBI5Z-FZOoHUwFOA",
+    "tags": []
+  },
+  {
+    "id": "961e3e54",
+    "name": "Radio Company Reggaetown",
+    "url": "https://sphera.fluidstream.eu/companyreggaetown.mp3",
+    "tags": []
+  },
+  {
+    "id": "d52c6837",
+    "name": "Traditional Christmas",
+    "url": "https://icecast.unitedradio.it/um033.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "68ab9f0d",
+    "name": "Radio Olympia",
+    "url": "https://sr6.inmystream.it/proxy/radiosonica2?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "fae2a6d9",
+    "name": "Radio Cuore",
+    "url": "https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "91dbca88",
+    "name": "RADIO PULCINELLA",
+    "url": "https://stream-177.zeno.fm/9dve9gmfakhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5ZHZlOWdtZmFraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicko2dzEwU1dUZmE2SUE2UUg5amljZyIsImlhdCI6MTc2MDg1NTAwNiwiZXhwIjoxNzYwODU1MDY2fQ.nJ4r8RCJJl3lVsxGSkJPNLF2PNtIqUB1WgXe-XbdJic",
+    "tags": []
+  },
+  {
+    "id": "20207784",
+    "name": "Radio Torino",
+    "url": "https://stream12.top-ix.org/radiotorino",
+    "tags": []
+  },
+  {
+    "id": "28048957",
+    "name": "One Dance ",
+    "url": "https://ice04.fluidstream.net/rn1_2.aac?FLID=1&type=.aac",
+    "tags": []
+  },
+  {
+    "id": "46701df1",
+    "name": "Radio Laziale ",
+    "url": "https://stream2.xdevel.com/video5s975363-2400/stream/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9f137ac0",
+    "name": "Radio Capital W L'Italia",
+    "url": "https://StreamCdnF24-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "abb93bbf",
+    "name": "ITALIA Radio Festival",
+    "url": "https://icy.unitedradio.it/um073.mp3",
+    "tags": []
+  },
+  {
+    "id": "13464de2",
+    "name": "Radio Studio Emme",
+    "url": "https://ice05.fluidstream.net/fluid0505.mp3?FLID=6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "34c346d0",
+    "name": "Radio Piper",
+    "url": "https://s7.myradiostream.com:5466/stream",
+    "tags": []
+  },
+  {
+    "id": "d367bd0e",
+    "name": "RCS Story",
+    "url": "https://ice12.fluidstream.net/fluid1202.mp3",
+    "tags": []
+  },
+  {
+    "id": "a6c5c648",
+    "name": "Radio Punto Zero",
+    "url": "https://stream9.xdevel.com/audio0s976836-1615/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "9eca2918",
+    "name": "Radio Kiss Kiss Rock",
+    "url": "https://ice08.fluidstream.net/kk_rock.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9b33f983",
+    "name": "FM Classic",
+    "url": "https://stream1.xdevel.com/audio0s975817-359/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "135b540e",
+    "name": "Radio Antenna Uno",
+    "url": "https://stream5.top-ix.org:8000/antennauno",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1769a8e7",
+    "name": "R101 Your Love",
+    "url": "https://icy.unitedradio.it/R101YourLove.aac",
+    "tags": []
+  },
+  {
+    "id": "9b46517e",
+    "name": "Radio GLOBO",
+    "url": "https://globo.newradio.it/globorm128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9d4fb19d",
+    "name": "Radio Legends",
+    "url": "https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "86c8290a",
+    "name": "70 80 90",
+    "url": "https://rblive.it:8170/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "d2b06b93",
+    "name": "Radio Punto Zero Tre Venezie",
+    "url": "https://ice02.fluidstream.net/rpz.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f5a22c9c",
+    "name": "Radio Musica Disco ‘N’ Dance",
+    "url": "https://nrf1.newradio.it:9516/stream",
+    "tags": []
+  },
+  {
+    "id": "e3125fa3",
+    "name": "Radio Contact Italy",
+    "url": "https://radiocontactitaly.stream.laut.fm/radiocontactitaly?t302=2025-10-19_00-50-09&uuid=2e1e2b48-06c0-40e1-8c66-35d2da36fe7a",
+    "tags": []
+  },
+  {
+    "id": "4f32306b",
+    "name": "Vibra FM",
+    "url": "https://ice02.fluidstream.net/playstudio.mp3",
+    "tags": []
+  },
+  {
+    "id": "dded0ccb",
+    "name": "ByoBlu Radio",
+    "url": "https://ssl.audio1.meway.tv/proxy/byoblu?mp=/stream",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "99f1c047",
+    "name": "Radio disco Milano",
+    "url": "https://radiodisco.stream.laut.fm/radiodisco?pl=pls&t302=2025-10-18_22-29-28&uuid=d87bbadd-240d-43a1-9dd6-109a09d4b106",
+    "tags": []
+  },
+  {
+    "id": "4b488f27",
+    "name": "Radio Elettrica",
+    "url": "https://nr8.newradio.it/proxy/apselett?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "31b7b233",
+    "name": "RADIO DIMENSIONE RELAX",
+    "url": "https://az1.mediacp.eu/listen/radiodimensionerelax/radio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b7079dec",
+    "name": "Radio Gemini",
+    "url": "https://geminione.it/proxy/gemini/stream",
+    "tags": []
+  },
+  {
+    "id": "fbf2610e",
+    "name": "FOREVER 90",
+    "url": "https://forever90.stream.laut.fm/forever90?t302=2025-10-19_03-50-28&uuid=f5be91c7-63bf-4f65-86c8-065343ad4183",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4f90bfc7",
+    "name": "Electrolounge Milano",
+    "url": "https://electrolounge.stream.laut.fm/electrolounge?pl=m3u&t302=2025-10-19_01-52-43&uuid=81334dfe-b676-4003-8186-b2ca5c1a4790",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ffb56905",
+    "name": "Radio Capital Classic Rock",
+    "url": "https://StreamCdnF36-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f56945f4",
+    "name": "RADIO NOSTALGIA LIGURIA",
+    "url": "https://rn1.fluidstream.eu/nostalgia_li.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3",
+    "tags": []
+  },
+  {
+    "id": "b264b11b",
+    "name": "Radio Rouge Country Hits",
+    "url": "https://uk1.streamingpulse.com/ssl/RadioRougeCountry",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1a87c385",
+    "name": "Italo Sound Radio",
+    "url": "https://icecast.italosound.com/italosound",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e1b78074",
+    "name": "R101 New Music Friday",
+    "url": "https://icy.unitedradio.it/R101NewMusicFriday.aac",
+    "tags": []
+  },
+  {
+    "id": "14eb8eb0",
+    "name": "Radio Hit FM",
+    "url": "https://stream1.xdevel.com/audio0s975632-244/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "7b43adf4",
+    "name": "RADIO PRECISA I più trasmessi dal 1975 ad oggi",
+    "url": "https://rprecisa.radioca.st/radioprecisa",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "47094be8",
+    "name": "united music piano",
+    "url": "https://icy.unitedradio.it/um077.mp3",
+    "tags": []
+  },
+  {
+    "id": "f81a4c45",
+    "name": "Radio JukeBox",
+    "url": "https://stream4.xdevel.com/audio0s975889-474/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "697846c6",
+    "name": "Radio Centrale",
+    "url": "https://ice03.fluidstream.net/fluid03_9090.aac",
+    "tags": []
+  }
+]

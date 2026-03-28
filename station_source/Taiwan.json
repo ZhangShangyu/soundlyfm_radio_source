@@ -1,0 +1,402 @@
+[
+  {
+    "id": "9ff7cdba",
+    "name": "臺北電台",
+    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4da1d940",
+    "name": "中央廣播電台",
+    "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a5900f8e",
+    "name": "TAIWAN LOUNGE RADIO",
+    "url": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "31e06f62",
+    "name": "教育廣播電臺-臺北總臺FM臺",
+    "url": "https://cast.ner.gov.tw/1",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8c6d4cee",
+    "name": "正聲廣播電台FM104",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "09876298",
+    "name": "臺北電台AM",
+    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "8c493dc6",
+    "name": "教育廣播電臺-臺北總臺AM臺",
+    "url": "https://cast.ner.gov.tw/2",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "6d45e3a9",
+    "name": "佳音經典音樂網",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9db47edb",
+    "name": "台北古典廣播",
+    "url": "https://stream-179.zeno.fm/w66d3dp6ynhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3NjZkM2RwNnluaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWlVyRExtd0hRTUdzNVBDWUNjbmlYZyIsImlhdCI6MTc2MzExNTg3MCwiZXhwIjoxNzYzMTE1OTMwfQ.Ka24N4h4O7U8OtLIgs5g4k0oujGL7etKhKNdvPSvAE8",
+    "tags": []
+  },
+  {
+    "id": "871d1671",
+    "name": "Phate",
+    "url": "https://stream.phate.io/phateio.mp3",
+    "tags": []
+  },
+  {
+    "id": "6c8ba38e",
+    "name": "佳音電台",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "1d129dab",
+    "name": "民本電台-2",
+    "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e74984a1",
+    "name": "Bravo FM 台北都會音樂台",
+    "url": "https://onair.bravo913.com.tw:9130/live.mp3",
+    "tags": []
+  },
+  {
+    "id": "ce1e259d",
+    "name": "Classical 古典音樂台 FM 97.7",
+    "url": "https://onair.family977.com.tw:8977/live.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4b622c18",
+    "name": "桃園GO GO104.3",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "3546c8ef",
+    "name": "民本電台-1",
+    "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0b0cf8b7",
+    "name": "Taiwan Plus",
+    "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "8fff5de4",
+    "name": "教育廣播電臺-高雄分臺",
+    "url": "https://cast.ner.gov.tw/5",
+    "tags": []
+  },
+  {
+    "id": "954c24be",
+    "name": "Needs Radio 全球華語廣播網",
+    "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "6884650e",
+    "name": "鳳鳴廣播電台1台",
+    "url": "https://am1161.ddns.net:9005/stream.ogg",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8fe5f429",
+    "name": "台海之聲",
+    "url": "https://satellitepull.cnr.cn/live/wxzhzs/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174761774475052&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+    "tags": []
+  },
+  {
+    "id": "26ea9502",
+    "name": "鳳鳴廣播電台2台",
+    "url": "https://am981.ddns.net:9005/stream.ogg",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "9e3ca79a",
+    "name": "警察廣播電臺 - 全國治安交通網 FM 104.9",
+    "url": "https://stream.pbs.gov.tw/live/PBS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "818991a6",
+    "name": "正聲綜合",
+    "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "ad00eade",
+    "name": "教育廣播電臺-彰化分臺FM",
+    "url": "https://cast.ner.gov.tw/4",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "10470071",
+    "name": "教育廣播電臺-臺東分臺FM-1",
+    "url": "https://cast.ner.gov.tw/6",
+    "tags": []
+  },
+  {
+    "id": "79cf9b9c",
+    "name": "Stars RADIO星蹤之愛廣播網",
+    "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "e35823c8",
+    "name": "教育廣播電臺-花蓮分臺FM-2",
+    "url": "https://cast.ner.gov.tw/9",
+    "tags": []
+  },
+  {
+    "id": "75bbac0e",
+    "name": "中國華藝廣播公司 AM873",
+    "url": "https://lhttp-hw.qtfm.cn/live/20500139/64k.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "da3625d3",
+    "name": "教育廣播電臺-臺東分臺FM-2",
+    "url": "https://cast.ner.gov.tw/7",
+    "tags": []
+  },
+  {
+    "id": "2f34a755",
+    "name": "教育廣播電臺-花蓮分臺FM-1",
+    "url": "https://cast.ner.gov.tw/8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "51bfc848",
+    "name": "TAIWAN LOUNGE RADIO",
+    "url": "https://azuracast.conceptradio.fr:8030/stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "e50ef0ad",
+    "name": "NER教育電臺",
+    "url": "https://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "0c97de45",
+    "name": "海峽之聲廣播電台",
+    "url": "https://ls.qingting.fm/live/1744.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0191fb29",
+    "name": "Boss Online Radio",
+    "url": "https://n08.radiojar.com/ehzvurp9tv8uv?rj-ttl=5&rj-tok=AAABmoLi6ckAdoDNwZAbIScAzg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "94da8f35",
+    "name": "微微笑廣播網 - 桃園風城廣播電台FM98.7",
+    "url": "https://cast.tunzilla.com/http://61.220.245.236:8080",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9c556de7",
+    "name": "福建東南廣播",
+    "url": "https://live.ximalaya.com/radio-first-page-app/live/788/64.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "3878d89b",
+    "name": "警察廣播電臺 - 臺北分臺 FM 94.3",
+    "url": "https://stream.pbs.gov.tw/live/TPS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "b7e7968c",
+    "name": "B&B RADIO 幫幫廣播網",
+    "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "456b308c",
+    "name": "警察廣播電臺 - 高雄分臺 FM 93.1",
+    "url": "https://stream.pbs.gov.tw/live/KSS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "8135c1b7",
+    "name": "世新廣播電台-1",
+    "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "38051963",
+    "name": "大樹下 FM90.5",
+    "url": "https://cast.tunzilla.com/http://60.250.148.112:8000/live",
+    "tags": []
+  },
+  {
+    "id": "a3749732",
+    "name": "佳音音樂網",
+    "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "2f3956f2",
+    "name": "神州之聲",
+    "url": "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5",
+    "tags": []
+  },
+  {
+    "id": "173fcfb5",
+    "name": "世新廣播電台-2",
+    "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "11a648a3",
+    "name": "警察廣播電臺 - 臺中分臺 FM 94.5",
+    "url": "https://stream.pbs.gov.tw/live/TCS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "7496ead0",
+    "name": "城市廣播網-大苗栗廣播",
+    "url": "https://fm983.cityfm.com.tw:8083/983",
+    "tags": []
+  },
+  {
+    "id": "fbf9124c",
+    "name": "警察廣播電臺 - 新竹分臺 AM 1512",
+    "url": "https://stream.pbs.gov.tw/live/SCS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "ec9d1f9b",
+    "name": "城市廣播網-南投廣播",
+    "url": "https://fm997.cityfm.com.tw:8083/997",
+    "tags": []
+  },
+  {
+    "id": "0879bd85",
+    "name": "警察廣播電臺 - 臺南分臺 AM 1314",
+    "url": "https://stream.pbs.gov.tw/live/TNS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "b1946dc7",
+    "name": "警察廣播電臺 - 臺東分臺 FM 94.3",
+    "url": "https://stream.pbs.gov.tw/live/TTS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "da6f895c",
+    "name": "警察廣播電臺 - 花蓮分臺 FM 94.3",
+    "url": "https://stream.pbs.gov.tw/live/HLS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "839a0823",
+    "name": "CanCheers",
+    "url": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "f428a17a",
+    "name": "警察廣播電臺 - 宜蘭分臺 FM 101.3",
+    "url": "https://stream.pbs.gov.tw/live/ELS/playlist.m3u8",
+    "tags": [
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "46f7f799",
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "tags": []
+  }
+]

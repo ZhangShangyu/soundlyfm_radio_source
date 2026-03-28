@@ -1,0 +1,265 @@
+[
+  {
+    "id": "565360ea",
+    "name": "RequestRadio เพื่อชีวิต",
+    "url": "https://cast.requestradio.in.th:830/stream/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d128bbaf",
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "tags": []
+  },
+  {
+    "id": "807903f3",
+    "name": "Thai PBS TV",
+    "url": "https://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "15f59c1b",
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web3rd.cdn.byteark.com/stream/1/",
+    "tags": []
+  },
+  {
+    "id": "bc294a51",
+    "name": "BKK.FM",
+    "url": "https://rsas.bkk.fm/radio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6fdd1187",
+    "name": "Greenweve",
+    "url": "https://atimeonline3.smartclick.co.th/green",
+    "tags": []
+  },
+  {
+    "id": "d586aed8",
+    "name": "106 Family News Radio",
+    "url": "https://radio11.plathong.net/7138/;stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "65af946a",
+    "name": "Flex 104.5",
+    "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a4022500",
+    "name": "Bluewave 97",
+    "url": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "80342e6c",
+    "name": "บ้านธัมมะ",
+    "url": "https://radio10.plathong.net/7238/;stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "c9789d2c",
+    "name": "คลื่นความคิด",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "e2b71e67",
+    "name": "สังฆทานธรรม",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "tags": []
+  },
+  {
+    "id": "76b8ca77",
+    "name": "Top News (Live1 - Low 240p)",
+    "url": "https://live.topnews.co.th/hls/topnews_a_240.m3u8",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "39a4532b",
+    "name": "GREENWAVE",
+    "url": "https://atimeonline2.smartclick.co.th/green",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7b0a9c55",
+    "name": "106.5 Green Wave",
+    "url": "https://atimeonline.smartclick.co.th/green",
+    "tags": []
+  },
+  {
+    "id": "cbcf83e6",
+    "name": "ALTV (Low 144p)",
+    "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_144p/index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a942000e",
+    "name": "ThaiRadio 96.5 thinking",
+    "url": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c127907e",
+    "name": "Eazy FM 105.5",
+    "url": "https://28153.live.streamtheworld.com:443/EAZYFM_1055AAC.aac",
+    "tags": []
+  },
+  {
+    "id": "049d02a1",
+    "name": "EFM",
+    "url": "https://atimeonline3.smartclick.co.th/efm",
+    "tags": []
+  },
+  {
+    "id": "4b97b2ff",
+    "name": "Chili Radio Thailand",
+    "url": "https://stream.chiliradio.app/chiliclassics",
+    "tags": []
+  },
+  {
+    "id": "4bfc110a",
+    "name": "Hitz Thailand (Formerly 95.5)",
+    "url": "https://22253.live.streamtheworld.com/HITZ_955AAC_128.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b3e30136",
+    "name": "วัดป่าไทรงาม",
+    "url": "https://radio10.plathong.net/7110/;stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "a09b8307",
+    "name": "talay 90.25FM",
+    "url": "https://stream.talay.asia/talay",
+    "tags": []
+  },
+  {
+    "id": "cd301309",
+    "name": "FM ONE",
+    "url": "https://apps4.mcot.net/stream578.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c9f0d39e",
+    "name": "วิทยุเสียงอิสลาม",
+    "url": "https://radio12.plathong.net/7234/;stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "1cc92be5",
+    "name": "Radio Samui Online",
+    "url": "https://stream.mixadance.fm/radiosamui",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "596fb465",
+    "name": "FM 91",
+    "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "030a36a4",
+    "name": "Goodtime 88.5",
+    "url": "https://22243.live.streamtheworld.com/GOODTIME_RADIOAAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "93fe76bc",
+    "name": "Fabulous 103",
+    "url": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "8a05d752",
+    "name": "Keangun Radio เขียนกันเรดิโอ ฟังเพลงสบายสไตล์ร้านกาแฟ ร้านเหล้า ร้านนั่งชิล",
+    "url": "https://radio9.plathong.net/7054/;stream.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c53ebfc8",
+    "name": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
+    "url": "https://radio10.plathong.net/7590/;stream.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fcb8dde4",
+    "name": "TofuPop Radio",
+    "url": "https://22283.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7bc17c29",
+    "name": "Phuket LIVE 89.5",
+    "url": "https://4118.radio4.thzhost.com/",
+    "tags": []
+  },
+  {
+    "id": "74d027ed",
+    "name": "97qfm",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8610",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "dd6fdd30",
+    "name": "MCOT Radio Chiangmai FM100.75",
+    "url": "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "1848fa84",
+    "name": "MCOT Chumphon (Amphoe Lang Suan) FM 104.75",
+    "url": "https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3498a3e8",
+    "name": "banmai radio",
+    "url": "https://radio10.plathong.net/7590/;stream.mp3?type=http",
+    "tags": []
+  },
+  {
+    "id": "104c34aa",
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "tags": []
+  }
+]

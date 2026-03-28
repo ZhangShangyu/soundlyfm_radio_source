@@ -1,0 +1,2765 @@
+[
+  {
+    "id": "f8246dec",
+    "name": "France Info",
+    "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "1904e842",
+    "name": "RMC FR",
+    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e4639ca6",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "c22f453d",
+    "name": "Jazz Radio Blues",
+    "url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5bb61810",
+    "name": "RFI Monde",
+    "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "f2d8d26d",
+    "name": "France Info",
+    "url": "https://icecast.radiofrance.fr/franceinfo-hifi.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "871b09c7",
+    "name": "France Culture",
+    "url": "https://icecast.radiofrance.fr/franceculture-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "5d1be8e2",
+    "name": "RTL",
+    "url": "https://streamer-04.rtl.fr/rtl-1-44-128",
+    "tags": []
+  },
+  {
+    "id": "88432f90",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "f4ca2e48",
+    "name": "Jazz Radio",
+    "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9786dcab",
+    "name": "FIP",
+    "url": "https://icecast.radiofrance.fr/fip-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ed69897e",
+    "name": "RTL2",
+    "url": "https://streamer-01.rtl.fr/rtl2-1-44-128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "01b7619c",
+    "name": "EuroDance 90 radio",
+    "url": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3d419f88",
+    "name": "100% Radio 80",
+    "url": "https://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "fbb89daf",
+    "name": "Radio Meuh",
+    "url": "https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c081c942",
+    "name": "La Grosse Radio Reggae",
+    "url": "https://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "57f35db4",
+    "name": "Radio Nova",
+    "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c1bbfdc",
+    "name": "Jazz Radio Classic Jazz",
+    "url": "https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e9ae690b",
+    "name": "Sud Radio",
+    "url": "https://ice.creacast.com/sudradio",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "03db6eab",
+    "name": "Chante France",
+    "url": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "b6f749ef",
+    "name": "Fun Radio",
+    "url": "https://streamer-01.rtl.fr/fun-1-44-128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0a8c52cf",
+    "name": "France Musique",
+    "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4112fdac",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-lofi.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "139880ad",
+    "name": "Latina Salsa",
+    "url": "https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3",
+    "tags": []
+  },
+  {
+    "id": "82b1cfa5",
+    "name": "100% Radio Hit",
+    "url": "https://100radio-hit.ice.infomaniak.ch/100radio-hit-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "e7737e88",
+    "name": "BFM radio",
+    "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c1d1b8f1",
+    "name": "Jazz Radio Funk",
+    "url": "https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "edb1805c",
+    "name": "Europe 1",
+    "url": "https://europe1.lmn.fm/europe1.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cac04675",
+    "name": "ABC Lounge Radio",
+    "url": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "236ce20b",
+    "name": "Chante France 80's",
+    "url": "https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "774adfd3",
+    "name": "Generations R&B",
+    "url": "https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "7eed33bd",
+    "name": "La Grosse Radio Métal",
+    "url": "https://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5a9445b1",
+    "name": "France Musique",
+    "url": "https://icecast.radiofrance.fr/francemusique-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "f9448dbd",
+    "name": "Latina Reggaeton",
+    "url": "https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3",
+    "tags": []
+  },
+  {
+    "id": "51db4b48",
+    "name": "FIP Jazz",
+    "url": "https://icecast.radiofrance.fr/fipjazz-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "942d8f82",
+    "name": "Jazz Radio Only Women",
+    "url": "https://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4e1dff91",
+    "name": "France Musique | Classique Easy",
+    "url": "https://icecast.radiofrance.fr/francemusiqueeasyclassique-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "100f1441",
+    "name": "RTL2",
+    "url": "https://streamer-02.rtl.fr/rtl2-1-44-128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4d147fee",
+    "name": "Generations Rap U.S",
+    "url": "https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "b5a24107",
+    "name": "法国国际广播电台",
+    "url": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
+    "tags": []
+  },
+  {
+    "id": "e65cfc22",
+    "name": "France Musique La Baroque",
+    "url": "https://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "24013b61",
+    "name": "France Inter",
+    "url": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance",
+    "tags": []
+  },
+  {
+    "id": "de069612",
+    "name": "Kiss FM (de Saint-Tropez à Monaco)",
+    "url": "https://kissfm.ice.infomaniak.ch/kissfm-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "d00b8f0b",
+    "name": "Generations Rap FR Gold",
+    "url": "https://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3",
+    "tags": []
+  },
+  {
+    "id": "c84354ad",
+    "name": "Latina",
+    "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "120d3957",
+    "name": "Jazz Radio Soul",
+    "url": "https://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "8f4eaae5",
+    "name": "RFM",
+    "url": "https://rfm.lmn.fm/rfm.mp3",
+    "tags": []
+  },
+  {
+    "id": "0fcbf940",
+    "name": "Beur FM",
+    "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "2ea782b9",
+    "name": "FIP Reggae",
+    "url": "https://icecast.radiofrance.fr/fipreggae-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "20a6c1c1",
+    "name": "Jazz Radio Piano Jazz",
+    "url": "https://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0dac347e",
+    "name": "france info (lofi)",
+    "url": "https://icecast.radiofrance.fr/franceinfo-lofi.mp3",
+    "tags": []
+  },
+  {
+    "id": "ddc05d78",
+    "name": "OUI FM",
+    "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6b6d5b2e",
+    "name": "Generation Soul Disco Funk",
+    "url": "https://gestream.fr/g-radio-hd.mp3",
+    "tags": []
+  },
+  {
+    "id": "355d494e",
+    "name": "Jazz Radio Latin Jazz",
+    "url": "https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4efaaaa3",
+    "name": "Chante France 70's",
+    "url": "https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "95b82f65",
+    "name": "Urban Hit Maroc",
+    "url": "https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3",
+    "tags": []
+  },
+  {
+    "id": "1780c8ae",
+    "name": "FIP Electro",
+    "url": "https://icecast.radiofrance.fr/fipelectro-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "6a3b15c8",
+    "name": "Sud Radio",
+    "url": "https://ice.creacast.com/sudradio_aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "68c1bcc5",
+    "name": "B4B Deep House",
+    "url": "https://eu10.fastcast4u.com:8120/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3dcad127",
+    "name": "Alternative Radio",
+    "url": "https://listen.radioking.com/radio/182263/stream/224140",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "19c322dc",
+    "name": "Europe 2",
+    "url": "https://europe2.lmn.fm/europe2.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "de172bfd",
+    "name": "FIP autour de l’électro",
+    "url": "https://icecast.radiofrance.fr/fipelectro-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "0c8844f0",
+    "name": "Chante France 60's",
+    "url": "https://chantefrance60s.ice.infomaniak.ch/chantefrance60s-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "ac31e019",
+    "name": "RMC Info Talk Sport ",
+    "url": "https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aggregator=RMC_audio_web",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4e883f6d",
+    "name": "RFI Persian",
+    "url": "https://rfienpersan64k.ice.infomaniak.ch/rfienpersan-64k.mp3",
+    "tags": []
+  },
+  {
+    "id": "36815c56",
+    "name": "FIP Rock",
+    "url": "https://icecast.radiofrance.fr/fiprock-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "77d65cce",
+    "name": "Generations Reggae",
+    "url": "https://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "4c04730e",
+    "name": "Chante France Emotion",
+    "url": "https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "97eef2cb",
+    "name": "La Grosse Radio Rock",
+    "url": "https://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7aae839f",
+    "name": "Jazz Radio Lounge",
+    "url": "https://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "b47e8336",
+    "name": "Algorythme Drum & Bass",
+    "url": "https://radio9.pro-fhi.net/flux-endvtlna/stream",
+    "tags": []
+  },
+  {
+    "id": "5e1b2e7a",
+    "name": "Jazzradio.fr Jazz & Classique",
+    "url": "https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dab6555c",
+    "name": "Skyrock Klassics",
+    "url": "https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+    "tags": []
+  },
+  {
+    "id": "1a162afd",
+    "name": "FM 80 Funky Music",
+    "url": "https://listen.radioking.com/radio/467555/stream/523739",
+    "tags": []
+  },
+  {
+    "id": "c3c9b427",
+    "name": "FIP Groove",
+    "url": "https://icecast.radiofrance.fr/fipgroove-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "6a795bf0",
+    "name": "Chante France Nouveautés",
+    "url": "https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-96.aac",
+    "tags": []
+  },
+  {
+    "id": "6695c4af",
+    "name": "ABC Lounge Jazz",
+    "url": "https://eu1.fastcast4u.com/proxy/kpmxz/stream",
+    "tags": []
+  },
+  {
+    "id": "2ca182e6",
+    "name": "France Maghreb 2 Province",
+    "url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "b8fe0bcd",
+    "name": "123 All Classic Rock",
+    "url": "https://str4uice.streamakaci.com/4uclassicrock.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e9e64acb",
+    "name": "France Musique | La Jazz",
+    "url": "https://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9c0c1203",
+    "name": "France Bleu Roussillon",
+    "url": "https://icecast.radiofrance.fr/fbroussillon-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "f1d1d833",
+    "name": "RFI Anglais - English",
+    "url": "https://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "76ba87ce",
+    "name": "Tropiques FM",
+    "url": "https://listen.radioking.com/radio/8916/stream/19088",
+    "tags": []
+  },
+  {
+    "id": "50975390",
+    "name": "Generations Reggaeton",
+    "url": "https://gene-rgton.ice.infomaniak.ch/generations-rgton.mp3",
+    "tags": []
+  },
+  {
+    "id": "e2c320bd",
+    "name": "FIP Musiques du monde",
+    "url": "https://icecast.radiofrance.fr/fipworld-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f2abbfbb",
+    "name": "France Bleu Paris",
+    "url": "https://icecast.radiofrance.fr/fb1071-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "a2e80672",
+    "name": "RFI Kiswahili",
+    "url": "https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2e9b0071",
+    "name": "France Musique | Concerts Radio France",
+    "url": "https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8eb1b19a",
+    "name": "France Culture",
+    "url": "https://icecast.radiofrance.fr/franceculture-lofi.mp3",
+    "tags": []
+  },
+  {
+    "id": "c31b1677",
+    "name": "Generations Rap U.S Gold",
+    "url": "https://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3",
+    "tags": []
+  },
+  {
+    "id": "866d99c3",
+    "name": "Radio Heavy Metal",
+    "url": "https://manager7.streamradio.fr:1435/stream",
+    "tags": []
+  },
+  {
+    "id": "d4053597",
+    "name": "France Bleu Nord",
+    "url": "https://icecast.radiofrance.fr/fbnord-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "4b1d2b02",
+    "name": "Jazz Radio Manouche",
+    "url": "https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "af724545",
+    "name": "RFM POP-ROCK",
+    "url": "https://rfm.lmn.fm/rfm-wr10.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ded2ee06",
+    "name": "FIP autour du groove",
+    "url": "https://icecast.radiofrance.fr/fipgroove-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fe23d547",
+    "name": "Africa N°1",
+    "url": "https://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+    "tags": []
+  },
+  {
+    "id": "42d13026",
+    "name": "Generations",
+    "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "eab8337a",
+    "name": "Radio Nova Vintage",
+    "url": "https://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "61984e12",
+    "name": "Radio Vibration",
+    "url": "https://vibration.ice.infomaniak.ch/vibration-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "1d6ab1ac",
+    "name": "Jazz Radio Ladies & Crooners",
+    "url": "https://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c14ad604",
+    "name": "Jazz Radio Black Music",
+    "url": "https://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4234b8b9",
+    "name": "hitfm reunion 974",
+    "url": "https://hitfm.ice.infomaniak.ch/hitfm-192.mp3",
+    "tags": []
+  },
+  {
+    "id": "e0b0eb2c",
+    "name": "Reggae.fr",
+    "url": "https://listen.radioking.com/radio/50473/stream/87415",
+    "tags": []
+  },
+  {
+    "id": "4bb176a7",
+    "name": "Generations Funk",
+    "url": "https://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3",
+    "tags": []
+  },
+  {
+    "id": "2aaf49ab",
+    "name": "Jazz Radio Saxo Jazz",
+    "url": "https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "03fd1424",
+    "name": "FIP autour du reggae",
+    "url": "https://icecast.radiofrance.fr/fipreggae-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "825bde73",
+    "name": "MRADIO FRANCE",
+    "url": "https://mfm.ice.infomaniak.ch/mfm-64.aac",
+    "tags": []
+  },
+  {
+    "id": "d0dfac7f",
+    "name": "Generations Rap FR",
+    "url": "https://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "b936e6aa",
+    "name": "Radio Choco",
+    "url": "https://listen.radioking.com/radio/669715/stream/733765",
+    "tags": []
+  },
+  {
+    "id": "b762fedf",
+    "name": "BFM Business",
+    "url": "https://audio.bfmtv.com/bfmbusiness_128.mp3",
+    "tags": []
+  },
+  {
+    "id": "b3425218",
+    "name": "Latina bachata",
+    "url": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3",
+    "tags": []
+  },
+  {
+    "id": "6b294360",
+    "name": "Skyrock Hits",
+    "url": "https://icecast.skyrock.net/s/hit_skyrock_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+    "tags": []
+  },
+  {
+    "id": "edb2e27d",
+    "name": "FIP Pop",
+    "url": "https://icecast.radiofrance.fr/fippop-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "99f67a8e",
+    "name": "TSF Jazz",
+    "url": "https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "0eb6e320",
+    "name": "Allzic Radio Dance Floor",
+    "url": "https://allzic07.ice.infomaniak.ch/allzic07.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a1993b90",
+    "name": "Alouette",
+    "url": "https://alouette.ice.infomaniak.ch/alouette-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "125d2494",
+    "name": "Beur FM",
+    "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.aac",
+    "tags": []
+  },
+  {
+    "id": "7e583fff",
+    "name": "BFM Business ",
+    "url": "https://audio.bfmtv.com/bfmbusiness_128.mp3?aw_0_1st.playerId=BFMBusiness_audio_web&aggregator=BFMBusiness_audio_web",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8341ceaf",
+    "name": "LOVE RADIO Only Love Songs 70s80s90s - www.love.radio",
+    "url": "https://loveradio.streamingmedia.it/france",
+    "tags": []
+  },
+  {
+    "id": "eb344669",
+    "name": "Jazz Radio Contemporary Jazz",
+    "url": "https://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1ff56c83",
+    "name": "MRadio Disney",
+    "url": "https://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3",
+    "tags": []
+  },
+  {
+    "id": "1d4c25e3",
+    "name": "Allzic Radio Chill Out",
+    "url": "https://allzic53.ice.infomaniak.ch/allzic53.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8047f5f6",
+    "name": "Allzic Radio Latino",
+    "url": "https://allzic39.ice.infomaniak.ch/allzic39.mp3",
+    "tags": []
+  },
+  {
+    "id": "af90dcb9",
+    "name": "Vibration 80's",
+    "url": "https://vibration80s.ice.infomaniak.ch/vibration80s.mp3",
+    "tags": []
+  },
+  {
+    "id": "281ed7cf",
+    "name": "RFM Collector",
+    "url": "https://rfm.lmn.fm/rfm-wr1.mp3",
+    "tags": []
+  },
+  {
+    "id": "6a2e5d30",
+    "name": "France Bleu Pays de Savoie",
+    "url": "https://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "6d67de19",
+    "name": "ODS Radio",
+    "url": "https://ods.ice.infomaniak.ch/ods-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "1f18010c",
+    "name": "Espace Dance 90",
+    "url": "https://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "3e11d571",
+    "name": "Kiss FM (de Toulon à Marseille)",
+    "url": "https://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "2f52256c",
+    "name": "France Bleu Hérault",
+    "url": "https://icecast.radiofrance.fr/fbherault-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "2a7a0e43",
+    "name": "MC doualiya",
+    "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "3743c536",
+    "name": "Chillofi radio",
+    "url": "https://azc.rdstream-5677.dez.ovh/listen/chillofi/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "ed9d8184",
+    "name": "Cinemix",
+    "url": "https://kathy.torontocast.com:1825/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6219326f",
+    "name": "Generations Soul",
+    "url": "https://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3",
+    "tags": []
+  },
+  {
+    "id": "10e94c19",
+    "name": "Latina Kizomba",
+    "url": "https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3",
+    "tags": []
+  },
+  {
+    "id": "eacc9ee9",
+    "name": "France Musique La Contemporaine",
+    "url": "https://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "085f3722",
+    "name": "France Musique Classique Plus",
+    "url": "https://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2ca46b2e",
+    "name": "Radio VINCI Autoroutes 107.7 Sud Ouest",
+    "url": "https://str0.creacast.com/radio_vinci_autoroutes_3",
+    "tags": []
+  },
+  {
+    "id": "f3061d3c",
+    "name": "Europe 2 Radio Officiel",
+    "url": "https://europe2.lmn.fm/europe2-57600/playlist.m3u8?aw_0_1st.playerid=lagardereappEurope2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "02fe3a62",
+    "name": "Allzic Radio Reggae",
+    "url": "https://allzic43.ice.infomaniak.ch/allzic43.mp3",
+    "tags": []
+  },
+  {
+    "id": "1c53bb6e",
+    "name": "Radio Mélodie",
+    "url": "https://sc.creacast.com/melodie",
+    "tags": []
+  },
+  {
+    "id": "dd3faec3",
+    "name": "Allzic Radio Blues",
+    "url": "https://allzic09.ice.infomaniak.ch/allzic09.mp3",
+    "tags": []
+  },
+  {
+    "id": "055b60aa",
+    "name": "Allzic Radio 2000s",
+    "url": "https://allzic49.ice.infomaniak.ch/allzic49.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0022c47a",
+    "name": "M Radio",
+    "url": "https://mfm.ice.infomaniak.ch/mfm-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "33fdad35",
+    "name": "Radio Courtoisie",
+    "url": "https://ice.creacast.com/radio-courtoisie",
+    "tags": []
+  },
+  {
+    "id": "8fe98b7e",
+    "name": "Voltage",
+    "url": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "12be6ac9",
+    "name": "Radio Espérance Parole de Dieu",
+    "url": "https://esperance.streamakaci.com/parole-de-dieu.mp3",
+    "tags": []
+  },
+  {
+    "id": "6ebce578",
+    "name": "RFI Tieng Viet",
+    "url": "https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3",
+    "tags": []
+  },
+  {
+    "id": "6a3873dd",
+    "name": "France Info",
+    "url": "https://icecast.radiofrance.fr/franceinfo-midfi.aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "260918f5",
+    "name": "France Musique | Classique Plus",
+    "url": "https://icecast.radiofrance.fr/francemusiqueclassiqueplus-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bbbc0f6c",
+    "name": "Galaxie New Wave",
+    "url": "https://listen.radioking.com/radio/15685/stream/29078",
+    "tags": []
+  },
+  {
+    "id": "707c571c",
+    "name": "France Musique La Jazz",
+    "url": "https://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a78f2b75",
+    "name": "Radio Classique",
+    "url": "https://str0.creacast.com/classique1",
+    "tags": []
+  },
+  {
+    "id": "7ba520ba",
+    "name": "franceinfo",
+    "url": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8?id=radiofrance",
+    "tags": []
+  },
+  {
+    "id": "b9ba2e1e",
+    "name": "Magnum La Radio",
+    "url": "https://str0.creacast.com/magnum",
+    "tags": []
+  },
+  {
+    "id": "c548ef6d",
+    "name": "Jazz Radio Stax and Motown",
+    "url": "https://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2fc43f07",
+    "name": "RFI Musique",
+    "url": "https://rfimusiquemonde64k.ice.infomaniak.ch/rfimusiquemonde-64k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d7a01f20",
+    "name": "Allzic Radio 80s",
+    "url": "https://allzic08.ice.infomaniak.ch/allzic08.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "db2cf087",
+    "name": "FUN Radio",
+    "url": "https://streamer-03.rtl.fr/fun-1-44-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=fun&aw_0_1st.program=fun",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "59ed83e3",
+    "name": "Jazz Radio Jazzy French",
+    "url": "https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "03d7f3d9",
+    "name": "Tout nouveau, tout FIP",
+    "url": "https://icecast.radiofrance.fr/fipnouveautes-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9e298c66",
+    "name": "Starsystem FM (Gérard)",
+    "url": "https://radiosurle.net:8765/radiogerard",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0e46f16b",
+    "name": "Generations R&B Gold",
+    "url": "https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3",
+    "tags": []
+  },
+  {
+    "id": "1987d94f",
+    "name": "Jazz Radio Groove",
+    "url": "https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bf496296",
+    "name": "Latina fiesta",
+    "url": "https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "82f3328c",
+    "name": "Wit FM",
+    "url": "https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "375b800a",
+    "name": "Fun Radio France",
+    "url": "https://streamer-04.rtl.fr/fun-1-44-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=fun&aw_0_1st.program=fun&listen=webCwsBCggNCQgLDQUGBAcGBg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bf7b1137",
+    "name": "Jazz Radio Gospel",
+    "url": "https://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ac6aac74",
+    "name": "Generations Reggaeton",
+    "url": "https://gene-rgton.ice.infomaniak.ch/generations-rgton.aac",
+    "tags": []
+  },
+  {
+    "id": "b822d1a1",
+    "name": "FIP tout nouveau, tout FIP",
+    "url": "https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ee83c09e",
+    "name": "Allzic Radio Deep Disco",
+    "url": "https://allzic31.ice.infomaniak.ch/allzic31.mp3",
+    "tags": []
+  },
+  {
+    "id": "5f8b6122",
+    "name": "Le Bon Mix HiFi Flac 1411 Kbps",
+    "url": "https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c35c12c",
+    "name": "Djam Radio - AAC192LC",
+    "url": "https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "50ae708f",
+    "name": "Radio Espérance Grégorien",
+    "url": "https://esperance.streamakaci.com/gregorien.mp3",
+    "tags": []
+  },
+  {
+    "id": "20a3978e",
+    "name": "RFM - La Radio Couleur",
+    "url": "https://rfm.lmn.fm/rfm-wr3.aac",
+    "tags": []
+  },
+  {
+    "id": "b264fc94",
+    "name": "Africa N°1",
+    "url": "https://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "0a93523a",
+    "name": "FIP (no pub)",
+    "url": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8",
+    "tags": []
+  },
+  {
+    "id": "931588f7",
+    "name": "Free Dom 2",
+    "url": "https://freedomice.streamakaci.com/freedom2.mp3",
+    "tags": []
+  },
+  {
+    "id": "760f963b",
+    "name": "OUI FM LES SLOWS DU ROCK",
+    "url": "https://ouifmlesslowsdurock.ice.infomaniak.ch/ouifmslowrock.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4e6ced9d",
+    "name": "Record Goa Psy",
+    "url": "https://radiorecord.hostingradio.ru/goa96.aacp",
+    "tags": []
+  },
+  {
+    "id": "82c6eb55",
+    "name": "France Bleu Provence",
+    "url": "https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=radiofrance",
+    "tags": []
+  },
+  {
+    "id": "b08120b9",
+    "name": "Voltage 80's",
+    "url": "https://voltage80s.ice.infomaniak.ch/voltage80s-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "5794946f",
+    "name": "France Musique Opéra",
+    "url": "https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "9b056f6d",
+    "name": "Metal Invasion Radio",
+    "url": "https://radio.metal-invasion.fr/radio/8000/stream96",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e1e69f19",
+    "name": "Latcho Flamenco",
+    "url": "https://listen.radioking.com/radio/109486/stream/148513",
+    "tags": []
+  },
+  {
+    "id": "94942433",
+    "name": "France Musique Classique Easy",
+    "url": "https://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f90feed6",
+    "name": "Urban Hit - Latino",
+    "url": "https://urbanhitlatino.ice.infomaniak.ch/urbanhitreggeaton-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "068e3434",
+    "name": "📺 RFI Monde",
+    "url": "https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "3bdf0e32",
+    "name": "Jazz Radio Jazz & Cinema",
+    "url": "https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d61e8790",
+    "name": "France Bleu Gironde",
+    "url": "https://icecast.radiofrance.fr/fbgironde-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "9026b23a",
+    "name": "Mouv'",
+    "url": "https://icecast.radiofrance.fr/mouv-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b4c8b151",
+    "name": "FIP Hip Hop",
+    "url": "https://icecast.radiofrance.fr/fiphiphop-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cb2e0eb2",
+    "name": "Radio 17bis",
+    "url": "https://listen.radioking.com/radio/444/stream/1754",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2807eba3",
+    "name": "Jazz Radio New Orleans",
+    "url": "https://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "728da36a",
+    "name": "Skyrock 100% FRANÇAIS ",
+    "url": "https://icecast.skyrock.net/s/francais_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+    "tags": []
+  },
+  {
+    "id": "4a27eba2",
+    "name": "OUI FM ALTERNATIF",
+    "url": "https://ouifm2.ice.infomaniak.ch/ouifm2.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "debf2093",
+    "name": "OUI FM BLUES'N'ROCK",
+    "url": "https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6206ab86",
+    "name": "M Radio 100% Goldman",
+    "url": "https://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3",
+    "tags": []
+  },
+  {
+    "id": "89c96fec",
+    "name": "Allzic Radio Funk",
+    "url": "https://allzic08.ice.infomaniak.ch/allzic11.mp3",
+    "tags": []
+  },
+  {
+    "id": "d87206d7",
+    "name": "Allzik Disney ",
+    "url": "https://allzic52.ice.infomaniak.ch/allzic52.mp3",
+    "tags": []
+  },
+  {
+    "id": "9e6af178",
+    "name": "France Musique Concerts Radio France",
+    "url": "https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "9610dce6",
+    "name": "BlackBox classic US",
+    "url": "https://blackbox-classic-us.ice.infomaniak.ch/blackbox-classic-us.mp3",
+    "tags": []
+  },
+  {
+    "id": "a58765ec",
+    "name": "RFM 100% Français",
+    "url": "https://wr.lmn.fm/rfm-wr11.aac",
+    "tags": []
+  },
+  {
+    "id": "11aee6f0",
+    "name": "Allzic Radio Fitness",
+    "url": "https://allzic13.ice.infomaniak.ch/allzic13.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ef349378",
+    "name": "Voltage 2000",
+    "url": "https://voltage2000.ice.infomaniak.ch/voltage2000-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "746e34e0",
+    "name": "Generations Rap FR Gold",
+    "url": "https://gene-wr06.ice.infomaniak.ch/gene-wr06.aac",
+    "tags": []
+  },
+  {
+    "id": "3413027e",
+    "name": "Allzic Radio Country",
+    "url": "https://allzic32.ice.infomaniak.ch/allzic32.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c33039d7",
+    "name": "Maxi 80",
+    "url": "https://audio1.maxi80.com/",
+    "tags": []
+  },
+  {
+    "id": "bd84f1c1",
+    "name": "LITTORAL FM Perpignan",
+    "url": "https://littoralfmperpignan.ice.infomaniak.ch/littoralfmperpignan.mp3",
+    "tags": []
+  },
+  {
+    "id": "726ed71e",
+    "name": "Radio Scoop Lyon",
+    "url": "https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "63971209",
+    "name": "Le Son Parisien",
+    "url": "https://stream.lesonparisien.com/hi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "717cf822",
+    "name": "Allzic Radio 90s",
+    "url": "https://allzic24.ice.infomaniak.ch/allzic24.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "84b77db4",
+    "name": "OUI FM ROCK 80's",
+    "url": "https://ouifmrock80s.ice.infomaniak.ch/ouifmeighties.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7439ca62",
+    "name": "Jazz Radio Soul Food by DJ Philgood",
+    "url": "https://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b8f694c7",
+    "name": "Radio Espérance Enseignement",
+    "url": "https://esperance.streamakaci.com/enseignement.mp3",
+    "tags": []
+  },
+  {
+    "id": "c6e49e86",
+    "name": "FIP Metal",
+    "url": "https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "07de6577",
+    "name": "A Certain Radio",
+    "url": "https://listen.radioking.com/radio/429209/stream/482870",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c8d3af1",
+    "name": "France Musique La B.O.",
+    "url": "https://icecast.radiofrance.fr/francemusiquelabo-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "f4ad6075",
+    "name": "Radio Espérance Louange",
+    "url": "https://esperance.streamakaci.com/louange.mp3",
+    "tags": []
+  },
+  {
+    "id": "bdd14c64",
+    "name": "Generations Rap U.S",
+    "url": "https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac",
+    "tags": []
+  },
+  {
+    "id": "80eed2b2",
+    "name": "RFI Musique",
+    "url": "https://rfimusiquemonde96k.ice.infomaniak.ch/rfimusiquemonde-96k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1dbca378",
+    "name": "Collines La Radio",
+    "url": "https://collineslaradio.ice.infomaniak.ch/collineslaradio-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "5b1cfbb8",
+    "name": "Generations SlowJam",
+    "url": "https://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3",
+    "tags": []
+  },
+  {
+    "id": "51abacb1",
+    "name": "Radio VINCI Autoroutes 107.7 Ouest Centre",
+    "url": "https://str0.creacast.com/radio_vinci_autoroutes_1",
+    "tags": []
+  },
+  {
+    "id": "24c9bac7",
+    "name": "Allzic Radio 50s",
+    "url": "https://allzic29.ice.infomaniak.ch/allzic29.mp3",
+    "tags": []
+  },
+  {
+    "id": "3139f7dd",
+    "name": "Rock & Folk (rock n folk)",
+    "url": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cf8e18bc",
+    "name": "Espace Dance 90",
+    "url": "https://espace-disco.ice.infomaniak.ch/espace-disco-high.aac",
+    "tags": []
+  },
+  {
+    "id": "7f9499a1",
+    "name": "Djam Radio - Flac 1411 Kbps",
+    "url": "https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "15a7e09e",
+    "name": "RADIO FRANCIA INTERNACIONAL",
+    "url": "https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3",
+    "tags": []
+  },
+  {
+    "id": "81ccf4a2",
+    "name": "badradio 24/7 OG Phonk, Memphis, Houston, Trap & Trill",
+    "url": "https://s2.radio.co/s2b2b68744/listen",
+    "tags": []
+  },
+  {
+    "id": "4868051b",
+    "name": "Allzic Jazz Lounge",
+    "url": "https://allzic03.ice.infomaniak.ch/allzic03.mp3",
+    "tags": []
+  },
+  {
+    "id": "85aeb55a",
+    "name": "KTO Radio",
+    "url": "https://live-radio-kto.akamaized.net/hls/live/2103303-b/KTO/index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "3738b65c",
+    "name": "Jazz Radio Zen Attitude",
+    "url": "https://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "230b44fc",
+    "name": "France Bleu Isère",
+    "url": "https://icecast.radiofrance.fr/fbisere-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "e9e1cf99",
+    "name": "Allzic Radio Disco",
+    "url": "https://allzic36.ice.infomaniak.ch/allzic36.mp3",
+    "tags": []
+  },
+  {
+    "id": "dccb971c",
+    "name": "OUI FM ROCK INDÉ",
+    "url": "https://ouifm5.ice.infomaniak.ch/ouifm5.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2f1d5613",
+    "name": "Allzic Radio Top 50",
+    "url": "https://allzic55.ice.infomaniak.ch/allzic55.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f7439924",
+    "name": "Urban afro",
+    "url": "https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3",
+    "tags": []
+  },
+  {
+    "id": "b432544a",
+    "name": "Radio Vaticana Francais",
+    "url": "https://radio.vaticannews.va/stream-fr",
+    "tags": []
+  },
+  {
+    "id": "de4e7475",
+    "name": "Allzic Radio Orientale",
+    "url": "https://allzic33.ice.infomaniak.ch/allzic33.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "59e50033",
+    "name": "rjfm",
+    "url": "https://listen.radioking.com/radio/563/stream/62872",
+    "tags": []
+  },
+  {
+    "id": "bd784cb4",
+    "name": "Jazz Radio Electro Swing",
+    "url": "https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "caf799bf",
+    "name": "RFI Russia",
+    "url": "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "7025ab86",
+    "name": "AlterNantes",
+    "url": "https://diffusion.lafrap.fr/alternantes.mp3",
+    "tags": []
+  },
+  {
+    "id": "e3c9395b",
+    "name": "France Musique | Ocora - Musiques du monde",
+    "url": "https://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "01addfa8",
+    "name": "RFI Russe",
+    "url": "https://rfienrusse64k.ice.infomaniak.ch/rfienrusse-64.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "48a0815c",
+    "name": "Canal Breizh",
+    "url": "https://cast.canalbreizh.bzh/canalbreizh-hd-mp3",
+    "tags": []
+  },
+  {
+    "id": "8e80c470",
+    "name": "Crooner Radio Legends",
+    "url": "https://croonerradio_legends.ice.infomaniak.ch/croonerradio-legends-midfi.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1abf72e7",
+    "name": "ODS Radio",
+    "url": "https://ods.ice.infomaniak.ch/ods-high.aac",
+    "tags": []
+  },
+  {
+    "id": "326aa73e",
+    "name": "M Radio Tubes du Grenier",
+    "url": "https://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3",
+    "tags": []
+  },
+  {
+    "id": "4f90e3d4",
+    "name": "Magic Radio flac",
+    "url": "https://mp3.magic-radio.net/flac",
+    "tags": []
+  },
+  {
+    "id": "7c785c79",
+    "name": "CLASSIC HITS RADIO",
+    "url": "https://www.play4.fr/play4-club.mp3",
+    "tags": []
+  },
+  {
+    "id": "967c9cee",
+    "name": "Phare FM Louange",
+    "url": "https://str0.creacast.com/pharefm_louange",
+    "tags": []
+  },
+  {
+    "id": "84167b77",
+    "name": "Allzic Radio R&B",
+    "url": "https://allzic08.ice.infomaniak.ch/allzic10.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9b6d3cd6",
+    "name": "OUI FM ROCK 70's",
+    "url": "https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2959e2c4",
+    "name": "100% Radio Souvenirs",
+    "url": "https://100radio-souvenirs.ice.infomaniak.ch/100radio-souvenirs-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "6046e956",
+    "name": "Generations Reggae",
+    "url": "https://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac",
+    "tags": []
+  },
+  {
+    "id": "1023fc63",
+    "name": "France Bleu Cotentin",
+    "url": "https://icecast.radiofrance.fr/fbcotentin-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "ce46fc3a",
+    "name": "Radio Notre Dame (lower bitrate)",
+    "url": "https://windu.radionotredame.net/RadioNotreDame-Fm.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "28e6fb35",
+    "name": "Europe 1 Musique Classique",
+    "url": "https://wr.lmn.fm/e1-wr3.aac?aw_0_1st.playerid=lgrdnwsRadioplayer",
+    "tags": []
+  },
+  {
+    "id": "ccd2425b",
+    "name": "Allzic Zouk",
+    "url": "https://allzic28.ice.infomaniak.ch/allzic28.mp3",
+    "tags": []
+  },
+  {
+    "id": "2e2257c5",
+    "name": "Generations Funk",
+    "url": "https://gene-wr05.ice.infomaniak.ch/gene-wr05.aac",
+    "tags": []
+  },
+  {
+    "id": "b424736f",
+    "name": "RMC GOLD",
+    "url": "https://hls-rmcgold.nextradiotv.com/ssai/192k/media.m3u8",
+    "tags": []
+  },
+  {
+    "id": "30d0a8e3",
+    "name": "OUI FM ROCK 90's",
+    "url": "https://ouifmrock90s.ice.infomaniak.ch/ouifmnineties.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "22ea8a49",
+    "name": "M Radio 100% Céline Dion",
+    "url": "https://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3",
+    "tags": []
+  },
+  {
+    "id": "c8eacc90",
+    "name": "Top music",
+    "url": "https://sc.creacast.com/topmusic_strasbourg",
+    "tags": []
+  },
+  {
+    "id": "3687fd73",
+    "name": "Europe 2 Classics",
+    "url": "https://europe2.lmn.fm/vr-wr2.mp3?aw_0_1st.playerid=lagardereappVirgin",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "76c81193",
+    "name": "France Bleu Breizh Izel",
+    "url": "https://icecast.radiofrance.fr/fbbreizizel-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "7758a7dd",
+    "name": "Espace FM",
+    "url": "https://listen.radioking.com/radio/16769/stream/49487",
+    "tags": []
+  },
+  {
+    "id": "3aad4747",
+    "name": "Classic FM",
+    "url": "https://classicfm.ice.infomaniak.ch/classic-fm.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2108e904",
+    "name": "France Musique | La Contemporaine",
+    "url": "https://icecast.radiofrance.fr/francemusiquelacontemporaine-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "922c0e45",
+    "name": "France Bleu Azur",
+    "url": "https://icecast.radiofrance.fr/fbazur-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "15c0c045",
+    "name": "Radio Bonheur",
+    "url": "https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3",
+    "tags": []
+  },
+  {
+    "id": "cec490dc",
+    "name": "France Bleu Orléans",
+    "url": "https://icecast.radiofrance.fr/fborleans-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "93f6d248",
+    "name": "Allzic Radio Rap",
+    "url": "https://allzic01.ice.infomaniak.ch/allzic01.mp3",
+    "tags": []
+  },
+  {
+    "id": "2ebe17a3",
+    "name": "France Musique",
+    "url": "https://icecast.radiofrance.fr/francemusique-hifi.aac?ID=radiofrance",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3889822f",
+    "name": "RTS Perpignan",
+    "url": "https://sc.creacast.com/rts-perpignan",
+    "tags": []
+  },
+  {
+    "id": "b4f29e76",
+    "name": "Vintage 80 90",
+    "url": "https://radio8.pro-fhi.net/live/VINTAGE80-90",
+    "tags": []
+  },
+  {
+    "id": "53fea667",
+    "name": "RCF Loiret",
+    "url": "https://rcf.streamakaci.com/rcf45.mp3",
+    "tags": []
+  },
+  {
+    "id": "7cf243a2",
+    "name": "Allzic Radio Classic",
+    "url": "https://allzic06.ice.infomaniak.ch/allzic06.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4f188845",
+    "name": "Buddha Beach",
+    "url": "https://radio4.vip-radios.fm:18054/stream-128kmp3-BuddhaBeach",
+    "tags": []
+  },
+  {
+    "id": "af97f87f",
+    "name": "GalaxieTek",
+    "url": "https://listen.radioking.com/radio/187066/stream/229195",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ac395ec9",
+    "name": "Generations Rap FR",
+    "url": "https://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.aac",
+    "tags": []
+  },
+  {
+    "id": "4b5fcbe8",
+    "name": "100% Radio Catalogne",
+    "url": "https://100radio-perpignan.ice.infomaniak.ch/100radio-perpignan-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "d60238ce",
+    "name": "Africa Radio Rumba Webradio",
+    "url": "https://webradio1.ice.infomaniak.ch/webradio4-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6952df00",
+    "name": "France Bleu Haute Normandie",
+    "url": "https://icecast.radiofrance.fr/fbhautenormandie-midfi.mp3",
+    "tags": [
+      "music",
+      "news",
+      "traffic"
+    ]
+  },
+  {
+    "id": "9e394783",
+    "name": "Radio Espérance",
+    "url": "https://esperance.streamakaci.com/esperance.mp3",
+    "tags": []
+  },
+  {
+    "id": "e1017360",
+    "name": "Allzic Radio Hard Heavy",
+    "url": "https://allzic18.ice.infomaniak.ch/allzic18.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5ee6361b",
+    "name": "Generations R&B Gold",
+    "url": "https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac",
+    "tags": []
+  },
+  {
+    "id": "fef77296",
+    "name": "Generations Dance Hall",
+    "url": "https://generations-dancehall.ice.infomaniak.ch/generations-dancehall.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "db523b1c",
+    "name": "432hz Radio",
+    "url": "https://stream-157.zeno.fm/er3nkny6fd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlcjNua255NmZkMHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVEZZdVhsMVFRUVdnUDVqeTBGZDFOZyIsImlhdCI6MTc2MDgyODMyNywiZXhwIjoxNzYwODI4Mzg3fQ.nEguaqlc9uRX-o4zsmvEiQ0464XiH3TkoZPvZsPn1PA",
+    "tags": []
+  },
+  {
+    "id": "8e84a598",
+    "name": "Phaune radio",
+    "url": "https://stream.phauneradio.com/phaune_128",
+    "tags": []
+  },
+  {
+    "id": "2db9c559",
+    "name": "radio sympa",
+    "url": "https://radio11.pro-fhi.net:19095/stream",
+    "tags": []
+  },
+  {
+    "id": "39cfa029",
+    "name": "Fusion FM",
+    "url": "https://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3",
+    "tags": []
+  },
+  {
+    "id": "af58997b",
+    "name": "OUI FM ROCK 2000",
+    "url": "https://ouifmrock2000s.ice.infomaniak.ch/ouifmrock2000.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d0d51415",
+    "name": "Radio 6 Calais",
+    "url": "https://radio6-calais.ice.infomaniak.ch/radio6-calais-128.mp3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "1fbf2849",
+    "name": "Urban Hit rap FR",
+    "url": "https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "9ddbc474",
+    "name": "All Piano Radio",
+    "url": "https://streamingp.shoutcast.com/JamendoLounge",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "318ec2f4",
+    "name": "Radio Metal",
+    "url": "https://radio3.pro-fhi.net/live/Radio%20Metal",
+    "tags": []
+  },
+  {
+    "id": "9086f58e",
+    "name": "Allzic Rap Fr",
+    "url": "https://allzic02.ice.infomaniak.ch/allzic02.mp3",
+    "tags": []
+  },
+  {
+    "id": "7a57f26e",
+    "name": "Crooner Radio Classic Gold",
+    "url": "https://croonerradio_classicgold.ice.infomaniak.ch/croonerradio-classicgold-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "45b8a11c",
+    "name": "Radio RVA",
+    "url": "https://rva.ice.infomaniak.ch/rva-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "1cfd3923",
+    "name": "OUI FM CLASSIC ROCK",
+    "url": "https://ouifm3.ice.infomaniak.ch/ouifm3.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5b313ac3",
+    "name": "M Radio Culte Années 60 et 70",
+    "url": "https://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3",
+    "tags": []
+  },
+  {
+    "id": "102b05d9",
+    "name": "FIP Sacré Français !",
+    "url": "https://icecast.radiofrance.fr/fipsacrefrancais-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "1b3e0ff8",
+    "name": "Fip : Metal",
+    "url": "https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8",
+    "tags": []
+  },
+  {
+    "id": "bdca6256",
+    "name": "Tsugi",
+    "url": "https://listen.radioking.com/radio/1906/stream/6029",
+    "tags": []
+  },
+  {
+    "id": "bcd8d585",
+    "name": "Tonic radio",
+    "url": "https://hit-sport.ice.infomaniak.ch/hit-sport-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "c98a46d4",
+    "name": "Allzic Radio Top 20",
+    "url": "https://allzic41.ice.infomaniak.ch/allzic41.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4fa9b008",
+    "name": "croonerradio julioiglesias",
+    "url": "https://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "444a77c3",
+    "name": "Radio ISA",
+    "url": "https://radioisagrenoble.ice.infomaniak.ch/radioisagrenoble-128",
+    "tags": []
+  },
+  {
+    "id": "79d3fa95",
+    "name": "France Bleu Loire Océan",
+    "url": "https://icecast.radiofrance.fr/fbloireocean-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "5203cd19",
+    "name": "Couleurs JAZZ",
+    "url": "https://listen.radioking.com/radio/127546/stream/216016",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f62d3c8a",
+    "name": "RFM Lounge",
+    "url": "https://rfm.lmn.fm/rfm-wr6.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "81cacf09",
+    "name": "Galaxie Radio",
+    "url": "https://listen.radioking.com/radio/15684/stream/29075",
+    "tags": []
+  },
+  {
+    "id": "d9c427cf",
+    "name": "Vibration 90's",
+    "url": "https://vibration90s.ice.infomaniak.ch/vibration90s.mp3",
+    "tags": []
+  },
+  {
+    "id": "78740211",
+    "name": "* Meme dans les orties *",
+    "url": "https://radio.sk8ter.org:8443/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1e66aa16",
+    "name": "MBS Gold",
+    "url": "https://mbs.ice.infomaniak.ch/mbs-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "76300002",
+    "name": "Vibration 2000",
+    "url": "https://vibration2000.ice.infomaniak.ch/vibration2000.mp3",
+    "tags": []
+  },
+  {
+    "id": "97ec6695",
+    "name": "mfm nouvelle scène",
+    "url": "https://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3",
+    "tags": []
+  },
+  {
+    "id": "157418c2",
+    "name": "103 Radio",
+    "url": "https://streaming.103radio.fr/128",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9db92b17",
+    "name": "Jazz Afro",
+    "url": "https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "04ef1ab8",
+    "name": "Jazz Radio Groov'Up",
+    "url": "https://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0de4a6e3",
+    "name": "Allzic Classic Piano",
+    "url": "https://allzic47.ice.infomaniak.ch/allzic47.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "87fe520f",
+    "name": "PulsRadio 2000 (64k AAC)",
+    "url": "https://sc6.gergosnet.com:80/puls00AAC64.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d075ba98",
+    "name": "Radio Espérance Musique Sacrée",
+    "url": "https://esperance.streamakaci.com/musique.mp3",
+    "tags": []
+  },
+  {
+    "id": "dd05522e",
+    "name": "ERFM",
+    "url": "https://karadoc.erfm.fr/radio",
+    "tags": []
+  },
+  {
+    "id": "f9b6533a",
+    "name": "France Musique Piano Zen",
+    "url": "https://icecast.radiofrance.fr/francemusiquepianozen-hifi.aac",
+    "tags": []
+  },
+  {
+    "id": "d92d88cd",
+    "name": "M Radio 100% Johnny",
+    "url": "https://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3",
+    "tags": []
+  },
+  {
+    "id": "5b0a0599",
+    "name": "Radio STAR",
+    "url": "https://listen.radioking.com/radio/9728/stream/20210",
+    "tags": []
+  },
+  {
+    "id": "cb9878ae",
+    "name": "Crooner Radio Swing ",
+    "url": "https://croonerradio_swing.ice.infomaniak.ch/croonerradio-swing-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "de14c0c2",
+    "name": "Skyrock PLM",
+    "url": "https://icecast.skyrock.net/s/plm_aac_128k?tvr_name=apistreamfm",
+    "tags": []
+  },
+  {
+    "id": "7d5984e8",
+    "name": "Forum",
+    "url": "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "239c37eb",
+    "name": "Radio Espace",
+    "url": "https://radioespace.ice.infomaniak.ch/radioespace-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "360554db",
+    "name": "Frequence 3 Gold FLAC",
+    "url": "https://frequence3.net-radio.fr/frequence3gold.flac",
+    "tags": []
+  },
+  {
+    "id": "efb723bb",
+    "name": "Allzic Radio Rock",
+    "url": "https://allzic17.ice.infomaniak.ch/allzic17.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "39a9010c",
+    "name": "RFM Slow",
+    "url": "https://rfm.lmn.fm/rfm-wr13.aac",
+    "tags": []
+  },
+  {
+    "id": "9d0bf35a",
+    "name": "M Radio Années 80 et 90",
+    "url": "https://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3",
+    "tags": []
+  },
+  {
+    "id": "4c85f7a7",
+    "name": "Radio74 88.8 MHz",
+    "url": "https://radio74.ice.infomaniak.ch/radio74.aac",
+    "tags": []
+  },
+  {
+    "id": "db9c3edf",
+    "name": "Allzic Radio - Zen",
+    "url": "https://allzic20.ice.infomaniak.ch/allzic20.mp3",
+    "tags": []
+  },
+  {
+    "id": "240ac19e",
+    "name": "Radio Oxygène Isère",
+    "url": "https://streamingp.shoutcast.com/radio-oxygene-grenoble-aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9c72765a",
+    "name": "ICI NORD",
+    "url": "https://stream.radiofrance.fr/fbnord/fbnord_midfi.m3u8",
+    "tags": []
+  },
+  {
+    "id": "c953d23b",
+    "name": "Latina love",
+    "url": "https://latinalove.ice.infomaniak.ch/latinalove.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f047cc73",
+    "name": "France Bleu Lorraine Nord",
+    "url": "https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "404e3452",
+    "name": "France Bleu Armorique",
+    "url": "https://icecast.radiofrance.fr/fbarmorique-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "0c937c24",
+    "name": "Crooner Radio American",
+    "url": "https://croonerradio_american.ice.infomaniak.ch/croonerradio-american-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "e93fb635",
+    "name": "Radio ONE",
+    "url": "https://radioone.ice.infomaniak.ch/radioone-96.mp3",
+    "tags": []
+  },
+  {
+    "id": "dab03657",
+    "name": "Le Bon Mix Radio 97.9",
+    "url": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bc600ead",
+    "name": "Allzic Radio Black",
+    "url": "https://allzic04.ice.infomaniak.ch/allzic04.mp3",
+    "tags": []
+  },
+  {
+    "id": "9ba59709",
+    "name": "France Musique OCORA",
+    "url": "https://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4ddf3e26",
+    "name": "Totem Aveyron Hérault Lot Tarn",
+    "url": "https://aratotem.ice.infomaniak.ch/aveyron.mp3",
+    "tags": []
+  },
+  {
+    "id": "f5ce9607",
+    "name": "Pulsradio Dance",
+    "url": "https://sc4.gergosnet.com/pulsHD.mp3",
+    "tags": []
+  },
+  {
+    "id": "79583d98",
+    "name": "Crooner Radio Lounge",
+    "url": "https://croonerradio_lounge.ice.infomaniak.ch/croonerradio-lounge-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "5431640b",
+    "name": "France Inter",
+    "url": "https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "77bc350c",
+    "name": "RCV",
+    "url": "https://stream.rcvfm.fr:8000/rcv128k.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b9ad91be",
+    "name": "JAZZ RADIO Blues",
+    "url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.aac?i=77905",
+    "tags": []
+  },
+  {
+    "id": "e8f8b6b8",
+    "name": "FIP Jazz (Hi-Fi)",
+    "url": "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b5588e67",
+    "name": "Jazz Radio Happy Hour",
+    "url": "https://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "880f271f",
+    "name": "Galaxie Vintage",
+    "url": "https://listen.radioking.com/radio/15686/stream/29081",
+    "tags": []
+  },
+  {
+    "id": "d4735bf7",
+    "name": "100% Radio Toulouse .",
+    "url": "https://100radio-toulouse.ice.infomaniak.ch/100radio-toulouse-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "1baf9b14",
+    "name": "La radio Plus",
+    "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "cf5a6c32",
+    "name": "Radio Equinoxe",
+    "url": "https://listen.radioking.com/radio/39218/stream/76118",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "750d4c46",
+    "name": "Radio VINCI Autoroutes 107.7 Auvergne Vallée du Rhône",
+    "url": "https://str0.creacast.com/radio_vinci_autoroutes_5",
+    "tags": []
+  },
+  {
+    "id": "cd2f07ed",
+    "name": "Voltage Love",
+    "url": "https://voltagelove.ice.infomaniak.ch/voltagelove-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "4d1913cb",
+    "name": "France Bleu Besançon",
+    "url": "https://icecast.radiofrance.fr/fbbesancon-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "07a663ce",
+    "name": "Radio grenouille",
+    "url": "https://live.radiogrenouille.com:8443/live",
+    "tags": []
+  },
+  {
+    "id": "30323107",
+    "name": "Accent 4",
+    "url": "https://str0.creacast.com/accent4",
+    "tags": []
+  },
+  {
+    "id": "5f52c930",
+    "name": "France Bleu Alsace",
+    "url": "https://icecast.radiofrance.fr/fbalsace-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "8e42a596",
+    "name": "FREQUENCE 3 - DANCE FLAC [Powered by IKOULA] - M2 Club",
+    "url": "https://onair.net-radio.fr/frequence3dance.flac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bef2baab",
+    "name": "OUI FM ROCK 60's",
+    "url": "https://ouifmrock60s.ice.infomaniak.ch/ouifmsixties.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "83c4c259",
+    "name": "..87,5!. Nantes",
+    "url": "https://listen.radioking.com/radio/15130/stream/28217",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "beae67f7",
+    "name": "Virage Radio",
+    "url": "https://virageradio.ice.infomaniak.ch/virageradio-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "99cda430",
+    "name": "M Radio French Touch",
+    "url": "https://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3",
+    "tags": []
+  },
+  {
+    "id": "014470b6",
+    "name": "France Bleu Normandie (Calvados - Orne)",
+    "url": "https://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "fcfeb3f5",
+    "name": "Radio VINCI Autoroutes 107.7 Côte d'Azur",
+    "url": "https://str0.creacast.com/radio_vinci_autoroutes_7",
+    "tags": []
+  },
+  {
+    "id": "fc368112",
+    "name": "France Culture",
+    "url": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance",
+    "tags": []
+  },
+  {
+    "id": "d2fcdee9",
+    "name": "Nova Reggae",
+    "url": "https://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac",
+    "tags": []
+  },
+  {
+    "id": "63b35b0c",
+    "name": "Radio VINCI Autoroutes 107.7 Alpes Provence",
+    "url": "https://str0.creacast.com/radio_vinci_autoroutes_6",
+    "tags": []
+  },
+  {
+    "id": "12df8fff",
+    "name": "Radio 50/50",
+    "url": "https://stream.radio5050.com/",
+    "tags": []
+  },
+  {
+    "id": "de9661cf",
+    "name": "Virage Radio Metal",
+    "url": "https://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.aac?i=65804",
+    "tags": []
+  },
+  {
+    "id": "96384213",
+    "name": "France Bleu RCFM",
+    "url": "https://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "9daf91a3",
+    "name": "France Bleu Vaucluse",
+    "url": "https://icecast.radiofrance.fr/fbvaucluse-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "909344aa",
+    "name": "Allzic Radio - Lounge",
+    "url": "https://allzic21.ice.infomaniak.ch/allzic21.mp3",
+    "tags": []
+  },
+  {
+    "id": "12c507ed",
+    "name": "Generations R&B",
+    "url": "https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac",
+    "tags": []
+  },
+  {
+    "id": "861a63cc",
+    "name": "FIP Metal",
+    "url": "https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8?id=radiofrance",
+    "tags": []
+  },
+  {
+    "id": "be42e4b3",
+    "name": "Generations Freestyle",
+    "url": "https://gene-wr09.ice.infomaniak.ch/gene-wr09.aac",
+    "tags": []
+  },
+  {
+    "id": "7c7ab157",
+    "name": "Fun Radio",
+    "url": "https://streamer-04.rtl.fr/fun-1-44-128?aw_0_1st.broadcast_type=streaming&aw_0_1st.source_type=external&aw_0_1st.platform=external&aw_0_1st.media_category=fm&aw_0_1st.station=fun&aw_0_1st.program=fun",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b2d12065",
+    "name": "France Bleu Pays d'Auvergne",
+    "url": "https://icecast.radiofrance.fr/fbpaysdauvergne-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "410179f4",
+    "name": "Replay News",
+    "url": "https://replaynews.ice.infomaniak.ch/replaynews-192.mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "ce61af47",
+    "name": "Galaxie Lounge",
+    "url": "https://listen.radioking.com/radio/45838/stream/82624",
+    "tags": []
+  },
+  {
+    "id": "75d05b04",
+    "name": "Radio Montmartre",
+    "url": "https://montmartre.ice.infomaniak.ch/montmartre.aac",
+    "tags": []
+  },
+  {
+    "id": "8fdc4cd0",
+    "name": "Generations SlowJam",
+    "url": "https://gene-wr11.ice.infomaniak.ch/gene-wr11.aac",
+    "tags": []
+  },
+  {
+    "id": "58f58259",
+    "name": "Radio Sympa",
+    "url": "https://radio11.pro-fhi.net/flux-aryfnfye2/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "da0a03f0",
+    "name": "Tendance Ouest",
+    "url": "https://tendanceouest-calvados.ice.infomaniak.ch/caen.mp3",
+    "tags": []
+  },
+  {
+    "id": "e14c5553",
+    "name": "Swigg",
+    "url": "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3",
+    "tags": []
+  },
+  {
+    "id": "e21b8bac",
+    "name": "Voltage 90's",
+    "url": "https://voltage90s.ice.infomaniak.ch/voltage90s-128.mp3",
+    "tags": []
+  },
+  {
+    "id": "cbb4b80b",
+    "name": "FIP Sacré Français !",
+    "url": "https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8?id=radiofrance",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a221c9a9",
+    "name": "M Radio Chansons d'amour",
+    "url": "https://mfmwr-026.ice.infomaniak.ch/mfmwr-026.mp3",
+    "tags": []
+  },
+  {
+    "id": "858a2698",
+    "name": "La Grosse Tambouille",
+    "url": "https://lagrossetambouille.com//flux",
+    "tags": []
+  },
+  {
+    "id": "73ffe0c6",
+    "name": "RJR - Radio Jeunes Reims (MP3 128k)",
+    "url": "https://stream.rjrradio.fr/rjr.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7278a05a",
+    "name": "France Bleu Berry",
+    "url": "https://icecast.radiofrance.fr/fbberry-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "ee79cf6a",
+    "name": "New Morning Radio",
+    "url": "https://listen.radioking.com/radio/605/stream/2195",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3ff0306d",
+    "name": "COMALA Radio",
+    "url": "https://listen.radioking.com/radio/38120/stream/74513",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3cb52185",
+    "name": "Générations Lyon",
+    "url": "https://radiosun.ice.infomaniak.ch/radiosun-high.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ba5bebb2",
+    "name": "Europe 1",
+    "url": "https://europe1.lmn.fm/europe1.mp3",
+    "tags": []
+  },
+  {
+    "id": "71d7b870",
+    "name": "Le Mouv'",
+    "url": "https://icecast.radiofrance.fr/mouv-midfi.mp3",
+    "tags": []
+  },
+  {
+    "id": "8fbaf7c9",
+    "name": "Allzic Radio Italia",
+    "url": "https://allzic35.ice.infomaniak.ch/allzic35.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7d04c02b",
+    "name": "LYL Radio",
+    "url": "https://icecast.lyl.live/live",
+    "tags": [
+      "music"
+    ]
+  }
+]

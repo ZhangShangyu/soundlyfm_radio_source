@@ -1,0 +1,2057 @@
+[
+  {
+    "id": "03f0a455",
+    "name": "Fantasy Italo Radio",
+    "url": "https://italo.live-streams.nl/fantasy",
+    "tags": []
+  },
+  {
+    "id": "80ba4438",
+    "name": "Intense Radio - We love Dance #HQ# FLAC",
+    "url": "https://secure.live-streams.nl/flac.ogg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "18c233ad",
+    "name": "Synthetic FM The New Italo generation sound",
+    "url": "https://mediaserv38.live-streams.nl:18030/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ae764cdb",
+    "name": "Synthetic FM - The radio for the Synth lovers",
+    "url": "https://mediaserv38.live-streams.nl:18040/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c0dbf525",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-bb-mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e554de7a",
+    "name": "NPO Radio 2",
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "2a8b8d16",
+    "name": "Arrow Classic Rock",
+    "url": "https://stream.gal.io/arrow",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dfb3542e",
+    "name": "Arrow Classic Rock",
+    "url": "https://stream.player.arrow.nl/arrowcr",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a7602b4c",
+    "name": "Hi On Line Lounge Radio",
+    "url": "https://mediaserv33.live-streams.nl:8036/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d2bbbe18",
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "5845d9d6",
+    "name": "NPO Radio 2 Soul & Jazz",
+    "url": "https://icecast.omroep.nl/radio6-bb-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "20669781",
+    "name": "SLAM!",
+    "url": "https://22653.live.streamtheworld.com/SLAM_MP3_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "62817a07",
+    "name": "Qmusic",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "tags": []
+  },
+  {
+    "id": "8f9a7b2c",
+    "name": "Fantasy Italo Dance 90s radio",
+    "url": "https://mscp2.live-streams.nl:8152/italodance",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "61548e55",
+    "name": "NPO Radio 4",
+    "url": "https://icecast.omroep.nl/radio4-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "b4ec49bf",
+    "name": "Radio Continu",
+    "url": "https://stream.radiocontinu.nl/radiocontinu",
+    "tags": []
+  },
+  {
+    "id": "99575270",
+    "name": "NPO 3FM Serious Radio",
+    "url": "https://icecast.omroep.nl/3fm-bb-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "010a9dee",
+    "name": "Sky Radio Hits",
+    "url": "https://25273.live.streamtheworld.com:443/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA",
+    "tags": []
+  },
+  {
+    "id": "e62a1aca",
+    "name": "Grolloo Radio",
+    "url": "https://uk1.streamingpulse.com/ssl/grollooradio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a625ec64",
+    "name": "100% NL",
+    "url": "https://28573.live.streamtheworld.com/100PNL_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "18104a55",
+    "name": "BNR Nieuwsradio",
+    "url": "https://25683.live.streamtheworld.com:443/BNR_NIEUWSRADIOAAC.aac?dist=other",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "9ca1ff8b",
+    "name": "SLAM! Non Stop",
+    "url": "https://29023.live.streamtheworld.com/WEB10_MP3_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "41106d45",
+    "name": "KINK",
+    "url": "https://28973.live.streamtheworld.com:443/KINK.mp3",
+    "tags": []
+  },
+  {
+    "id": "2f92f362",
+    "name": "NPO FunX Hip Hop",
+    "url": "https://icecast.omroep.nl/funx-hiphopfb-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "22bf12d7",
+    "name": "NPO Funx Arab",
+    "url": "https://icecast.omroep.nl/funx-arabfb-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "a0f5d7a3",
+    "name": "Jazz de Ville - Chill",
+    "url": "https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "35d619da",
+    "name": "Radio Rijnmond",
+    "url": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+    "tags": []
+  },
+  {
+    "id": "b6805bfc",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-sb-aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8a2dd539",
+    "name": "All Oldies Channel",
+    "url": "https://radio.alloldieschannel.com:8000/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3c4b72d1",
+    "name": "192 Radio (HQ)",
+    "url": "https://server-27.stream-server.nl:8192/stream",
+    "tags": []
+  },
+  {
+    "id": "28a586a0",
+    "name": "NPO FunX Reggae",
+    "url": "https://icecast.omroep.nl/funx-reggaefb-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "80b327e9",
+    "name": "Slam! Mixmarathon",
+    "url": "https://22353.live.streamtheworld.com/WEB13_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "5093acf7",
+    "name": "Pinguin Blues",
+    "url": "https://19003.live.streamtheworld.com/SP_R2406394_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7a417b9f",
+    "name": "NPO Radio 4 - Concerten",
+    "url": "https://icecast.omroep.nl/radio4-eigentijds-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d282de16",
+    "name": "Golden Oldies Radio",
+    "url": "https://sonic.magicdragon.nl/8034/stream",
+    "tags": []
+  },
+  {
+    "id": "c259b4c2",
+    "name": "Pinguin Radio",
+    "url": "https://streams.pinguinradio.com/PinguinRadio320.mp3",
+    "tags": []
+  },
+  {
+    "id": "85c673be",
+    "name": "Pinguin Indie",
+    "url": "https://streams.pinguinradio.com/PinguinRadio192.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "78048ac8",
+    "name": "Hi On Line Latin Radio",
+    "url": "https://mediaserv33.live-streams.nl:8034/",
+    "tags": []
+  },
+  {
+    "id": "b50fa11d",
+    "name": "Sjeffm ",
+    "url": "https://caster05.streampakket.com/proxy/8112/stream",
+    "tags": []
+  },
+  {
+    "id": "7218d252",
+    "name": "Slow Radio Gold",
+    "url": "https://quincy.torontocast.com/slowradiogold",
+    "tags": []
+  },
+  {
+    "id": "bc91f641",
+    "name": "Radio 538 Ibiza",
+    "url": "https://22343.live.streamtheworld.com/TLPSTR19_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "90205a48",
+    "name": "L1 Radio",
+    "url": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "dc206edb",
+    "name": "NPO 3FM",
+    "url": "https://icecast.omroep.nl/3fm-bb-aac",
+    "tags": []
+  },
+  {
+    "id": "69697509",
+    "name": "Joe 70s & 80s",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
+    "tags": []
+  },
+  {
+    "id": "6b2aaf4a",
+    "name": "Real Hardstyle Radio",
+    "url": "https://stream.realhardstyle.nl/",
+    "tags": []
+  },
+  {
+    "id": "9e84287b",
+    "name": "Jazz de Ville - Groove",
+    "url": "https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "697ec657",
+    "name": "SoulRadio",
+    "url": "https://25303.live.streamtheworld.com/SOULRADIOAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "b6824030",
+    "name": "ArabNights",
+    "url": "https://arabnights-prod.live-streams.nl:18020/live",
+    "tags": []
+  },
+  {
+    "id": "8d8d60fc",
+    "name": "Q-Dance Radio",
+    "url": "https://28983.live.streamtheworld.com:443/Q_DANCE.mp3",
+    "tags": []
+  },
+  {
+    "id": "f3ff5a3a",
+    "name": "Oude Piraten Hits",
+    "url": "https://server-67.stream-server.nl:8910/stream",
+    "tags": []
+  },
+  {
+    "id": "dfd6ed57",
+    "name": "BNR Nieuwsradio",
+    "url": "https://25603.live.streamtheworld.com:443/BNR_NIEUWSRADIO.mp3?dist=other",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "e7689cb2",
+    "name": "Tukker FM",
+    "url": "https://stream.tukkerfm.nl/tukkerfm",
+    "tags": []
+  },
+  {
+    "id": "0ca83875",
+    "name": "Radio 538 Party",
+    "url": "https://22713.live.streamtheworld.com/TLPSTR16_SC",
+    "tags": []
+  },
+  {
+    "id": "3e17af30",
+    "name": "Sky Radio",
+    "url": "https://28553.live.streamtheworld.com:443/SKYRADIO.mp3",
+    "tags": []
+  },
+  {
+    "id": "0eab6c30",
+    "name": "NPO FunX Latin",
+    "url": "https://icecast.omroep.nl/funx-latinfb-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "83b5f001",
+    "name": "Jazz de Ville - Jazz",
+    "url": "https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2b7908e8",
+    "name": "NPO Radio 2 Soul & Jazz",
+    "url": "https://icecast.omroep.nl/radio6-sb-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b24f9c2b",
+    "name": "Olympia Classics",
+    "url": "https://streams.olympia-classics.nl/classics",
+    "tags": []
+  },
+  {
+    "id": "8c8ff871",
+    "name": "ISKC Blues Cafe",
+    "url": "https://mediaserv68.live-streams.nl:8012/BluesCafe",
+    "tags": []
+  },
+  {
+    "id": "55d3f403",
+    "name": "NPO FunX NL",
+    "url": "https://icecast.omroep.nl/funx-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "43fd1ad7",
+    "name": "KINK80s",
+    "url": "https://25273.live.streamtheworld.com/KINK_DNA_SC",
+    "tags": []
+  },
+  {
+    "id": "455332b6",
+    "name": "RADIONL",
+    "url": "https://stream.radionl.fm/radionl",
+    "tags": []
+  },
+  {
+    "id": "b7835b68",
+    "name": "Celtcast",
+    "url": "https://caster04.streampakket.com/proxy/8982/CeltCast",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5c55bb8b",
+    "name": "Jazz de Ville - Dance",
+    "url": "https://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a8580836",
+    "name": "RTV Oost Radio",
+    "url": "https://d34cg2bnc08ruf.cloudfront.net/icecast/rtvoost/radio-oost-mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "fe8eb56a",
+    "name": "Qmusic Non-Stop",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3",
+    "tags": []
+  },
+  {
+    "id": "fadaf774",
+    "name": "QMUSIC NEDERLAND",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3",
+    "tags": []
+  },
+  {
+    "id": "4068cb18",
+    "name": "Slam! The Boom Room",
+    "url": "https://25303.live.streamtheworld.com/WEB12_AAC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "111a12c2",
+    "name": "Joy Radio",
+    "url": "https://stream.joyradio.nl/joyradio",
+    "tags": []
+  },
+  {
+    "id": "162c5f63",
+    "name": "Q music Nederland",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c9786962",
+    "name": "RTV Noord Holland (NH Radio)",
+    "url": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3",
+    "tags": []
+  },
+  {
+    "id": "788e246c",
+    "name": "ISKC Rock Radio",
+    "url": "https://mediaserv68.live-streams.nl:8012/RockRadio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cf2dd45c",
+    "name": "Qmusic Het Foute Uur",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3",
+    "tags": []
+  },
+  {
+    "id": "2ed48c07",
+    "name": "Ujala Radio",
+    "url": "https://stream2.ujala.nl/stream/2/listen.mp3",
+    "tags": []
+  },
+  {
+    "id": "eb12330e",
+    "name": "NPO 3FM Alternative",
+    "url": "https://icecast.omroep.nl/3fm-alternative-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "719ea280",
+    "name": "Hi On Line Radio - Latin",
+    "url": "https://mediaserv33.live-streams.nl:8034/live",
+    "tags": []
+  },
+  {
+    "id": "ef096ee3",
+    "name": "ISKC Old Men's Rock",
+    "url": "https://443-1.autopo.st/79/OldMenRock",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "98bd25f5",
+    "name": "JOE mp3",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+    "tags": []
+  },
+  {
+    "id": "5401bc6b",
+    "name": "SLAM! DANCE CLASSICS",
+    "url": "https://25323.live.streamtheworld.com/WEB15_MP3_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0f79bb73",
+    "name": "LX Classics",
+    "url": "https://mcp-1.streampanel.nl:8020/lxclassics_mp3",
+    "tags": []
+  },
+  {
+    "id": "ac7a39cd",
+    "name": "Grand Prix Radio",
+    "url": "https://23553.live.streamtheworld.com:443/GRAND_PRIX_RADIO.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "18071a04",
+    "name": "Freak31",
+    "url": "https://stream.31media.net/freak31",
+    "tags": []
+  },
+  {
+    "id": "49720c14",
+    "name": "Dancegroove Radio",
+    "url": "https://server7.streamserver24.com:8080/proxy/marasalf?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "a63959a3",
+    "name": "KX Classics",
+    "url": "https://mcp-1.streampanel.nl:8020/kxclassics_mp3",
+    "tags": []
+  },
+  {
+    "id": "68a0f3b6",
+    "name": "Pinguin Aardschok",
+    "url": "https://streams.pinguinradio.com/Aardschok192.mp3",
+    "tags": []
+  },
+  {
+    "id": "2c630f01",
+    "name": "Sublime Live",
+    "url": "https://25323.live.streamtheworld.com:443/SUBLIME.mp3",
+    "tags": []
+  },
+  {
+    "id": "5e26abe8",
+    "name": "A.D.M. Hardstyle Radio",
+    "url": "https://kathy.torontocast.com:2450/stream",
+    "tags": []
+  },
+  {
+    "id": "0d7759dc",
+    "name": "KINK 128k aac",
+    "url": "https://29033.live.streamtheworld.com/KINKAAC_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8095e39f",
+    "name": "NPO Radio 4",
+    "url": "https://icecast.omroep.nl:80/radio4-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "ff647cc4",
+    "name": "Radio Noord",
+    "url": "https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls",
+    "tags": []
+  },
+  {
+    "id": "ccff8848",
+    "name": "Omroep Brabant",
+    "url": "https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a843fc66",
+    "name": "Pinguin Classics",
+    "url": "https://streams.pinguinradio.com/PinguinClassics192.mp3",
+    "tags": []
+  },
+  {
+    "id": "fdf5e98b",
+    "name": "FunX Slow Jamz",
+    "url": "https://icecast.omroep.nl/funx-slowjamzfb-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "4e36bd0e",
+    "name": "Pure Lounge Radio FLAC",
+    "url": "https://mscp4.live-streams.nl:8142/lounge.ogg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d522caeb",
+    "name": "NPO Radio 2",
+    "url": "https://icecast.omroep.nl/radio2-sb-aac",
+    "tags": []
+  },
+  {
+    "id": "7c9b7956",
+    "name": "Airplay Radio",
+    "url": "https://stream.and-stuff.nl:8443/live-airplay_320",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e2bc428e",
+    "name": "NPO 3FM",
+    "url": "https://icecast.omroep.nl/3fm-sb-aac",
+    "tags": []
+  },
+  {
+    "id": "aa0b888b",
+    "name": "Radio Drenthe",
+    "url": "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio",
+    "tags": []
+  },
+  {
+    "id": "7f500c02",
+    "name": "Radio Veronica",
+    "url": "https://25603.live.streamtheworld.com:443/VERONICA",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6215ea80",
+    "name": "RTV Horizon",
+    "url": "https://radio.rtvhorizon.nl/MP3",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "24e0986a",
+    "name": "SLAM! Housuh In De Pauzuh",
+    "url": "https://22333.live.streamtheworld.com/WEB16_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "1af1a7c6",
+    "name": "Omrop Fryslân Radio",
+    "url": "https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "abac7444",
+    "name": "Classicnl Opera",
+    "url": "https://stream.classic.nl/classicnl-opera.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "09d0a9da",
+    "name": "Old Men's Radio",
+    "url": "https://server-10.stream-server.nl:8140/",
+    "tags": []
+  },
+  {
+    "id": "d248b89c",
+    "name": "i-turn radio",
+    "url": "https://live.i-turnradio.nl/live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "331502d7",
+    "name": "Radio 10 non-stop",
+    "url": "https://22333.live.streamtheworld.com:443/TLPSTR15.mp3",
+    "tags": []
+  },
+  {
+    "id": "2cd082ae",
+    "name": "NPO Radio 2",
+    "url": "https://icecast.omroep.nl/radio2-bb-aac",
+    "tags": []
+  },
+  {
+    "id": "cacd187a",
+    "name": "Radio 10",
+    "url": "https://22713.live.streamtheworld.com:443/RADIO10.mp3?dist=radio10_web&amp;ttag=talpa_consent:0&amp;gdpr=1&amp;gdpr_consent=CPR8CQMPR8CRCADABCNLB7CgAAAAAEJAAAAAAAAMEgKgAVAAuACAAGQARAAmgBPADEAH4AQAAjABXADvAIQARYAjgBOwCsgIpAXmAwQAsJAJAAqACAAGQARAAmABPAHeARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAwALgCuAIQUgFgAVABAADIAIgATAAngBiAHeARYAjgC8ygAIAC4BOyQAEAC5KAMAEQAJgAYgB3gEcAXmQgCABMADEAO8AjgYACAK4VADACYARwBeYyAGAEwAjgC8w.YAAAAAAAA4AA",
+    "tags": []
+  },
+  {
+    "id": "259399a6",
+    "name": "Soul Radio",
+    "url": "https://soulradio02.live-streams.nl/live",
+    "tags": []
+  },
+  {
+    "id": "0a7edeae",
+    "name": "Slow Radio",
+    "url": "https://quincy.torontocast.com/slowradio",
+    "tags": []
+  },
+  {
+    "id": "f40ace58",
+    "name": "IndieXL",
+    "url": "https://server-11.stream-server.nl:18438/",
+    "tags": []
+  },
+  {
+    "id": "90182b9b",
+    "name": "Radio M Utrecht",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c2a782d2",
+    "name": "NPO FunX Dance",
+    "url": "https://icecast.omroep.nl/funx-dancefb-bb-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "117a3f8b",
+    "name": "Soundtrack Radio Station",
+    "url": "https://quincy.torontocast.com:2410/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "98951127",
+    "name": "Ice Radio Netherlands",
+    "url": "https://stream.iceradio.nl/iceradio",
+    "tags": []
+  },
+  {
+    "id": "665e6ff9",
+    "name": "INTERGALACTIC FM - Disco Fetish",
+    "url": "https://radio.intergalactic.fm/2",
+    "tags": []
+  },
+  {
+    "id": "82e0904a",
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-sb-aac",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "34e424aa",
+    "name": "KINK DISTORTION",
+    "url": "https://29003.live.streamtheworld.com/KINK_DISTORTIONAAC_SC",
+    "tags": []
+  },
+  {
+    "id": "3706795f",
+    "name": "Echtepiraten.nl",
+    "url": "https://azuraserv3.live-streams.nl:8040/stream.mp3",
+    "tags": []
+  },
+  {
+    "id": "c59ea3a3",
+    "name": "Omroep West",
+    "url": "https://d3jhv0ayn0z3fg.cloudfront.net/icecast/omroepwest/radio",
+    "tags": []
+  },
+  {
+    "id": "cf3752da",
+    "name": "Sky Radio Nederland",
+    "url": "https://25333.live.streamtheworld.com:443/SKYRADIO.mp3?dist=skyradio_web&amp;ttag=talpa_consent:1&amp;gdpr=1&amp;gdpr_consent=CPd5woAPd5woAADABBNLCcCsAP_AAEJAAAAAGgQGAAKgAXABAADIAIkATABNACeAGIANwAfgBAACMAHeAQgAi0BHAEdAJcATsArICKQF5gL2AYIA0ADBICYAFQALgAgABkAEQAJoATwAxAB-AEAAIwAd4BCACLQEcAR0AnYCKQF5gMEAKCQCQAKgAgABkAEQAJgATwB3gEcAXmKgBgBMAI4AvMZADACYARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAgALgEIIQBAAmABiAHeARwkABAAuSgDABEACYAGIAd4BHAF5lIBYAFQAQAAyACIAEwAJ4AYgB3gEWAI4AvMoABAAuA.e8AAAAAAA7AA%2522%2520title=%2522Sky%2520Radio%2520-%2520Non-Stop%2522",
+    "tags": []
+  },
+  {
+    "id": "9d3049a1",
+    "name": "Sky Radio Smooth Hits",
+    "url": "https://22713.live.streamtheworld.com/SRGSTR15AAC_SC",
+    "tags": []
+  },
+  {
+    "id": "c41d25f6",
+    "name": "Kink 90's",
+    "url": "https://22533.live.streamtheworld.com/KINK_90S_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "50f475b7",
+    "name": "classic nl soundtracks",
+    "url": "https://stream.classic.nl/classicnl-soundtracks.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8f6bfaa0",
+    "name": "INTERGALACTIC FM - Cybernetic Broadcasting System",
+    "url": "https://radio.intergalactic.fm/1",
+    "tags": []
+  },
+  {
+    "id": "6c14d9d6",
+    "name": "Radio Caroline 259 Gold",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio128.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7264a1d5",
+    "name": "Only 80's Radio",
+    "url": "https://server-28.stream-server.nl:8850/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f638bf1b",
+    "name": "DANCE.FM :: The Beat of Amsterdam ::",
+    "url": "https://streams.dancefm.net/mp3-hq",
+    "tags": []
+  },
+  {
+    "id": "5f9a722c",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-bb-aac",
+    "tags": []
+  },
+  {
+    "id": "9caded6c",
+    "name": "NPO 3FM KXradio",
+    "url": "https://icecast.omroep.nl/3fm-serioustalent-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9404f880",
+    "name": "DANCEableRADIO",
+    "url": "https://s14.myradiostream.com:19580/;",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8d7431b3",
+    "name": "Piraten.fm top stream 2",
+    "url": "https://piraten.fm/top/2",
+    "tags": []
+  },
+  {
+    "id": "5f1d8b74",
+    "name": "XXL Stenders",
+    "url": "https://mcp-1.streampanel.nl:8020/bonanza_mp3",
+    "tags": []
+  },
+  {
+    "id": "84f206fd",
+    "name": "Pinguin On the Rocks",
+    "url": "https://streams.pinguinradio.com/PinguinOnTheRocks192.mp3",
+    "tags": []
+  },
+  {
+    "id": "5e211e45",
+    "name": "HouseBeats.fm",
+    "url": "https://mediaserv38.live-streams.nl:18048/stream",
+    "tags": []
+  },
+  {
+    "id": "47299469",
+    "name": "Olympia Classics - Greatest Hits Of The 60s 70s 80s & 90s",
+    "url": "https://streams.olympia-streams.nl/classics192",
+    "tags": []
+  },
+  {
+    "id": "f98c252c",
+    "name": "Radio Caroline 259 MP3 320",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio320.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ac9a0622",
+    "name": "538 Radio",
+    "url": "https://22183.live.streamtheworld.com:443/RADIO538.mp3",
+    "tags": []
+  },
+  {
+    "id": "daae1d61",
+    "name": "Sterren.nl",
+    "url": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+    "tags": []
+  },
+  {
+    "id": "03773b0a",
+    "name": "Hardstyle FM",
+    "url": "https://hardstylefm.stream.laut.fm/hardstylefm?t302=2025-10-19_06-52-07&uuid=bf738858-8174-4de2-bb8a-4accf9aa830f",
+    "tags": []
+  },
+  {
+    "id": "3faa7975",
+    "name": "Piraten.fm Top stream 1",
+    "url": "https://piraten.fm/top/1",
+    "tags": []
+  },
+  {
+    "id": "2561db9e",
+    "name": "Synthwave City FM - New",
+    "url": "https://synthwave-rex.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "434a8635",
+    "name": "NPO Radio 2 Soul & Jazz",
+    "url": "https://icecast.omroep.nl/radio6-bb-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "87f251ba",
+    "name": "Radio Veronica Live",
+    "url": "https://25593.live.streamtheworld.com:443/VERONICA.mp3",
+    "tags": []
+  },
+  {
+    "id": "2771f38a",
+    "name": "Groot Nieuws Radio",
+    "url": "https://21633.live.streamtheworld.com:443/GNR.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7c3177f3",
+    "name": "  ICE RADIO",
+    "url": "https://stream.iceradio.nl/iceradiohq?ver=30283",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c617b658",
+    "name": "Pinguin World Music",
+    "url": "https://18213.live.streamtheworld.com/SP_R2591417_SC",
+    "tags": []
+  },
+  {
+    "id": "58f49d23",
+    "name": "Classic NL",
+    "url": "https://stream.classic.nl/classicnl.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b5d2d474",
+    "name": "TrendFM Den Haag",
+    "url": "https://trendfm.live-streams.nl:18030/mobiel",
+    "tags": []
+  },
+  {
+    "id": "25a3da20",
+    "name": "Heuvellandexpress",
+    "url": "https://server-28.stream-server.nl:8840/stream",
+    "tags": []
+  },
+  {
+    "id": "346e172a",
+    "name": "Classics Radio (1536Kbps Hi-Res FLAC Stream)",
+    "url": "https://vriezenet.nl:11050/flac",
+    "tags": []
+  },
+  {
+    "id": "896bc275",
+    "name": "100% NL",
+    "url": "https://27903.live.streamtheworld.com/100PNL_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "c3cc2502",
+    "name": "Magic FM",
+    "url": "https://stream.magicfm.nl/magicfm",
+    "tags": []
+  },
+  {
+    "id": "82805524",
+    "name": "C-Dance RETRO",
+    "url": "https://s45.myradiostream.com/:18304/;?type=http&nocache=1728303081?0.29796721986116603",
+    "tags": []
+  },
+  {
+    "id": "51ca11e4",
+    "name": "Freez FM",
+    "url": "https://stream.freezfm.nl/freezfm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c6cc7659",
+    "name": "Hardcore Power Radio",
+    "url": "https://hardcorepower.beheerstream.nl/8012/stream",
+    "tags": []
+  },
+  {
+    "id": "6fd510c8",
+    "name": "INTERGALACTIC FM - The Dream Machine",
+    "url": "https://radio.intergalactic.fm/3",
+    "tags": []
+  },
+  {
+    "id": "4163a63d",
+    "name": "Simone FM",
+    "url": "https://stream.simone.nl/simone",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0ac74b7a",
+    "name": "BNR Nieuwsradio",
+    "url": "https://27823.live.streamtheworld.com:443/BNR_NIEUWSRADIOAAC.aac?dist=other",
+    "tags": [
+      "economy",
+      "news"
+    ]
+  },
+  {
+    "id": "48e74e52",
+    "name": "Radio Gelderland",
+    "url": "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "385b28ae",
+    "name": "Radio Monique 963 Gold",
+    "url": "https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3",
+    "tags": []
+  },
+  {
+    "id": "061940b1",
+    "name": "Waterstad FM",
+    "url": "https://stream.waterstadfm.nl/waterstadfm",
+    "tags": []
+  },
+  {
+    "id": "12683947",
+    "name": "538 Classics",
+    "url": "https://28983.live.streamtheworld.com:443/TLPSTR08.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "34975f56",
+    "name": "Grandprix radio",
+    "url": "https://25483.live.streamtheworld.com:443/GRAND_PRIX_RADIO.mp3",
+    "tags": []
+  },
+  {
+    "id": "022ee5e2",
+    "name": "Haarlem Shuffle FLAC",
+    "url": "https://stream.tbmp.nl:8000/haarlemshuffle.flac",
+    "tags": []
+  },
+  {
+    "id": "1095516c",
+    "name": "ISKC Rock Radio RPO (Recent Prog Only)",
+    "url": "https://mediaserv68.live-streams.nl:8012/RockRadio2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c7005dd2",
+    "name": "ISKC Rock Radio XXL",
+    "url": "https://mediaserv68.live-streams.nl:8012/XXL",
+    "tags": []
+  },
+  {
+    "id": "b675c1b5",
+    "name": "Groot Nieuws Radio Blijde Klanken",
+    "url": "https://25633.live.streamtheworld.com:443/GNRBK.mp3",
+    "tags": []
+  },
+  {
+    "id": "fd55eaa5",
+    "name": "Olympia Radio",
+    "url": "https://streams.olympia-radio.nl/olympia",
+    "tags": []
+  },
+  {
+    "id": "69ea6f25",
+    "name": "RTV Noord",
+    "url": "https://media.rtvnoord.nl/icecast/rtvnoord/radio",
+    "tags": []
+  },
+  {
+    "id": "4248043c",
+    "name": "New Dance Radio",
+    "url": "https://modspeedy.radioca.st/stream2",
+    "tags": []
+  },
+  {
+    "id": "b1b9ea5c",
+    "name": "Hi On Line Radio - Lounge",
+    "url": "https://mediaserv33.live-streams.nl:8036/stream",
+    "tags": []
+  },
+  {
+    "id": "154ad3be",
+    "name": "NPO BLEND",
+    "url": "https://icecast.omroep.nl/npoblend-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "21921976",
+    "name": "NPO Radio 4",
+    "url": "https://icecast.omroep.nl/radio4-sb-aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "432e4211",
+    "name": "00s Alive",
+    "url": "https://stream.00sa.live/00s-alive.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4f436397",
+    "name": "Pinguin Pop",
+    "url": "https://17653.live.streamtheworld.com/SP_R2591862_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f5d23707",
+    "name": "Soulshow Radio",
+    "url": "https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3",
+    "tags": []
+  },
+  {
+    "id": "152102b6",
+    "name": "Radio Caroline 259 AAC 96",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio96.acc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "29bdef63",
+    "name": "Candelight",
+    "url": "https://22533.live.streamtheworld.com/CANDLELIGHT_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9d669942",
+    "name": "Pinguin Groove",
+    "url": "https://18093.live.streamtheworld.com/SP_R2591867_SC",
+    "tags": []
+  },
+  {
+    "id": "4079d24b",
+    "name": "KINK",
+    "url": "https://22663.live.streamtheworld.com/KINKAAC2_SC",
+    "tags": []
+  },
+  {
+    "id": "48745b98",
+    "name": "Soul Radio",
+    "url": "https://25303.live.streamtheworld.com:443/SOULRADIOAAC.aac",
+    "tags": []
+  },
+  {
+    "id": "78a2a7be",
+    "name": "Studio040",
+    "url": "https://stream.studio040.nl/studio040.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "85db3992",
+    "name": "Golden Oldies Radio",
+    "url": "https://sonic.magicdragon.nl/8022/stream",
+    "tags": []
+  },
+  {
+    "id": "36d7dcfa",
+    "name": "Q-Music",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac?aw_0_1st.playerId=redirect",
+    "tags": []
+  },
+  {
+    "id": "47497e90",
+    "name": "80's Alive",
+    "url": "https://stream.80sa.live/80s-alive.mp3",
+    "tags": []
+  },
+  {
+    "id": "e96a5bd0",
+    "name": "538 Classics AAC",
+    "url": "https://29093.live.streamtheworld.com:443/TLPSTR08AAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fd17aedc",
+    "name": "Radio Maria Nederland",
+    "url": "https://stream.radiomaria.nl/mp3",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "3e66bf4b",
+    "name": "Riverside Radio",
+    "url": "https://stream.and-stuff.nl:8443/riverside",
+    "tags": []
+  },
+  {
+    "id": "f5103ba6",
+    "name": "Beats 2 Dance - Trance",
+    "url": "https://mediaserv38.live-streams.nl:18002/trance",
+    "tags": []
+  },
+  {
+    "id": "b8a5a385",
+    "name": "Radio Caroline 319 Gold",
+    "url": "https://happy.radiomonique.nl/listen/happy_oldies/radio64.mp3",
+    "tags": []
+  },
+  {
+    "id": "d2904daf",
+    "name": "ISKC Rock Radio RPO (Recent Prog Only)",
+    "url": "https://443-1.autopo.st/79/RockRadio2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4868a0d5",
+    "name": "Kerstradio.nl",
+    "url": "https://mediacp.audiostreamen.nl:8168/stream",
+    "tags": []
+  },
+  {
+    "id": "0c7aa23f",
+    "name": "Dance.FM",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-dance-aacplus-64-8013781?sABC=68s3n87o%230%234313or3p195706q13n90589o7061s597%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1760798843",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "654e86b2",
+    "name": "TRANCE 21",
+    "url": "https://mscp3.live-streams.nl:8022/radio",
+    "tags": []
+  },
+  {
+    "id": "9409eaac",
+    "name": "Piraten.FM - 3",
+    "url": "https://piraten.fm/top/3",
+    "tags": []
+  },
+  {
+    "id": "68f41b15",
+    "name": "538 90s AAC",
+    "url": "https://25223.live.streamtheworld.com:443/TLPSTR21AAC.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0d596f13",
+    "name": "Sky Radio Non-Stop",
+    "url": "https://27753.live.streamtheworld.com:443/SKYRADIO.mp3",
+    "tags": []
+  },
+  {
+    "id": "81759b47",
+    "name": "RADIO ALEX FM DE/NL",
+    "url": "https://stream.radiostreamserver.de/listen/alexfm/de-nl.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d71849c0",
+    "name": "Candlelight",
+    "url": "https://25333.live.streamtheworld.com/CANDLELIGHT_SC",
+    "tags": []
+  },
+  {
+    "id": "eff47a1a",
+    "name": "SLAM! Juize",
+    "url": "https://22333.live.streamtheworld.com/WEB09_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "c1e852ff",
+    "name": "Christmas Hits Radio NL",
+    "url": "https://stream06.dotpoint.nl:8006/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "58456fec",
+    "name": "90s Alive",
+    "url": "https://stream.90sa.live/90s-alive.mp3",
+    "tags": []
+  },
+  {
+    "id": "e50a4ed7",
+    "name": "Radio Seabreeze",
+    "url": "https://mediaserv38.live-streams.nl:18025/stream1",
+    "tags": []
+  },
+  {
+    "id": "2ae0d229",
+    "name": "NixxFM",
+    "url": "https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5a88c17a",
+    "name": "Omroep Zeeland Radio",
+    "url": "https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "5e0e5260",
+    "name": "Pinguin Pluche",
+    "url": "https://14223.live.streamtheworld.com/SP_R2591410_SC",
+    "tags": []
+  },
+  {
+    "id": "62dd07dc",
+    "name": "Candlelight Radio",
+    "url": "https://22613.live.streamtheworld.com:443/CANDLELIGHT.mp3",
+    "tags": []
+  },
+  {
+    "id": "87907259",
+    "name": "WILD FM",
+    "url": "https://stream.wildfm.nl/wildfm.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "359b6f72",
+    "name": "RADIO MONIQUE 918",
+    "url": "https://radiomonique918.radioca.st/stream",
+    "tags": []
+  },
+  {
+    "id": "5f84d37a",
+    "name": "ISKC Hardrock Channel Speler",
+    "url": "https://mediaserv68.live-streams.nl:8012/HardRockChannel",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c6f9e8b",
+    "name": "Cream",
+    "url": "https://22333.live.streamtheworld.com:443/CREAM.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2af305c8",
+    "name": "Deep Dance Radio",
+    "url": "https://cast1.torontocast.com:2205/stream",
+    "tags": []
+  },
+  {
+    "id": "4c469fec",
+    "name": "Sunlite",
+    "url": "https://25233.live.streamtheworld.com:443/SUNLITE_MP3.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a8e16f99",
+    "name": "Radioachterhoek.nl",
+    "url": "https://stream.radioachterhoek.nl/index.html?sid=1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9ceb92f1",
+    "name": "FRENCHCORE24FM Radio",
+    "url": "https://a8.asurahosting.com:7890/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "d95e85a6",
+    "name": "Sky LoveSongs",
+    "url": "https://25223.live.streamtheworld.com:443/SRGSTR03.mp3",
+    "tags": []
+  },
+  {
+    "id": "5900fa6d",
+    "name": "Alternative Rock Radio",
+    "url": "https://25243.live.streamtheworld.com/KINK_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "085ae301",
+    "name": "Radio Chilling Station",
+    "url": "https://mediaserv30.live-streams.nl:8090/stream",
+    "tags": []
+  },
+  {
+    "id": "826d4018",
+    "name": "RADIO UNIQUE FM /HI-RES",
+    "url": "https://hilversumdrie.beheerstream.nl/8038/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "81a2967a",
+    "name": "FunX Slow Jamz",
+    "url": "https://icecast.omroep.nl/funx-slowjamz-bb-mp3",
+    "tags": []
+  },
+  {
+    "id": "b5b1f01c",
+    "name": "NPO Radio5",
+    "url": "https://icecast.omroep.nl/radio5-bb-aac",
+    "tags": []
+  },
+  {
+    "id": "409091e2",
+    "name": "Apres Ski Radio",
+    "url": "https://stream-178.zeno.fm/qqbwd2x8d2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcWJ3ZDJ4OGQyenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDZobzJvWUtSTXVYdzF3TmJIYkZTQSIsImlhdCI6MTc2MDg3MTU0MCwiZXhwIjoxNzYwODcxNjAwfQ.fqp-bjrK8LEKtq8ltyLG_BktElRwnCBrfmGhrVkyDng",
+    "tags": []
+  },
+  {
+    "id": "25d8db19",
+    "name": "Radio Decibel",
+    "url": "https://23613.live.streamtheworld.com:443/RADIODECIBEL.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b4f6e9eb",
+    "name": "Baars Classic Rock",
+    "url": "https://stream.iceradio.nl/baarsclassicrock",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "10120f7b",
+    "name": "In Tha House",
+    "url": "https://ex52.voordeligstreamen.nl/8056/stream",
+    "tags": []
+  },
+  {
+    "id": "64a93bc5",
+    "name": "SuperFM - IJmuiden",
+    "url": "https://stream.edfm.nl/super",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7928f850",
+    "name": "NPO Klassiek",
+    "url": "https://icecast.omroep.nl/radio4-eigentijdsfb-mp3",
+    "tags": []
+  },
+  {
+    "id": "c53fac67",
+    "name": "Cool Dance Radio",
+    "url": "https://stream.cooldanceradio.com/stream1/stream.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "00be37b2",
+    "name": "Kick Radio - 80s & 90s Hits",
+    "url": "https://live.onlineradiostreaming.nl/kick",
+    "tags": []
+  },
+  {
+    "id": "ea2af176",
+    "name": "Radio Noordzee",
+    "url": "https://22553.live.streamtheworld.com/TLPSTR17.mp3",
+    "tags": []
+  },
+  {
+    "id": "d403293f",
+    "name": "Groot Nieuws Radio Non-Stop",
+    "url": "https://29053.live.streamtheworld.com:443/GNRNONSTOP.mp3",
+    "tags": []
+  },
+  {
+    "id": "4c113bc4",
+    "name": "Qmusic 90's & 00's (64k aac)",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_90s00s_high.aac",
+    "tags": []
+  },
+  {
+    "id": "9f6aa881",
+    "name": "classic nl mind radio",
+    "url": "https://stream.classic.nl/classicnl-mindradio.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0942172f",
+    "name": "100% NL Non-Stop",
+    "url": "https://25303.live.streamtheworld.com/WEB02_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "73cd014f",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-sb-mp3",
+    "tags": []
+  },
+  {
+    "id": "217e5225",
+    "name": "Sublime",
+    "url": "https://22723.live.streamtheworld.com:443/SUBLIME.mp3?dist=sublime_website",
+    "tags": []
+  },
+  {
+    "id": "a05ddff5",
+    "name": "SLAM",
+    "url": "https://23613.live.streamtheworld.com/SLAM_AAC_SC",
+    "tags": []
+  },
+  {
+    "id": "dc5a8e1d",
+    "name": "Radio Rijnmond Extra",
+    "url": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-extra-mp3",
+    "tags": []
+  },
+  {
+    "id": "de4881ef",
+    "name": "NH Radio",
+    "url": "https://i2.cdn.jetstre.am:8000/sz%3Dnhnieuws%3DNHRadio_mp3?token=efea252dd1fe922c959945378bac4146&time=68f450b7",
+    "tags": []
+  },
+  {
+    "id": "25254ba1",
+    "name": "QMUSIC THEMA",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c6b56e4",
+    "name": "Alles Plat",
+    "url": "https://mediacdn.rtvoost.nl/icecast/rtvoost/alles-plat-mp3",
+    "tags": []
+  },
+  {
+    "id": "9343447f",
+    "name": "Radio Caroline 259 Gold 64kbps",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio64.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c28d3d45",
+    "name": "Noise Radio",
+    "url": "https://a5.asurahosting.com:7640/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "6b0200d7",
+    "name": "TWR.NL - Richt je hart op God",
+    "url": "https://twrnl.out.airtime.pro:8000/twrnl_a",
+    "tags": []
+  },
+  {
+    "id": "5e3e1e46",
+    "name": "Joe",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?aw_0_1st.playerId=redirect",
+    "tags": []
+  },
+  {
+    "id": "9bf45089",
+    "name": "Team FM Twente",
+    "url": "https://22323.live.streamtheworld.com:443/TEAMFMTWENTE.mp3",
+    "tags": []
+  },
+  {
+    "id": "62884c61",
+    "name": "538 Party (MP3 Stream)",
+    "url": "https://22533.live.streamtheworld.com:443/TLPSTR16.mp3",
+    "tags": []
+  },
+  {
+    "id": "a6de0b1b",
+    "name": "Beata 2 Dance - House",
+    "url": "https://mediaserv38.live-streams.nl:18002/house",
+    "tags": []
+  },
+  {
+    "id": "cbbae313",
+    "name": "happy.radio (NL)",
+    "url": "https://stream.happy.radio:8000/192",
+    "tags": []
+  },
+  {
+    "id": "dc1a3577",
+    "name": "Intergalactic FM | CBS TV",
+    "url": "https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8",
+    "tags": []
+  },
+  {
+    "id": "1459f76e",
+    "name": "SLAM! MixMarathon 96kbps",
+    "url": "https://22333.live.streamtheworld.com/WEB13_AAC_SC",
+    "tags": []
+  },
+  {
+    "id": "8d508008",
+    "name": "Radio 509 Hilversum",
+    "url": "https://22603.live.streamtheworld.com/RADIO509AAC_SC",
+    "tags": []
+  },
+  {
+    "id": "45726b18",
+    "name": "RTV Maastricht Radio 107.5 FM",
+    "url": "https://stream.rtvmaastricht.nl/rtv/radio_audio/icecast.audio",
+    "tags": []
+  },
+  {
+    "id": "7b1317dc",
+    "name": "Grunn FM",
+    "url": "https://stream.grunnfm.nl/grunnfm",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9deedbd0",
+    "name": "radio.DANCE 90s dance music",
+    "url": "https://radiodance.streamingmedia.it/audio.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "98d36096",
+    "name": "ISKC Extreme Metal",
+    "url": "https://mediaserv68.live-streams.nl:8012/ExtremeMetal",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "36dcea2b",
+    "name": "All Day Jazz",
+    "url": "https://mediaserv73.live-streams.nl:8027/stream",
+    "tags": []
+  },
+  {
+    "id": "c3ed3c44",
+    "name": "Radio Time Out Trance",
+    "url": "https://s3.slotex.pl:7056/stream/1/",
+    "tags": []
+  },
+  {
+    "id": "c9c4c718",
+    "name": "Global Voices Radio",
+    "url": "https://gvoices.out.airtime.pro:8000/gvoices_b",
+    "tags": []
+  },
+  {
+    "id": "c22c8dbe",
+    "name": "Radio Olympia - 100% Piratenhits en Nederlandstalige muziek",
+    "url": "https://streams.olympia-streams.nl/olympia",
+    "tags": []
+  },
+  {
+    "id": "61d3524c",
+    "name": "HappyHits",
+    "url": "https://mediacp.audiostreamen.nl:8150/stream",
+    "tags": []
+  },
+  {
+    "id": "56718015",
+    "name": "Zeilsteen radio",
+    "url": "https://sslive.zeilsteen.com/",
+    "tags": []
+  },
+  {
+    "id": "761fb270",
+    "name": "Platinum Radio HardStyle",
+    "url": "https://live.platinumradio.nl:8030/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "919577d7",
+    "name": "Epic Prog Radio",
+    "url": "https://fra-pioneer08.dedicateware.com:3255/stream",
+    "tags": []
+  },
+  {
+    "id": "0016ad18",
+    "name": "Glow FM",
+    "url": "https://stream.glowfm.nl/glowfm.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9bf96a56",
+    "name": "Decibel Eurodance",
+    "url": "https://22733.live.streamtheworld.com:443/DECIBELEURODANCE.mp3",
+    "tags": []
+  },
+  {
+    "id": "ed4e31fb",
+    "name": "Alleen Klassiek",
+    "url": "https://25273.live.streamtheworld.com:443/SERVICE06.mp3",
+    "tags": []
+  },
+  {
+    "id": "375d7539",
+    "name": "KINK Distortion",
+    "url": "https://29023.live.streamtheworld.com/KINK_DISTORTION_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5ee1d176",
+    "name": "NPO Klassiek",
+    "url": "https://icecast.omroep.nl/radio4-bb-aac",
+    "tags": []
+  },
+  {
+    "id": "0bc63763",
+    "name": "Slam! 40",
+    "url": "https://22673.live.streamtheworld.com/WEB14_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "2b65c0d0",
+    "name": "BNR Nieuwsradio",
+    "url": "https://25633.live.streamtheworld.com:443/BNR_NIEUWSRADIO.mp3?dist=bnrweb",
+    "tags": []
+  },
+  {
+    "id": "0b400fc2",
+    "name": "Pinguin Showcase",
+    "url": "https://17653.live.streamtheworld.com/SP_R3045093_SC",
+    "tags": []
+  },
+  {
+    "id": "a62992dc",
+    "name": "Radio Experience 1008AM",
+    "url": "https://totaal-streaming.de:8030/radio2",
+    "tags": []
+  },
+  {
+    "id": "0d703dc2",
+    "name": "L1 Plat-eweg",
+    "url": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/plat-eweg-bb-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f68f2e56",
+    "name": "De Hollandse Piraten Gigant ",
+    "url": "https://dhpgstreaming.nl/proxy/dhpg/stream",
+    "tags": []
+  },
+  {
+    "id": "46dc5d22",
+    "name": "40up Radio",
+    "url": "https://stream.40upradio.nl/40up",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d2da9af4",
+    "name": "Double Z",
+    "url": "https://stream1.dzradio.nl/",
+    "tags": []
+  },
+  {
+    "id": "7c308751",
+    "name": "Concertgebouworkest Webradio",
+    "url": "https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192?token=574b9ab1904fb5420aa2eaeae31feff2&time=6703887c",
+    "tags": []
+  },
+  {
+    "id": "e3e8053e",
+    "name": "Radio Nostalgia",
+    "url": "https://cast1.torontocast.com:1630/stream",
+    "tags": []
+  },
+  {
+    "id": "a8c50404",
+    "name": "Hitzzz das radio",
+    "url": "https://stream.hitzzz.nl/hitzzz",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "660efd61",
+    "name": "Piraten.FM - 4",
+    "url": "https://piraten.fm/top/4",
+    "tags": []
+  },
+  {
+    "id": "93bd6f27",
+    "name": "Piraten.FM - 5",
+    "url": "https://piraten.fm/top/5",
+    "tags": []
+  },
+  {
+    "id": "7e216e37",
+    "name": "World Music Radio Classic",
+    "url": "https://server-67.stream-server.nl:8792/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dd7193b4",
+    "name": "KINK 64kbps",
+    "url": "https://22603.live.streamtheworld.com/KINKAAC2_SC",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "de33b1e4",
+    "name": "Dance Radio Amsterdam",
+    "url": "https://icecast.bytesheep.net/danceradio.mp3",
+    "tags": []
+  },
+  {
+    "id": "ca0b8a4a",
+    "name": "Radio 078",
+    "url": "https://cc6.beheerstream.com/proxy/radio078?mp=/stream",
+    "tags": []
+  },
+  {
+    "id": "20b53716",
+    "name": "Keizertstad Classics",
+    "url": "https://stream.keizerstad.nl/classics.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d22d7f2b",
+    "name": "Tigray Beat FM Radio",
+    "url": "https://stream-178.zeno.fm/pd13h8kft68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZDEzaDhrZnQ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUFJ0ZTNOcFJTMHVTcXJBQkh2SEdlZyIsImlhdCI6MTc2MDg2NzQwNywiZXhwIjoxNzYwODY3NDY3fQ.DNslxfLeTizAjjfpxq2vKQgYR_IPXyVeYxcslUciVi4",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c8fb23d9",
+    "name": "L11 Alaaf",
+    "url": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/L11Alaaf",
+    "tags": []
+  },
+  {
+    "id": "8fcc2141",
+    "name": "Radio 1224",
+    "url": "https://stream.radio1224.nl/1224",
+    "tags": []
+  },
+  {
+    "id": "83fb3a06",
+    "name": "Vibe Radio",
+    "url": "https://stream.viberadio.nl/viberadio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3634dbee",
+    "name": "80's Hitradio",
+    "url": "https://s22.myradiostream.com/:7728/listen.mp3?nocache=1760858420",
+    "tags": []
+  },
+  {
+    "id": "e7c33e0b",
+    "name": "Haarlem Shuffle",
+    "url": "https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3",
+    "tags": []
+  },
+  {
+    "id": "33bc6282",
+    "name": "ISKC Old Men’s Rock",
+    "url": "https://mediaserv68.live-streams.nl:8012/OldMenRock",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5fe32a7d",
+    "name": "Hete Hits",
+    "url": "https://mcp-2.mm-stream.nl:8000/stream",
+    "tags": []
+  },
+  {
+    "id": "c785272c",
+    "name": "Armin van Buuren",
+    "url": "https://stream01.pcradio.ru/Armin_van_buuren-med",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ade44fd1",
+    "name": "Omroep Venray",
+    "url": "https://icecast.omroepvenray.nl/lov.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1c8cfd44",
+    "name": "SinterklaasRadio",
+    "url": "https://stream06.dotpoint.nl:8004/stream",
+    "tags": []
+  },
+  {
+    "id": "488d8382",
+    "name": "Good Times Bad Times",
+    "url": "https://radio.goodtimesbadtimes.club/radio/8000/radio.mp3",
+    "tags": []
+  },
+  {
+    "id": "39baeb86",
+    "name": "Radio Halloo",
+    "url": "https://mediacp.audiostreamen.nl:8174/stream",
+    "tags": []
+  },
+  {
+    "id": "862b90b1",
+    "name": "GL8 Media,GL8 Media",
+    "url": "https://stream.stream.delivery/gl8media",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f722ef4c",
+    "name": "Amsterdam Funk Channel",
+    "url": "https://live.afc.fm/",
+    "tags": []
+  },
+  {
+    "id": "bbf99375",
+    "name": "Slam! 00's",
+    "url": "https://22353.live.streamtheworld.com/WEB15_MP3_SC",
+    "tags": []
+  },
+  {
+    "id": "7fa233eb",
+    "name": "Pinguin Indie",
+    "url": "https://streams.pinguinradio.com/PinguinRadio320.mp3?ngsw-bypass",
+    "tags": []
+  }
+]

@@ -1,0 +1,3193 @@
+[
+  {
+    "id": "2cfa4da4",
+    "name": "MANGORADIO",
+    "url": "https://mangoradio.stream.laut.fm/mangoradio",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bf383f93",
+    "name": "Rock Antenne - Heavy Metal",
+    "url": "https://s3-webradio.rockantenne.de/heavy-metal",
+    "tags": []
+  },
+  {
+    "id": "63b6e8f0",
+    "name": "1LIVE",
+    "url": "https://f111.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=34Gusr2IdWR5oP9vDKV0Fweme74&token=70lDpVObqR5XgHsuR2UYQrlciUlwJeS_lvC_J18afX4&tvf=IVxKCZzhbxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cc4be38d",
+    "name": "80s80s",
+    "url": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=68s44743%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760839491",
+    "tags": []
+  },
+  {
+    "id": "8b560d7d",
+    "name": "90s90s Hits",
+    "url": "https://regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761?sABC=68s48qo9%230%23s8389203o94019r3452q8r0757pr757p%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1760857529",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "778f1bd0",
+    "name": "Rock Antenne",
+    "url": "https://s6-webradio.rockantenne.de/rockantenne",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "051a27d1",
+    "name": "90s90s HipHop & Rap",
+    "url": "https://regiocast.streamabc.net/regc-90s90shiphop9858510-mp3-192-3156332?sABC=68s42418%230%234313or3p195706q13n90589o7061s597%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1760830488",
+    "tags": []
+  },
+  {
+    "id": "a819373e",
+    "name": "WDR 5",
+    "url": "https://d131.rndfnk.com/ard/wdr/wdr5/live/mp3/128/ct/stream.mp3?cid=01FBS0E239W9R7GR1S5Q7RTQRC&sid=34F8TPzdQIEC4oUMNXImEpRP9Tr&token=SD8N0NWVzDKt2J3M76_TjnXvAr-RkOek_CX7ReWuWPM&tvf=7t299xCwbxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "466fb943",
+    "name": "Antenne Bayern",
+    "url": "https://s5-webradio.antenne.de/antenne",
+    "tags": []
+  },
+  {
+    "id": "1469eb61",
+    "name": "SWR3",
+    "url": "https://d121.rndfnk.com/ard/swr/swr3/live/mp3/128/stream.mp3?aggregator=web&cid=01FC1X5J7PN2N3YQPZYT8YDM9M&sid=34HZblzPe1wxL1Gjhy0PX42NSc1&token=3R6frgp1s72JjFJOyb8sBxN5umjcZpLFVcjkbb3f8ZU&tvf=KxJjDeLzbxhkMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "1b3c7680",
+    "name": "- 0 N - Classic Rock on Radio",
+    "url": "https://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "70e34728",
+    "name": "Antenne Bayern - Chillout",
+    "url": "https://s7-webradio.antenne.de/chillout",
+    "tags": []
+  },
+  {
+    "id": "ea40fd56",
+    "name": "90s90s Dance HQ",
+    "url": "https://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489?sABC=68s4n34q%230%23q7s809s74070n543n7p5213q6qr39235%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1760863053",
+    "tags": []
+  },
+  {
+    "id": "ed302d82",
+    "name": "Radio Eins",
+    "url": "https://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=34FpVQJpP841lPblpAHp1ydFbY6&token=1QRJ0ZgU3h6rD4HcpzBu2xnAflbAghChTWpMW_5a2Ho&tvf=5zFLK2DDbxhmMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "0ec49be4",
+    "name": "Inforadio",
+    "url": "https://f111.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=34H3AJZLlBoTnMDzAo7Enrca5HW&token=mrX7WS61RdZ_Ue3tBSa-CcRy2TsaoxLmy0MOPPLFyOQ&tvf=NMmVOVPlbxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "e4ee82d5",
+    "name": "ROCK ANTENNE Classic Perlen",
+    "url": "https://s4-webradio.rockantenne.de/classic-perlen",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ebcd4fb8",
+    "name": "- 0 N - 70s on Radio",
+    "url": "https://0n-70s.radionetz.de/0n-70s.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c333514e",
+    "name": "Deutschlandfunk | DLF | MP3 128k",
+    "url": "https://f111.rndfnk.com/ard/dlf/01/mp3/128/stream.mp3?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=34GDNUqs3Pttol8mnpb1uDSxEOQ&token=555y7kX2_bbb7a0BXCXGoLd39vlTHSMFjfsPaAtv-8s&tvf=tynQORbObxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "0da4ee2c",
+    "name": "B5 aktuell",
+    "url": "https://d131.rndfnk.com/ard/br/br24/live/mp3/128/stream.mp3?cid=01FBPVVJDPGF0BJ5TAJ8Z7JSX9&sid=34HVseyd61rxXAMFWJa8SJ128BJ&token=Vn4QHg4Q-B2PdRFK-u6K6gANAQADiFee-6ohtUTloeg&tvf=K9Sd2zXybxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "79136f2a",
+    "name": "Country 108",
+    "url": "https://streaming.silvacast.com/COUNTRY108.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1dae60a9",
+    "name": "Reggae Radio Rastamusic.com",
+    "url": "https://origin-rastamusic.streamguys1.com/rastamusic.mp3",
+    "tags": []
+  },
+  {
+    "id": "a91526b0",
+    "name": "Best Of Rock.FM Alternative Rock",
+    "url": "https://radio21.streamabc.net/radio21-alternativerock-mp3-256-9941142?sABC=68s40q1n%230%234313or3p195706q13n90589o7061s597%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1760824602",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d2c4bf08",
+    "name": "WDR 2 Rheinland",
+    "url": "https://d111.rndfnk.com/ard/wdr/wdr2/rheinland/mp3/128/stream.mp3?cid=01FBS03TJ7KW307WSY5W0W4NYB&sid=34GULs1HkymE8fAjuj7JPpSDVW9&token=J4OPA4tOJPmgFYGgrMGhuxf6tJd3DL8vbbAeEn4ri9E&tvf=zhIVWbTVbxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "2b8c7403",
+    "name": "- 0 N - 80s on Radio",
+    "url": "https://0n-80s.radionetz.de/0n-80s.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "53163dc4",
+    "name": "Deutschrap",
+    "url": "https://deutschrap.stream.laut.fm/deutschrap?t302=2025-10-18_23-42-06&uuid=dada0d23-b343-4c44-b105-168ff9b89adc",
+    "tags": []
+  },
+  {
+    "id": "6ccb9006",
+    "name": "MDR Aktuell",
+    "url": "https://f121.rndfnk.com/ard/mdr/284340/0/mp3/128/stream.mp3?cid=01FBQ0YDVBJASPQAE887W5S4DZ&sid=34FvbMWLSXfLjVSb75hru4PEGs9&token=0L80CzUJSXXfZ6dRebjuDcfLZ_qb3W8JTRzKKZUQV7Q&tvf=Kpq8TBzGbxhmMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "4df9c1b3",
+    "name": "Total instrumental",
+    "url": "https://total-instrumental.stream.laut.fm/total-instrumental?t302=2025-10-19_02-57-42&uuid=dbe3a5a2-dae6-4b57-b63a-c36fb4438a09",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0a484ef2",
+    "name": "Antenne Bayern - Classic Rock Live (MP3)",
+    "url": "https://s2-webradio.antenne.de/classic-rock-live",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "89644dcb",
+    "name": "Laut.FM 1000 Oldies",
+    "url": "https://1000oldies.stream.laut.fm/1000oldies?t302=2018-01-16_15-40-29&uuid=37780fea-d865-4439-9a4a-66f3ec1715a0",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d4c59643",
+    "name": "90s90s Techno HQ",
+    "url": "https://regiocast.streamabc.net/regc-90s90stechno2195701-mp3-192-2408420?sABC=68s4n178%230%23q7s809s74070n543n7p5213q6qr39235%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1760862584",
+    "tags": []
+  },
+  {
+    "id": "49998acf",
+    "name": "- 0 N - Indie on Radio",
+    "url": "https://0n-indie.radionetz.de/0n-indie.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c20c142f",
+    "name": "Radio Arabella München",
+    "url": "https://edge01.stream.radioarabella.de/radioarabella-muenchen/stream/mp3?ref=radioarabella.de&aggregator=RDs24_rs26_stream24_net",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5260ca26",
+    "name": "MDR Klassik",
+    "url": "https://d141.rndfnk.com/ard/mdr/284350/0/mp3/128/stream.mp3?cid=01FBQ09PR39341DRRYP1TNBHVH&sid=34H1fvjj2ETDpyKtBZ23UGILvqp&token=FPTI8kiWkjI51d0h-dSUK0OjdMx_tVFbouOxA1aqM_E&tvf=amRz-afkbxhkMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4be13a74",
+    "name": "__TRANCE__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream38.radiohost.de/trance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODcyMjU5JmQ9Y2YwYWY5ZDFhYmRjYzkxY2ZjNDE",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1a0f74cd",
+    "name": "0nlineradio SOFT ROCK",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-soft-rock?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODY0MTQxJmQ9ZjFiZmMzOWZmNzMxNWZhOTlmMmU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "20e48e4c",
+    "name": "i love radio - hip hop turnup",
+    "url": "https://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYwODMwODMwJmQ9ZmNkNjYwMzNkOTZlYmZmM2I3MDM",
+    "tags": []
+  },
+  {
+    "id": "3503e40d",
+    "name": "NDR Info (Hamburg)",
+    "url": "https://d131.rndfnk.com/ard/ndr/ndrinfo/hamburg/mp3/128/ct/stream.mp3?cid=01FBQ2FR04JVDRRM969ZTAMZNK&sid=34GyehXSVvJdiTPILgG4TULfkag&token=2RJBvk3zO6D2xVlPUGvIfzwgdSeq0lwJ4uvMBR70Lt8&tvf=S3YY_kzjbxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "da0ec394",
+    "name": "RADIO BOB! BOBs Alternative Rock",
+    "url": "https://regiocast.streamabc.net/regc-radiobobalternativerock9577444-mp3-192-2041777?sABC=68s3s93n%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760819514",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "862a6065",
+    "name": "WDR4",
+    "url": "https://f111.rndfnk.com/ard/wdr/wdr4/live/mp3/128/stream.mp3?cid=01FBS0CPYNPWV23HTXYQE8R7AR&sid=34GtwSWI9dvJAp6yPAEJkZ4gKT0&token=Vixwd9jHEsqutjdhhAyDz3WzKCe1rSR31FdI5rJa59w&tvf=NqJ1pi_hbxhmMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "bbc59246",
+    "name": "Sunshine Live - Party",
+    "url": "https://sunsl.streamabc.net/sunsl-party-mp3-192-3345881?sABC=5nr16qs7%230%23q40266oo6p321s1695o82262nq851ppo%23Jroenqvb-Cynlre&amsparams=playerid:Webradio-Player;skey:1524723191",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2bec05ce",
+    "name": "Antenne Bayern - Top 40",
+    "url": "https://s1-webradio.antenne.de/top-40",
+    "tags": []
+  },
+  {
+    "id": "ccc7cf30",
+    "name": "RADIO BOB! BOBs Metal",
+    "url": "https://regiocast.streamabc.net/regc-radiobobmetal3070164-mp3-192-5354778?sABC=68s3n510%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760797968",
+    "tags": []
+  },
+  {
+    "id": "59552888",
+    "name": "- 0 N - 90s on Radio",
+    "url": "https://0n-90s.radionetz.de/0n-90s.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6f509845",
+    "name": "Technolovers DEEP HOUSE",
+    "url": "https://0nlineradio.stream42.radiohost.de/technolovers-deep-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQyNzY1JmQ9MDZjOWM5MjYzNTMyZWJjMjIzYWE",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "88b28894",
+    "name": "98.8 Kiss FM",
+    "url": "https://topradio.stream02.radiohost.de/kissfm_mp3-128?agend=true&upd-meta&upd-scheme=http&ref=internetradio&amsparams=internetradio&_art=dD0xNzYwODM2MTE5JmQ9Nzc0ZmU3MTY3MmIyMjdlYTRhMjE",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c3ea8d65",
+    "name": "FluxFM",
+    "url": "https://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=68s4nq28%230%23s8389203o94019r3452q8r0757pr757p%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1760865576",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "06b560da",
+    "name": "80s80s Love",
+    "url": "https://regiocast.streamabc.net/regc-80s80slove9615256-mp3-192-7318866?sABC=68s47n1p%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760852508",
+    "tags": []
+  },
+  {
+    "id": "3b7b4f4f",
+    "name": "Acid Jazz Radio",
+    "url": "https://acidjazz.stream.laut.fm/acidjazz?t302=2025-10-19_06-20-51&uuid=4c951f8a-ae62-4ff8-b09d-ec76f5627c43",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f20fa77e",
+    "name": "Radio Paloma",
+    "url": "https://icepool.silvacast.com/RADIOPALOMA.mp3",
+    "tags": []
+  },
+  {
+    "id": "85beab10",
+    "name": "Antenne Bayern - Oldies but Goldies",
+    "url": "https://s5-webradio.antenne.de/oldie-antenne",
+    "tags": []
+  },
+  {
+    "id": "76d45609",
+    "name": "RADIO BOB! Classic Rock",
+    "url": "https://regiocast.streamabc.net/regc-radiobobclassicrock1594088-mp3-192-3516780?sABC=68s4p61r%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760871966",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c00729ec",
+    "name": "104.6 RTL",
+    "url": "https://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-192-4947175?sABC=68s464or%230%234313or3p195706q13n90589o7061s597%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760847038",
+    "tags": []
+  },
+  {
+    "id": "1b7ae162",
+    "name": "- 0 N - Chillout on Radio",
+    "url": "https://0n-chillout.radionetz.de/0n-chillout.aac",
+    "tags": []
+  },
+  {
+    "id": "f765b9db",
+    "name": "- 0 N - Smooth Jazz on Radio",
+    "url": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1ea2e3bb",
+    "name": "GAYFM",
+    "url": "https://streaming.silvacast.com/GAYFM.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "411731b6",
+    "name": "1000 Discohits",
+    "url": "https://1000discohits.stream.laut.fm/1000discohits?t302=2025-10-19_00-59-41&uuid=6e53b06e-5ef5-4ef6-a1e2-1fc08933cf32",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f4cf5d31",
+    "name": "NDR Info (Niedersachsen)",
+    "url": "https://d111.rndfnk.com/ard/ndr/ndrinfo/niedersachsen/mp3/128/ct/stream.mp3?cid=01FBRKHKTB73QDVNX7A9RT082R&sid=34HGMJTkuUhYWRZvy6s02ThOTBo&token=EOpFdCSTaEITKigrLbOQ9sM_ygOicX_rqaiOuL4OzE4&tvf=CMHP1z7rbxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "db49acd8",
+    "name": "TechnoBase.FM",
+    "url": "https://listener3.mp3.tb-group.fm/tb.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "76fc6dca",
+    "name": "Fritz",
+    "url": "https://f141.rndfnk.com/ard/rbb/fritz/live/mp3/128/stream.mp3?cid=01FC1WK1H1KDC5EBKW5Z191BW4&sid=34H4Lk9m4xEfMERLU2xVfjV4sqP&token=X5vQXahPGYWtq_DnUZeRZ4dnT136YAg525cw42ygOWI&tvf=bBo_bdvlbxhmMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "6b99f2ea",
+    "name": "Technolovers EDM",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-edm?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODUyMjU1JmQ9MDRiZjRhZGJkMGE3YWU1MTRjMTY",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3ef730c6",
+    "name": "deutschrap",
+    "url": "https://deutschrap.stream.laut.fm/deutschrap?t302=2025-10-19_05-25-32&uuid=1c7cce8b-d298-4043-bba4-f8045fda77fe",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "013674a2",
+    "name": "electronic music club",
+    "url": "https://emc.stream.laut.fm/emc?t302=2025-10-19_02-03-49&uuid=bd589180-e3db-4046-832d-58f9a19147a6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2fb502a4",
+    "name": "Rock Antenne - Punk Rock",
+    "url": "https://s1-webradio.rockantenne.de/punkrock.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d435fb2f",
+    "name": "Berliner Rundfunk 91.4",
+    "url": "https://topradio.stream01.radiohost.de/brf_mp3-128?agend=true&upd-meta&upd-scheme=http&ref=internetradio&amsparams=internetradio&_art=dD0xNzYwODYyNTI1JmQ9OTEzOTg5OTNmMDA1ZWQwNjMzOGY",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "06fffc89",
+    "name": "WDR 3",
+    "url": "https://d111.rndfnk.com/ard/wdr/wdr3/live/mp3/128/stream.mp3?cid=01FBS0C9GMJJE2D5WXZHFQY7HG&sid=34GRn1iPRxs2nfN9Gx1hzSThfOB&token=0jADlspvcj_UYV8BLJhtdWH7odWF4MjjUJKJeHyvsUw&tvf=_z5y7Y3UbxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "612f1834",
+    "name": "SWR1 BW",
+    "url": "https://d131.rndfnk.com/ard/swr/swr1/bw/mp3/128/stream.mp3?aggregator=web&cid=01FC1X3K2Z71SMDKMEC68DM7MW&sid=34FJmRPlrUc627fbMAifmAwy8Fj&token=-8-Gn5_Jj2aRKbATYADMxncYdulWkYH13rKUGqH2sak&tvf=tfbNxCO1bxhkMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "8c8c1603",
+    "name": "WDR COSMO",
+    "url": "https://f121.rndfnk.com/ard/wdr/cosmo/live/mp3/128/stream.mp3?cid=01FC1T8CET1M6TA2P4PQ2YA5NC&sid=34H1bWON08pZ2EhlvpDBvdLMVHs&token=dKW2enLFPSFJGigIUUbgoriJdjTD6hv2Y1vBcrXWKdg&tvf=swJj6J_kbxhmMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "35f53e0e",
+    "name": "Bayern 3",
+    "url": "https://f111.rndfnk.com/ard/br/br3/live/mp3/128/stream.mp3?cid=01FBPVFWX7C216W6WY4M4M7MF7&sid=34G0TLoF8UrqsufH3IXkL9r45Ua&token=xhyM_C7i3f2lxv8WJiFKRcLS68qx7XplhnCUGazI1vA&tvf=L8k650vIbxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ae601fde",
+    "name": "Antenne Bayern - 80er Kulthits",
+    "url": "https://s5-webradio.antenne.de/80er-kulthits",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1afc9353",
+    "name": "1000 Goldschlager",
+    "url": "https://1000goldschlager.stream.laut.fm/1000goldschlager",
+    "tags": []
+  },
+  {
+    "id": "fbc440a8",
+    "name": "WDR 1Live Diggi",
+    "url": "https://f131.rndfnk.com/ard/wdr/1live/diggi/mp3/128/stream.mp3?cid=01FBS02KK2TSYGZSY19X8ZJ3RK&sid=34GSAHIVGVm05EKHmNkm4PvpL0a&token=V5gnJpkl2_GuuvbFmhFEj2nw9dENMBoWuN3nwnaBbhc&tvf=wxkHGrnUbxhmMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5fc6b7a0",
+    "name": "- 0 N - 2000s on Radio",
+    "url": "https://0n-2000s.radionetz.de/0n-2000s.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4dc27b85",
+    "name": "80s80s Radio",
+    "url": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=68s47oo6%230%23q7s809s74070n543n7p5213q6qr39235%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760852918",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "524464c6",
+    "name": "Rock Antenne Heavy Metal",
+    "url": "https://s2-webradio.rockantenne.de/heavy-metal",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5f8fb560",
+    "name": "KLASSIK 1",
+    "url": "https://icepool.silvacast.com/KLASSIK1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9ace628c",
+    "name": "ROCK ANTENNE Soft Rock",
+    "url": "https://s6-webradio.rockantenne.de/soft-rock",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3ce4088d",
+    "name": "WDR 2 Rhein und Ruhr",
+    "url": "https://d121.rndfnk.com/ard/wdr/wdr2/rheinruhr/mp3/128/stream.mp3?cid=01FCT2RWF63W89PNJYNEAMD9WP&sid=34H0e6hYKv3k3PDjiLzmmwGAmm9&token=uun7jwwKWTt4aAAQK1fLhmxjcJJOv0LTGQfSjJrx_SU&tvf=LxpMzzHkbxhkMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "584c3fe6",
+    "name": "Ballermann Radio",
+    "url": "https://stream.bmr-radio.de/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ae1f783c",
+    "name": "RADIO BOB! BOBs Best of Rock",
+    "url": "https://regiocast.streamabc.net/regc-radiobobbestofrock1362412-mp3-192-5332584?sABC=68s469o0%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760848304",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "93b9b6a8",
+    "name": "bigFM Deutsch Rap",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-deutschraprasiert-aac-128-4697731?sABC=68s3s218%230%23q7s809s74070n543n7p5213q6qr39235%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1760817688",
+    "tags": []
+  },
+  {
+    "id": "8cac5d72",
+    "name": "Klassik Radio - Pure Mozart",
+    "url": "https://klassikr.streamabc.net/klr-puremozart-mp3-128-6467911?sABC=68s4n772%230%23s8389203o94019r3452q8r0757pr757p%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:1760864114",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4c85afad",
+    "name": "MDR Jump",
+    "url": "https://f121.rndfnk.com/ard/mdr/284320/0/mp3/128/stream.mp3?cid=01FBPZXA57C37S4VNZ987DHSAG&sid=34GXjgWnkvhN36e0VUdrt5mZ2jk&token=7DtONDvsoaxDhu5smHwCFA8kt7A4j_bcuVwIbUhlb0A&tvf=j3zYzDjXbxhmMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "a03ddef0",
+    "name": "90s90s Dance",
+    "url": "https://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-128-2300952?sABC=68s427rp%230%234313or3p195706q13n90589o7061s597%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1760831468",
+    "tags": []
+  },
+  {
+    "id": "273aaf7d",
+    "name": "ROCKANTENNE Heavy Metal (64 kbps AAC)",
+    "url": "https://s1-webradio.rockantenne.de/heavy-metal.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b6ef82f8",
+    "name": "80s80s Funk & Soul",
+    "url": "https://regiocast.streamabc.net/regc-80s80ssoul8277002-mp3-192-1187403?sABC=68s41nop%230%234313or3p195706q13n90589o7061s597%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760828092",
+    "tags": []
+  },
+  {
+    "id": "afb02fd6",
+    "name": "the wave - relaxing radio",
+    "url": "https://rtlberlin.streamabc.net/rtlb-thewave-mp3-128-3525376?sABC=68s496np%230%234313or3p195706q13n90589o7061s597%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760859820",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1e9ee35b",
+    "name": "80s80s Depeche Mode",
+    "url": "https://regiocast.streamabc.net/regc-80s80sdm4383853-mp3-192-4947593?sABC=68s41807%230%234313or3p195706q13n90589o7061s597%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760827399",
+    "tags": []
+  },
+  {
+    "id": "3106f953",
+    "name": "Top 100 Station",
+    "url": "https://rautemusik.stream25.radiohost.de/top100station_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYwODUyNTcxJmQ9ZDFhYWU1MWU2NWM5NDI5NGNhODA",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8e297297",
+    "name": "NDR N-Joy AAC 48kHz",
+    "url": "https://f121.rndfnk.com/ard/ndr/njoy/live/aac/64/stream.aac?cid=01FBRKKTM6TVGA3B3W6Y8NMXK8&sid=34HLFla1kQD6E7UkhAGrgPPtodb&token=ycgTZp07iTWMmkev8HNk7BH5c6W9vIsREIaUJt47Wto&tvf=7hvB4HDtbxhmMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7c9f6f10",
+    "name": "Sunshine Live - Tech House",
+    "url": "https://sunsl.streamabc.net/sunsl-techhouse-mp3-192-9113798?sABC=68s49096%230%23q7s809s74070n543n7p5213q6qr39235%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1760858262",
+    "tags": []
+  },
+  {
+    "id": "fb401510",
+    "name": "MDR Kultur",
+    "url": "https://d131.rndfnk.com/ard/mdr/284310/0/mp3/128/stream.mp3?cid=01FBQ0DC86PCK25SZ3MS3J5EM2&sid=34HQdAliKmItOIPDap6TEvSOANP&token=mVLPgQo_xVWM4OjLl1-DVOL2v6VNwGBw9EsqVy-oGEI&tvf=stwypNrvbxhkMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "31859062",
+    "name": "Radio Bollerwagen",
+    "url": "https://ffn.stream20.radiohost.de/radiobollerwagen_mp3-192?ref=radioplayer&listenerid=31363233323633323031-323030333a64653a343731363a3730313a623731343a346664383a313761363a39386165-3537373636-4d6f7a696c6c612f352e3020285831313b205562&upd-meta&upd-scheme=https&_art=dD0xNzYwODMxMzc4JmQ9M2Q5ZWI3MDYwMzE2MDgyMmY3OGM",
+    "tags": []
+  },
+  {
+    "id": "29df803d",
+    "name": "Sunshine Live - Chillout",
+    "url": "https://sunsl.streamabc.net/sunsl-chillout-mp3-192-3900120?sABC=68s43ps6%230%23s8389203o94019r3452q8r0757pr757p%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1760836854",
+    "tags": []
+  },
+  {
+    "id": "4da5cf91",
+    "name": "Italo Disco",
+    "url": "https://italo-disco.stream.laut.fm/italo-disco",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f6222e14",
+    "name": "Deutschlandfunk Kultur | DLF | MP3 128k",
+    "url": "https://d111.rndfnk.com/ard/dlf/02/mp3/128/stream.mp3?aggregator=web&cid=01FBPXKD7AYM1NKT2H60NVGHEQ&sid=34GFncGDulHHzELDy9XOJ4OZog1&token=7XAk6W3udoEjKWUbqdEGwB_2lWX3tvW9vdr_NTyX-Qw&tvf=oJkjlCzPbxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cdb64b32",
+    "name": "Klassik Radio - Live",
+    "url": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384?listenerid=418dfa11fd7b3f0a9dff0d19cf4adae1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8d23023c",
+    "name": "Electro Swing Revolution",
+    "url": "https://streamer.radio.co/s2c3cc784b/listen",
+    "tags": []
+  },
+  {
+    "id": "cca46214",
+    "name": "delta radio Indie",
+    "url": "https://deltaradio.streamabc.net/regc-deltaindie-mp3-192-2101701?sABC=68s3o23n%230%234313or3p195706q13n90589o7061s597%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760801338",
+    "tags": []
+  },
+  {
+    "id": "cf3de4d5",
+    "name": "- 0 N - Chillout on Radio",
+    "url": "https://0n-chillout.radionetz.de/0n-chillout.mp3",
+    "tags": []
+  },
+  {
+    "id": "3b2fce66",
+    "name": "1A Fitness Hits",
+    "url": "https://vmg.streamabc.net/117-fitness-aacplus-64-9410532?listenerid=fad926e11c2fff0b25cee50f27d8604e",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e979742a",
+    "name": "Radio BOB!",
+    "url": "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554?sABC=68s48o54%230%234313or3p195706q13n90589o7061s597%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760856916",
+    "tags": []
+  },
+  {
+    "id": "54e68594",
+    "name": "ROCK ANTENNE Alternative",
+    "url": "https://s6-webradio.rockantenne.de/alternative",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "68af82c5",
+    "name": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS ",
+    "url": "https://rautemusik.stream39.radiohost.de/breakz?ref=radiobrowser-top100-djcharts&upd-meta&upd-scheme=https&_art=dD0xNzYwODQzNzc2JmQ9M2ZlNmQ5ZDlhMmY1MWQzMDJiYTE",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "abfe7ed5",
+    "name": "HR1",
+    "url": "https://d131.rndfnk.com/ard/hr/hr1/live/mp3/128/stream.mp3?cid=01FBPYE99NY0MWPAFS4G4JG4TV&sid=34GgaYbjZlxRfShklupfG51gJ79&token=WHgX7BapctnqOiwmytboYWC0CtCtwGGbyjbupEH7Eok&tvf=CfwjxDHbbxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6266365a",
+    "name": "0nlineradio REMIX",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-remix?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODU5ODYwJmQ9MmZmZWVlYzQ0NmI3MTY4YmU2MDg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cc2ae376",
+    "name": "Klassikradio - Pure Bach",
+    "url": "https://klassikr.streamabc.net/klassikr-purebach-mp3-192-5022412?sABC=68s4on06%230%234313or3p195706q13n90589o7061s597%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1760868870",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c6b30a89",
+    "name": "# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET ",
+    "url": "https://rautemusik.stream38.radiohost.de/breakz?ref=radiobrowser-top100-clubcharts&upd-meta&upd-scheme=https&_art=dD0xNzYwODU2MDY5JmQ9OGUyZTAyNGI4Y2UyOWQxMTUwOGM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fe85cb7b",
+    "name": "Klassik Radio - Lounge",
+    "url": "https://klassikr.streamabc.net/klr-lounge-mp3-128-5641292?sABC=68s48o56%230%234313or3p195706q13n90589o7061s597%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1760856918",
+    "tags": []
+  },
+  {
+    "id": "97f04706",
+    "name": "54 Funk Soul Dance (laut.fm)",
+    "url": "https://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2025-10-19_07-20-58&uuid=309ba7a3-0e3b-4ec2-b6ca-d7e3bdb01cde",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3a220bad",
+    "name": "Schlagerparadies",
+    "url": "https://webstream.schlagerparadies.de/schlager30842",
+    "tags": []
+  },
+  {
+    "id": "201d0957",
+    "name": "90s90s In The Mix",
+    "url": "https://regiocast.streamabc.net/regc-90s90sinthemix9775729-mp3-192-4658440?sABC=68s43q71%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1760836977",
+    "tags": []
+  },
+  {
+    "id": "9d4c9d4c",
+    "name": "NDR2",
+    "url": "https://d131.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?cid=01FBQ2CWDYWJHGF4QAJ0SVV730&sid=34FtyigBZBdmqJsAenRzSaY9ATX&token=HUePPb-W87AGOoN6z9XdKNo4ZSljxDR-X9X55xmBaGM&tvf=gvUE5WHFbxhkMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "85b6c7d4",
+    "name": "80s80s In The Mix",
+    "url": "https://regiocast.streamabc.net/regc-80s80smix8012507-mp3-192-3015055?sABC=68s3sr09%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760820745",
+    "tags": []
+  },
+  {
+    "id": "b3f4650b",
+    "name": "HR Info",
+    "url": "https://f131.rndfnk.com/ard/hr/hrinfo/live/mp3/128/stream.mp3?cid=01FBPYRECZW4SNS714QRSDEXBQ&sid=34GqDsa4onDo2sH5QjzxGoRaHby&token=bRig1Zx7Hwr3pN-7ZHcM3v19O6o1SVDDP93IroxHaKs&tvf=x3QsfITfbxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "88a849d8",
+    "name": "Radioeins",
+    "url": "https://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=34FE6WNpw6VtY7wqbqO5pvyywH6&token=PyaVtkaali122O9p4YdXfv0mwjL2aRCJnOYxhyXqfwc&tvf=GGFvxpeybxhkMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "93a16fca",
+    "name": "ByteFM (192k)",
+    "url": "https://bytefm.stream14.radiohost.de/bytefm-mainhq_mp3-192?addradio&upd-meta&upd-scheme=https&_art=dD0xNzYwODY0NjQ3JmQ9ZDQwMjliNTlkMTQwOGM4YzdmNGU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "de5268b3",
+    "name": "Ultra Dark Radio",
+    "url": "https://ultradarkradio.stream.laut.fm/ultradarkradio?t302=2025-10-19_08-37-30&uuid=ef95a417-a765-444e-9243-38858d7fd0b4",
+    "tags": []
+  },
+  {
+    "id": "60a48735",
+    "name": "SWR1 BW neu (2021.12) 128k mp3",
+    "url": "https://f121.rndfnk.com/ard/swr/swr1/bw/mp3/128/stream.mp3?aggregator=web&cid=01FC1X3K2Z71SMDKMEC68DM7MW&sid=34F6TCvW5mHHkE8TsTlzkCTPvkt&token=eSqsYysUhy0lOHuBSB3M-O0V9T_L5pnOdCW7YQHUHwg&tvf=DUyPtyqvbxhmMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "ae518eda",
+    "name": "NDR Kultur",
+    "url": "https://f111.rndfnk.com/ard/ndr/ndrkultur/live/aac/192/stream.aac?cid=01FBQ2EJ6T7QK3WENQ5KT9S2FB&sid=34Fn6efnQZy2TqGLXVmqApxPNvH&token=YrC4mkPQjnM-4upCU-XpXa2Z8xhBKk2TL8JEqXTOrwU&tvf=bt-zfkzCbxhmMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "4722dd23",
+    "name": "HR3",
+    "url": "https://f141.rndfnk.com/ard/hr/hr3/live/mp3/128/stream.mp3?cid=01FBPYFJ2S8K48K92MWZXTG4PA&sid=34HQKmPSuBQev7wVoVigZf1DojU&token=wD0INDQAjGMl_4zHN8oJ95c23blQPE9ksGn-ymXSwM0&tvf=BJYKf7jvbxhmMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "1bd4cdde",
+    "name": "harmony.fm",
+    "url": "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3",
+    "tags": []
+  },
+  {
+    "id": "1b6040ca",
+    "name": "Energy Bremen (NRJ)",
+    "url": "https://ffn.stream24.radiohost.de/energybremen_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYwODU0OTA1JmQ9NGJjMjFmZGQ5NThhOWY0NGM1ZjU",
+    "tags": []
+  },
+  {
+    "id": "bf111702",
+    "name": "i love radio - US Only Rap&HipHop Radio",
+    "url": "https://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYwODYwODcwJmQ9ZmUzNWVlYTI4ZTY4MTJlYTZjYzE",
+    "tags": []
+  },
+  {
+    "id": "ea358910",
+    "name": "WDR4",
+    "url": "https://f131.rndfnk.com/ard/wdr/wdr4/live/mp3/128/stream.mp3?cid=01FBS0CPYNPWV23HTXYQE8R7AR&sid=34HTdwyzDwNIscXzuEMwEzA5svr&token=MMCDEkU9YTD8fS0EiD9GAMwxJ8T8vNtSpttFHseHVF4&tvf=fCse6TTxbxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "32527a27",
+    "name": "Technolovers ELECTRO HOUSE",
+    "url": "https://0nlineradio.stream42.radiohost.de/technolovers-electro-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODYyMDQ3JmQ9YTQwMjhmOWRmNTNhMDE2NGYzNzQ",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "667a4249",
+    "name": "90s90s Grunge",
+    "url": "https://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468?sABC=68s479ns%230%234313or3p195706q13n90589o7061s597%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760852399",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "46940780",
+    "name": "Sunshine Live - Psytrance",
+    "url": "https://sunsl.streamabc.net/sunsl-christmas-mp3-192-7547837",
+    "tags": []
+  },
+  {
+    "id": "c4b06caa",
+    "name": "Energy Top 40",
+    "url": "https://edge14.streamonkey.net/energy-top40/stream/mp3?aggregator=shorty",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d5e1990d",
+    "name": "harmony.fm",
+    "url": "https://mp3.harmonyfm.de/harmonyfm/livestream.aac",
+    "tags": []
+  },
+  {
+    "id": "27a1f9e4",
+    "name": "HouseTime.FM",
+    "url": "https://listener2.aachd.tb-group.fm:443/ht-hd.aac",
+    "tags": []
+  },
+  {
+    "id": "e415743e",
+    "name": "NDR 1 Welle Nord",
+    "url": "https://d111.rndfnk.com/ard/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3?cid=01FBQ1T52FB81EDG99JE36KN5J&sid=34FgmS8uiBS9cVsnV5yePALWyiI&token=zBKy-1_DPkE-gCJtGMqZzrxEbDqOlBsfSmCQOLsARbw&tvf=gcWv93W_bxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fbe3cb93",
+    "name": "Bayern 1 Oberbayern",
+    "url": "https://d111.rndfnk.com/ard/br/br1/obb/mp3/128/stream.mp3?cid=01FB9ME7567MEQ5G72EVEEVVCS&sid=34GslRRsU50vgEA62sZQ6Sa4Nw4&token=5-GQGYjG1cL4GvAIBiOCpoTeDh3QTHKXMneHsH4sdbY&tvf=Fnt_k6jgbxhkMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "1e428d4c",
+    "name": "- 0 N - 60s on Radio",
+    "url": "https://0n-60s.radionetz.de/0n-60s.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d3f07601",
+    "name": "Antenne Bayern - Hitmix",
+    "url": "https://s7-webradio.antenne.de/in-the-mix",
+    "tags": []
+  },
+  {
+    "id": "24441b3e",
+    "name": "Absolut Relax",
+    "url": "https://edge62.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249",
+    "tags": []
+  },
+  {
+    "id": "231bf1bc",
+    "name": "OLDSCHOOL HIPHOP",
+    "url": "https://oldschool-hiphop.stream.laut.fm/oldschool-hiphop?t302=2025-10-19_07-23-33&uuid=30d4c62b-9d47-4900-968b-6b872fd1aabf",
+    "tags": []
+  },
+  {
+    "id": "2e771335",
+    "name": "Hip Hop Forever",
+    "url": "https://hiphop-forever.stream.laut.fm/hiphop-forever?t302=2025-10-19_06-07-08&uuid=8f8ef961-5ea3-4131-bc44-97697d84b618",
+    "tags": []
+  },
+  {
+    "id": "d4beea3c",
+    "name": "RauteMusik Club",
+    "url": "https://rautemusik.stream38.radiohost.de/club?upd-meta&upd-scheme=http&_art=dD0xNzYwODY0MjYxJmQ9YTU2MDU5ZGQyOWM4OWI2NTNkZDU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "405003ca",
+    "name": "Laut.fm Housebomb",
+    "url": "https://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "536e491d",
+    "name": "Absolut bella",
+    "url": "https://edge10.live-sm.absolutradio.de/absolut-bella/stream/mp3",
+    "tags": []
+  },
+  {
+    "id": "8607627c",
+    "name": "Bayern 1 Franken",
+    "url": "https://f131.rndfnk.com/ard/br/br1/franken/mp3/128/stream.mp3?cid=01FCDXH5496KNWQ5HK18GG4HED&sid=34GR5PdWyFqNhF7MW5HXt21wLaz&token=aer6QlBQ_eByI0tFCUuxNvHpjh7muj839DpmrukwPYs&tvf=Nn8w5DzUbxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "02f940ba",
+    "name": "RBB 88.8 Radio Berlin",
+    "url": "https://f131.rndfnk.com/ard/rbb/rbb888/live/mp3/128/stream.mp3?cid=01FCTB5577PTDND5C4WBNVMQ9E&sid=34H0kvJW57uggNDsadG0CL7CxAq&token=8OMsOONuUvtwVTCIaesHzYqi52PdYEDmW6xXOexrdIk&tvf=UEZhoD7kbxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "b69626b2",
+    "name": "Sunshine Live - Ibiza",
+    "url": "https://sunsl.streamabc.net/sunsl-ibiza-mp3-192-7872628?sABC=5nr16r6p%230%23q40266oo6p321s1695o82262nq851ppo%23Jroenqvb-Cynlre&amsparams=playerid:Webradio-Player;skey:1524723308",
+    "tags": []
+  },
+  {
+    "id": "4ae2082b",
+    "name": "EPIC CLASSICAL - Classical Music For Sleep",
+    "url": "https://0nlineradio.stream13.radiohost.de/classical-classical-music-for-sleep?upd-meta&upd-scheme=https&_art=dD0xNzYwODY2NjkwJmQ9YzlmMDI4Nzg3Njg2NzY0ZTk0ZjI",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b1f49cdf",
+    "name": "Antenne Bayern - Workout hits",
+    "url": "https://s2-webradio.antenne.de/workout-hits",
+    "tags": []
+  },
+  {
+    "id": "720ab676",
+    "name": "80s80s Michael Jackson",
+    "url": "https://regiocast.streamabc.net/regc-80s80smicjac6506662-mp3-192-3954067?sABC=68s4o855%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760868437",
+    "tags": []
+  },
+  {
+    "id": "7fbefcaf",
+    "name": "Deutschlandfunk | DLF | AAC 48k",
+    "url": "https://f141.rndfnk.com/ard/dlf/01/aac/48/stream.aac?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=34HS3SpGBJuA6PXWJQ5LM6pFlci&token=-_ngRnS8or3m8GVgX_nLb2kWYagF3r9kW_XtyewvJeU&tvf=ryIBX37wbxhmMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b1152022",
+    "name": "MDR Thüringen",
+    "url": "https://f111.rndfnk.com/ard/mdr/284300/0/mp3/128/stream.mp3?cid=01FBQ0VVNFY9PE18EJE73MJAYC&sid=34HamtZq2ImaWYTq0QqqCw7xNyo&token=mGUMqM7F0Q4PpKUebEFKkHT5kL6pSijPNoqByoEco6M&tvf=z9hiYmn0bxhmMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "bb355c6a",
+    "name": "WDR 3 HQ",
+    "url": "https://d141.rndfnk.com/ard/wdr/wdr3/live/mp3/256/stream.mp3?cid=01FBS0C9GMJJE2D5WXZHFQY7HG&sid=34GgZigOn5VzmiBcnUSdLVyUvur&token=87nxpwy7NJpHJQwbJmxiQ_2Lr70v5bPRdhDVErQyboI&tvf=4eueHjDbbxhkMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "346e9f47",
+    "name": "Hitradio Germany",
+    "url": "https://hitradio-germany.stream.laut.fm/hitradio-germany?t302=2025-10-19_01-53-30&uuid=aac5c0e5-4cf9-492f-8691-b6b2826b1cdc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c8e09082",
+    "name": "WDR 2 Ostwestfalen-Lippe",
+    "url": "https://d131.rndfnk.com/ard/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3?cid=01FBS04WMHRM7VF85SA6T1FXEG&sid=34ErgEHQ3IZBkxLM7wv8S3Nbi67&token=UlbMYvVryv7FcU6ny3xEqzujSN5U5omryjV3qvcJbYM&tvf=yq5UHYiobxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "42ae9ce6",
+    "name": "laut.fm Sound",
+    "url": "https://sound.stream.laut.fm/sound?t302=2025-10-19_01-03-40&uuid=9f488131-65fa-4eef-ae68-1a46ee01e786",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "eed72ab8",
+    "name": "Blues Rock Cafe",
+    "url": "https://bluesrockcafe.stream.laut.fm/bluesrockcafe?pl=m3u&t302=2025-10-18_22-32-33&uuid=6ceeeef0-4071-41d3-a43d-3e3f172eced9",
+    "tags": []
+  },
+  {
+    "id": "5ca0c8ae",
+    "name": "90s90s Techno",
+    "url": "https://regiocast.streamabc.net/regc-90s90stechno2195701-mp3-128-2406006?sABC=68s4n5or%230%23q7s809s74070n543n7p5213q6qr39235%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1760863678",
+    "tags": []
+  },
+  {
+    "id": "9397fcd4",
+    "name": "- 0 N - Electro on Radio",
+    "url": "https://0n-electro.radionetz.de/0n-electro.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "851f8dff",
+    "name": "Laut.FM Eurodance",
+    "url": "https://eurodance.stream.laut.fm/eurodance?t302=2025-10-18_23-16-17&uuid=9977231c-db3a-45f0-91da-6f5149df9a29",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d7567767",
+    "name": "Epic Lounge - SLEEP & MEDITATION",
+    "url": "https://0nlineradio.stream42.radiohost.de/lounge-sleep-meditation?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODM3NjA5JmQ9NmRjYjcwNGJlOTI2OTM2NWIzYTM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "718296af",
+    "name": "Radio Paloma - Kultschlager",
+    "url": "https://pool.radiopaloma.de/RP-Kultschlager.mp3",
+    "tags": []
+  },
+  {
+    "id": "ee6f183e",
+    "name": "Best Of Rock.FM AC DC",
+    "url": "https://radio21.streamabc.net/radio21-acdc-mp3-256-4489368?sABC=68s4709p%230%234313or3p195706q13n90589o7061s597%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1760850076",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "da21623d",
+    "name": "R.SA Beatles Radio",
+    "url": "https://rsa.streamabc.net/regc-rsasachsenbeatles9332348-mp3-192-8776045?sABC=68s4p688%230%234313or3p195706q13n90589o7061s597%23zrqvncynlreefn&aw_0_1st.playerid=mediaplayerrsa&amsparams=playerid:mediaplayerrsa;skey:1760872072",
+    "tags": []
+  },
+  {
+    "id": "6435eebd",
+    "name": "Klassik Radio - Opera",
+    "url": "https://klassikr.streamabc.net/klr-opera-mp3-128-2609490?sABC=68s410oo%230%23q7s809s74070n543n7p5213q6qr39235%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1760825531",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "77a6f991",
+    "name": "Rock Antenne Heavy Metal",
+    "url": "https://s7-webradio.rockantenne.de/heavy-metal/stream/aacp",
+    "tags": []
+  },
+  {
+    "id": "b8cbaf89",
+    "name": "Nightride FM - Spacesynth",
+    "url": "https://stream.nightride.fm/spacesynth.mp3",
+    "tags": []
+  },
+  {
+    "id": "af92a62a",
+    "name": "80s80s NDW",
+    "url": "https://regiocast.streamabc.net/regc-80s80sndw1662997-mp3-192-5786089?sABC=68s4o206%230%234313or3p195706q13n90589o7061s597%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760866822",
+    "tags": []
+  },
+  {
+    "id": "d2dc9b8b",
+    "name": "Ostseewelle Live Radio",
+    "url": "https://ostseewelle--di--nacs-ais-lgc--01--cdn.cast.addradio.de/ostseewelle/nord/mp3/high?_art=dj0yJmlwPTE1Mi41My44NS4zJmlkPWljc2N4bC1rNmFzZWxwZ2ImdD0xNzYwOTA4NTg0JnM9Nzg2NmYyOWMjNjExZTAxYjA3MWMxM2Y0YzdlNzUxMTgzZGEwNzNhNmM",
+    "tags": []
+  },
+  {
+    "id": "5eaa7fa3",
+    "name": "hr4 ",
+    "url": "https://f111.rndfnk.com/ard/hr/hr4/live/mp3/128/stream.mp3?cid=01FBPYFP189GDB4TY2ZT6BWBBB&sid=34HYKpFM9zpgtFPdxEBee6oc0qc&token=tMq9OBIfzhPLzSrxl0K0GLlJReQO2RDXugBQsHBHOkA&tvf=3Gzgp0_zbxhmMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "5e4396a1",
+    "name": "MDR Sputnik",
+    "url": "https://f121.rndfnk.com/ard/mdr/284330/0/mp3/128/stream.mp3?cid=01FBQ18H2Q0RRXXYY923NQ29CQ&sid=34GCOluHPngPqUlz5rhHW0KBs9p&token=WPD4oghyxD5UWKqKWXhr1LoELhZ1NPxG2UQ3bz1zutc&tvf=ARNovaXNbxhmMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "bdd4139a",
+    "name": "Deep House Sounds",
+    "url": "https://deep-house-sounds.stream.laut.fm/deep-house-sounds?t302=2025-10-19_09-15-11&uuid=1f9e388d-1021-4396-9d68-e12c887322c2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "834df0d8",
+    "name": "OLDIE ANTENNE",
+    "url": "https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "14303a1c",
+    "name": "_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!",
+    "url": "https://rautemusik.stream38.radiohost.de/breakz?ref=radiobrowser-deejay-remixes-radio&upd-meta&upd-scheme=https&_art=dD0xNzYwODQ3NDYwJmQ9ZDJhNjg2NjNlYzVkMmFlNDM5N2E",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0ebce7f6",
+    "name": "1000 Christmashits",
+    "url": "https://1000christmashits.stream.laut.fm/1000christmashits",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0c8c18ab",
+    "name": "RADIO BOB! BOBs Punk",
+    "url": "https://regiocast.streamabc.net/regc-radiobobpunk9297074-mp3-192-5301995?sABC=68s41884%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760827524",
+    "tags": []
+  },
+  {
+    "id": "edaeb931",
+    "name": "Best Of Rock.FM Rammstein (mp3-256)",
+    "url": "https://radio21.streamabc.net/radio21-rammstein-mp3-256-6531580?sABC=68s4noq7%230%234313or3p195706q13n90589o7061s597%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760865239",
+    "tags": []
+  },
+  {
+    "id": "92a868f3",
+    "name": "M1.FM - Schlagerparty",
+    "url": "https://tuner.m1.fm/schlagerparty.mp3",
+    "tags": []
+  },
+  {
+    "id": "517a978d",
+    "name": "FluxFM - Techno Underground",
+    "url": "https://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=68s48rs6%230%23q7s809s74070n543n7p5213q6qr39235%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1760857846",
+    "tags": []
+  },
+  {
+    "id": "2b081c49",
+    "name": "Jam FM - Black Label",
+    "url": "https://rtlberlin.streamabc.net/rtlb-jamfmblack-mp3-128-6608256?sABC=68s4n43q%230%23q7s809s74070n543n7p5213q6qr39235%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760863293",
+    "tags": []
+  },
+  {
+    "id": "fa4b2fab",
+    "name": "Radio Regenbogen 2",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-rockfmbawue-mp3-128-1213334?sABC=68s46r35%230%234313or3p195706q13n90589o7061s597%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1760849461",
+    "tags": []
+  },
+  {
+    "id": "55e95575",
+    "name": "baden.fm",
+    "url": "https://edge64.streamonkey.net/badenfm-onair/stream/mp3?aggregator=hofmeir",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "08ae2441",
+    "name": "Laut.FM jazzrockfusion",
+    "url": "https://jazzrockfusion.stream.laut.fm/jazzrockfusion?t302=2025-10-19_05-18-27&uuid=035ad447-8656-4ab2-9e0b-cda6a2d4c96e",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d44796d8",
+    "name": "Deutschlandfunk | DLF | OPUS 24k",
+    "url": "https://f141.rndfnk.com/ard/dlf/01/opus/24/stream.opus?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=34HY3mEKagihwtuWwORgLuyXbeU&token=E6uFDU7oy74jHNvXhHqxoX3aQCcFJvedlrnHi5HL_sI&tvf=2Xf0GTDzbxhmMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "9db64030",
+    "name": "WDR2 - Ruhrgebiet",
+    "url": "https://d121.rndfnk.com/ard/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3?cid=01FBS06TXC96M7AXN9A044SSFF&sid=34GvjLkTiDGgX8mZ0F2Oba0b98L&token=ptq3p1pQkSKm5MnEQ47ACJjUCJ9ek8qgY2rdv0ocdx0&tvf=ehwHJ_3hbxhkMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "61a6061b",
+    "name": "ROCK ANTENNE Hair Metal",
+    "url": "https://s1-webradio.rockantenne.de/hair-metal/stream/aacp",
+    "tags": []
+  },
+  {
+    "id": "df0c77b8",
+    "name": "SWR1 Rheinland-Pfalz",
+    "url": "https://f121.rndfnk.com/ard/swr/swr1/rp/mp3/128/stream.mp3?aggregator=web&cid=01FC1X3Q82Y5KQ31V7YJVJJ07W&sid=34HHjtstAF1PQgXnTqTchKrSvHi&token=Vmf5cR8vMi93gA1XYmxYAjZHFRLmYqQnwRG5bN3rDRM&tvf=nCi3Tt3rbxhmMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "0cb55442",
+    "name": "Epic Rock Radio",
+    "url": "https://securestreams6.autopo.st:2222/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7c279633",
+    "name": "- 0 N - Greatest Hits on Radio",
+    "url": "https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "321d7016",
+    "name": "RBB Inforadio",
+    "url": "https://d121.rndfnk.com/ard/rbb/inforadio/live/mp3/48/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=34HXa3dAFL2HCWde2UqzghlVkzY&token=v826-ncZ026MK1NH7G_cZAsmpa7UGkUYROq-ow1RfVw&tvf=b7nqCvnybxhkMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cdc13fce",
+    "name": "NDR 1 Niedersachsen",
+    "url": "https://f141.rndfnk.com/ard/ndr/ndr1niedersachsen/hannover/aac/64/stream.aac?cid=01FCT9XYE3C7Y8087XEWPRC38Z&sid=34GusTX8istwc8SQSwPME5Hlmlo&token=glmMSjuZV1YR1wUGGshfEpJgNyLk7UfsN_1X-EsuDHw&tvf=-1JXVZvhbxhmMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "6d5f9901",
+    "name": "Jam FM",
+    "url": "https://rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-128-6002587?sABC=68s4p3o3%230%23q7s809s74070n543n7p5213q6qr39235%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760871347",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "988f735f",
+    "name": "__CLUB__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream25.radiohost.de/club?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQwOTMzJmQ9OWY1ZGIyZDQ5ZTgzYzMwOTFlNmI",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b4241281",
+    "name": "NDR Blue",
+    "url": "https://d141.rndfnk.com/ard/ndr/ndrblue/live/mp3/128/stream.mp3?cid=01FBRKP5C4ZTW2HDT3Y5BR8ZQS&sid=34GmVJKIvDn3ZV3tGMUR3d01hn5&token=HYFWbFl1vv4mDPAp_gSJrhIpLt5awhT1GxR8aSI2ivU&tvf=ic4wTNndbxhkMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "663421be",
+    "name": "80s80s Italo Disco",
+    "url": "https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150?sABC=654902n3%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699283619",
+    "tags": []
+  },
+  {
+    "id": "b286bd70",
+    "name": "__SEX__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream25.radiohost.de/sex?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODI4MjQxJmQ9MjcwOWFiZmFlZWMzYTUxNmZlODA",
+    "tags": []
+  },
+  {
+    "id": "763c3330",
+    "name": "- 0 N - Disco on Radio",
+    "url": "https://0n-disco.radionetz.de/0n-disco.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "03c16f9e",
+    "name": "Nightride FM - Chillsynth",
+    "url": "https://stream.nightride.fm/chillsynth.mp3",
+    "tags": []
+  },
+  {
+    "id": "e19a0f07",
+    "name": "Technolovers EURODANCE",
+    "url": "https://0nlineradio.stream42.radiohost.de/technolovers-eurodance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQ3MjI3JmQ9NmE2Nzc5MDI0YmNjMDhjZmI3OTQ",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "759babc1",
+    "name": "Maretimo Lounge",
+    "url": "https://s35.derstream.net/lounge.mp3",
+    "tags": []
+  },
+  {
+    "id": "0ce92325",
+    "name": "Beats Radio",
+    "url": "https://klassikr.streamabc.net/klr-beatsnational-mp3-192-6609571?listenerid=e42b68a130cdc55cab24a49a6bd60595",
+    "tags": []
+  },
+  {
+    "id": "49df5e29",
+    "name": "Deutschlandfunk Nova | DLF | MP3 128k",
+    "url": "https://f131.rndfnk.com/ard/dlf/03/mp3/128/stream.mp3?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=34GMH5LPLEbkSTqqKQCtya9DIMV&token=osQv4VGCuzNzHa6ejl-5zhIye7sU62NZzReyZGQN6oQ&tvf=DqvidxTSbxhmMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c107b006",
+    "name": "CHILLOUT PIANO by Epic Piano",
+    "url": "https://0nlineradio.stream13.radiohost.de/piano-chillout-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODU4MzcwJmQ9NzgwMjY1ZmY4ZGYzODg2ZTZmNTY",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fb8e4519",
+    "name": "bigFM Tomorrowland One World Radio",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-tomorrowland-mp3-128-8367255?sABC=68s46445%230%23s8389203o94019r3452q8r0757pr757p%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1760846917",
+    "tags": []
+  },
+  {
+    "id": "9af90bc8",
+    "name": "Technolovers DRUM N BASS",
+    "url": "https://0nlineradio.stream42.radiohost.de/technolovers-drummnbass?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQ3NTE2JmQ9MmQxNDdjOThlMmFkZTcwYmI4NDY",
+    "tags": []
+  },
+  {
+    "id": "4ab56314",
+    "name": "Radio Bob! Symphonic Metal",
+    "url": "https://regiocast.streamabc.net/regc-radiobobsymphmetal4646931-mp3-192-2318934?sABC=68s46p0q%230%234313or3p195706q13n90589o7061s597%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760848909",
+    "tags": []
+  },
+  {
+    "id": "c6a666f1",
+    "name": "Deutschlandfunk | DLF | AAC 96k",
+    "url": "https://d131.rndfnk.com/ard/dlf/01/aac/96/stream.aac?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=34GQLkW6fUvez8LEITFhbQCYP22&token=2bbyqdcyNvHZfDhJQo0W3qnm5n0h9hqk0depooMUu9M&tvf=H_o8h-jTbxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "f95b7f76",
+    "name": "Radio BOB Progressive Rock",
+    "url": "https://regiocast.streamabc.net/regc-radiobobprogrock1964104-mp3-192-1423777?sABC=68s46380%230%234313or3p195706q13n90589o7061s597%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760846720",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4c4a87fb",
+    "name": "- 0 N - Classic Rock on Radio",
+    "url": "https://0n-classicrock.radionetz.de/0n-classicrock.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "64c0829c",
+    "name": "Antenne Bayern - CoffeeMusic",
+    "url": "https://s8-webradio.webradio.de/coffee",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "39ee24f8",
+    "name": "101FM - 80s",
+    "url": "https://0-2480erpoprock.stream.laut.fm/0-24_80er_pop_rock?t302=2025-10-18_23-17-21&uuid=6bda3f48-0a98-4631-93bb-91ee6815adc1",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "05a51fa1",
+    "name": "Klassik Radio - Nature",
+    "url": "https://klassikr.streamabc.net/klr-healing-mp3-128-5794140?sABC=68s47p81%230%23q7s809s74070n543n7p5213q6qr39235%23jjj.xynffvxenqvb.qr&aw_0_1st.playerid=www.klassikradio.de&amsparams=playerid:www.klassikradio.de;skey:1760853121",
+    "tags": []
+  },
+  {
+    "id": "33ed481b",
+    "name": "bigFM EDM & Progressive",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-bigfm-aac-128-8938364?sABC=68s42875%230%234313or3p195706q13n90589o7061s597%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1760831605",
+    "tags": []
+  },
+  {
+    "id": "5adc27ce",
+    "name": "RADIO BOB! BOBs 80er Rock",
+    "url": "https://regiocast.streamabc.net/regc-radiobob80srock2115424-mp3-192-2080682?sABC=68s46p17%230%23s8389203o94019r3452q8r0757pr757p%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760848919",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c3266347",
+    "name": "Radio Berlin 88,8",
+    "url": "https://f131.rndfnk.com/ard/rbb/rbb888/live/mp3/128/stream.mp3?cid=01FCTB5577PTDND5C4WBNVMQ9E&sid=34GoyD7LN2kRs2ygCD7sCF4zQHW&token=vwPtSTquYuvuFkIx-u0YkpI38nLxaw0JEkd8d-4BIL8&tvf=V9n-hPTebxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "bb604e2f",
+    "name": "Laut.FM BluesRockCafe",
+    "url": "https://bluesrockcafe.stream.laut.fm/bluesrockcafe?t302=2025-10-18_23-22-01&uuid=a32e2d3f-3445-4006-9408-2a822b97efb2",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3908689a",
+    "name": "AnimeRadio.de",
+    "url": "https://stream.animeradio.de/animeradio.mp3",
+    "tags": []
+  },
+  {
+    "id": "2c53fef1",
+    "name": "Schwany 5 Oberkrain",
+    "url": "https://oberkrain.spcast.eu:443/stream?time=1760866524",
+    "tags": []
+  },
+  {
+    "id": "7bf9df06",
+    "name": "1LIVE",
+    "url": "https://f121.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=34GsdmqZRJNSzM1cEDRAzGeej3M&token=nxgdtAycr1tHvybi5g8uTiWIu-zeEhzgMhE25yy3mzw&tvf=_CH5MprgbxhmMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "24d179eb",
+    "name": "Epic Lounge - IBIZA CHILLOUT LOUNGE",
+    "url": "https://0nlineradio.stream13.radiohost.de/lounge-ibiza-chillout-lounge?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODUzOTY2JmQ9OWE1N2NkMzM3NGNiZDJlZWZkNGI",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f1db4083",
+    "name": "90s90s House HQ",
+    "url": "https://regiocast.streamabc.net/regc-90s90shouse9480822-mp3-192-5444193?sABC=68s4ns38%230%234313or3p195706q13n90589o7061s597%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1760866104",
+    "tags": []
+  },
+  {
+    "id": "e3277d01",
+    "name": "RADIO BOB! BOB's metalcore",
+    "url": "https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267?sABC=68s47n55%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760852565",
+    "tags": []
+  },
+  {
+    "id": "007f961e",
+    "name": "90s90s Hits | aac 64k",
+    "url": "https://regiocast.streamabc.net/regc-90s90spop4760822-aacplus-64-6822493?sABC=68s40p97%230%234313or3p195706q13n90589o7061s597%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1760824471",
+    "tags": []
+  },
+  {
+    "id": "b7e73e22",
+    "name": "Radio Hamburg ",
+    "url": "https://rhh.streamabc.net/rhh-rhhlive-aacplus-64-8950949?aggregator=linkradiohamburgde&listenerid=8d8b347398fd2032234f695208016a8a",
+    "tags": []
+  },
+  {
+    "id": "6fc2a7d2",
+    "name": "- 0 N - Dance on Radio",
+    "url": "https://0n-dance.radionetz.de/0n-dance.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d14e2648",
+    "name": "Antenne Brandenburg",
+    "url": "https://d141.rndfnk.com/ard/rbb/antennebrandenburg/live/mp3/128/stream.mp3?cid=01FC1WKZSVNEAC1ZMF0TCAEM1Z&sid=34HLZXEsu9CmubTGlkIOU0rD6yG&token=IIkMS-K-4AjKt4BF0N_6xTsCBbhF6dbgfhoPA-11yps&tvf=AbfWypXtbxhkMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "54057fd1",
+    "name": "SWR Aktuell",
+    "url": "https://d121.rndfnk.com/ard/swr/swraktuell/live/mp3/128/stream.mp3?aggregator=web&cid=01FC1X68PSW211RY56CDZQEEEN&sid=34GfpgqYbGViWtbWY36wRilkyCg&token=1ia3fL1lrHwZS1P8rmVtYW69zUBQ32O1d34_o77qtxM&tvf=XHJq_9rabxhkMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "93a8117b",
+    "name": "# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET",
+    "url": "https://rautemusik.stream38.radiohost.de/breakz?ref=radiobrowser-akthits&upd-meta&upd-scheme=https&_art=dD0xNzYwODY3NjQ3JmQ9MTU3ODkyNGRlNmM2NjBmZmY2ZWE",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a006730c",
+    "name": "egoFM",
+    "url": "https://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
+    "tags": []
+  },
+  {
+    "id": "a5e246c2",
+    "name": "Antenne Bayern - Lovesongs",
+    "url": "https://s2-webradio.antenne.de/lovesongs",
+    "tags": []
+  },
+  {
+    "id": "e1345266",
+    "name": "delta radio Grunge",
+    "url": "https://deltaradio.streamabc.net/regc-deltagrunge-mp3-192-7205779?sABC=68s47nsq%230%23q7s809s74070n543n7p5213q6qr39235%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760852733",
+    "tags": []
+  },
+  {
+    "id": "7d3cf829",
+    "name": "RBB Radio Eins",
+    "url": "https://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=34G2LN5fkhUcMNDbgwNBLKS9kqz&token=NMsxlOmtrxnrYa3TruPI9UrRjoP5V-UDeltVxnlGhRs&tvf=2sdL0SLJbxhmMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "4f850183",
+    "name": "MDR Sachsen",
+    "url": "https://d141.rndfnk.com/ard/mdr/284280/0/mp3/128/stream.mp3?cid=01FBQ0F0AJ001ZZ0Z41R5EM1DX&sid=34GnrU4eiv0tLspfmSn6XyPj2ug&token=e_6085HcQKwopJnO27Jcp6LYSkpZoNH2eYl9s02oeVY&tvf=gD8sTHXebxhkMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "7ea8c145",
+    "name": "Technolovers - MINIMAL",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-minimal?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODU2Njc5JmQ9ZWJkOTZiMzg4ZGE5ZjQyNWQyZWI",
+    "tags": []
+  },
+  {
+    "id": "52543152",
+    "name": "- 0 N - Smooth Jazz on Radio",
+    "url": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f7912572",
+    "name": "Hit Radio FFH - Party",
+    "url": "https://mp3.ffh.de/ffhchannels/hqparty.mp3",
+    "tags": []
+  },
+  {
+    "id": "0be7fdc0",
+    "name": "ROCK ANTENNE Blues rock",
+    "url": "https://s6-webradio.rockantenne.de/blues-rock/stream/mp3",
+    "tags": []
+  },
+  {
+    "id": "3c6b27c7",
+    "name": "hr2-kultur",
+    "url": "https://d111.rndfnk.com/ard/hr/hr2/live/mp3/256/stream.mp3?cid=01FBPYEPTX95S1NT3RSVAV4Z0P&sid=34HDoYaojnj4MeTyCGgyhTVZfPh&token=VJcg0-7qJisYu9fYN48Yjq6XjACTO_ovGEhNctBcWBM&tvf=xB4wchrqbxhkMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "fd041672",
+    "name": "90s90s Black & RnB HQ",
+    "url": "https://regiocast.streamabc.net/regc-90s90srnb9791660-mp3-192-2459421?sABC=68s4p4o0%230%23s8389203o94019r3452q8r0757pr757p%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760871600",
+    "tags": []
+  },
+  {
+    "id": "cc12930a",
+    "name": "Bremen Vier",
+    "url": "https://f111.rndfnk.com/ard/rb/bremenvier/live/mp3/64/stream.mp3?cid=01FC1W6QK48EBYZ3RJW932FC1E&sid=34Ghstrqjy4JuyjQPneoHnVgODk&token=NJ2kzQ4P7G2F_VUZTR5OXftEyeLB0pQcMqtzyMhaMwc&tvf=fAhmqcbbbxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e1e5dd9a",
+    "name": "105'5 Spreeradio",
+    "url": "https://rtlberlin.streamabc.net/rtlb-spreeradiolive-mp3-192-8446345?sABC=68s4380s%230%234313or3p195706q13n90589o7061s597%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760835599",
+    "tags": []
+  },
+  {
+    "id": "c6352823",
+    "name": "Radio Seefunk",
+    "url": "https://webradio.radio-seefunk.de/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "67df8028",
+    "name": "Bremen Eins",
+    "url": "https://f111.rndfnk.com/ard/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=surfmusik-de&cid=01FC1W5AX0V19NKBFPPE0A91GX&sid=34GhvidNKQ0o5ljfMAPGv1eZ6mM&token=5JXLPJSWs-_uKwdoAAHA_BWww5vI2zY8vYAD36pksS0&tvf=cgNo-MvbbxhmMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "282bce32",
+    "name": "Klassik Radio - Pure Beethoven",
+    "url": "https://klassikr.streamabc.net/klr-purebeethoven-mp3-128-1467988?sABC=68s3qs92%230%234313or3p195706q13n90589o7061s597%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760812946",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e7d3e017",
+    "name": "__90S__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream25.radiohost.de/90s?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODU4OTEyJmQ9NDU1Nzc2YmZhN2M5ZDNjNzMyZTQ",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4b5b5e0b",
+    "name": "NDR 90,3",
+    "url": "https://f121.rndfnk.com/ard/ndr/ndr903/hamburg/mp3/128/stream.mp3?cid=01FBQ1SVN9REY132ZYYX7WCR69&sid=34HMaeqYfC7KUPOk3CNa1YUzSpX&token=LOVulJZPYqqqksPiVK7raa21HMHWIpBnG4nD_VO5Wgo&tvf=zpOCgwrubxhmMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "a4bfc98c",
+    "name": "- 0 N - Country on Radio",
+    "url": "https://0n-country.radionetz.de/0n-country.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c33729fc",
+    "name": "Technolovers - TECHNO",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-techno?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODcxODM4JmQ9MzY4OGM3ZmJiZjdkMmJlZTIxMzM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a4ae5f48",
+    "name": "Deutsche Welle Radio",
+    "url": "https://f141.rndfnk.com/ard/dw/dw08/mp3/64/stream.mp3?cid=01FMA3P53A77CS879ZHAN721HS&sid=34HR4eYZqhnrjU5d9V4AnNpvcAR&token=yQXLz3QNzJEBUyL0hU8YKip50bHxm0qkKhIo5nDrWpw&tvf=FvXHow3wbxhmMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b020f576",
+    "name": "90s90s HipHop & Rap",
+    "url": "https://regiocast.streamabc.net/regc-90s90shiphop9858510-mp3-128-9579755?sABC=68s4p96p%230%23s8389203o94019r3452q8r0757pr757p%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1760872812",
+    "tags": []
+  },
+  {
+    "id": "000175c2",
+    "name": "90s90s The Beat",
+    "url": "https://regiocast.streamabc.net/regc-90s90smain4920117-mp3-192-6232809?sABC=68s4pn95%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1760873109",
+    "tags": []
+  },
+  {
+    "id": "d7b3b31a",
+    "name": "DWG Radio German",
+    "url": "https://server23644.streamplus.de/;",
+    "tags": []
+  },
+  {
+    "id": "39375228",
+    "name": "Charivari München - Lounge Music",
+    "url": "https://edge12.stream.charivari.de/955charivari-lounge?ref=charivari.de&aw_0_1st.playerid=radioplayer.de&aggregator=RDs24_rs24_stream24",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ad2f7a5a",
+    "name": "- 0 N - Movies on Radio",
+    "url": "https://0n-movies.radionetz.de/0n-movies.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2f12e425",
+    "name": "WDR 1Live - DJ Session",
+    "url": "https://f131.rndfnk.com/ard/wdr/1live/dancehits/mp3/128/stream.mp3?cid=01GRBVXAXXH65N79NEZ1A6AJXQ&sid=34Gs1luPdW0T0kTy86CzqV7I3A1&token=5bHectHYW8MHbPL4wkDmTg3E1OoI7GCNKNwlEMS2iW0&tvf=kEPZz1PgbxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "d821d024",
+    "name": " \tROCKANTENNE Alternative (mp3)",
+    "url": "https://s6-webradio.rockantenne.de/alternative/stream/mp3",
+    "tags": []
+  },
+  {
+    "id": "540cf31b",
+    "name": "FluxFM - FluxLounge",
+    "url": "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851?sABC=68s4p1qr%230%23s8389203o94019r3452q8r0757pr757p%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1760870878",
+    "tags": []
+  },
+  {
+    "id": "d56bf3fc",
+    "name": "Technolovers - PSYTRANCE",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-psytrance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODUyMzU4JmQ9Njg3MzkxNDhjOGJmMjNjZDBiNTM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b59a2312",
+    "name": "DIE NEUE 107.7 Rock & Pop",
+    "url": "https://dieneue1077.stream14.radiohost.de/dieneue1077-besterrockundpop_mp3-192?addradio&upd-meta&upd-scheme=http&_art=dD0xNzYwODQxNDYzJmQ9ZDU1YzQ4N2Q3OGQzMGJjZGRkYjU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "29b8a9ef",
+    "name": "Antenne Bayern - 90er",
+    "url": "https://s2-webradio.antenne.de/90er-hits",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1d22e6e9",
+    "name": "Radio Regenbogen 102.8",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-regenbogen1028-mp3-128-6256120?sABC=68s41s3r%230%23q7s809s74070n543n7p5213q6qr39235%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1760829246",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "42f14ccb",
+    "name": "sunshine live - Melodic Techno",
+    "url": "https://sunsl.streamabc.net/sunsl-melodictechno-mp3-128-2394658?sABC=68s46p0r%230%234313or3p195706q13n90589o7061s597%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1760848910",
+    "tags": []
+  },
+  {
+    "id": "53484f3f",
+    "name": "__DEUTSCHRAP CHARTS__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream25.radiohost.de/rm-deutschrap-charts_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODY0ODY4JmQ9NmU4MDg1NzAxMWM3Y2U0NTcxODY",
+    "tags": []
+  },
+  {
+    "id": "e74a9d2a",
+    "name": "Deutschlandfunk Dokumente und Debatten | DLF | AAC 96k",
+    "url": "https://d131.rndfnk.com/ard/dlf/04/aac/96/stream.aac?aggregator=web&cid=01FBPXVCY686AW39DC850P5PHM&sid=34HDMPVJrAnxABRzoUO3CX7VuUe&token=wV54akCNiEMpSUrRnxDbIgnC4T7KCE7hH9ECsdAayhI&tvf=0wqjL-bpbxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a00c9c9c",
+    "name": "Rock Antenne - Melodic Rock",
+    "url": "https://s1-webradio.rockantenne.de/melodic-rock",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d9fd938d",
+    "name": "RadioEins [High Quality]",
+    "url": "https://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=34GeuJN9u9ZezfuYlPo0Y8hpZQk&token=DGLoshtXmwWbwxCGqtKkN_LWEOirsk3h_OtSeBivAng&tvf=nqBntXDabxhkMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "9dbb6520",
+    "name": "80s80s Christmas",
+    "url": "https://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-192-8841017?sABC=68s4p9s2%230%23s8389203o94019r3452q8r0757pr757p%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760872946",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1dd84079",
+    "name": "Technolovers VOCAL TRANCE",
+    "url": "https://0nlineradio.stream42.radiohost.de/technolovers-vocal-trance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODI3MzA5JmQ9YWU1NDI2MDY3YzkwNDY3ZGFhNDQ",
+    "tags": []
+  },
+  {
+    "id": "896b61c4",
+    "name": "# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO",
+    "url": "https://rautemusik.stream39.radiohost.de/breakz?ref=radiobrowser-remix-partybreaks-radio&upd-meta&upd-scheme=https&_art=dD0xNzYwODY1NjA0JmQ9ZTQ3OGMxNzViZDUyYzUyNTVhMWY",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5b1027c6",
+    "name": "RADIO BOB! BOBs Gothic Rock",
+    "url": "https://regiocast.streamabc.net/regc-radiobobgothic6924976-mp3-192-2500754?sABC=68s3np5p%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760799836",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b076964b",
+    "name": "0nlineradio BACH",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-bach?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQxMzM1JmQ9MWVmZDZhZTQzZDQwZjYwOGQ4MzU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9b8c8a38",
+    "name": "Kontrafunk",
+    "url": "https://s5.radio.co/sca4082ebb/listen",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "b60e81cb",
+    "name": "__BEST OF SCHLAGER__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream25.radiohost.de/rm-best-of-schlager_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODcwMTA4JmQ9NTJiNmEwODk2NmE5YThkNzE4ZTc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "651141de",
+    "name": "ANTENNEBAYERN Oldies but Goldies (64 kbps AAC)",
+    "url": "https://s6-webradio.antenne.de/oldie-antenne.aac",
+    "tags": []
+  },
+  {
+    "id": "6a34f5e2",
+    "name": "FluxFM - MetalFM",
+    "url": "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=68s409o4%230%234313or3p195706q13n90589o7061s597%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1760823732",
+    "tags": []
+  },
+  {
+    "id": "fd26f9fe",
+    "name": "Kulturradio",
+    "url": "https://d121.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=34HZIqMOdPGsE7WKz1YDsBPCa2E&token=vtZAlEWMIuBjfprjqpntKb8bi4sHN2lDMCsgFmE8bGA&tvf=zdwC7L7zbxhkMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "ac84df65",
+    "name": "89.0 RTL - In The Mix",
+    "url": "https://fhhalle.streamabc.net/fhhal-rtlinthemix-mp3-256-1489633?sABC=68s39s01%230%234313or3p195706q13n90589o7061s597%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1760796417",
+    "tags": []
+  },
+  {
+    "id": "d8ec805e",
+    "name": "__TRAP__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream12.radiohost.de/trap?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQ5MjA4JmQ9YTA2MWFjNzkzMGUxZWU0NDQxYTA",
+    "tags": []
+  },
+  {
+    "id": "9e2f98a9",
+    "name": "Radio FFN",
+    "url": "https://ffn.stream40.radiohost.de/ffn_aac-48?upd-meta&upd-scheme=http&_art=dD0xNzYwODQzOTE1JmQ9MGQ3MzE0ZDI0MzU1YTdhMDEyZGI",
+    "tags": []
+  },
+  {
+    "id": "4bb28f8f",
+    "name": "DASDING",
+    "url": "https://f121.rndfnk.com/ard/swr/dasding/live/aac/96/stream.aac?aggregator=web&cid=01FBVQWZT2B1KGPFJ7TDHQ1Y2B&sid=34GmqXTVmrRTYSiB5P7MbiDYiPe&token=H099LNoHp8Y4LL_1NL8YyL8NkZ3dgUUiraVTHHMOJgE&tvf=oPVhnwDebxhmMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "96b68eea",
+    "name": "Antenne Bayern Schlagersahne",
+    "url": "https://s3-webradio.antenne.de/das-schlager-karussell",
+    "tags": []
+  },
+  {
+    "id": "a3f5e7ef",
+    "name": "__SCHLAGER OLDIES__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream17.radiohost.de/rm-schlager-oldies_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODMxODM3JmQ9ZjkzMWEwY2IwODZkNThiZTlkNGQ",
+    "tags": []
+  },
+  {
+    "id": "7904d82c",
+    "name": "Hit Radio FFH - 80er (AAC+)",
+    "url": "https://mp3.ffh.de/ffhchannels/80er.aac",
+    "tags": []
+  },
+  {
+    "id": "c8a624ba",
+    "name": "Laut.FM SynthPop",
+    "url": "https://synthpop.stream.laut.fm/synthpop?t302=2025-10-19_08-28-37&uuid=3e9f660e-a16d-4ba2-8b1d-7db0d00333dc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5e3b03a1",
+    "name": "Rock Antenne Hair Metal",
+    "url": "https://s9-webradio.rockantenne.de/hair-metal/stream",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2dc8752a",
+    "name": "FluxFM - 70s – Der 70er Channel",
+    "url": "https://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=68s3r86r%230%234313or3p195706q13n90589o7061s597%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1760815214",
+    "tags": []
+  },
+  {
+    "id": "7347adcb",
+    "name": "Inforadio vom rbb",
+    "url": "https://d141.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?aggregator=tunein&cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=34GoylaSHPcsCCsKgE7GWER9Cbi&token=U4b5ECWG8apditEsvD-GJI0Pabo1ebyb0XWj7gXd0pA&tvf=r2tfkvXebxhkMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "a39b2812",
+    "name": "__LOUNGE__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream37.radiohost.de/lounge?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQ4ODE2JmQ9MTgzMWQ1MzVlMzUwMGNlMTk4YmM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "2b37ff58",
+    "name": "BigFM Sunset Lounge",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-lounge-mp3-128-1294994?sABC=68s489o3%230%23s8389203o94019r3452q8r0757pr757p%23gjy12&aw_0_1st.playerid=twl12&amsparams=playerid:twl12;skey:1760856499",
+    "tags": []
+  },
+  {
+    "id": "fd3b85f2",
+    "name": "Hit Radio FFH - 90er (MP3)",
+    "url": "https://mp3.ffh.de/ffhchannels/hqspezial.mp3",
+    "tags": []
+  },
+  {
+    "id": "285260c2",
+    "name": "- 0 N - 2000s on Radio",
+    "url": "https://0n-2000s.radionetz.de/0n-2000s.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "dd7e1a9a",
+    "name": "Euro Smooth Jazz",
+    "url": "https://eurosmoothjazz.stream.laut.fm/eurosmoothjazz?t302=2025-10-19_09-28-30&uuid=2e6202e3-8d27-4da5-b6be-691160350b76",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "67890c1f",
+    "name": "Sunshine Live - Afterhour",
+    "url": "https://sunsl.streamabc.net/sunsl-sunsldfw8j6rqyqnlw-mp3-192-9761542?sABC=68s46290%230%23q7s809s74070n543n7p5213q6qr39235%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1760846480",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8e3776e6",
+    "name": "104.6 RTL 60er & 70er",
+    "url": "https://rtlberlin.streamabc.net/rtlb-rtlgreatest-mp3-128-9034983?sABC=68s47no2%230%23q7s809s74070n543n7p5213q6qr39235%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760852658",
+    "tags": []
+  },
+  {
+    "id": "b40cb5fd",
+    "name": "RADIO BOB - Power Metal",
+    "url": "https://regiocast.streamabc.net/regc-radiobobpowermetal7971779-mp3-192-4551381?sABC=68s4o671%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760867953",
+    "tags": []
+  },
+  {
+    "id": "3b292f9e",
+    "name": "BR24",
+    "url": "https://f131.rndfnk.com/ard/br/br24/live/mp3/128/stream.mp3?cid=01FBPVVJDPGF0BJ5TAJ8Z7JSX9&sid=34H0d9hPW5wNzV8T1EGUuX4U5QD&token=IAw7e-7u7v7s09z4oNYpS8GfbdIafQ8vfApgmWZ1Uvc&tvf=0NlDETDkbxhmMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "8092b5cf",
+    "name": "I Love 2 Dance",
+    "url": "https://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYwODQ0NjEwJmQ9MGI1MmUyY2I0ZGJjMGI0YjgwNjI",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "3a534a14",
+    "name": "SWR4 BW [48 aac]",
+    "url": "https://f141.rndfnk.com/ard/swr/swr4/bw/aac/96/stream.aac?aggregator=web&cid=01FC1X86VT36Q01G4NBJ3Q4R1Z&sid=34GENpSu2evJBDWRY7y9pBDb0fB&token=pFj_VFADg9keqCdVIDaGE5VhhEzfWGqFS1R-RdbylmA&tvf=bpXR0InObxhmMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "18625ffd",
+    "name": "Antenne Bayern - Coffee Music",
+    "url": "https://s1-webradio.antenne.de/coffee/stream/aacp",
+    "tags": []
+  },
+  {
+    "id": "a39502a4",
+    "name": "1000 HITS Love",
+    "url": "https://c2.auracast.net:8097/stream",
+    "tags": []
+  },
+  {
+    "id": "4c35512a",
+    "name": "- 0 N - Pop on Radio",
+    "url": "https://0n-pop.radionetz.de/0n-pop.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "17d88c56",
+    "name": "- 0 N - Gothic on Radio",
+    "url": "https://0n-gothic.radionetz.de/0n-gothic.mp3",
+    "tags": []
+  },
+  {
+    "id": "5967038b",
+    "name": "DARK ZERO RADIO",
+    "url": "https://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2025-10-19_06-45-13&uuid=64cba3ad-2a45-47c8-badd-228148288161",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b0b2aca9",
+    "name": "WDR 2 Münsterland",
+    "url": "https://f111.rndfnk.com/ard/wdr/wdr2/muensterland/mp3/128/stream.mp3?cid=01FBS05PV4NHEGHGFMHSEQ9C5V&sid=34Gox6aj4j7DS4pvTH2EVYprFqZ&token=VvWk5Il3dHR94TvTWKwtnAU7Yi5IQrqaAl1HWThrZks&tvf=BQ8Aa_LebxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "a603cf8a",
+    "name": "Best Of Techno",
+    "url": "https://best-of-techno.stream.laut.fm/best-of-techno?t302=2025-10-19_02-33-48&uuid=71852c6d-ec01-49ee-9f9c-1da2375c0447",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f67944e7",
+    "name": "- 0 N - Oldies on Radio",
+    "url": "https://0n-oldies.radionetz.de/0n-oldies.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "23c44b73",
+    "name": "__BASS__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream37.radiohost.de/rm-bass_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQzMTk3JmQ9ZjNhZWJlMjNjZTljY2E4ZmNkNzI",
+    "tags": []
+  },
+  {
+    "id": "954d0998",
+    "name": "NDR 1 Radio MV",
+    "url": "https://f131.rndfnk.com/ard/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3?cid=01FBQ257S6EFPR7ANEZ7PWPK3H&sid=34HaS95H4H5VdQxTOfNHS5x1w5v&token=XF8BPzhu67D-DJyDfhQLuCGKyuZmtFsLbqRyirdPkv8&tvf=afo0_UL0bxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "7de827c7",
+    "name": "Radio Teddy - Livestream",
+    "url": "https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268?sABC=68s4127s%231%23cynl.zc3%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1760825983",
+    "tags": []
+  },
+  {
+    "id": "c9a7fb39",
+    "name": "__HOUSE__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream17.radiohost.de/house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODYxMTEyJmQ9NjdlZjdjZmMzNDE0ZDMxNDA4Zjc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "12ea560e",
+    "name": "i love radio - bass",
+    "url": "https://ilm.stream35.radiohost.de/ilm_iloveradiorock_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYwODYwNDE1JmQ9NWMxYjcyN2UwZDk3MGQ0ZGFmODk",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e2464020",
+    "name": "Technolovers - BASS HOUSE",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-bass-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODY1MDIyJmQ9MDkxNzZlYWM0OTBjOGIwNmQ3NzM",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "caf9781d",
+    "name": "- 1 A - Oldies von 1A Radio",
+    "url": "https://1a-oldies.radionetz.de/1a-oldies.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "97d87fc8",
+    "name": "BeatsRadio",
+    "url": "https://klassikr.streamabc.net/klr-beatsnational-aac-128-2492555?listenerid=cb18706174c9ce9c04357433c8ba1752",
+    "tags": []
+  },
+  {
+    "id": "dc6a56c7",
+    "name": "1A Party Hits",
+    "url": "https://vmg.streamabc.net/117-party-aacplus-64-5340147?listenerid=737ee59d14818dc9d78be74022e8f515",
+    "tags": []
+  },
+  {
+    "id": "6aed5d2e",
+    "name": "Technolovers - FUNKY HOUSE",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-funky-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQ1ODE2JmQ9MWU3N2I2NTZmN2NmNzlmYmZmNTQ",
+    "tags": []
+  },
+  {
+    "id": "fe51f3e4",
+    "name": "__GOLDIES__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream25.radiohost.de/goldies?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODYzMTc4JmQ9ZDdjNzM1ODgyYzUzYzY4ODUxOWQ",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5875cbfe",
+    "name": "- 1 A - NDW (Neue Deutsche Welle) von 1A Radio",
+    "url": "https://1a-ndw.radionetz.de/1a-ndw.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "73a1d382",
+    "name": "Laut.FM The Jazz of Wiesbaden",
+    "url": "https://thejazzofwiesbaden.stream.laut.fm/thejazzofwiesbaden?t302=2025-10-18_17-15-49&uuid=9985dcd8-385f-45e1-b9e1-34eb69416927",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0b694fc3",
+    "name": "i love radio - 2 dance",
+    "url": "https://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYwODY2ODg0JmQ9NDExYzcwNjUzNzg0ZDJhMDQ4N2Y",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "17f36a62",
+    "name": "ROMANTIC PIANO by Epic Piano",
+    "url": "https://0nlineradio.stream13.radiohost.de/piano-romantic-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODU2NDE3JmQ9MjlmNDBjYzQ3OGZjNjE1ZWMyN2Y",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "91ea85e3",
+    "name": "- 0 N - 70s on Radio",
+    "url": "https://0n-70s.radionetz.de/0n-70s.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a200b694",
+    "name": "FluxFM - 80s - Der  80er Channel",
+    "url": "https://fluxfm.streamabc.net/flx-80er-mp3-320-9596107?sABC=68s452n4%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1760842404",
+    "tags": []
+  },
+  {
+    "id": "36d8c2ce",
+    "name": "SWR2",
+    "url": "https://d141.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&cid=01FC1X4J91VJW1CVH6588MZEE3&sid=34GaGwvYVSO3Yl5IvojZExHYHoH&token=S1OFvM-JkMxYPpdaPz40DelKzLkeZoENWGmyjACIVdU&tvf=lQqUZFzYbxhkMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "5e5fdd07",
+    "name": "delta radio HARD ROCK & HEAVY METAL",
+    "url": "https://deltaradio.streamabc.net/regc-deltahardheavy-mp3-128-4714362?sABC=68s4p61o%230%234313or3p195706q13n90589o7061s597%23fgernzf.qrygnenqvb.qr&aw_0_1st.playerid=streams.deltaradio.de&amsparams=playerid:streams.deltaradio.de;skey:1760871963",
+    "tags": []
+  },
+  {
+    "id": "f069097c",
+    "name": "WDR Event",
+    "url": "https://d111.rndfnk.com/ard/wdr/wdr/event/mp3/128/stream.mp3?cid=01FC1VHKSA446AN8QN07VP9XCQ&sid=34G9GiUzzI9Xkd6kJu6PDcbQSA2&token=nmOdqE8mguAU5lYv3rMz52JTeyiHowqSSMAfCNFJ-7E&tvf=qEBaST7MbxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "497274bf",
+    "name": "80s80s Maxis",
+    "url": "https://regiocast.streamabc.net/regc-80s80smaxis2114493-mp3-192-5359027?sABC=68s4p43o%230%23q7s809s74070n543n7p5213q6qr39235%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760871483",
+    "tags": []
+  },
+  {
+    "id": "ccb21954",
+    "name": "M1.FM - Top of the Charts",
+    "url": "https://tuner.m1.fm/charts.mp3",
+    "tags": []
+  },
+  {
+    "id": "67bb1e65",
+    "name": "89.0 RTL",
+    "url": "https://fhhalle.streamabc.net/fhhal-rtllive-mp3-256-6495671?sABC=68s3ss98%230%234313or3p195706q13n90589o7061s597%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760821144",
+    "tags": []
+  },
+  {
+    "id": "6f982a66",
+    "name": "Technolovers HANDSUP",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-handsup?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODUxOTAzJmQ9MTcwMzIwZWQwNmM0YjMyYjhjNmI",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "33934ab4",
+    "name": "DrGnu - Prog Rock Classics",
+    "url": "https://regiocast.streamabc.net/regc-radiobobprogrock1964104-mp3-192-1423777?sABC=68s471s2%230%234313or3p195706q13n90589o7061s597%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760850418",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1e4d67bb",
+    "name": "Technolovers - UPLIFTING TRANCE",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-uplifting-trance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODUyODY2JmQ9NGI5MWNmMGQ4MDZlZTNhMGU4Nzk",
+    "tags": []
+  },
+  {
+    "id": "ef651873",
+    "name": "Antenne Bayern",
+    "url": "https://s4-webradio.antenne.de/antenne/stream/aacp",
+    "tags": []
+  },
+  {
+    "id": "75647bb3",
+    "name": "SR1 Europawelle",
+    "url": "https://f141.rndfnk.com/ard/sr/sr1/mp3/128/stream.mp3?aggregator=custom1&cid=01FG95SZSPXYRXXGVTAD642YMB&sid=34HR4KfcPAMPeRPd3S1AzSmsqsk&token=Ebv0ZIrN557QqZk-DyEMGe08Ll7AJWA4_B85of3Q3lI&tvf=QuGoDA3wbxhmMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "cf46a23d",
+    "name": "ANTENNE BAYERN 80er-Kulthits",
+    "url": "https://s5-webradio.antenne.de/80er-kulthits.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "955ef266",
+    "name": "__COUNTRYHITS.FM__ by rautemusik (rm.fm)",
+    "url": "https://rautemusik.stream38.radiohost.de/country?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODcyNjg1JmQ9MzdiZjE4MWNmYzQ1YjllOGU5NDc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bc633a0e",
+    "name": "Klassik Radio - Klassik Dreams",
+    "url": "https://klassikr.streamabc.net/klr-klassikdreams-mp3-128-6636830?sABC=68s42r9o%230%23s8389203o94019r3452q8r0757pr757p%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760833179",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c18eb7b0",
+    "name": "Deutschlandfunk | DLF | AAC 192k",
+    "url": "https://f131.rndfnk.com/ard/dlf/01/aac/192/stream.aac?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=34H6AMqhYLLMAOmpG97GX4BYsTh&token=axSXGnpOvCP2vleJaV7M1pCB5LpRFxFPzTGSr8zB5k8&tvf=y91_BqzmbxhmMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "a5f03b97",
+    "name": "RPR1 Old School Hip Hop",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-hiphop-mp3-128-8743299?sABC=68s4p8q3%230%234313or3p195706q13n90589o7061s597%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1760872659",
+    "tags": []
+  },
+  {
+    "id": "a0bf28bd",
+    "name": "Kinderlieder-123",
+    "url": "https://kinderlieder-123.stream.laut.fm/kinderlieder-123?t302=2025-10-19_05-52-00&uuid=854e4071-ff9e-4a6a-b7b1-f6cb67dc2cb8",
+    "tags": []
+  },
+  {
+    "id": "ab01415a",
+    "name": "WDR 2 Aachen und Region",
+    "url": "https://f141.rndfnk.com/ard/wdr/wdr2/aachenundregion/mp3/128/stream.mp3?cid=01FBS09GH8H34FYWE8CX7TCZP1&sid=34GZp9Ud8qqW8iKwz2J4aZwzfHJ&token=6JufnH6eD4Cq1tKy-hyeDSeNL4U6Lk-xdYgZ6cMeiJ4&tvf=W067sijYbxhmMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "8fb1c52d",
+    "name": "105'5 Spreeradio 80er",
+    "url": "https://rtlberlin.streamabc.net/rtlb-spreeradio80s-mp3-128-7483601?sABC=68s46q56%230%23s8389203o94019r3452q8r0757pr757p%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760849238",
+    "tags": []
+  },
+  {
+    "id": "40ac03bd",
+    "name": "WDR 1Live - HipHop",
+    "url": "https://d131.rndfnk.com/ard/wdr/1live/hiphoprnb/mp3/128/stream.mp3?cid=01GRBVXQTV71K0738S0E6965EM&sid=34GvKkwOCXkQs0yZyK7PxkB30ZY&token=oXSI6YirDT-13CtAnAQCfZA3leuA3pwTqIxbpEfJ39o&tvf=fnChxs_hbxhkMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "09783385",
+    "name": "Ostseewelle ",
+    "url": "https://ostseewelle.stream41.radiohost.de/ostseewelle-nord_mp3-192?ar-distributor=ffa0&upd-meta&upd-scheme=https&ref=ffa0&amsparams=ffa0&_art=dD0xNzYwODYyMjYwJmQ9ODVhMmZkNjQzNDcxODcwNDEyZDI",
+    "tags": []
+  },
+  {
+    "id": "ac37c1aa",
+    "name": "RadioBOB Metallica (64 kbps AAC)",
+    "url": "https://regiocast.streamabc.net/regc-radiobobmetallica3164584-aacplus-64-6676430?sABC=68s4poo5%230%23q7s809s74070n543n7p5213q6qr39235%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760873397",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "65386660",
+    "name": "Epic Lounge - CHILLOUT LOUNGE",
+    "url": "https://0nlineradio.stream42.radiohost.de/lounge-chillout-lounge?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODQ2ODAxJmQ9YzNiMWM5MzdiNzI3NWE2M2ViODg",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c74f848f",
+    "name": "Nightride FM - Darksynth",
+    "url": "https://stream.nightride.fm/darksynth.mp3",
+    "tags": []
+  },
+  {
+    "id": "2d8dfe96",
+    "name": "RADIO BOB! BOBs Harte Saite",
+    "url": "https://regiocast.streamabc.net/regc-radiobobhartesaite4742158-mp3-192-1633493?sABC=68s4o0so%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760866555",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "a92a8ca5",
+    "name": "harmony.fm Schlager Radio",
+    "url": "https://mp3.harmonyfm.de/hrmchannels/schlager.aac",
+    "tags": []
+  },
+  {
+    "id": "f5debc46",
+    "name": "80s80s Italo Hits",
+    "url": "https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150?sABC=68s4911o%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760858395",
+    "tags": []
+  },
+  {
+    "id": "7d23dbbb",
+    "name": "planet radio",
+    "url": "https://mp3.planetradio.de/planetradio/livestream.mp3",
+    "tags": []
+  },
+  {
+    "id": "0c6a4251",
+    "name": "Klassik Radio - Healing",
+    "url": "https://klassikr.streamabc.net/klr-healing-mp3-128-5794140?sABC=68s48qnr%230%23q7s809s74070n543n7p5213q6qr39235%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760857518",
+    "tags": []
+  },
+  {
+    "id": "a2b84cd7",
+    "name": "1000 Hits 60s",
+    "url": "https://c4.auracast.net:8020/stream",
+    "tags": []
+  },
+  {
+    "id": "98551e3c",
+    "name": "Dance Wave Radio",
+    "url": "https://dance-wave-radio.stream.laut.fm/dance-wave-radio?t302=2025-10-19_06-49-53&uuid=119f02d3-81a0-4910-ab83-8ee0e355ba21",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4407ebd5",
+    "name": "ROCKANTENNE Classic Perlen (64 kbps AAC)",
+    "url": "https://s1-webradio.rockantenne.de/classic-perlen.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7822dd44",
+    "name": "1000 Melodien",
+    "url": "https://1000melodien.stream.laut.fm/1000melodien?t302=2025-10-19_06-36-12&uuid=a775bccc-318f-4b96-848c-dc22d816fe0f",
+    "tags": []
+  },
+  {
+    "id": "da0a2811",
+    "name": "Nostalgie - Livestream Germany",
+    "url": "https://edge80.streamonkey.net/nostalgie-live?aggregator=shorty",
+    "tags": []
+  },
+  {
+    "id": "e20c4f3c",
+    "name": "- 0 N - Top 40 on Radio",
+    "url": "https://0n-top40.radionetz.de/0n-top40.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cc3f4cdd",
+    "name": "YOU FM (mp3/high)",
+    "url": "https://d121.rndfnk.com/ard/hr/youfm/live/mp3/128/stream.mp3?cid=01FBPYTN7KZSZ66QD37V2A0XQF&sid=34G2Y5vnIxRSTDymGTgZrBtHCUV&token=9ObWdRJSex3MedEk7HddD4qm33Do_5lKPoKfnCLOts4&tvf=AzUbfjrJbxhkMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "a5d0eca6",
+    "name": "BR-Klassik",
+    "url": "https://f141.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=34HRCu4cUAHS3dHP1alOJzttQNj&token=rPlGvU7r3FdxyyRUzyC374kMMmMhwO0uVWKz13TE7CE&tvf=Ii2h2BzwbxhmMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "bf85d87a",
+    "name": "RauteMusik TechHouse",
+    "url": "https://rautemusik.stream37.radiohost.de/techhouse?upd-meta&upd-scheme=http&_art=dD0xNzYwODUxNDA4JmQ9ODI1MmEwMjJhNmIyODBiNzU1Njc",
+    "tags": []
+  },
+  {
+    "id": "f2ddfbb9",
+    "name": "Antenne Bayern - Rockantenne",
+    "url": "https://s2-webradio.antenne.de/rockantenne",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "8792078d",
+    "name": "94,3 rs2",
+    "url": "https://topradio.stream41.radiohost.de/rs2_mp3-128?agend=true&upd-meta&upd-scheme=http&ref=internetradio&amsparams=internetradio&_art=dD0xNzYwODYzMDk5JmQ9YTViZDFjOWEzMzA5YWJmOTIxNTY",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f7c1f770",
+    "name": "Technolovers - IBIZA HOUSE",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-ibiza-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODIyNDM1JmQ9OTU0ZWZhNjgxMDg5ZjEwMzJkYjM",
+    "tags": []
+  },
+  {
+    "id": "8489ff5c",
+    "name": "Antenne Bayern - Relax",
+    "url": "https://s2-webradio.antenne.de/relax",
+    "tags": []
+  },
+  {
+    "id": "cb87778d",
+    "name": "DrGnu - Metallica",
+    "url": "https://regiocast.streamabc.net/regc-radiobobmetallica3164584-mp3-192-3532789?sABC=68s39qp7%230%23q7s809s74070n543n7p5213q6qr39235%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760796103",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "fed72b82",
+    "name": "MDR Sputnik Club",
+    "url": "https://d111.rndfnk.com/ard/mdr/284331/2/mp3/128/stream.mp3?cid=01FBQ16QVF5ZZJ2YXDA2SFCTE9&sid=34Gc5rUmzFv3gjYfjYYFfNmM1a4&token=i1DrBC1HpKGMD2I0j7TNzSlLeK-gH0902AEQGge8mjs&tvf=GHwkcC3ZbxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4101df04",
+    "name": "ESC Radio (Eurovision Song Contest Radio)",
+    "url": "https://streaming.silvacast.com/ESCRADIO.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0b1654af",
+    "name": "RPR1. - Yoga Sounds",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-yogasounds-mp3-128-4096431?sABC=68s4665r%230%23q7s809s74070n543n7p5213q6qr39235%23gjy&aw_0_1st.playerid=twl&amsparams=playerid:twl;skey:1760847454",
+    "tags": []
+  },
+  {
+    "id": "907db07d",
+    "name": "pure fm - hamburgs electronic radio",
+    "url": "https://purefm.radionetz.de/purefm-hh.mp3",
+    "tags": []
+  },
+  {
+    "id": "41406834",
+    "name": "Sunshine Live - Drum N Bass",
+    "url": "https://sunsl.streamabc.net/sunsl-drumnbass-mp3-192-9834247?sABC=68s41q18%230%23q7s809s74070n543n7p5213q6qr39235%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760828696",
+    "tags": []
+  },
+  {
+    "id": "d2c83c15",
+    "name": "Thrashking Radio",
+    "url": "https://thrashking.stream.laut.fm/thrashking",
+    "tags": []
+  },
+  {
+    "id": "190a020b",
+    "name": "Sunshine Live - Clubsound Berlin",
+    "url": "https://sunsl.streamabc.net/sunsl-playlist1-mp3-192-2595213?sABC=68s496n7%230%234313or3p195706q13n90589o7061s597%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1760859815",
+    "tags": []
+  },
+  {
+    "id": "4498f35c",
+    "name": "radioeins-rbb-56 kbit/s",
+    "url": "https://f131.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=34GhdJL2qDMSD2JXSQOIAjs2d2u&token=z8bF6zZsLEU-XRSs_hxKEMaIOmm-aj86AYqky2lHAJg&tvf=yJiiuqnbbxhmMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "9eb6bce0",
+    "name": "BOBs Death Metal Stream",
+    "url": "https://regiocast.streamabc.net/regc-radiobobdeathmetal8709679-mp3-192-6241857?sABC=68s419r7%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760827879",
+    "tags": []
+  },
+  {
+    "id": "be1bdeba",
+    "name": "- 0 N - 80s on Radio",
+    "url": "https://0n-80s.radionetz.de/0n-80s.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "4e5e2098",
+    "name": "FluxFM - Jazzradio Schwarzenstein",
+    "url": "https://fluxfm.streamabc.net/flx-jazzradio-mp3-320-9214342?sABC=68s48s5q%230%234313or3p195706q13n90589o7061s597%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1760857949",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d79d0e2f",
+    "name": "N Joy",
+    "url": "https://d131.rndfnk.com/ard/ndr/njoy/live/mp3/128/stream.mp3?aggregator=airable&cid=01FBRKKTM6TVGA3B3W6Y8NMXK8&sid=34HNAFZSHEeU7Ln3snMgfpxY8Fi&token=VF65wZ4XiPRz8sQ3QCJaH9FhdPDtht08Tv3WTpRzB3k&tvf=ABffjUzubxhkMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "22f6b3b2",
+    "name": "Bayern 2",
+    "url": "https://d121.rndfnk.com/ard/br/br2/live/mp3/128/stream.mp3?cid=01HNCWQ25NS4FWXXH2R91H67V1&sid=34H1uhER9NomCr0WrixoDwvF9nF&token=Oq_5elEc3Peo7BuRqFpk96n3QI-_dOHqqTR_gIyO0F4&tvf=LlwwesPkbxhkMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c7ca31df",
+    "name": "SR3 Saarlandwelle 128k",
+    "url": "https://f111.rndfnk.com/ard/sr/sr3/mp3/128/stream.mp3?aggregator=custom1&cid=01FG95X9JRJHXCEANS1RCEPCNS&sid=34HOB3ZdAGnDqxwKFTAibOdoxFE&token=ub2U9r9I-PNoiW8jy7D5L4EFS1Sq5L-9wpaXa2TshQo&tvf=66gD_sDubxhmMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "cccdb8d5",
+    "name": "80s80 Summerhits",
+    "url": "https://regiocast.streamabc.net/regc-80s80ssummerhits6639316-mp3-192-4184283?sABC=68s43ps9%230%23s8389203o94019r3452q8r0757pr757p%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760836857",
+    "tags": []
+  },
+  {
+    "id": "ecf1c66f",
+    "name": "Antenne Bayern - Weihnachtshits",
+    "url": "https://s6-webradio.antenne.de/weihnachts-hits",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "d6725268",
+    "name": "FluxFM - ElektroFlux",
+    "url": "https://fluxfm.streamabc.net/flx-elektroflux-mp3-320-1359322?sABC=68s4n34p%230%23q7s809s74070n543n7p5213q6qr39235%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1760863052",
+    "tags": []
+  },
+  {
+    "id": "0cf6813a",
+    "name": "Lounge Radio Ibiza",
+    "url": "https://lounge-radio-ibiza.stream.laut.fm/lounge-radio-ibiza?t302=2025-10-19_08-00-07&uuid=6180d51d-1cb4-434b-8fa9-c5afff82c03c",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "362be918",
+    "name": "Partyvibe - Drum and Bass",
+    "url": "https://www.partyviberadio.com:8061/;listen.pls?sid=1",
+    "tags": []
+  },
+  {
+    "id": "a2533774",
+    "name": "delta radio Alternative",
+    "url": "https://regiocast.streamabc.net/regc-deltaalternative-mp3-192-7620514?sABC=68s4p47o%230%23q7s809s74070n543n7p5213q6qr39235%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1760871547",
+    "tags": []
+  },
+  {
+    "id": "cab73adb",
+    "name": "antenne 1",
+    "url": "https://konsolelabs.streamabc.net/94-a1stg-mp3-128-1666654?listenerid=fad926e11c2fff0b25cee50f27d8604e",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "08128041",
+    "name": "Ska World",
+    "url": "https://skaworld.stream.laut.fm/skaworld?ref=radiode",
+    "tags": []
+  },
+  {
+    "id": "4bf93da9",
+    "name": "MDR Aktuell (low)",
+    "url": "https://f111.rndfnk.com/ard/mdr/284340/0/mp3/128/stream.mp3?cid=01FBQ0YDVBJASPQAE887W5S4DZ&sid=34GENcZBAWJoQkNXpADHAtwFeVZ&token=XP95X-x-l5jCcjQ22675rYniwqKw1rIdDwcVNyAcmTU&tvf=u9NYfonObxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cc1e7fd7",
+    "name": "EPIC CLASSICAL - Classical Pan Flute",
+    "url": "https://0nlineradio.stream13.radiohost.de/classical-classical-pan-flute?ref=liveradio&upd-meta&upd-scheme=https&_art=dD0xNzYwODA1MDQ2JmQ9M2Y1ZDU4NjQyOGVlOWVkYzg4YjU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ab8ce79b",
+    "name": "Schwarzwaldradio",
+    "url": "https://edge69.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "b8027f26",
+    "name": "absolute relax",
+    "url": "https://edge69.live-sm.absolutradio.de/absolut-relax/stream/mp3",
+    "tags": []
+  },
+  {
+    "id": "519cd09f",
+    "name": "Best Of Rock.FM Hard Rock",
+    "url": "https://radio21.streamabc.net/radio21-hardrock-mp3-256-1630702?sABC=68s4951s%230%234313or3p195706q13n90589o7061s597%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1760859423",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "c266fbf5",
+    "name": "RauteMusik Happy Hardcore",
+    "url": "https://rautemusik.stream12.radiohost.de/happyhardcore?upd-meta&upd-scheme=http&_art=dD0xNzYwODY3NDA2JmQ9YmMxMTc3MjE5Y2Q3YTgwMDc3MmM",
+    "tags": []
+  },
+  {
+    "id": "c3676543",
+    "name": "RADIO BOB ROCK 80S",
+    "url": "https://regiocast.streamabc.net/regc-radiobob80srock2115424-mp3-192-2080682?sABC=68s418r3%231%23p47683ss451oqs8ror068qrn8n897o50%23ubzrcntr&mode=preroll&aw_0_1st.skey=1671494599&cb=299137260&aw_0_1st.playerid=radiobob_web&aw_0_req.userConsentV2=CPkIkEAPkIkEAAFADBDECvCsAP_AAEPAAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3bx2D-t_9v-39z338VXn3d53-_02PDdV599Dfn9fR_b89KP9958v4v8_____3_e__3_74I9gEmGrcQBdmWODNoGEUCIEYVhIRQKACCgGFogIAHBwU7KwCfWECABAKAIwIgQ4AowIBAAAJAEhEAEgRYIAAARAIAAQAIAEIAGBgEFgBYGAQAAgGgYohQACBIAZEBEUpgQFQJBAS2VCCUFUhphAFWWAFAIjYKABEEgIpAAEBYOAYIkBKxYIEmKN8gBGCFAKJUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.kuid=kppidff_PQ5ovBN7&aw_0_1st.ksg=[\"vz9c46692\"]&listenerid=c47683ff451bdf8ebe068dea8a897b50&amsparams=playerid:homepage;skey:1760827619",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "44d77486",
+    "name": "1A 2000er Hits",
+    "url": "https://vmg.streamabc.net/117-saw2000er-aacplus-64-6425953?listenerid=418dfa11fd7b3f0a9dff0d19cf4adae1",
+    "tags": []
+  },
+  {
+    "id": "f16f046f",
+    "name": "Radio Brocken",
+    "url": "https://fhhalle.streamabc.net/fhhal-rblive-mp3-256-3654873?sABC=68s4o858%230%23q7s809s74070n543n7p5213q6qr39235%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1760868440",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "73b4674b",
+    "name": "Sunshine Live - 90s Anthems",
+    "url": "https://sunsl.streamabc.net/sunsl-90santhems-mp3-128-6629159?sABC=68s48n99%230%234313or3p195706q13n90589o7061s597%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1760856729",
+    "tags": []
+  },
+  {
+    "id": "bc60eeb2",
+    "name": "104.6 RTL Das Beste der 80er",
+    "url": "https://rtlberlin.streamabc.net/rtlb-rtl80er-mp3-128-8507059?sABC=68s4ns3o%230%23q7s809s74070n543n7p5213q6qr39235%23enqvb-oebjfre.vasb&aw_0_1st.playerid=radio-browser.info&amsparams=playerid:radio-browser.info;skey:1760866107",
+    "tags": []
+  },
+  {
+    "id": "148c228e",
+    "name": "# PartyHits - Dein Musikmix aus Ballermann, Apres Ski, Wiesn, Karneval, Silvesterparty, TOP 100 Party, Malle, Nonstop, DJ LIVE, Abriss, Feier, Bass, Feiermusik, Partymusik, Apres ski Party, Fussball Hits",
+    "url": "https://rautemusik.stream39.radiohost.de/partyhits?ref=radio-browser-ph2&upd-meta&upd-scheme=https&_art=dD0xNzYwODE2MzY1JmQ9Mjg4NDQ5Njg3ZjBlMWJmYzRjZWU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "7e7ec220",
+    "name": "Radio Alpenwelle",
+    "url": "https://live.alpenwelle.de/alpenwelle128.mp3",
+    "tags": []
+  },
+  {
+    "id": "62a08c7f",
+    "name": "98.8 Kiss FM Sextime",
+    "url": "https://topradio.stream01.radiohost.de/kissfm-sextime_mp3-128?agend=true&upd-meta&upd-scheme=http&ref=internetradio&amsparams=internetradio&_art=dD0xNzYwODQ5NjE4JmQ9YjU3NDg5YzNkYTFmZDUwYjFlMzc",
+    "tags": []
+  },
+  {
+    "id": "48400fb4",
+    "name": "80s80s Maxis",
+    "url": "https://regiocast.streamabc.net/regc-80s80smaxis2114493-mp3-192-5359027?sABC=65491rrn%230%232qqpnss01895rqr0s8oq129o03s183o0%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1699290858",
+    "tags": []
+  },
+  {
+    "id": "c0b816b9",
+    "name": "MDR Sachsen-Anhalt",
+    "url": "https://f131.rndfnk.com/ard/mdr/284290/0/mp3/128/stream.mp3?cid=01FBQ0Q6JX2C17DA6VE56VAAEP&sid=34H16RTIZzXcgYJrhaQ7KE0NKzc&token=c7IUSdqIHFm9FuDmBusmI2DKxUyeOjnfjNWNhpqfc60&tvf=PsaxcmbkbxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "d00d887d",
+    "name": "WDR 4",
+    "url": "https://f111.rndfnk.com/ard/wdr/wdr4/live/mp3/128/stream.mp3?cid=01FBS0CPYNPWV23HTXYQE8R7AR&sid=34HEiB2qKL51TB80pU3QEQQYMW5&token=SdmkssmyRTip3PAQde-OG1v5XD6mGqsbfHyhTcW3dNk&tvf=BWGQpoHqbxhmMTExLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "d5814524",
+    "name": "DW TV",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+    "tags": []
+  },
+  {
+    "id": "a5c6752f",
+    "name": "Dark Star FM",
+    "url": "https://darkstarfm.stream.laut.fm/darkstarfm?t302=2025-10-19_10-46-54&uuid=f2be518a-53cd-4655-9bbe-47a4c62d474c",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "6c2a399a",
+    "name": "TechnoBase.FM",
+    "url": "https://listener2.aacl.tb-group.fm:443/tb-low.aac",
+    "tags": []
+  },
+  {
+    "id": "9b297d06",
+    "name": "Radio B2 - Schlagermixx",
+    "url": "https://b2.stream19.radiohost.de/b2-schlagerradio-plus_mp3-192?addradio&upd-meta&upd-scheme=http&_art=dD0xNzYwODYyNzUzJmQ9ODY1YzAwMGYwMTQ0ODdkZTc3NjQ",
+    "tags": []
+  },
+  {
+    "id": "af51ee88",
+    "name": "RTL Radio",
+    "url": "https://rtlberlin.streamabc.net/rtlb-rtldebestehits-mp3-192-2026538?sABC=68s49qp3%230%23q7s809s74070n543n7p5213q6qr39235%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:1760861635",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f8d8e4bd",
+    "name": "- 0 N - Rock on Radio",
+    "url": "https://0n-rock.radionetz.de/0n-rock.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "ed79bca2",
+    "name": " Bremen Zwei NEU",
+    "url": "https://d111.rndfnk.com/ard/rb/bremenzwei/live/mp3/128/stream.mp3?cid=01FC1W5VF6FKTYZ6QVPEDGQZYJ&sid=34GXbJ4NIFdTGrv8GLWN1qHLgvv&token=FVDVlC7Y362b-daLH6nk79iy3uIWmaXkiEmzFU6ry3U&tvf=pU7fMCnXbxhkMTExLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "c5163b88",
+    "name": "NDR 2 (Hamburg)",
+    "url": "https://d141.rndfnk.com/ard/ndr/ndr2/hamburg/mp3/128/stream.mp3?cid=01FBQ2A23ATYRA2F1C2XGRJHNM&sid=34GrSC9QcDzzurVzbw379yQnQU0&token=EAUMqaa3-y7wkolPVbcJMeXFjhjwag9EDV3OsiIIJes&tvf=aNa5zRHgbxhkMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "33b86d69",
+    "name": "Nostalgie - Discofever",
+    "url": "https://streaming.nrjaudio.fm/ouvtknoarp52",
+    "tags": []
+  },
+  {
+    "id": "22ff0ebf",
+    "name": "NDR Schlager (aac)",
+    "url": "https://d131.rndfnk.com/ard/ndr/ndrschlager/live/aac/64/stream.aac?cid=01FHT2AV8CV0BJ9C2Y36JE8P0E&sid=34HS41tYYlFbdv5alxrYtKox7Ly&token=129Kmf_oBTgnw1rDXw6niAT_VoWwvhCXfvwLnghnKE8&tvf=FLnGW3_wbxhkMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "7eed1c90",
+    "name": "Klassik Radio - Smooth",
+    "url": "https://klassikr.streamabc.net/klr-smooth-mp3-128-7968529?sABC=68s4po72%230%23q7s809s74070n543n7p5213q6qr39235%23enqvbfher&aw_0_1st.playerid=radiosure&amsparams=playerid:radiosure;skey:1760873330",
+    "tags": []
+  },
+  {
+    "id": "9d1b8de9",
+    "name": "SWR3 - 96K AAC",
+    "url": "https://f131.rndfnk.com/ard/swr/swr3/live/aac/96/stream.aac?aggregator=web&cid=01FC1X5J7PN2N3YQPZYT8YDM9M&sid=34HWcPEfr21PJpoFPRSi0S1acl7&token=JwAigNevhLusl3PwbIDUwx9tohNWKfAzZROZs87GMwk&tvf=Kgo7u4rybxhmMTMxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "dd82511f",
+    "name": "Sunshine Live - Workout",
+    "url": "https://sunsl.streamabc.net/sunsl-workout-mp3-192-3330865?sABC=5nr16rqq%230%23q40266oo6p321s1695o82262nq851ppo%23Jroenqvb-Cynlre&amsparams=playerid:Webradio-Player;skey:1524723421",
+    "tags": []
+  },
+  {
+    "id": "c8d3b9a6",
+    "name": "NDR 2 - Niedersachsen",
+    "url": "https://d121.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?cid=01FBQ2CWDYWJHGF4QAJ0SVV730&sid=34GzNRpVdPY9d2iCYAKQqNu7yEj&token=7daq9iIGNrfLO5sCxRnWp221-uAH3qo7WqIhhA0YJhU&tvf=ej_uAqDjbxhkMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "3b857b97",
+    "name": "Relaxing Piano",
+    "url": "https://relaxing-piano.stream.laut.fm/relaxing-piano?t302=2025-10-19_07-56-21&uuid=7d86ca24-f93e-472a-8b57-513d10d79bf6",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "fbaa1ab6",
+    "name": "Radio Bob! Livestream Hessen",
+    "url": "https://regiocast.streamabc.net/regc-boblivehessen-mp3-192-4115873?sABC=68s4nsp2%230%23q7s809s74070n543n7p5213q6qr39235%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760866242",
+    "tags": []
+  },
+  {
+    "id": "4b0a181f",
+    "name": "radio eins | rbb | neuer Stream | niedrige Qualität",
+    "url": "https://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=34G4Rrcr1g31Zo4wYOqRjpqjWKc&token=msT2bNsbpBQW70Icu50y8m_4nGwNFEyEF0iG6GIqbhU&tvf=RCmBsBTKbxhkMTIxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "9c523ff2",
+    "name": "Radio Hörspieltalk.de",
+    "url": "https://hoerspieltalk.stream.laut.fm/hoerspieltalk?t302=2025-10-19_09-41-31&uuid=04bee724-b3fa-4a8e-9103-33cef49bef3e",
+    "tags": []
+  },
+  {
+    "id": "e0ebf244",
+    "name": "RADIO BOB! BOBs 90er Rock",
+    "url": "https://regiocast.streamabc.net/regc-radiobob90srock8400272-mp3-192-6033382?sABC=68s4o451%230%234313or3p195706q13n90589o7061s597%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760867409",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "207890be",
+    "name": "SWR 3 (128 kbits mp3)",
+    "url": "https://f111.rndfnk.com/ard/swr/swr3/live/mp3/128/stream.mp3?aggregator=web&cid=01FC1X5J7PN2N3YQPZYT8YDM9M&sid=34GDb3V4CZxyKgbZPiZepLO0J00&token=-03I6xBRQPIRBUcyTOxiCrknBc7__8Pi1H6q6kP_np4&tvf=_skqXC_ObxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "21b4f63a",
+    "name": "RPR1. Apré Ski & Ballermann",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-apresski-mp3-128-5132475?sABC=68s42558%230%234313or3p195706q13n90589o7061s597%23gjy50&aw_0_1st.playerid=twl50&amsparams=playerid:twl50;skey:1760830808",
+    "tags": []
+  },
+  {
+    "id": "0c24daf2",
+    "name": "punkrockers-radio",
+    "url": "https://stream.punkrockers-radio.de:8443/prr.mp3",
+    "tags": []
+  },
+  {
+    "id": "336b8a14",
+    "name": "80s80s In The Mix Low Quality",
+    "url": "https://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713?sABC=68s40o5s%230%23s8389203o94019r3452q8r0757pr757p%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1760824159",
+    "tags": []
+  },
+  {
+    "id": "1164932f",
+    "name": "Hit Radio FFH - Weihnachtsradio",
+    "url": "https://mp3.ffh.de/ffhchannels/hqspezial1.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "59768d16",
+    "name": "Radio Teddy - Kinder Disco",
+    "url": "https://irmedia.streamabc.net/irm-rtkinderdisco-mp3-128-9308364?sABC=68s4p225%231%23cynl.zc3%23jro&aw_0_1st.playerid=web&amsparams=playerid:web;skey:1760870949",
+    "tags": []
+  },
+  {
+    "id": "e086aaa0",
+    "name": "CHOPIN by Epic Piano",
+    "url": "https://0nlineradio.stream13.radiohost.de/piano-chopin?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODMzMjQ1JmQ9MjkxZGQxMGEyMGRjNjJhNjYyNTU",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "e733d77b",
+    "name": "delta radio HIP HOP",
+    "url": "https://deltaradio.streamabc.net/regc-deltaliveshsued-mp3-192-5217032?sABC=68s4o7qn%230%234313or3p195706q13n90589o7061s597%23enqvbfher&aw_0_1st.playerid=radiosure&amsparams=playerid:radiosure;skey:1760868314",
+    "tags": []
+  },
+  {
+    "id": "3250239d",
+    "name": "Radio Köln",
+    "url": "https://radiokoeln--di--nacs-ais-lgc--09--cdn.cast.addradio.de/radiokoeln/live/mp3/high?ar-distributor=f0b2&_art=dj0yJmlwPTE2Mi41NS4xODAuMTU2JmlkPWljc2N4bC1leDJlYXNpbWImdD0xNzYwOTA2NjUyJnM9Nzg2NmYyOWMjNjdiZjM2MTE0NDdjMTI4MWM0M2Y0OWU3MDgyZjc5MGM",
+    "tags": []
+  },
+  {
+    "id": "1f433099",
+    "name": "I love Hardstyle",
+    "url": "https://ilm.stream18.radiohost.de/ilm_ilovehardstyle_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYwODQ5NjE1JmQ9NjUyNjgzOTEzNTJhY2U4ZmM5ZWE",
+    "tags": []
+  },
+  {
+    "id": "3587de33",
+    "name": "Double Bass FM – Viel mehr als nur Mainstream!",
+    "url": "https://double-bass-fm.stream.laut.fm/double-bass-fm",
+    "tags": []
+  },
+  {
+    "id": "4932cb57",
+    "name": "I love Radio Hip Hop",
+    "url": "https://ilm.stream12.radiohost.de/ilm_ilovehiphop_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzYwODM4NjUyJmQ9MzlmODVlMGM5YWVlMmRjODk2YWQ",
+    "tags": []
+  },
+  {
+    "id": "acba027c",
+    "name": "RADIO BOB! BOBs Grunge",
+    "url": "https://regiocast.streamabc.net/regc-radiobobgrunge4112801-mp3-192-5387631?sABC=68s4813o%230%23s8389203o94019r3452q8r0757pr757p%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1760854331",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "06e810ae",
+    "name": "NORA Oldie Stream",
+    "url": "https://regiocast.streamabc.net/regc-noraoldie-mp3-192-4426850?sABC=68s438rp%230%234313or3p195706q13n90589o7061s597%23fgernzf.abenjrofgernzf.qr&aw_0_1st.playerid=streams.norawebstreams.de&amsparams=playerid:streams.norawebstreams.de;skey:1760835820",
+    "tags": []
+  },
+  {
+    "id": "0369b3f6",
+    "name": "juka radio kpop",
+    "url": "https://juka-kpop.stream.laut.fm/juka-kpop?t302=2021-04-01_09-03-35&uuid=6aa06ca0-9a01-407d-91af-155d24c5c405",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "0e77e248",
+    "name": "Sunshine Live - Summer Beats",
+    "url": "https://sunsl.streamabc.net/sunsl-playlist2-mp3-192-4542868?sABC=5nq8747p%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1524135036",
+    "tags": []
+  },
+  {
+    "id": "a6b16273",
+    "name": "Deutschlandfunk Nova | DLF | AAC 192k",
+    "url": "https://d141.rndfnk.com/ard/dlf/03/aac/192/stream.aac?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=34GXbWzaVm5yPAeVOFur9NQ0va0&token=sUtH0p6DCuWE0D-ZuaIHcDFEBCekLpFRBrXyZ0zW9eA&tvf=ox5rpCnXbxhkMTQxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "88332be9",
+    "name": "Radio Fritz",
+    "url": "https://f111.rndfnk.com/ard/rbb/fritz/live/mp3/128/ct/stream.mp3?cid=01FC1WK1H1KDC5EBKW5Z191BW4&sid=34H63Z7dOFe50T1zINF8VWzVm1V&token=Q50ntw180Sv2cV_Xb4FW_ZooI6foZFuVxleqhQ4ZntU&tvf=SNsjaZ_mbxhmMTExLnJuZGZuay5jb20",
+    "tags": [
+      "music",
+      "news"
+    ]
+  },
+  {
+    "id": "9614f063",
+    "name": "Klassik Radio - Lounge Beat",
+    "url": "https://klassikr.streamabc.net/klr-loungebeat-mp3-128-3655846?sABC=68s449p2%230%23q7s809s74070n543n7p5213q6qr39235%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1760840130",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "13ce610f",
+    "name": "90s90s Hits Love Songs",
+    "url": "https://regiocast.streamabc.net/regc-90s90slovesongs4458302-mp3-192-1757165?sABC=68s4513q%230%23q7s809s74070n543n7p5213q6qr39235%23ubzrcntr&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1760842045",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "392c0a1c",
+    "name": "Radio Gong 96.3 München - Live",
+    "url": "https://radiogong--di--nacs-ais-lgc--05--cdn.cast.addradio.de/radiogong/live/mp3/high?_art=dj0yJmlwPTE2Mi41NS4xODAuMTU2JmlkPWljc2N4bC1zM3hkZ3p4bWImdD0xNzYwOTQ0MzA2JnM9Nzg2NmYyOWMjNWYxMDYzZWQ4ODlkYmQ1N2Q2NjM5MmZjZmIxOTQwYWQ",
+    "tags": []
+  },
+  {
+    "id": "c2f311c1",
+    "name": "Sunshine Live - Hands Up",
+    "url": "https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422?sABC=68s44891%230%234313or3p195706q13n90589o7061s597%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1760839825",
+    "tags": []
+  },
+  {
+    "id": "96ba1f76",
+    "name": "Deutschlandfunk Kultur | DLF | AAC 96k",
+    "url": "https://f131.rndfnk.com/ard/dlf/02/aac/96/stream.aac?aggregator=web&cid=01FBPXKD7AYM1NKT2H60NVGHEQ&sid=34Gloiz1vea6wcRGfUarJTcYuyd&token=7ZvIMXfaOCus-cyf8mBRKf_75LqNpcekCWBHTG5SWDQ&tvf=BIQcbYrdbxhmMTMxLnJuZGZuay5jb20",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "cd584c6a",
+    "name": "- 0 N - Jazz on Radio",
+    "url": "https://0n-jazz.radionetz.de/0n-jazz.mp3",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "1b73bfcf",
+    "name": "MDR Jump In The Mix",
+    "url": "https://f121.rndfnk.com/ard/mdr/284321/2/mp3/128/stream.mp3?cid=01FBPZPTSDHMVGBW0PYHQC38EY&sid=34FtFZU9zSEaiEZgCkUppkfaEse&token=n_aWSRYosCx6zlq9Stb8lMILtbfHViQGs3lCXCtjb14&tvf=YiOFRQ7FbxhmMTIxLnJuZGZuay5jb20",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "f5a48649",
+    "name": "Technolovers FUTURE HOUSE",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-future-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzYwODY2MjA5JmQ9MjZhODk5OGEyYzk3ZWM4MDBiMjc",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "aafe9b30",
+    "name": "Antenne Bayern - 90er",
+    "url": "https://s3-webradio.antenne.de/90er-hits.aac",
+    "tags": []
+  },
+  {
+    "id": "e6ce2441",
+    "name": "Hörtalk Hörspiel Radio",
+    "url": "https://hoerspiel.stream.laut.fm/hoerspiel?t302=2025-10-19_01-29-35&uuid=236d2555-56a7-47bd-84f2-118e8c6c3e58",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "95e8a0a5",
+    "name": "Antenne Bayern - 70er Hits",
+    "url": "https://s6-webradio.antenne.de/70er-hits/stream/aacp",
+    "tags": []
+  },
+  {
+    "id": "656408e2",
+    "name": "SWR 2",
+    "url": "https://d141.rndfnk.com/ard/swr/swr2/live/aac/96/stream.aac?aggregator=web&cid=01FC1X4J91VJW1CVH6588MZEE3&sid=34HMJz12G2FJ6qVeHp4AYioLAWd&token=cswzI0JdO0bQa5GJqt_2ebWye42n7SmQ93q94strYWE&tvf=QZifruvtbxhkMTQxLnJuZGZuay5jb20",
+    "tags": []
+  },
+  {
+    "id": "67ad1ebd",
+    "name": "FluxFM - Techno Underground",
+    "url": "https://fluxfm.streamabc.net/flx-technounderground-aacplus-64-7295680?sABC=68s446s0%230%234313or3p195706q13n90589o7061s597%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1760839408",
+    "tags": []
+  },
+  {
+    "id": "0aacc374",
+    "name": "Antenne Bayern Classic Rock Live",
+    "url": "https://s5-webradio.antenne.de/classic-rock-live.aac",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "cc40f971",
+    "name": "i love radio - popstars",
+    "url": "https://ilm.stream18.radiohost.de/ilm_ilovenewpop_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYwODMxMTAxJmQ9ZmU4NTU0MmQ1NTRlOGM2OWQ1ODI",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "id": "60c6f7c9",
+    "name": "- 0 N - Soft Rock on Radio",
+    "url": "https://0n-softrock.radionetz.de/0n-softrock.mp3",
+    "tags": [
+      "music"
+    ]
+  }
+]
